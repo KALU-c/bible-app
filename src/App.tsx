@@ -4,10 +4,12 @@ import Navbar from "./shared/navbar/navbar";
 
 function App() {
   return (
-    <>
+    <main className="font-inter">
       <Navbar />
-      <ModeToggle />
-    </>
+      <div className="p-4">
+        <ModeToggle />
+      </div>
+    </main>
   )
 }
 

@@ -193,11 +193,11 @@ export function SelectBook() {
           variant="outline"
           role="combobox"
           aria-expanded={open}
-          className="w-[200px] justify-between"
+          className="w-[250px] justify-between"
         >
           {value
             ? books.find((framework) => framework.value === value)?.label
-            : "Select framework..."}
+            : "Select book"}
           <ChevronsUpDown className="opacity-50" />
         </Button>
       </PopoverTrigger>
@@ -205,7 +205,7 @@ export function SelectBook() {
         <Command>
           <CommandInput placeholder="Search framework..." />
           <CommandList>
-            <CommandEmpty>No framework found.</CommandEmpty>
+            <CommandEmpty>No book found.</CommandEmpty>
             <CommandGroup>
               {books.map((framework) => (
                 <CommandItem

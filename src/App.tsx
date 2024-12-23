@@ -1,5 +1,7 @@
 import "./App.css";
 import { ModeToggle } from "./global/mode-toggle";
+import NextChapterButton from "./global/next-chapter-button";
+import PreviousChapterButton from "./global/previous-chapter-button";
 import Navbar from "./shared/navbar/navbar";
 
 function App() {
@@ -9,6 +11,8 @@ function App() {
       <div className="p-4">
         <ModeToggle />
       </div>
+      <NextChapterButton />
+      <PreviousChapterButton />
     </main>
   )
 }

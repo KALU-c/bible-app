@@ -54,7 +54,7 @@ export function SelectVersion() {
           variant="outline"
           role="combobox"
           aria-expanded={open}
-          className="justify-between w-[400px]"
+          className="justify-between lg:w-[400px] sm:w-[250px]"
         >
           {value
             ? bibleVersions.find((framework) => framework.value === value)?.label

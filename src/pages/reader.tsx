@@ -15,14 +15,14 @@ const Reader = () => {
   const book = getBookByChapter("genesis", 50);
 
   return (
-    <div className="mx-96 py-4">
+    <div className="xl:mx-96 md:mx-16 sm:mx-4 mx-2 py-4">
       <h1 className="text-center text-base mb-8 font-semibold">GENESIS 50</h1>
       {book.map((verse, index) => (
         <>
           {(verse.type === "paragraph text" || verse.type === "line text") && (
             <span
               key={index}
-              className={`mb-1 cursor-pointer ${isFocused.verse === verse.verseNumber && "border-b border-dotted border-b-black dark:border-b-white"}`}
+              className={`mb-1 text-[17px] cursor-pointer ${isFocused.verse === verse.verseNumber && "border-b border-dotted border-b-black dark:border-b-white"}`}
               onClick={() => setIsFocused({ verse: verse.verseNumber || 0, isFocused: true })}
             >
               <sup

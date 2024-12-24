@@ -193,7 +193,7 @@ export function SelectBook() {
           variant="outline"
           role="combobox"
           aria-expanded={open}
-          className="w-[250px] justify-between"
+          className="lg:w-[250px] sm:w-[150px] justify-between"
         >
           {value
             ? books.find((framework) => framework.value === value)?.label

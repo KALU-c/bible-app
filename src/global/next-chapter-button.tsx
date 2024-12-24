@@ -4,7 +4,7 @@ import { ChevronRight } from "lucide-react"
 const NextChapterButton = () => {
   return (
     <Button
-      className="rounded-full p-2.5 fixed top-[50%] right-10"
+      className="rounded-full p-2.5 fixed md:top-[50%] bottom-4 right-10"
       variant="secondary"
     >
       <ChevronRight />

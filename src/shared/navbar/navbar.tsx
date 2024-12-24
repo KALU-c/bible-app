@@ -4,6 +4,7 @@ import ParallelToggle from "./parallel-toggle"
 import PlaySound from "./play-sound"
 import { SelectBook } from "./select-book"
 import { SelectVersion } from "./select-version"
+import MoreButton from "./more-button"
 
 const Navbar = () => {
   return (
@@ -20,6 +21,7 @@ const Navbar = () => {
         <PlaySound />
         <ChangeFont />
         <ParallelToggle />
+        <MoreButton />
       </div>
     </nav>
   )

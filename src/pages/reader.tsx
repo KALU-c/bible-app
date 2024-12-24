@@ -1,4 +1,5 @@
 import { getBookByChapter } from "@/assets/book/old"
+import { useSidebar } from "@/components/ui/sidebar"
 import { useState } from "react"
 
 type VerseFocusType = {
@@ -7,6 +8,7 @@ type VerseFocusType = {
 }
 
 const Reader = () => {
+  const { open } = useSidebar();
   const [isFocused, setIsFocused] = useState<VerseFocusType>({
     verse: 0,
     isFocused: false
@@ -15,7 +17,10 @@ const Reader = () => {
   const book = getBookByChapter("genesis", 50);
 
   return (
-    <div className="xl:mx-96 md:mx-16 sm:mx-4 mx-2 py-4">
+    <div
+      className="xl:mx-96 md:mx-16 sm:mx-4 mx-2 py-4"
+      style={open ? { marginLeft: 200 } : { marginLeft: 384 }}
+    >
       <h1 className="text-center text-base mb-8 font-semibold">GENESIS 50</h1>
       {book.map((verse, index) => (
         <>

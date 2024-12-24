@@ -5,11 +5,13 @@ import PlaySound from "./play-sound"
 import { SelectBook } from "./select-book"
 import { SelectVersion } from "./select-version"
 import MoreButton from "./more-button"
+import { SidebarTrigger } from "@/components/ui/sidebar"
 
 const Navbar = () => {
   return (
     <nav className="flex justify-between items-center p-2 border-b">
-      <div className="flex gap-4">
+      <div className="flex gap-4 items-center">
+        <SidebarTrigger />
         {/* select books */}
         <SelectBook />
         {/* select versions */}

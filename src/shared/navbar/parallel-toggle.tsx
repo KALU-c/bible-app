@@ -7,7 +7,7 @@ const ParallelToggle = () => {
 
   return (
     <Button
-      className='h-7 w-7'
+      className='h-8 w-8'
       variant={isParallel ? "secondary" : "ghost"}
       // TODO - make it functional
       onClick={() => setParallel(!isParallel)}

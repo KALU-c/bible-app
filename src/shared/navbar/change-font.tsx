@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { CaseSensitive } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import {
   DropdownMenu,
@@ -16,10 +15,10 @@ const ChangeFont = () => {
   const [fontFamily, setFontFamily] = useState<FontFamilyType>("Inter");
 
   return (
-    <DropdownMenu>
+    <DropdownMenu modal={false}>
       <DropdownMenuTrigger asChild>
-        <Button className="w-7 h-7" variant="outline">
-          <CaseSensitive />
+        <Button className="w-8 h-8" variant="ghost">
+          aA
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent className="p-0">

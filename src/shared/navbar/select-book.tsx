@@ -203,7 +203,7 @@ export function SelectBook() {
       </PopoverTrigger>
       <PopoverContent className="w-[200px] p-0">
         <Command>
-          <CommandInput placeholder="Search framework..." />
+          <CommandInput placeholder="Search book..." />
           <CommandList>
             <CommandEmpty>No book found.</CommandEmpty>
             <CommandGroup>

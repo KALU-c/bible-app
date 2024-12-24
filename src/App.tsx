@@ -1,7 +1,7 @@
 import "./App.css";
-import { ModeToggle } from "./global/mode-toggle";
 import NextChapterButton from "./global/next-chapter-button";
 import PreviousChapterButton from "./global/previous-chapter-button";
+import Reader from "./pages/reader";
 import Navbar from "./shared/navbar/navbar";
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     <main className="font-inter">
       <Navbar />
       <div className="p-4">
-        <ModeToggle />
+        <Reader />
       </div>
       <NextChapterButton />
       <PreviousChapterButton />

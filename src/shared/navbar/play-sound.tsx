@@ -3,7 +3,7 @@ import { Volume2 } from 'lucide-react'
 
 const PlaySound = () => {
   return (
-    <Button className="w-7 h-7" variant="ghost">
+    <Button className="w-8 h-8" variant="ghost">
       <Volume2 />
     </Button>
   )

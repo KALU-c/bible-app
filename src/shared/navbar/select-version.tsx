@@ -64,7 +64,7 @@ export function SelectVersion() {
       </PopoverTrigger>
       <PopoverContent className="w-[--radix-popover-trigger-width] max-h-[--radix-popover-content-available-height] p-0">
         <Command>
-          <CommandInput placeholder="Search framework..." />
+          <CommandInput placeholder="Search bible version..." />
           <CommandList>
             <CommandEmpty>No bible version found.</CommandEmpty>
             <CommandGroup>

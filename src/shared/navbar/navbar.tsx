@@ -1,3 +1,4 @@
+import ModeToggleQuick from "@/global/mode-toggle-two"
 import ChangeFont from "./change-font"
 import ParallelToggle from "./parallel-toggle"
 import PlaySound from "./play-sound"
@@ -14,7 +15,8 @@ const Navbar = () => {
         <SelectVersion />
       </div>
       {/* right sidebar tools */}
-      <div className="flex gap-3 items-center">
+      <div className="flex gap-1 items-center">
+        <ModeToggleQuick />
         <PlaySound />
         <ChangeFont />
         <ParallelToggle />

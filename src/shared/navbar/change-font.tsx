@@ -7,8 +7,8 @@ import {
   DropdownMenuTrigger
 } from "@/components/ui/dropdown-menu"
 
-type FontSizeType = "small" | "medium" | "large";
-type FontFamilyType = "Inter" | "Source Serif Pro";
+export type FontSizeType = "small" | "medium" | "large";
+export type FontFamilyType = "Inter" | "Source Serif Pro";
 
 const ChangeFont = () => {
   const [fontSize, setFontSize] = useState<FontSizeType>("medium");

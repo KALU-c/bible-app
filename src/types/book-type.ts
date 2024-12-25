@@ -1,6 +1,6 @@
-export type BookType = {
-  oldTestament:
-  | "genesis"
+export type BookTestamentType = "newTestament" | "oldTestament"
+
+export type BookType = "genesis"
   | "exodus"
   | "leviticus"
   | "numbers"
@@ -38,8 +38,7 @@ export type BookType = {
   | "zephaniah"
   | "haggai"
   | "zechariah"
-  | "malachi";
-  newTestament:
+  | "malachi"
   | "matthew"
   | "mark"
   | "luke"
@@ -67,4 +66,4 @@ export type BookType = {
   | "3 john"
   | "jude"
   | "revelation";
-};
+

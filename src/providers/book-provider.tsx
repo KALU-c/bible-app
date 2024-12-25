@@ -11,7 +11,7 @@ type BookProviderProps = {
   children: React.ReactNode
 }
 
-type IsParallelType = "single" | "double"
+export type IsParallelType = "single" | "double"
 
 type BookProviderState = {
   book: BookType

@@ -1,12 +1,7 @@
 import { getBookByChapter } from "@/assets/book/old"
-import { Button } from "@/components/ui/button"
-import { Label } from "@/components/ui/label"
-import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover"
-import { Separator } from "@/components/ui/separator"
 import VersePopover from "@/components/verse/verse-popover"
 import { useBookSetting } from "@/providers/book-provider"
 import { VerseFocusType, VerseHighlightColor, VerseType } from "@/types/verse-type"
-import { CircleSlash2, Copy, Forward } from "lucide-react"
 import { useState } from "react"
 
 
@@ -16,7 +11,7 @@ const Reader = () => {
   const [isVerseFocused, setIsVerseFocused] = useState<VerseFocusType[]>([]);
   const [highlightColor, setHighlightColor] = useState<VerseHighlightColor[]>([]);
 
-  const book = getBookByChapter("genesis", 50);
+  const book1 = getBookByChapter("genesis", 50);
 
   // TODO - make it work
   function handleClick(verse: VerseType) {
@@ -41,7 +36,7 @@ const Reader = () => {
     >
       <div>
         <h1 className="text-center text-base mb-8 font-semibold">GENESIS 50</h1>
-        {book.map((verse, index) => (
+        {book1.map((verse, index) => (
           <>
             {(verse.type === "paragraph text" || verse.type === "line text") && (
               <VersePopover
@@ -95,7 +90,7 @@ const Reader = () => {
         ))}
       </div>
 
-      <div>
+      {/* <div>
         <h1 className="text-center text-base mb-8 font-semibold">GENESIS 50</h1>
         {book.map((verse, index) => (
           <>
@@ -194,7 +189,7 @@ const Reader = () => {
             )}
           </>
         ))}
-      </div>
+      </div> */}
     </div>
   )
 }

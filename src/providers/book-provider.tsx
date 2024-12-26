@@ -1,5 +1,5 @@
 import { FontFamilyType, FontSizeType } from "@/shared/navbar/change-font";
-import { BookType } from "@/types/book-type"
+import { LocalStorageBookObject } from "@/types/book-type"
 import { createContext, useContext, useState } from "react";
 
 const BOOK_STORAGE_KEY = "current-book"
@@ -14,8 +14,8 @@ type BookProviderProps = {
 export type IsParallelType = "single" | "double"
 
 type BookProviderState = {
-  book: BookType
-  setBook: (book: BookType) => void
+  book: LocalStorageBookObject
+  setBook: (book: LocalStorageBookObject) => void
   isParallel: IsParallelType
   toggleParallel: (isParallel: IsParallelType) => void
   fontSize: FontSizeType
@@ -25,7 +25,16 @@ type BookProviderState = {
 }
 
 const initialState: BookProviderState = {
-  book: "genesis",
+  book: {
+    book1: "genesis",
+    book1Chapter: 1,
+    book1Version: "ASV", // TODO - change this to correct version
+    book1HighlightedVerses: [],
+    book2: undefined,
+    book2Chapter: undefined,
+    book2Version: undefined,
+    book2HighlightedVerses: []
+  },
   setBook: () => null,
   isParallel: "single",
   toggleParallel: () => null,
@@ -41,8 +50,10 @@ export const BookProvider = ({
   children,
   ...props
 }: BookProviderProps) => {
-  const [book, setBook] = useState<BookType>(
-    () => (localStorage.getItem(BOOK_STORAGE_KEY) as BookType) || "genesis"
+  const localBook = (localStorage.getItem(BOOK_STORAGE_KEY));
+  const parsedBook = localBook ? JSON.parse(localBook) : "";
+  const [book, setBook] = useState<LocalStorageBookObject>(
+    () => (parsedBook as LocalStorageBookObject) || initialState.book
   )
   const [fontSize, setFontSize] = useState<FontSizeType>(
     () => (localStorage.getItem(FONT_SIZE_STORAGE_KEY) as FontSizeType) || "medium"
@@ -56,8 +67,8 @@ export const BookProvider = ({
 
   const value = {
     book,
-    setBook: (book: BookType) => {
-      localStorage.setItem(BOOK_STORAGE_KEY, book)
+    setBook: (book: LocalStorageBookObject) => {
+      localStorage.setItem(BOOK_STORAGE_KEY, JSON.stringify(book))
       setBook(book)
     },
     fontSize,

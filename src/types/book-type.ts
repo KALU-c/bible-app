@@ -1,4 +1,17 @@
+import { VerseHighlightColor } from "./verse-type"
+
 export type BookTestamentType = "newTestament" | "oldTestament"
+
+export type LocalStorageBookObject = {
+  book1: BookType
+  book1Chapter: number
+  book1Version: string // TODO - create a type for version type
+  book1HighlightedVerses?: VerseHighlightColor[]
+  book2?: BookType
+  book2Chapter?: number
+  book2Version?: string // TODO - create a type for version type
+  book2HighlightedVerses?: VerseHighlightColor[]
+}
 
 export type BookType = "genesis"
   | "exodus"

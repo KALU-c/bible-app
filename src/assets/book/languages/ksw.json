@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2467,
+          "abbreviation": "KSWC",
+          "local_abbreviation": "KSWC",
+          "title": "Sgaw Karen Common Bible",
+          "local_title": "Sgaw Karen Common Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ksw",
+            "name": "Karen, S’gaw (S'gaw Karen)",
+            "local_name": "ကညီကျိာ်",
+            "text_direction": "ltr",
+            "language_tag": "ksw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 94,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 2469,
+          "abbreviation": "KSWM",
+          "local_abbreviation": "KSWM",
+          "title": "Sgaw Mason Bible",
+          "local_title": "Sgaw Mason Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ksw",
+            "name": "Karen, S’gaw (S'gaw Karen)",
+            "local_name": "ကညီကျိာ်",
+            "text_direction": "ltr",
+            "language_tag": "ksw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

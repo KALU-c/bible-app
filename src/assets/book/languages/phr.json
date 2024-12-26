@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3083,
+          "abbreviation": "phr",
+          "local_abbreviation": "phr",
+          "title": "Mirpuri-Pahari Bible",
+          "local_title": "Mirpuri-Pahari Bible",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "phr",
+            "name": "Pahari-Potwari",
+            "local_name": "Pahari-Potwari",
+            "text_direction": "rtl",
+            "language_tag": "phr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

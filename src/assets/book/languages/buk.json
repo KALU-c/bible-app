@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1039,
+          "abbreviation": "buk",
+          "local_abbreviation": "buk",
+          "title": "Bugawac",
+          "local_title": "Anötö ndê Yom Lêŋsêm Wakuc",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "buk",
+            "name": "Bugawac",
+            "local_name": "Bugawac",
+            "text_direction": "ltr",
+            "language_tag": "buk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 207,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 18,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

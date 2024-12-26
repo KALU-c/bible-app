@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2969,
+          "abbreviation": "ABGS",
+          "local_abbreviation": "ABGS",
+          "title": "CANON BIBLIA SEPT",
+          "local_title": "Biblia SEPT",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "gl",
+            "iso_639_3": "glg",
+            "name": "Galician",
+            "local_name": "Galego",
+            "text_direction": "ltr",
+            "language_tag": "glg",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 830,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1811,
+          "abbreviation": "KISHNT05",
+          "local_abbreviation": "KISHNT05",
+          "title": "Kishambala New Testament 2005",
+          "local_title": "Kishambala New Testament 2005",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ksb",
+            "name": "Shambala",
+            "local_name": "Kishambala",
+            "text_direction": "ltr",
+            "language_tag": "ksb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 268,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

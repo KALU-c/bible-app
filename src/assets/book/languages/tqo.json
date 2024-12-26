@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3653,
+          "abbreviation": "TQO1983",
+          "local_abbreviation": "TQO1983",
+          "title": "Toaripi New Testament 1983 (PNG)",
+          "local_title": "Testamenta Áre 1983 (Toaripi PNG)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tqo",
+            "name": "Toaripi",
+            "local_name": "Toaripi",
+            "text_direction": "ltr",
+            "language_tag": "tqo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3396,
+          "abbreviation": "kaj",
+          "local_abbreviation": "kaj",
+          "title": "Jju New Testament",
+          "local_title": "Jju",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kaj",
+            "name": "Jju",
+            "local_name": "Jju",
+            "text_direction": "ltr",
+            "language_tag": "kaj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 809,
+          "abbreviation": "BACIB",
+          "local_abbreviation": "BACIB",
+          "title": "কিতাবুল মোকাদ্দস",
+          "local_title": "কিতাবুল মোকাদ্দস",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "bn",
+            "iso_639_3": "ben",
+            "name": "Bengali (Bangla)",
+            "local_name": "বাংলা",
+            "text_direction": "ltr",
+            "language_tag": "ben",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 183,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 2412,
+          "abbreviation": "BCV",
+          "local_abbreviation": "BCV",
+          "title": "Bengali Contemporary Version 2019 (Updated 2021)",
+          "local_title": "বাংলা সমকালীন সংস্করণ",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "bn",
+            "iso_639_3": "ben",
+            "name": "Bengali (Bangla)",
+            "local_name": "বাংলা",
+            "text_direction": "ltr",
+            "language_tag": "ben",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 3014,
+          "abbreviation": "BEN1882R",
+          "local_abbreviation": "BEN1882R",
+          "title": "Gospel of Mark 1882 (Romanised Bengali)",
+          "local_title": "Márk-Likhita Susamácár 1882 (Romanised Bengali)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "bn",
+            "iso_639_3": "ben",
+            "name": "Bengali (Bangla)",
+            "local_name": "বাংলা",
+            "text_direction": "ltr",
+            "language_tag": "ben",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        },
+        {
+          "id": 3015,
+          "abbreviation": "BEN1921R",
+          "local_abbreviation": "BEN1921R",
+          "title": "Gospel of Luke 1921 (Bengali in Simplified Phonetic script)",
+          "local_title": "luker lekha ʃuʃomacar 1921 (Colloquial Bengali in Simplified Phonetics)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "bn",
+            "iso_639_3": "ben",
+            "name": "Bengali (Bangla)",
+            "local_name": "বাংলা",
+            "text_direction": "ltr",
+            "language_tag": "ben",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        },
+        {
+          "id": 1690,
+          "abbreviation": "BENGALCL-BSI",
+          "local_abbreviation": "BENGALCL-BSI",
+          "title": "Bengali Common Language Bible (BSI)",
+          "local_title": "পবিএ বাইবেল CL Bible (BSI)",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "bn",
+            "iso_639_3": "ben",
+            "name": "Bengali (Bangla)",
+            "local_name": "বাংলা",
+            "text_direction": "ltr",
+            "language_tag": "ben",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 1681,
+          "abbreviation": "BENGALI-BSI",
+          "local_abbreviation": "BENGALI-BSI",
+          "title": "Bengali Old Version Bible (BSI)",
+          "local_title": "পবিত্র বাইবেল O.V. (BSI)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "bn",
+            "iso_639_3": "ben",
+            "name": "Bengali (Bangla)",
+            "local_name": "বাংলা",
+            "text_direction": "ltr",
+            "language_tag": "ben",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 3150,
+          "abbreviation": "BERV",
+          "local_abbreviation": "BERV",
+          "title": "Holy Bible: Easy-to-Read Version",
+          "local_title": "পবিত্র বাইবেল",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "bn",
+            "iso_639_3": "ben",
+            "name": "Bengali (Bangla)",
+            "local_name": "বাংলা",
+            "text_direction": "ltr",
+            "language_tag": "ben",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 1883,
+          "abbreviation": "IRVBen",
+          "local_abbreviation": "IRVBen",
+          "title": "Indian Revised Version (IRV) Bengali",
+          "local_title": "ইন্ডিয়ান রিভাইজড ভার্সন (IRV) - বেঙ্গলী",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "bn",
+            "iso_639_3": "ben",
+            "name": "Bengali (Bangla)",
+            "local_name": "বাংলা",
+            "text_direction": "ltr",
+            "language_tag": "ben",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 424,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 95,
+          "abbreviation": "MBCL",
+          "local_abbreviation": "MBCL",
+          "title": "Mussulmani-Bangla, Kitabul Mukkados",
+          "local_title": "Kitabul Mukkadas",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "bn",
+            "iso_639_3": "ben",
+            "name": "Bengali (Bangla)",
+            "local_name": "বাংলা",
+            "text_direction": "ltr",
+            "language_tag": "ben",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 272,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 19,
+          "vrs": "eng"
+        },
+        {
+          "id": 155,
+          "abbreviation": "SBCL",
+          "local_abbreviation": "SBCL",
+          "title": "Standard Bangla Common Language",
+          "local_title": "Pobitro Baibel",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "bn",
+            "iso_639_3": "ben",
+            "name": "Bengali (Bangla)",
+            "local_name": "বাংলা",
+            "text_direction": "ltr",
+            "language_tag": "ben",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 272,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        },
+        {
+          "id": 1791,
+          "abbreviation": "ROVU",
+          "local_abbreviation": "বিবিএস",
+          "title": "Revised Old Version Unicode",
+          "local_title": "পবিত্র বাইবেল (কেরী ভার্সন)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "bn",
+            "iso_639_3": "ben",
+            "name": "Bengali (Bangla)",
+            "local_name": "বাংলা",
+            "text_direction": "ltr",
+            "language_tag": "ben",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 272,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 3824,
+          "abbreviation": "ROVG",
+          "local_abbreviation": "বিবিএস-গসপেল",
+          "title": "Revised Old Version (Gospels)",
+          "local_title": "পবিত্র বাইবেল গসপেল (কেরী ভার্সন)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "bn",
+            "iso_639_3": "ben",
+            "name": "Bengali (Bangla)",
+            "local_name": "বাংলা",
+            "text_direction": "ltr",
+            "language_tag": "ben",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 272,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 12,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

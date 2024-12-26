@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1651,
+          "abbreviation": "ARL1912",
+          "local_abbreviation": "ARL1912",
+          "title": "Romani Arlija Gospel of Luke 1912 (Bulgaria)",
+          "local_title": "E devléskoro sfjato lil e Ísus-Xristóskoro džiipé thai meribé e sfjatoné Lukéstar 1912 (Arlija Balkan Romani - Bulharsko)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmn",
+            "name": "Romani: Gurbeti Arlija",
+            "local_name": "Romani: Gurbeti Arlija",
+            "text_direction": "ltr",
+            "language_tag": "rmn_arl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": null
+        },
+        {
+          "id": 1652,
+          "abbreviation": "GURB1938",
+          "local_abbreviation": "GURB1938",
+          "title": "Balkan Romani Gospel of Luke 1938 (Gurbet)",
+          "local_title": "O Devlikano lil e Sumnale Lukahtar 1938 (Gurbet)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmn",
+            "name": "Romani: Gurbeti Arlija",
+            "local_name": "Romani: Gurbeti Arlija",
+            "text_direction": "ltr",
+            "language_tag": "rmn_arl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": null
+        },
+        {
+          "id": 1560,
+          "abbreviation": "SRNT20",
+          "local_abbreviation": "SRNZ20",
+          "title": "Serbian Romani New Testament",
+          "local_title": "Romski prevod Novog zaveta - Srbija",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmn",
+            "name": "Romani: Gurbeti Arlija",
+            "local_name": "Romani: Gurbeti Arlija",
+            "text_direction": "ltr",
+            "language_tag": "rmn_arl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 276,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "rsc"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

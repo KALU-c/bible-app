@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3561,
+          "abbreviation": "TB77",
+          "local_abbreviation": "TB77",
+          "title": "Tedim Bible",
+          "local_title": "Tedim Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ctd",
+            "name": "Tedim Chin",
+            "local_name": "Chin: Tedim",
+            "text_direction": "ltr",
+            "language_tag": "ctd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 94,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 368,
+          "abbreviation": "TDB",
+          "local_abbreviation": "TDB",
+          "title": "Tedim Bible",
+          "local_title": "Tedim Bible",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ctd",
+            "name": "Tedim Chin",
+            "local_name": "Chin: Tedim",
+            "text_direction": "ltr",
+            "language_tag": "ctd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 94,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 20,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3473,
+          "abbreviation": "KOQ",
+          "local_abbreviation": "KOQ",
+          "title": "Kota Kiwoyeti (koq)",
+          "local_title": "Kota Kiwoyeti (koq) NT Portions",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "koq",
+            "name": "Kota (Gabon)",
+            "local_name": "iKota",
+            "text_direction": "ltr",
+            "language_tag": "koq",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 986,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        },
+        {
+          "id": 2696,
+          "abbreviation": "KOQ1938",
+          "local_abbreviation": "KOQ1938",
+          "title": "iKota Gospel of Mark 1938 (Gabon)",
+          "local_title": "Mark añgw’a téndé 1938",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "koq",
+            "name": "Kota (Gabon)",
+            "local_name": "iKota",
+            "text_direction": "ltr",
+            "language_tag": "koq",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

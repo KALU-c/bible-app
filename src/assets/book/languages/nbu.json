@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1874,
+          "abbreviation": "RONGBSI",
+          "local_abbreviation": "RONGBSI",
+          "title": "Rongmei Naga (Revised) Bible (BSI)",
+          "local_title": "NTHANMEI BAIBAL (Revised) (BSI)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nbu",
+            "name": "Rongmei Naga",
+            "local_name": "Rongmei Naga",
+            "text_direction": "ltr",
+            "language_tag": "nbu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

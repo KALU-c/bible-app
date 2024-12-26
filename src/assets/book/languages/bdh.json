@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1563,
+          "abbreviation": "bdh",
+          "local_abbreviation": "bdh",
+          "title": "New Testament+ in the Baka language of South Sudan",
+          "local_title": "Mɨkánda Lorụ ꞌBɨ Lomo Kɨ́ Dosị́ Éyị́ E",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bdh",
+            "name": "Baka (Sudan)",
+            "local_name": "Baka (Sudan)",
+            "text_direction": "ltr",
+            "language_tag": "bdh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

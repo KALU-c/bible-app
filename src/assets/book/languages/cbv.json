@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 777,
+          "abbreviation": "cbv",
+          "local_abbreviation": "cbv",
+          "title": "Cacua NT",
+          "local_title": "Dios ã jáap naáwát tólih",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cbv",
+            "name": "Cacua",
+            "local_name": "Cacua",
+            "text_direction": "ltr",
+            "language_tag": "cbv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

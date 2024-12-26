@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3092,
+          "abbreviation": "ABO",
+          "local_abbreviation": "ABO",
+          "title": "ANEITYUM BIBLE",
+          "local_title": "NISVITAI ITAP ANTAS ANEJOM",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "aty",
+            "name": "Aneityum (Vanuatu)",
+            "local_name": "Anejom̃",
+            "text_direction": "ltr",
+            "language_tag": "aty",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 301,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 2584,
+          "abbreviation": "ATY1863",
+          "local_abbreviation": "ATY1863",
+          "title": "Aneityum Gospels 1863",
+          "local_title": "Intas-Etipup Mat u Iesu Kristo 1863 (Aneityum Gospels)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "aty",
+            "name": "Aneityum (Vanuatu)",
+            "local_name": "Anejom̃",
+            "text_direction": "ltr",
+            "language_tag": "aty",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

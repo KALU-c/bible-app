@@ -1,0 +1,134 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1929,
+          "abbreviation": "BskNT14",
+          "local_abbreviation": "BskNT14",
+          "title": "Bashkir IBT New Testament 2014",
+          "local_title": "Инжил",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "ba",
+            "iso_639_3": "bak",
+            "name": "Bashkir",
+            "local_name": "Башҡортча",
+            "text_direction": "ltr",
+            "language_tag": "bak",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "lxx"
+        },
+        {
+          "id": 3884,
+          "abbreviation": "BAK2023",
+          "local_abbreviation": "БашИЯ2023",
+          "title": "Bashkir Bible",
+          "local_title": "Изге Яҙма",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ba",
+            "iso_639_3": "bak",
+            "name": "Bashkir",
+            "local_name": "Башҡортча",
+            "text_direction": "ltr",
+            "language_tag": "bak",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 241,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "rsc"
+        },
+        {
+          "id": 3670,
+          "abbreviation": "BAK2023",
+          "local_abbreviation": "БашИЯ2023",
+          "title": "Bashkir Bible",
+          "local_title": "Изге Яҙма",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ba",
+            "iso_639_3": "bak",
+            "name": "Bashkir",
+            "local_name": "Башҡортча",
+            "text_direction": "ltr",
+            "language_tag": "bak",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 241,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "rsc"
+        },
+        {
+          "id": 2419,
+          "abbreviation": "BOTp",
+          "local_abbreviation": "БВЗ(н)",
+          "title": "Bashkir OT Portion",
+          "local_title": "Башкирский ВЗ (неполный)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ba",
+            "iso_639_3": "bak",
+            "name": "Bashkir",
+            "local_name": "Башҡортча",
+            "text_direction": "ltr",
+            "language_tag": "bak",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 241,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 4,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

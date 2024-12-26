@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1744,
+          "abbreviation": "BEK",
+          "local_abbreviation": "BEK",
+          "title": "Genesis, Exodus and the New Testament in the Jur Mödö Language of the Sudan",
+          "local_title": "Buku ꞌba Tisaki ni Tɔdɔ to Lömu Laꞌja ꞌBa Yësu Kurïsïtö Ŋere Ze",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bex",
+            "name": "Jur Modo",
+            "local_name": "Jur Modo",
+            "text_direction": "ltr",
+            "language_tag": "bex",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

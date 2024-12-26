@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2486,
+          "abbreviation": "ZBOTF01",
+          "local_abbreviation": "ZBOTF01",
+          "title": "Zo Bible",
+          "local_title": "Zo Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "zo",
+            "iso_639_3": "zom",
+            "name": "Zou",
+            "local_name": "Zo",
+            "text_direction": "ltr",
+            "language_tag": "zom",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 94,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 208,
+          "abbreviation": "ZIV",
+          "local_abbreviation": "ZIV",
+          "title": "Zokam International Version",
+          "local_title": "Zokam International Version",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "zo",
+            "iso_639_3": "zom",
+            "name": "Zou",
+            "local_name": "Zo",
+            "text_direction": "ltr",
+            "language_tag": "zom",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 313,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 30,
+          "vrs": "eng"
+        },
+        {
+          "id": 1065,
+          "abbreviation": "ZOUBSI",
+          "local_abbreviation": "ZOUBSI",
+          "title": "Zou CL Bible (BSI)",
+          "local_title": "LAISIENGTHOU CL Bible (BSI)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "zo",
+            "iso_639_3": "zom",
+            "name": "Zou",
+            "local_name": "Zo",
+            "text_direction": "ltr",
+            "language_tag": "zom",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

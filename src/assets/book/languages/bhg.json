@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1407,
+          "abbreviation": "bgh",
+          "local_abbreviation": "bhg",
+          "title": "Bindanere NT Portions",
+          "local_title": "Yesu Keriso da Bino Dave",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bhg",
+            "name": "Binandere",
+            "local_name": "Binandere",
+            "text_direction": "ltr",
+            "language_tag": "bhg",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

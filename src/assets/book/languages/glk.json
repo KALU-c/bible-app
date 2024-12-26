@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4076,
+          "abbreviation": "GLKNT",
+          "local_abbreviation": "GLK_NT",
+          "title": "Gilaki New Testament",
+          "local_title": "Gilaki New Testament",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "glk",
+            "name": "Gilaki",
+            "local_name": "گیلکی",
+            "text_direction": "rtl",
+            "language_tag": "glk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 15147,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        },
+        {
+          "id": 1094,
+          "abbreviation": "glk",
+          "local_abbreviation": "گیلکی (رشتی)",
+          "title": "The Holy Bible in Gilaki (Rashti)",
+          "local_title": "کیتاب مقدّس به گیلکی (رشتی)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "glk",
+            "name": "Gilaki",
+            "local_name": "گیلکی",
+            "text_direction": "rtl",
+            "language_tag": "glk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 234,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 30,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

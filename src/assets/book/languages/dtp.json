@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 172,
+          "abbreviation": "TDVR",
+          "local_abbreviation": "BDK",
+          "title": "Today's Dusun Version (Bible)",
+          "local_title": "Buuk Do Kinorohingan",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "dtp",
+            "name": "Kadazan Dusun",
+            "local_name": "Boros Dusun",
+            "text_direction": "ltr",
+            "language_tag": "dtp",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 9,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

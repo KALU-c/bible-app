@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2187,
+          "abbreviation": "ABCEB",
+          "local_abbreviation": "ABCEB",
+          "title": "Cebuano Form-Based Bible (2011)",
+          "local_title": "Ang Biblia, 2011",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ceb",
+            "name": "Cebuano",
+            "local_name": "Cebuano",
+            "text_direction": "ltr",
+            "language_tag": "ceb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 240,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 9,
+          "abbreviation": "CCB",
+          "local_abbreviation": "APD",
+          "title": "Cebuano Contemporary Bible",
+          "local_title": "Ang Pulong sa Dios",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ceb",
+            "name": "Cebuano",
+            "local_name": "Cebuano",
+            "text_direction": "ltr",
+            "language_tag": "ceb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 29,
+          "vrs": "eng"
+        },
+        {
+          "id": 4097,
+          "abbreviation": "CCB",
+          "local_abbreviation": "APSD",
+          "title": "Cebuano Contemporary Bible",
+          "local_title": "Ang Pulong sa Dios",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ceb",
+            "name": "Cebuano",
+            "local_name": "Cebuano",
+            "text_direction": "ltr",
+            "language_tag": "ceb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        },
+        {
+          "id": 2188,
+          "abbreviation": "MBBCEB99",
+          "local_abbreviation": "MBBCEB99",
+          "title": "Cebuano Meaning-Based Bible",
+          "local_title": "Maayong Balita Biblia",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ceb",
+            "name": "Cebuano",
+            "local_name": "Cebuano",
+            "text_direction": "ltr",
+            "language_tag": "ceb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 240,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": null
+        },
+        {
+          "id": 562,
+          "abbreviation": "RCPV",
+          "local_abbreviation": "RCPV",
+          "title": "Revised Bible",
+          "local_title": "Ang Bag-ong Maayong Balita Biblia",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ceb",
+            "name": "Cebuano",
+            "local_name": "Cebuano",
+            "text_direction": "ltr",
+            "language_tag": "ceb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 240,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

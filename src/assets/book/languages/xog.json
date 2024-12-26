@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1256,
+          "abbreviation": "LSB",
+          "local_abbreviation": "Sog",
+          "title": "Lusoga 2014 Catholic Bible",
+          "local_title": "Baibuli Ekibono kya Katonda 2014",
+          "audio": true,
+          "audio_count": 3,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "xog",
+            "name": "Soga",
+            "local_name": "Soga",
+            "text_direction": "ltr",
+            "language_tag": "xog",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 141,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

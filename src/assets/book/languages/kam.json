@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2774,
+          "abbreviation": "KAMBABB",
+          "local_abbreviation": "KAMBA",
+          "title": "KIKAMBA BIBLE CATHOLIC EDITION",
+          "local_title": "YÎ NA MAVUKU MA NDIŨTELOKANONI",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kam",
+            "name": "Kamba (Kenya)",
+            "local_name": "Kamba (Kenya)",
+            "text_direction": "ltr",
+            "language_tag": "kam",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 2773,
+          "abbreviation": "KAMBABB",
+          "local_abbreviation": "KAMBA",
+          "title": "KIKAMBA BIBLE PROTESTANT EDITION",
+          "local_title": "MBIVILIA ŨVOO MŨSEO",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kam",
+            "name": "Kamba (Kenya)",
+            "local_name": "Kamba (Kenya)",
+            "text_direction": "ltr",
+            "language_tag": "kam",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 2772,
+          "abbreviation": "Mbivlia",
+          "local_abbreviation": "Mbivlia",
+          "title": "OLD KAMBA BIBLE",
+          "local_title": "Mbivilia",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kam",
+            "name": "Kamba (Kenya)",
+            "local_name": "Kamba (Kenya)",
+            "text_direction": "ltr",
+            "language_tag": "kam",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2,
+          "abbreviation": "ABA",
+          "local_abbreviation": "ABA",
+          "title": "Bible for All",
+          "local_title": "Bybel vir almal",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "af",
+            "iso_639_3": "afr",
+            "name": "Afrikaans",
+            "local_name": "Afrikaans",
+            "text_direction": "ltr",
+            "language_tag": "afr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 2,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 34,
+          "vrs": "org"
+        },
+        {
+          "id": 3499,
+          "abbreviation": "AFR20",
+          "local_abbreviation": "AFR20",
+          "title": "Die Bybel 2020-vertaling",
+          "local_title": "Die Bybel 2020-vertaling",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "af",
+            "iso_639_3": "afr",
+            "name": "Afrikaans",
+            "local_name": "Afrikaans",
+            "text_direction": "ltr",
+            "language_tag": "afr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 2,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "org"
+        },
+        {
+          "id": 5,
+          "abbreviation": "AFR53",
+          "local_abbreviation": "AFR53",
+          "title": "Afrikaans 1933/1953",
+          "local_title": "Afrikaans 1933/1953",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "af",
+            "iso_639_3": "afr",
+            "name": "Afrikaans",
+            "local_name": "Afrikaans",
+            "text_direction": "ltr",
+            "language_tag": "afr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 2,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 31,
+          "vrs": "org"
+        },
+        {
+          "id": 6,
+          "abbreviation": "AFR83",
+          "local_abbreviation": "AFR83",
+          "title": "Afrikaans 1983",
+          "local_title": "Afrikaans 1983",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "af",
+            "iso_639_3": "afr",
+            "name": "Afrikaans",
+            "local_name": "Afrikaans",
+            "text_direction": "ltr",
+            "language_tag": "afr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 2,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 32,
+          "vrs": "org"
+        },
+        {
+          "id": 3660,
+          "abbreviation": "CAB23",
+          "local_abbreviation": "CAB23",
+          "title": "Contemporary Afrikaans Bible 2023",
+          "local_title": "Contemporary Afrikaans Bible 2023",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "af",
+            "iso_639_3": "afr",
+            "name": "Afrikaans",
+            "local_name": "Afrikaans",
+            "text_direction": "ltr",
+            "language_tag": "afr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 4686,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "eng"
+        },
+        {
+          "id": 50,
+          "abbreviation": "DB",
+          "local_abbreviation": "DB",
+          "title": "Die Boodskap",
+          "local_title": "Die Boodskap",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "af",
+            "iso_639_3": "afr",
+            "name": "Afrikaans",
+            "local_name": "Afrikaans",
+            "text_direction": "ltr",
+            "language_tag": "afr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 133,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 28,
+          "vrs": "org"
+        },
+        {
+          "id": 117,
+          "abbreviation": "NLV",
+          "local_abbreviation": "NLV",
+          "title": "Nuwe Lewende Vertaling",
+          "local_title": "Nuwe Lewende Vertaling",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "af",
+            "iso_639_3": "afr",
+            "name": "Afrikaans",
+            "local_name": "Afrikaans",
+            "text_direction": "ltr",
+            "language_tag": "afr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 133,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 27,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 7,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

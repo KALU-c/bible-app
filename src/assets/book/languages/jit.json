@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3689,
+          "abbreviation": "jit",
+          "local_abbreviation": "jit",
+          "title": "Jita New Testament",
+          "local_title": "Indagano Inyaaya mu-Chijita",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "jit",
+            "name": "Jita",
+            "local_name": "Jita",
+            "text_direction": "ltr",
+            "language_tag": "jit",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 2238,
+          "abbreviation": "KIJ1960",
+          "local_abbreviation": "KIJ1960",
+          "title": "The New Testament in Kijita, (Kikara and Kiruri) 1960",
+          "local_title": "INDAGANO INYA:YA",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "jit",
+            "name": "Jita",
+            "local_name": "Jita",
+            "text_direction": "ltr",
+            "language_tag": "jit",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 268,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

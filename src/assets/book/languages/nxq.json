@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2797,
+          "abbreviation": "NXQ9132",
+          "local_abbreviation": "NXQ1932",
+          "title": "Naxi (Na-Hsi) Gospel of Mark 1932 (Fraser script)",
+          "local_title": "ꓟ˗ꓘꓳ ꓕꓰ˗ꓷ 1932",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nxq",
+            "name": "纳西",
+            "local_name": "Naxi",
+            "text_direction": "ltr",
+            "language_tag": "nxq",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

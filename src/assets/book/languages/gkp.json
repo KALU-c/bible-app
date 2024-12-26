@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1393,
+          "abbreviation": "BKPDCG",
+          "local_abbreviation": "BKPDCG",
+          "title": "La Bible en Kpèlèè (dc)",
+          "local_title": "Yálá laawoo hɛɓɛ (dc)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gkp",
+            "name": "Guinea Kpelle",
+            "local_name": "Kpèlèè",
+            "text_direction": "ltr",
+            "language_tag": "gkp",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 252,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "org"
+        },
+        {
+          "id": 1395,
+          "abbreviation": "BKPG",
+          "local_abbreviation": "BKPG",
+          "title": "La Bible en Kpèlèè",
+          "local_title": "Yálá laawoo hɛɓɛ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gkp",
+            "name": "Guinea Kpelle",
+            "local_name": "Kpèlèè",
+            "text_direction": "ltr",
+            "language_tag": "gkp",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 252,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "org"
+        },
+        {
+          "id": 500,
+          "abbreviation": "KWB",
+          "local_abbreviation": "KWB",
+          "title": "Bible",
+          "local_title": "Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gkp",
+            "name": "Guinea Kpelle",
+            "local_name": "Kpèlèè",
+            "text_direction": "ltr",
+            "language_tag": "gkp",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 153,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

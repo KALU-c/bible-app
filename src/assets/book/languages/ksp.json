@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2818,
+          "abbreviation": "KabbaNT",
+          "local_abbreviation": "KabbaDkS",
+          "title": "New Testament: the Word that gives Life",
+          "local_title": "Dɔnɔn kə̂ Siki: Tar kə̂ aw arə təbbə",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ksp",
+            "name": "Kaba",
+            "local_name": "Kabba",
+            "text_direction": "ltr",
+            "language_tag": "ksp",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "lxx"
+        },
+        {
+          "id": 1485,
+          "abbreviation": "kspDBL",
+          "local_abbreviation": "kspDBL",
+          "title": "ksp Bible in Kaba",
+          "local_title": "Maketuru le Lubba ke tar kabba",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ksp",
+            "name": "Kaba",
+            "local_name": "Kabba",
+            "text_direction": "ltr",
+            "language_tag": "ksp",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

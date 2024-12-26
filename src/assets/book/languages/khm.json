@@ -1,0 +1,194 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2287,
+          "abbreviation": "GKHB",
+          "local_abbreviation": "GKHB",
+          "title": "Global Khmer Bible",
+          "local_title": "ព្រះគម្ពីរខ្មែរសាកល",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "km",
+            "iso_639_3": "khm",
+            "name": "Khmer",
+            "local_name": "ភាសាខ្មែរ",
+            "text_direction": "ltr",
+            "language_tag": "khm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 251,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        },
+        {
+          "id": 315,
+          "abbreviation": "KCB",
+          "local_abbreviation": "KCB",
+          "title": "Khmer Christian Bible",
+          "local_title": "Khmer Christian Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "km",
+            "iso_639_3": "khm",
+            "name": "Khmer",
+            "local_name": "ភាសាខ្មែរ",
+            "text_direction": "ltr",
+            "language_tag": "khm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 86,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        },
+        {
+          "id": 2227,
+          "abbreviation": "RKOV16",
+          "local_abbreviation": "គកស១៦",
+          "title": "Revised Khmer Old Version 2016",
+          "local_title": "ព្រះគម្ពីរបរិសុទ្ធកែសម្រួល ២០១៦",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "km",
+            "iso_639_3": "khm",
+            "name": "Khmer",
+            "local_name": "ភាសាខ្មែរ",
+            "text_direction": "ltr",
+            "language_tag": "khm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 235,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 85,
+          "abbreviation": "KHSV05",
+          "local_abbreviation": "គខប",
+          "title": "Khmer Standard Version 2005",
+          "local_title": "ព្រះគម្ពីរភាសាខ្មែរបច្ចុប្បន្ន ២០០៥",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "km",
+            "iso_639_3": "khm",
+            "name": "Khmer",
+            "local_name": "ភាសាខ្មែរ",
+            "text_direction": "ltr",
+            "language_tag": "khm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 34,
+          "vrs": "eng"
+        },
+        {
+          "id": 1270,
+          "abbreviation": "KHB54",
+          "local_abbreviation": "ពគប",
+          "title": "Khmer Old Version 1954, 1962",
+          "local_title": "ព្រះគម្ពីរបរិសុទ្ធ ១៩៥៤",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "km",
+            "iso_639_3": "khm",
+            "name": "Khmer",
+            "local_name": "ភាសាខ្មែរ",
+            "text_direction": "ltr",
+            "language_tag": "khm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 235,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        },
+        {
+          "id": 2224,
+          "abbreviation": "KTV14",
+          "local_abbreviation": "អគត",
+          "title": "Khmer Tazi Veresion 2014",
+          "local_title": "អាល់គីតាប",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "km",
+            "iso_639_3": "khm",
+            "name": "Khmer",
+            "local_name": "ភាសាខ្មែរ",
+            "text_direction": "ltr",
+            "language_tag": "khm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 6,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

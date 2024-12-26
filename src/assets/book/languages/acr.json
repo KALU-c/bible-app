@@ -1,0 +1,134 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3247,
+          "abbreviation": "ACHICUB",
+          "local_abbreviation": "ACHICUB",
+          "title": "Achi de Cubulco 2019",
+          "local_title": "Wuj Pa K'ubultzij",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "acr",
+            "name": "Achi",
+            "local_name": "Achi'",
+            "text_direction": "ltr",
+            "language_tag": "acr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 152,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 3,
+          "abbreviation": "acr",
+          "local_abbreviation": "acrC",
+          "title": "Achi de Cubulco NT",
+          "local_title": "I ʼUtz Laj Tzij Re I Dios",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "acr",
+            "name": "Achi",
+            "local_name": "Achi'",
+            "text_direction": "ltr",
+            "language_tag": "acr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 37,
+          "vrs": "eng"
+        },
+        {
+          "id": 517,
+          "abbreviation": "acrN",
+          "local_abbreviation": "acrN",
+          "title": "Achi Rabinal",
+          "local_title": "Ri utzilaj tzij re ri kanimajawal Jesucristo",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "acr",
+            "name": "Achi",
+            "local_name": "Achi'",
+            "text_direction": "ltr",
+            "language_tag": "acr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 18,
+          "vrs": "eng"
+        },
+        {
+          "id": 513,
+          "abbreviation": "acr",
+          "local_abbreviation": "acrT",
+          "title": "Achi Rabinal",
+          "local_title": "Ri Utzilaj Tzij re ri Kanimajawal Jesucristo",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "acr",
+            "name": "Achi",
+            "local_name": "Achi'",
+            "text_direction": "ltr",
+            "language_tag": "acr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 4,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

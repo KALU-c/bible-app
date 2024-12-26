@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 359,
+          "abbreviation": "GYOB",
+          "local_abbreviation": "GYOB",
+          "title": "New Testament",
+          "local_title": "Tüpä Ñe'ëngagwer",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gyr",
+            "name": "Guarayu",
+            "local_name": "Guarayu",
+            "text_direction": "ltr",
+            "language_tag": "gyr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 72,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 23,
+          "vrs": "eng"
+        },
+        {
+          "id": 224,
+          "abbreviation": "GYOB0253",
+          "local_abbreviation": "GYOB0253",
+          "title": "Tüpä Ñe'ëngagwer",
+          "local_title": "Tüpä Ñe'ëngagwer",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gyr",
+            "name": "Guarayu",
+            "local_name": "Guarayu",
+            "text_direction": "ltr",
+            "language_tag": "gyr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 72,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 26,
+          "vrs": "eng"
+        },
+        {
+          "id": 609,
+          "abbreviation": "gyr",
+          "local_abbreviation": "gyr",
+          "title": "Guarayu NT",
+          "local_title": "Tũpa Ñehengagüer",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gyr",
+            "name": "Guarayu",
+            "local_name": "Guarayu",
+            "text_direction": "ltr",
+            "language_tag": "gyr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

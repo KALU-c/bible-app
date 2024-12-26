@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 433,
+          "abbreviation": "MSKTU",
+          "local_abbreviation": "MSKTU",
+          "title": "Miskitu Bible",
+          "local_title": "DAWAN BÎLA AISKA",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "miq",
+            "name": "Mískito",
+            "local_name": "Miskito",
+            "text_direction": "ltr",
+            "language_tag": "miq",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 77,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 298,
+          "abbreviation": "MSKTU",
+          "local_abbreviation": "MSKTU",
+          "title": "Miskitu Bible",
+          "local_title": "DAWAN BÎLA AISKA",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "miq",
+            "name": "Mískito",
+            "local_name": "Miskito",
+            "text_direction": "ltr",
+            "language_tag": "miq",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 77,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 20,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2728,
+          "abbreviation": "STB",
+          "local_abbreviation": "STB",
+          "title": "Sümi New Generation Bible",
+          "local_title": "Sümi Tiqhelimi Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nsm",
+            "name": "Sumi Naga",
+            "local_name": "Sumi Naga",
+            "text_direction": "ltr",
+            "language_tag": "nsm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 1877,
+          "abbreviation": "SUMIBSI",
+          "local_abbreviation": "SUMIBSI",
+          "title": "Sumi Naga CL Bible (BSI)",
+          "local_title": "BAIBEL (BSI)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nsm",
+            "name": "Sumi Naga",
+            "local_name": "Sumi Naga",
+            "text_direction": "ltr",
+            "language_tag": "nsm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 3664,
+          "abbreviation": "SUMRVBSI",
+          "local_abbreviation": "SUMRVBSI",
+          "title": "Sumi Naga CL (Re-edited) Bible (BSI)",
+          "local_title": "Sumi Naga CL (Re-edited) Bible (BSI)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nsm",
+            "name": "Sumi Naga",
+            "local_name": "Sumi Naga",
+            "text_direction": "ltr",
+            "language_tag": "nsm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

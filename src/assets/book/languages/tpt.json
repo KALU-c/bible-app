@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 709,
+          "abbreviation": "tpt",
+          "local_abbreviation": "tpt",
+          "title": "Tepehua, Tlachichilco",
+          "local_title": "Ixchivinti Dios: ni sastʼi chivinti yu Dios jatʼatamakaul ixlapanakni laka lhimasipijni",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tpt",
+            "name": "Tlachichilco Tepehua",
+            "local_name": "Tlachichilco Tepehua",
+            "text_direction": "ltr",
+            "language_tag": "tpt",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "lxx"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

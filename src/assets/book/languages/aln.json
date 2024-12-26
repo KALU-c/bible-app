@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2966,
+          "abbreviation": "ALGNT",
+          "local_abbreviation": "DHRG",
+          "title": "Albanian Gheg New Testament",
+          "local_title": "Dhiata e Re në Gegnisht",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "aln",
+            "name": "Albanian, Gheg",
+            "local_name": "Shqip: Geg",
+            "text_direction": "ltr",
+            "language_tag": "aln",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 290,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        },
+        {
+          "id": 1826,
+          "abbreviation": "ALGKK72",
+          "local_abbreviation": "DHRGKK72",
+          "title": "Albanian Gegh New Testament Konstandin Kristoforidhi 1872",
+          "local_title": "Dhiata e Re Gegnisht Konstandin Kristoforidhi 1872",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "aln",
+            "name": "Albanian, Gheg",
+            "local_name": "Shqip: Geg",
+            "text_direction": "ltr",
+            "language_tag": "aln",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 290,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "eng"
+        },
+        {
+          "id": 1824,
+          "abbreviation": "ALGEPS1872",
+          "local_abbreviation": "PSGEKK1872",
+          "title": "Albanian Geg Psalms - Konstandin Kristoforidhi 1872",
+          "local_title": "Psalmet Gegërisht - Konstandin Kristoforidhi 1872",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "aln",
+            "name": "Albanian, Gheg",
+            "local_name": "Shqip: Geg",
+            "text_direction": "ltr",
+            "language_tag": "aln",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 290,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

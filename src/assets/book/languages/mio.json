@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 776,
+          "abbreviation": "mio",
+          "local_abbreviation": "mio",
+          "title": "Mixtec, Pinotepa Nacional NT",
+          "local_title": "Mixtec, Pinotepa Nacional",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mio",
+            "name": "Pinotepa Nacional Mixtec",
+            "local_name": "Pinotepa Nacional Mixtec",
+            "text_direction": "ltr",
+            "language_tag": "mio",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

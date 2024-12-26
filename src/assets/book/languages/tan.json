@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3241,
+          "abbreviation": "TANGALE",
+          "local_abbreviation": "TANGALE",
+          "title": "Tangale Bible Portions 1920-28",
+          "local_title": "Tangale Bible Portions 1920-28",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tan",
+            "name": "Tangale",
+            "local_name": "Tangle",
+            "text_direction": "ltr",
+            "language_tag": "tan",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2172,
+          "abbreviation": "KapPROLUK",
+          "local_abbreviation": "KapPROLUK",
+          "title": "Bezhta (Kapuchi) Proverbs and Luke",
+          "local_title": "Анкълова, Лука",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kap",
+            "name": "Bežƛʼalas mic (Bezhta)",
+            "local_name": "бежкьалас миц",
+            "text_direction": "ltr",
+            "language_tag": "kap",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 654,
+          "abbreviation": "mam",
+          "local_abbreviation": "mamC",
+          "title": "Mam Comitancillo NT",
+          "local_title": "Mam Central (Comitancillo)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mam",
+            "name": "Mam",
+            "local_name": "Mam",
+            "text_direction": "ltr",
+            "language_tag": "mam",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        },
+        {
+          "id": 491,
+          "abbreviation": "MAMH",
+          "local_abbreviation": "MAMH",
+          "title": "Mam de Huehuetenango Bible",
+          "local_title": "Mam de Huehuetenango Bible",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mam",
+            "name": "Mam",
+            "local_name": "Mam",
+            "text_direction": "ltr",
+            "language_tag": "mam",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 152,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        },
+        {
+          "id": 2278,
+          "abbreviation": "MAMNO",
+          "local_abbreviation": "MAMNO",
+          "title": "Mam Huehuetenango New Ortography",
+          "local_title": "Mam de Huehuetenango nueva ortografía",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mam",
+            "name": "Mam",
+            "local_name": "Mam",
+            "text_direction": "ltr",
+            "language_tag": "mam",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 152,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        },
+        {
+          "id": 632,
+          "abbreviation": "mamNT",
+          "local_abbreviation": "mamNT",
+          "title": "Ak'aj tu'jil tyol qMan",
+          "local_title": "Ak'aj tu'jil tyol qMan",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mam",
+            "name": "Mam",
+            "local_name": "Mam",
+            "text_direction": "ltr",
+            "language_tag": "mam",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 561,
+          "abbreviation": "MAMO",
+          "local_abbreviation": "MAMO",
+          "title": "Mam Ostuncalco Bible",
+          "local_title": "Biblia Mam de Quetzaltenango",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mam",
+            "name": "Mam",
+            "local_name": "Mam",
+            "text_direction": "ltr",
+            "language_tag": "mam",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 152,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        },
+        {
+          "id": 3765,
+          "abbreviation": "mamTS",
+          "local_abbreviation": "mamTS",
+          "title": "Mam of Todos Santos -- Guatemala Unicode",
+          "local_title": "Mam of Todos Santos -- Guatemala Unicode",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mam",
+            "name": "Mam",
+            "local_name": "Mam",
+            "text_direction": "ltr",
+            "language_tag": "mam",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 6,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

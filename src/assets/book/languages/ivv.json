@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1315,
+          "abbreviation": "NTPP",
+          "local_abbreviation": "VTSP",
+          "title": "The New Testament, Psalms, The Book of Proverbs",
+          "local_title": "Ivatan",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ivv",
+            "name": "Ivatan",
+            "local_name": "Ivatan",
+            "text_direction": "ltr",
+            "language_tag": "ivv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

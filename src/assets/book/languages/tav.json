@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1087,
+          "abbreviation": "TAVNT2",
+          "local_abbreviation": "TAVNT2",
+          "title": "New Testament in Tatuyo",
+          "local_title": "Tatuyo: Dio Wadarique",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tav",
+            "name": "Tatuyo",
+            "local_name": "Tatuyo",
+            "text_direction": "ltr",
+            "language_tag": "tav",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "lxx"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

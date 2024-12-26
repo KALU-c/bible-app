@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2557,
+          "abbreviation": "KmrNTC",
+          "local_abbreviation": "KmrNTC",
+          "title": "New Testament in Kurmanji Kurdish of Transcaucasia (Cyrillic)",
+          "local_title": "Пәймана Ну (Инщил)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ku",
+            "iso_639_3": "kmr",
+            "name": "Kurmanji Kurdish",
+            "local_name": "Kurmancî",
+            "text_direction": "ltr",
+            "language_tag": "kmr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2556,
+          "abbreviation": "KmrNTL",
+          "local_abbreviation": "KmrNTL",
+          "title": "New Testament in Kurmanji Kurdish of Transcaucasia (Latin)",
+          "local_title": "Peymana Nû (Încîl)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ku",
+            "iso_639_3": "kmr",
+            "name": "Kurmanji Kurdish",
+            "local_name": "Kurmancî",
+            "text_direction": "ltr",
+            "language_tag": "kmr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 251,
+          "abbreviation": "KURNT",
+          "local_abbreviation": "KURNT",
+          "title": "Kurdish New Testament and Psalms +",
+          "local_title": "Kurmanji Încîl",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ku",
+            "iso_639_3": "kmr",
+            "name": "Kurmanji Kurdish",
+            "local_name": "Kurmancî",
+            "text_direction": "ltr",
+            "language_tag": "kmr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 60,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 30,
+          "vrs": "eng"
+        },
+        {
+          "id": 1948,
+          "abbreviation": "KMRPRO",
+          "local_abbreviation": "MKRPRO",
+          "title": "Kurmanji Kurdish Proverbs of Solomon 1947",
+          "local_title": "Methelokên Hezretê Silêman 1947",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ku",
+            "iso_639_3": "kmr",
+            "name": "Kurmanji Kurdish",
+            "local_name": "Kurmancî",
+            "text_direction": "ltr",
+            "language_tag": "kmr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": null
+        },
+        {
+          "id": 4103,
+          "abbreviation": "SKB",
+          "local_abbreviation": "SKB",
+          "title": "Shikaki Kurdish Bible",
+          "local_title": "کتاب مقدس به زبان کردی شیکاکی",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ku",
+            "iso_639_3": "kmr",
+            "name": "Kurmanji Kurdish",
+            "local_name": "Kurmancî",
+            "text_direction": "ltr",
+            "language_tag": "kmr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 15136,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

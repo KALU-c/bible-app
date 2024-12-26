@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 481,
+          "abbreviation": "DGV",
+          "local_abbreviation": "DGV",
+          "title": "किताब-ए मुक़द्दस",
+          "local_title": "किताब-ए मुक़द्दस",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "urd",
+            "name": "Urdu (Devanagari)",
+            "local_name": "उर्दू",
+            "text_direction": "ltr",
+            "language_tag": "urd_dv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 62,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 1885,
+          "abbreviation": "IRVUrd",
+          "local_abbreviation": "IRVUrd",
+          "title": "Indian Revised Version (IRV) Urdu - 2019",
+          "local_title": "इंडियन रिवाइज्ड वर्जन (IRV) उर्दू - 2019",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "urd",
+            "name": "Urdu (Devanagari)",
+            "local_name": "उर्दू",
+            "text_direction": "ltr",
+            "language_tag": "urd_dv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 424,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 3472,
+          "abbreviation": "UCVD",
+          "local_abbreviation": "UCVD",
+          "title": "Urdu Contemporary Version New Testament Devanagari 2022",
+          "local_title": "उर्दू हमअस्र तरजुमा",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "urd",
+            "name": "Urdu (Devanagari)",
+            "local_name": "उर्दू",
+            "text_direction": "ltr",
+            "language_tag": "urd_dv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

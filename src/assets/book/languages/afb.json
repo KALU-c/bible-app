@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3901,
+          "abbreviation": "afbQAV",
+          "local_abbreviation": "QNAV",
+          "title": "Gulf Arabic Qatifi New Arabic Version",
+          "local_title": "Qatifi New Arabic Version / الترجمة العربية القطيفية الجديدة",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "afb",
+            "name": "Arabic, Gulf Spoken",
+            "local_name": "Arabic, Gulf Spoken",
+            "text_direction": "rtl",
+            "language_tag": "afb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 14826,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2478,
+          "abbreviation": "HNOT01",
+          "local_abbreviation": "HNOT01",
+          "title": "Hawa Naga Bible 2001",
+          "local_title": "Hawa Naga Bible 2001",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nst",
+            "name": "Tase Naga",
+            "local_name": "Tangsa",
+            "text_direction": "ltr",
+            "language_tag": "nst",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 94,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 3959,
+          "abbreviation": "Mmm",
+          "local_abbreviation": "Mmmm",
+          "title": "Muklom",
+          "local_title": "Muklom",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nst",
+            "name": "Tase Naga",
+            "local_name": "Tangsa",
+            "text_direction": "ltr",
+            "language_tag": "nst",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 314,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 1543,
+          "abbreviation": "TANGSBSI",
+          "local_abbreviation": "TANGSBSI",
+          "title": "Tangsa Naga Bible (BSI)",
+          "local_title": "ASII LAKDAP Bible (BSI)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nst",
+            "name": "Tase Naga",
+            "local_name": "Tangsa",
+            "text_direction": "ltr",
+            "language_tag": "nst",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

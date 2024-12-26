@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1862,
+          "abbreviation": "HAKABSI",
+          "local_abbreviation": "HAKABSI",
+          "title": "Haka Chin NT with PSA and PRO (BSI)",
+          "local_title": "Laibaibal Thiang (BSI)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cnh",
+            "name": "Hakha Chin",
+            "local_name": "Hakha",
+            "text_direction": "ltr",
+            "language_tag": "cnh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 327,
+          "abbreviation": "HCL06",
+          "local_abbreviation": "HCL06",
+          "title": "Lai (Hakha) Common Language Bible 2006",
+          "local_title": "Lai (Hakha) Common Language Bible 2006",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cnh",
+            "name": "Hakha Chin",
+            "local_name": "Hakha",
+            "text_direction": "ltr",
+            "language_tag": "cnh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 94,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 20,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

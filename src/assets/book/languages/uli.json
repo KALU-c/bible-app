@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3002,
+          "abbreviation": "ULI",
+          "local_abbreviation": "ULI",
+          "title": "Bogtag we ye Tefoy",
+          "local_title": "Bogtag we ye Tefoy",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "uli",
+            "name": "Ulithian",
+            "local_name": "Ulithian",
+            "text_direction": "rtl",
+            "language_tag": "uli",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 834,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

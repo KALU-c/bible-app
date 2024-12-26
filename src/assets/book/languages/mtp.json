@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 560,
+          "abbreviation": "WHYK",
+          "local_abbreviation": "WHYK",
+          "title": "New Testament",
+          "local_title": "Silààt tà ‘is, tà ‘no’weenho wikyi’",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mtp",
+            "name": "Wichí Lhamtés Nocten",
+            "local_name": "Wichí Lhamtés Nocten",
+            "text_direction": "ltr",
+            "language_tag": "mtp",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 72,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

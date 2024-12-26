@@ -1,0 +1,254 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4115,
+          "abbreviation": "NRLB2024",
+          "local_abbreviation": "JTR2024",
+          "title": "Revised New Latvian Inter-confessional Bible 2024",
+          "local_title": "Jauna Pārstrādāta latviešu Bībele 2024",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "lv",
+            "iso_639_3": "lvs",
+            "name": "Latvian",
+            "local_name": "Latviešu Valoda",
+            "text_direction": "ltr",
+            "language_tag": "lvs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 151,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "org"
+        },
+        {
+          "id": 2406,
+          "abbreviation": "LG8",
+          "local_abbreviation": "LG8",
+          "title": "Latvian Gluck 8th edition",
+          "local_title": "Glika Bībele 8. izdevums",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "lv",
+            "iso_639_3": "lvs",
+            "name": "Latvian",
+            "local_name": "Latviešu Valoda",
+            "text_direction": "ltr",
+            "language_tag": "lvs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 339,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 318,
+          "abbreviation": "LJD",
+          "local_abbreviation": "LJD",
+          "title": "Latviešu Jaunā Derība",
+          "local_title": "Latviešu Jaunā Derība",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "lv",
+            "iso_639_3": "lvs",
+            "name": "Latvian",
+            "local_name": "Latviešu Valoda",
+            "text_direction": "ltr",
+            "language_tag": "lvs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 22,
+          "vrs": "vul"
+        },
+        {
+          "id": 1669,
+          "abbreviation": "LTV1965",
+          "local_abbreviation": "LTV1965",
+          "title": "Latvian Bible 1965",
+          "local_title": "LATVIJAS BĪBELES BIEDRĪBA",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "lv",
+            "iso_639_3": "lvs",
+            "name": "Latvian",
+            "local_name": "Latviešu Valoda",
+            "text_direction": "ltr",
+            "language_tag": "lvs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 151,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "org"
+        },
+        {
+          "id": 3196,
+          "abbreviation": "NLB",
+          "local_abbreviation": "NLB",
+          "title": "New Latvian Inter-confessional Bible",
+          "local_title": "New Latvian Inter-confessional Bible",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "lv",
+            "iso_639_3": "lvs",
+            "name": "Latvian",
+            "local_name": "Latviešu Valoda",
+            "text_direction": "ltr",
+            "language_tag": "lvs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 151,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "org"
+        },
+        {
+          "id": 3197,
+          "abbreviation": "NLB-POR",
+          "local_abbreviation": "NLB-POR",
+          "title": "New Latvian Gospels",
+          "local_title": "New Latvian Gospels",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "lv",
+            "iso_639_3": "lvs",
+            "name": "Latvian",
+            "local_name": "Latviešu Valoda",
+            "text_direction": "ltr",
+            "language_tag": "lvs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 151,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        },
+        {
+          "id": 3195,
+          "abbreviation": "NLBDC",
+          "local_abbreviation": "NLBDC",
+          "title": "New Latvian Inter-confessional Bible with Deuterocanonicals",
+          "local_title": "New Latvian Inter-confessional Bible with Deuterocanonicals",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "lv",
+            "iso_639_3": "lvs",
+            "name": "Latvian",
+            "local_name": "Latviešu Valoda",
+            "text_direction": "ltr",
+            "language_tag": "lvs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 151,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "org"
+        },
+        {
+          "id": 488,
+          "abbreviation": "RLB",
+          "local_abbreviation": "RT65",
+          "title": "Revised Latvian Bible",
+          "local_title": "1965. gada Bībeles izdevuma revidētais teksts",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "lv",
+            "iso_639_3": "lvs",
+            "name": "Latvian",
+            "local_name": "Latviešu Valoda",
+            "text_direction": "ltr",
+            "language_tag": "lvs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 151,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 8,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

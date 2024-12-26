@@ -1,0 +1,224 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 54,
+          "abbreviation": "DB1885",
+          "local_abbreviation": "DB1885",
+          "title": "Diodati Bible 1885",
+          "local_title": "Diodati Bibbia 1885",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "it",
+            "iso_639_3": "ita",
+            "name": "Italian",
+            "local_name": "Italiano",
+            "text_direction": "ltr",
+            "language_tag": "ita",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 20,
+          "vrs": "eng"
+        },
+        {
+          "id": 1196,
+          "abbreviation": "ICL00D",
+          "local_abbreviation": "ICL00D",
+          "title": "Italian Common Language Interconfessional Bible",
+          "local_title": "Traduzione Interconfessionale in Lingua Corrente",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "it",
+            "iso_639_3": "ita",
+            "name": "Italian",
+            "local_name": "Italiano",
+            "text_direction": "ltr",
+            "language_tag": "ita",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "org"
+        },
+        {
+          "id": 1197,
+          "abbreviation": "ICL00P",
+          "local_abbreviation": "ICL00P",
+          "title": "Italian Common Language Bible",
+          "local_title": "Parola del Signore - la Bibbia in lingua corrente",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "it",
+            "iso_639_3": "ita",
+            "name": "Italian",
+            "local_name": "Italiano",
+            "text_direction": "ltr",
+            "language_tag": "ita",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "org"
+        },
+        {
+          "id": 3368,
+          "abbreviation": "IRB20",
+          "local_abbreviation": "IRB20",
+          "title": "Italian Riveduta 2020 Bible",
+          "local_title": "La Sacra Bibbia Versione Riveduta 2020 (R2)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "it",
+            "iso_639_3": "ita",
+            "name": "Italian",
+            "local_name": "Italiano",
+            "text_direction": "ltr",
+            "language_tag": "ita",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 985,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 122,
+          "abbreviation": "NR06",
+          "local_abbreviation": "NR06",
+          "title": "Nuova Riveduta 2006",
+          "local_title": "Nuova Riveduta 2006",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "it",
+            "iso_639_3": "ita",
+            "name": "Italian",
+            "local_name": "Italiano",
+            "text_direction": "ltr",
+            "language_tag": "ita",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 45,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 32,
+          "vrs": "eng"
+        },
+        {
+          "id": 123,
+          "abbreviation": "NR94",
+          "local_abbreviation": "NR94",
+          "title": "Nuova Riveduta 1994",
+          "local_title": "Nuova Riveduta 1994",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "it",
+            "iso_639_3": "ita",
+            "name": "Italian",
+            "local_name": "Italiano",
+            "text_direction": "ltr",
+            "language_tag": "ita",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 45,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 32,
+          "vrs": "eng"
+        },
+        {
+          "id": 141,
+          "abbreviation": "RDV24",
+          "local_abbreviation": "RDV24",
+          "title": "Versione Diodati Riveduta",
+          "local_title": "Versione Diodati Riveduta",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "it",
+            "iso_639_3": "ita",
+            "name": "Italian",
+            "local_name": "Italiano",
+            "text_direction": "ltr",
+            "language_tag": "ita",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 7,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

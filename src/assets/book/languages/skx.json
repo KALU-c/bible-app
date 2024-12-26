@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3811,
+          "abbreviation": "skx",
+          "local_abbreviation": "skx",
+          "title": "Seko Padang New Testament Translation",
+          "local_title": "Pangàlu' Baru, Sura'na Puang i laling sua: tu Padang",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "skx",
+            "name": "Seko Padang",
+            "local_name": "Seko Padang",
+            "text_direction": "ltr",
+            "language_tag": "skx",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "lxx"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3418,
+          "abbreviation": "absABMA",
+          "local_abbreviation": "ABMA",
+          "title": "Ambonese Malay New Testament",
+          "local_title": "Alkitab dalam Bahasa Malayu Ambon",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "abs",
+            "name": "Malay, Ambonese",
+            "local_name": "Ambong",
+            "text_direction": "ltr",
+            "language_tag": "abs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 2734,
+          "abbreviation": "ABSNT",
+          "local_abbreviation": "ABSNT",
+          "title": "New Testament in Ambonese 1877",
+          "local_title": "Segala Surat Perdjanjian Baharu Maha Besar Tuhan Jesus Christos 1877",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "abs",
+            "name": "Malay, Ambonese",
+            "local_name": "Ambong",
+            "text_direction": "ltr",
+            "language_tag": "abs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 205,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

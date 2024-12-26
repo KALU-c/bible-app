@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4047,
+          "abbreviation": "BurBBL2024",
+          "local_abbreviation": "BurBBL2024",
+          "title": "Buryat Bible 2024",
+          "local_title": "Библи",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bxr",
+            "name": "Russia Buriat",
+            "local_name": "буряад",
+            "text_direction": "ltr",
+            "language_tag": "bxr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "rsc"
+        },
+        {
+          "id": 2418,
+          "abbreviation": "BurOTp",
+          "local_abbreviation": "BurOTp",
+          "title": "Buryat OT potrion",
+          "local_title": "Бурятский Библия. Отдельные книги Ветхого Завета",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bxr",
+            "name": "Russia Buriat",
+            "local_name": "буряад",
+            "text_direction": "ltr",
+            "language_tag": "bxr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 241,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        },
+        {
+          "id": 1881,
+          "abbreviation": "BurNT10",
+          "local_abbreviation": "ШХ",
+          "title": "Buriat New Testament",
+          "local_title": "Шэнэ Хэлсээн",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bxr",
+            "name": "Russia Buriat",
+            "local_name": "буряад",
+            "text_direction": "ltr",
+            "language_tag": "bxr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "lxx"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

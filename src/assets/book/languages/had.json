@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2954,
+          "abbreviation": "HAD",
+          "local_abbreviation": "HAD",
+          "title": "Bible in Hatam Language Papua, Indonesia",
+          "local_title": "ALLAH NIHYET MEM TUNGWATU NYA",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "had",
+            "name": "Hatam",
+            "local_name": "Hatam",
+            "text_direction": "ltr",
+            "language_tag": "had",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

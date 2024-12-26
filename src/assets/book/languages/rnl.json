@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1871,
+          "abbreviation": "RANGBSI",
+          "local_abbreviation": "RANGBSI",
+          "title": "Ranglong NT with PSA (BSI)",
+          "local_title": "Dankit Athar Le SAM (BSI)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rnl",
+            "name": "Ranglong",
+            "local_name": "Ranglong",
+            "text_direction": "ltr",
+            "language_tag": "rnl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

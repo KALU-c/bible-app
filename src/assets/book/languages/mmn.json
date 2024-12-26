@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1327,
+          "abbreviation": "mmnNT",
+          "local_abbreviation": "mmnNT",
+          "title": "Ya mga panaba na Diyos",
+          "local_title": "Mamanwa",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mmn",
+            "name": "Mamanwa",
+            "local_name": "Mamanwa",
+            "text_direction": "ltr",
+            "language_tag": "mmn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

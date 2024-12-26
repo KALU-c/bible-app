@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2881,
+          "abbreviation": "NLK",
+          "local_abbreviation": "NLK",
+          "title": "The Old and New Testament in Today's South Yali Version",
+          "local_title": "ALLAH WENE FANO WENE",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nlk",
+            "name": "Ninia Yali",
+            "local_name": "Ninia Yali",
+            "text_direction": "ltr",
+            "language_tag": "nlk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3587,
+          "abbreviation": "TNT",
+          "local_abbreviation": "TNT",
+          "title": "Tokelauan New Testament",
+          "local_title": "Tokelauan New Testament",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tkl",
+            "name": "Tokelauan",
+            "local_name": "Tokelau",
+            "text_direction": "ltr",
+            "language_tag": "tkl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 858,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

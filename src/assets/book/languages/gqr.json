@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1173,
+          "abbreviation": "gqr",
+          "local_abbreviation": "gqr",
+          "title": "Gor NT",
+          "local_title": "Ta lǝ Luwǝ Kunmindɨ kɨ Sigɨ",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gqr",
+            "name": "Gor",
+            "local_name": "Gor",
+            "text_direction": "ltr",
+            "language_tag": "gqr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "lxx"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

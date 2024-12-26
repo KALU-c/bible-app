@@ -1,0 +1,134 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1425,
+          "abbreviation": "KALD",
+          "local_abbreviation": "KALD",
+          "title": "Kalderash New Testament and Psalms 2004",
+          "local_title": "E Nevi Viasta o Psalmo 2004 (Maximoff - Kalderaš)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmy",
+            "name": "Romani: Kalderash",
+            "local_name": "Romani: Kalderaš/căldărari",
+            "text_direction": "ltr",
+            "language_tag": "rmy_fr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 24,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "org"
+        },
+        {
+          "id": 3114,
+          "abbreviation": "KALD2020",
+          "local_abbreviation": "KALD2020",
+          "title": "Kalderash Romani Cornilescu Bible 2020 (Romania)",
+          "local_title": "E Romaii Biblia 2020 (Kăldărărihko)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmy",
+            "name": "Romani: Kalderash",
+            "local_name": "Romani: Kalderaš/căldărari",
+            "text_direction": "ltr",
+            "language_tag": "rmy_fr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 3347,
+          "abbreviation": "Kald71",
+          "local_abbreviation": "Kald71",
+          "title": "Romani Kalderash Gospel of Mark 1971",
+          "local_title": "O Lašo Nevimos katar o Marko 1971 (Kalderaš)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmy",
+            "name": "Romani: Kalderash",
+            "local_name": "Romani: Kalderaš/căldărari",
+            "text_direction": "ltr",
+            "language_tag": "rmy_fr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": null
+        },
+        {
+          "id": 1361,
+          "abbreviation": "ROMCAL",
+          "local_abbreviation": "ROMCAL",
+          "title": "Romani Kalderash Gospel of Mark 1996 (Romania)",
+          "local_title": "Evanghelia pala o Marco 1996 (căldărarilor România)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmy",
+            "name": "Romani: Kalderash",
+            "local_name": "Romani: Kalderaš/căldărari",
+            "text_direction": "ltr",
+            "language_tag": "rmy_fr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 246,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 19,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 4,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

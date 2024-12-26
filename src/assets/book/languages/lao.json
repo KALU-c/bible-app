@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3755,
+          "abbreviation": "LCV",
+          "local_abbreviation": "LCV",
+          "title": "Lao Contemporary Version 2023",
+          "local_title": "ພຣະຄຳພີລາວສະບັບສະໄໝໃໝ່",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "lo",
+            "iso_639_3": "lao",
+            "name": "Lao",
+            "local_name": "ລາວ",
+            "text_direction": "ltr",
+            "language_tag": "lao",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 1727,
+          "abbreviation": "RLV15",
+          "local_abbreviation": "ພຄພ",
+          "title": "Revised Lao Version 2015",
+          "local_title": "ພຣະຄຳພີສັກສິ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "lo",
+            "iso_639_3": "lao",
+            "name": "Lao",
+            "local_name": "ລາວ",
+            "text_direction": "ltr",
+            "language_tag": "lao",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 285,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

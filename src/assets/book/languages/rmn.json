@@ -1,0 +1,134 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3608,
+          "abbreviation": "Gurbet",
+          "local_abbreviation": "GSP",
+          "title": "The Word of God in Gurbet",
+          "local_title": "E Devleso Lafi ko Gurbetsko dijalekt",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmn",
+            "name": "Romani, Balkan (Arli)",
+            "local_name": "Romane (Balkan)",
+            "text_direction": "ltr",
+            "language_tag": "rmn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 206,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": null
+        },
+        {
+          "id": 3606,
+          "abbreviation": "Arli",
+          "local_abbreviation": "RAB",
+          "title": "Romani Arli Bible",
+          "local_title": "I Biblija ki Arli romani čhib",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmn",
+            "name": "Romani, Balkan (Arli)",
+            "local_name": "Romane (Balkan)",
+            "text_direction": "ltr",
+            "language_tag": "rmn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 206,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        },
+        {
+          "id": 3607,
+          "abbreviation": "Chergash",
+          "local_abbreviation": "RČB",
+          "title": "Bible in Chergash Romani",
+          "local_title": "Biblija pe romani čhib",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmn",
+            "name": "Romani, Balkan (Arli)",
+            "local_name": "Romane (Balkan)",
+            "text_direction": "ltr",
+            "language_tag": "rmn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 206,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        },
+        {
+          "id": 3102,
+          "abbreviation": "KRB",
+          "local_abbreviation": "КРБ",
+          "title": "Crimean Romani Bible",
+          "local_title": "Библия опэр крымски романи чиб",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmn",
+            "name": "Romani, Balkan (Arli)",
+            "local_name": "Romane (Balkan)",
+            "text_direction": "ltr",
+            "language_tag": "rmn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 173,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 4,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

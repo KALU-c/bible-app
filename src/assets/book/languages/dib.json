@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2945,
+          "abbreviation": "CIEC1905",
+          "local_abbreviation": "CIEC1905",
+          "title": "Gospel of Luke 1905",
+          "local_title": "Uet-Apuaté Etong Luka 1905",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "dib",
+            "name": "South Central Dinka",
+            "local_name": "Dinka Ciec",
+            "text_direction": "ltr",
+            "language_tag": "dib",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        },
+        {
+          "id": 2822,
+          "abbreviation": "CIEC1916",
+          "local_abbreviation": "CIEC1916",
+          "title": "Gospel of Mark 1916",
+          "local_title": "Wel puat̤ ci Mak ke gor 1916",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "dib",
+            "name": "South Central Dinka",
+            "local_name": "Dinka Ciec",
+            "text_direction": "ltr",
+            "language_tag": "dib",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

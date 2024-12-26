@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3292,
+          "abbreviation": "SBT",
+          "local_abbreviation": "SBT",
+          "title": "Santali Bible Translation (BBS)",
+          "local_title": "সান্তালী বাইবেল",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "sat",
+            "name": "Santali",
+            "local_name": "Santali",
+            "text_direction": "ltr",
+            "language_tag": "sat",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 272,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 1538,
+          "abbreviation": "SCLNT",
+          "local_abbreviation": "SCLNT",
+          "title": "Santali Common Language New Testament",
+          "local_title": "Santali Common Language New Testament",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "sat",
+            "name": "Santali",
+            "local_name": "Santali",
+            "text_direction": "ltr",
+            "language_tag": "sat",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 272,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

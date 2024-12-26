@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3878,
+          "abbreviation": "HNAV",
+          "local_abbreviation": "HNAV",
+          "title": "Hijazi New Arabic Version 2024",
+          "local_title": "Hijazi New Arabic Version",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "acw",
+            "name": "Arabic, Hijazi Spoken",
+            "local_name": "Arabic, Hijazi Spoken",
+            "text_direction": "rtl",
+            "language_tag": "acw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 14826,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1917,
+          "abbreviation": "sylB",
+          "local_abbreviation": "sylB",
+          "title": "Sylheti Bible (Bangla Script)",
+          "local_title": "ছিলটি আছমানি কিতাব (বাংলা লিপি)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "syl",
+            "name": "Sylheti",
+            "local_name": "Sylheti",
+            "text_direction": "ltr",
+            "language_tag": "syl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 306,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        },
+        {
+          "id": 1918,
+          "abbreviation": "sylL",
+          "local_abbreviation": "sylL",
+          "title": "Sylheti Bible (Latin script)",
+          "local_title": "Siloṭi Asmani Kitab (Latin lipi)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "syl",
+            "name": "Sylheti",
+            "local_name": "Sylheti",
+            "text_direction": "ltr",
+            "language_tag": "syl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 306,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        },
+        {
+          "id": 1916,
+          "abbreviation": "sylN",
+          "local_abbreviation": "sylN",
+          "title": "Sylheti Bible (Nagri script)",
+          "local_title": "Siloṭi Asmani Kitab (Nagri lipi)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "syl",
+            "name": "Sylheti",
+            "local_name": "Sylheti",
+            "text_direction": "ltr",
+            "language_tag": "syl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 306,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

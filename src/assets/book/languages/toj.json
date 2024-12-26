@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1381,
+          "abbreviation": "toj",
+          "local_abbreviation": "toj",
+          "title": "Tojolabal New Testament",
+          "local_title": "Tojolabal",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "toj",
+            "name": "Tojolabal",
+            "local_name": "Tojolabal",
+            "text_direction": "ltr",
+            "language_tag": "toj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 844,
+          "abbreviation": "tojNT",
+          "local_abbreviation": "tojNT",
+          "title": "Ja yajcʼachil testamento sbaj ja cajualtic Jesucristo",
+          "local_title": "Ja yajcʼachil testamento sbaj ja cajualtic Jesucristo",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "toj",
+            "name": "Tojolabal",
+            "local_name": "Tojolabal",
+            "text_direction": "ltr",
+            "language_tag": "toj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        },
+        {
+          "id": 3023,
+          "abbreviation": "YABD",
+          "local_abbreviation": "YABD",
+          "title": "La palabra de Dios",
+          "local_title": "Ja yab'al ja Dyosi",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "toj",
+            "name": "Tojolabal",
+            "local_name": "Tojolabal",
+            "text_direction": "ltr",
+            "language_tag": "toj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 93,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

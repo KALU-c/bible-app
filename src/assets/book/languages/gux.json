@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3056,
+          "abbreviation": "BGP",
+          "local_abbreviation": "BGP",
+          "title": "Protestant Gulmancema Bible",
+          "local_title": "U TIENU MAAMA TILI 2013",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gux",
+            "name": "Gourmanchéma",
+            "local_name": "Gourmanchéma",
+            "text_direction": "ltr",
+            "language_tag": "gux",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 231,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "org"
+        },
+        {
+          "id": 3055,
+          "abbreviation": "GUX03",
+          "local_abbreviation": "GUX03",
+          "title": "Gulmancema (Gourma) Bible",
+          "local_title": "Gourmanchéma Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gux",
+            "name": "Gourmanchéma",
+            "local_name": "Gourmanchéma",
+            "text_direction": "ltr",
+            "language_tag": "gux",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 231,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

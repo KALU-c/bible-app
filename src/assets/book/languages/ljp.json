@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2868,
+          "abbreviation": "LAILJP",
+          "local_abbreviation": "LAILJP",
+          "title": "New Testament in Today's Lampung Version (Api dialect)",
+          "local_title": "PERJANJIAN AMPAI KABAR BETIK",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ljp",
+            "name": "Lampung Api",
+            "local_name": "Lampung Api",
+            "text_direction": "ltr",
+            "language_tag": "ljp",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

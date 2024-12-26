@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 24,
+          "abbreviation": "HD",
+          "local_abbreviation": "HD",
+          "title": "Habrit Hakhadasha/Haderekh (“The Way” Hebrew New Testament)",
+          "local_title": "Habrit Hakhadasha/Haderekh",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "he",
+            "iso_639_3": "heb",
+            "name": "Hebrew",
+            "local_name": "עברית",
+            "text_direction": "rtl",
+            "language_tag": "heb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 32,
+          "vrs": "eng"
+        },
+        {
+          "id": 380,
+          "abbreviation": "MHNT2020",
+          "local_abbreviation": "MHNT2020",
+          "title": "Revised Modern Hebrew New Testament 2020",
+          "local_title": "הברית החדשה בעברית מודרנית",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "he",
+            "iso_639_3": "heb",
+            "name": "Hebrew",
+            "local_name": "עברית",
+            "text_direction": "rtl",
+            "language_tag": "heb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 105,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 23,
+          "vrs": "eng"
+        },
+        {
+          "id": 3585,
+          "abbreviation": "WLC",
+          "local_abbreviation": "WLC",
+          "title": "Westminster Leningrad Codex",
+          "local_title": "Westminster Leningrad Codex",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "he",
+            "iso_639_3": "heb",
+            "name": "Hebrew",
+            "local_name": "עברית",
+            "text_direction": "rtl",
+            "language_tag": "heb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": null
+        },
+        {
+          "id": 2220,
+          "abbreviation": "HebBDHNT",
+          "local_abbreviation": "תנ״ך ודליטש",
+          "title": "Tanach and Delitzsch's Hebrew New Testament",
+          "local_title": "תנ\"ך וברית חדשה בתרגום דליטש",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "he",
+            "iso_639_3": "heb",
+            "name": "Hebrew",
+            "local_name": "עברית",
+            "text_direction": "rtl",
+            "language_tag": "heb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 105,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "org"
+        },
+        {
+          "id": 2221,
+          "abbreviation": "HebBMHNT",
+          "local_abbreviation": "תנ״ך ומודרני",
+          "title": "Tanach and Modern Hebrew New Testament",
+          "local_title": "תנ\"ך וברית חדשה בתרגום מודני",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "he",
+            "iso_639_3": "heb",
+            "name": "Hebrew",
+            "local_name": "עברית",
+            "text_direction": "rtl",
+            "language_tag": "heb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 105,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

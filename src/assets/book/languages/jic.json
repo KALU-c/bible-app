@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 249,
+          "abbreviation": "jic",
+          "local_abbreviation": "jic",
+          "title": "Tol NT",
+          "local_title": "Tol: Dios Tjevele Jupj 'Üsüs La Qjuisiji Jesucristo Mpes",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "jic",
+            "name": "Tol",
+            "local_name": "Tol",
+            "text_direction": "ltr",
+            "language_tag": "jic",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 22,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

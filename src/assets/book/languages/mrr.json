@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2691,
+          "abbreviation": "mrr",
+          "local_abbreviation": "माडियाबाय्बल",
+          "title": "Hill Madia NT without Jude",
+          "local_title": "माडिया गोंड पवित्र सास्त्रम",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mrr",
+            "name": "Maria (India)",
+            "local_name": "Maria (India)",
+            "text_direction": "ltr",
+            "language_tag": "mrr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

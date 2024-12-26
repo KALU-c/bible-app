@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 947,
+          "abbreviation": "LMB",
+          "local_abbreviation": "AAL59",
+          "title": "Lamba Bible version 1959",
+          "local_title": "Amashiwi Aba Lesa",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lam",
+            "name": "Lamba",
+            "local_name": "Ichilamba",
+            "text_direction": "ltr",
+            "language_tag": "lam",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 165,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

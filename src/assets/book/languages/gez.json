@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3177,
+          "abbreviation": "GeezNT",
+          "local_abbreviation": "ሐኪግ",
+          "title": "Ge'ez NT",
+          "local_title": "ሐዲስ ኪዳን በልሳነ ግእዝ",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gez",
+            "name": "Ge'ez (Ethiopic).",
+            "local_name": "ግዕዝ",
+            "text_direction": "ltr",
+            "language_tag": "gez",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 279,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "lxx"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

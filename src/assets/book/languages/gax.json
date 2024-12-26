@@ -1,0 +1,134 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2943,
+          "abbreviation": "BORDC",
+          "local_abbreviation": "BOR",
+          "title": "BORANA BIBLE WITH DC BOOKS",
+          "local_title": "KITAABA WAAQA KA KITAABA DEUTAROKANONIKOL/ APOKRIFA QABU",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gax",
+            "name": "Oromo, Borana-Arsi-Guji",
+            "local_name": "gujii",
+            "text_direction": "ltr",
+            "language_tag": "gax",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 2935,
+          "abbreviation": "BOR",
+          "local_abbreviation": "BOR",
+          "title": "BORANA BIBLE",
+          "local_title": "KITAABA WAAQA",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gax",
+            "name": "Oromo, Borana-Arsi-Guji",
+            "local_name": "gujii",
+            "text_direction": "ltr",
+            "language_tag": "gax",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 3176,
+          "abbreviation": "GAXNT",
+          "local_abbreviation": "GAXNT",
+          "title": "Guji Oromo New Testament 2007",
+          "local_title": "Guji Oromo New Testament 2007",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gax",
+            "name": "Oromo, Borana-Arsi-Guji",
+            "local_name": "gujii",
+            "text_direction": "ltr",
+            "language_tag": "gax",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 279,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 3175,
+          "abbreviation": "KakHaa",
+          "local_abbreviation": "KakHaa",
+          "title": "Borana NT",
+          "local_title": "Kakuu Haaraaka",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gax",
+            "name": "Oromo, Borana-Arsi-Guji",
+            "local_name": "gujii",
+            "text_direction": "ltr",
+            "language_tag": "gax",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 279,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 4,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

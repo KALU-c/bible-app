@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3971,
+          "abbreviation": "BNT2022",
+          "local_abbreviation": "BBTP",
+          "title": "First New Testament in Bono Twi",
+          "local_title": "Apam Foforɔ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "abr",
+            "name": "Abron",
+            "local_name": "Abron",
+            "text_direction": "ltr",
+            "language_tag": "abr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 259,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

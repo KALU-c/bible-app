@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 528,
+          "abbreviation": "WCHB",
+          "local_abbreviation": "WCHB",
+          "title": "Wichi Bible",
+          "local_title": "Biblia Wichi",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mzh",
+            "name": "Wichí Lhamtés Güisnay",
+            "local_name": "Wichí",
+            "text_direction": "ltr",
+            "language_tag": "mzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 116,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2345,
+          "abbreviation": "MHK",
+          "local_abbreviation": "MHK",
+          "title": "Mohawk Bible",
+          "local_title": "Ohiatonhseratokénti",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "moh",
+            "name": "Mohawk",
+            "local_name": "Kanien’kéha",
+            "text_direction": "ltr",
+            "language_tag": "moh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 239,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        },
+        {
+          "id": 2026,
+          "abbreviation": "MOH1774",
+          "local_abbreviation": "MOH1774",
+          "title": "Mohawk Gospel of Mark 1774 (Canada)",
+          "local_title": "Ne Saint Mark 1774",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "moh",
+            "name": "Mohawk",
+            "local_name": "Kanien’kéha",
+            "text_direction": "ltr",
+            "language_tag": "moh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": null
+        },
+        {
+          "id": 1653,
+          "abbreviation": "MOH1804",
+          "local_abbreviation": "MOH1804",
+          "title": "Mohawk Gospel of Saint John 1804 (Canada)",
+          "local_title": "Ne Saint John 1804",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "moh",
+            "name": "Mohawk",
+            "local_name": "Kanien’kéha",
+            "text_direction": "ltr",
+            "language_tag": "moh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 18,
+          "vrs": null
+        },
+        {
+          "id": 3373,
+          "abbreviation": "MOH1880",
+          "local_abbreviation": "MOH1880",
+          "title": "The Mohawk Gospels 1880 (Joseph Onasakenrat)",
+          "local_title": "Neh Nase Tsi Shokȣatakȣen 1880 (4 Gospels by Joseph Onasakenrat)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "moh",
+            "name": "Mohawk",
+            "local_name": "Kanien’kéha",
+            "text_direction": "ltr",
+            "language_tag": "moh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 239,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 4,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

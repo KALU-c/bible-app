@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3524,
+          "abbreviation": "CHN1912",
+          "local_abbreviation": "CHN1912",
+          "title": "Mark 1912",
+          "local_title": "St. Mark's Kloosh Yiem kopa nesika Saviour Jesus Christ 1912",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "chn",
+            "name": "Chinook Wawa (Canada)",
+            "local_name": "Chinuk Wawa",
+            "text_direction": "ltr",
+            "language_tag": "chn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

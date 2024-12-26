@@ -1,0 +1,134 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1421,
+          "abbreviation": "ARBOS",
+          "local_abbreviation": "ARBOS",
+          "title": "Wester Boswell Scripture Selections 1874",
+          "local_title": "Wester Boswell Scripture Selections 1874",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rme",
+            "name": "Romany",
+            "local_name": "Romany: Angloromani",
+            "text_direction": "ltr",
+            "language_tag": "rme",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": null
+        },
+        {
+          "id": 1044,
+          "abbreviation": "ARKL",
+          "local_abbreviation": "ARKL",
+          "title": "Good News in Romany 1981",
+          "local_title": "Kushti Lavs (Romany Selections) 1981",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rme",
+            "name": "Romany",
+            "local_name": "Romany: Angloromani",
+            "text_direction": "ltr",
+            "language_tag": "rme",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": null
+        },
+        {
+          "id": 1697,
+          "abbreviation": "SGM1985",
+          "local_abbreviation": "SGM1985",
+          "title": "The Good Shepherd (SGM Selection) 1985",
+          "local_title": "Kushti Bokkengro 1985",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rme",
+            "name": "Romany",
+            "local_name": "Romany: Angloromani",
+            "text_direction": "ltr",
+            "language_tag": "rme",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": null
+        },
+        {
+          "id": 1679,
+          "abbreviation": "SGM1995",
+          "local_abbreviation": "SGM1995",
+          "title": "The Way (SGM Selections) 1995",
+          "local_title": "The Drom 1995",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rme",
+            "name": "Romany",
+            "local_name": "Romany: Angloromani",
+            "text_direction": "ltr",
+            "language_tag": "rme",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 4,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,834 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1715,
+          "abbreviation": "BDO1573",
+          "local_abbreviation": "BDO1573",
+          "title": "Biblia del Oso 1573",
+          "local_title": "Biblia del Oso 1573",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": [
+              "spa_es"
+            ]
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "org"
+        },
+        {
+          "id": 222,
+          "abbreviation": "BHTI",
+          "local_abbreviation": "BHTI",
+          "title": "La Biblia Hispanoamericana (Traducción Interconfesional, versión hispanoamericana)",
+          "local_title": "La Biblia Hispanoamericana (Traducción Interconfesional, versión hispanoamericana)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 13,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "org"
+        },
+        {
+          "id": 28,
+          "abbreviation": "BLPH",
+          "local_abbreviation": "BLPH",
+          "title": "La Palabra (Latin American edition)",
+          "local_title": "La Palabra (versión hispanoamericana)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 13,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 23,
+          "vrs": "org"
+        },
+        {
+          "id": 52,
+          "abbreviation": "DHH94I",
+          "local_abbreviation": "DHH94I",
+          "title": "Biblia Dios Habla Hoy",
+          "local_title": "Biblia Dios Habla Hoy",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 27,
+          "vrs": "eng"
+        },
+        {
+          "id": 411,
+          "abbreviation": "DHH94PC",
+          "local_abbreviation": "DHH94PC",
+          "title": "Dios Habla Hoy Bible",
+          "local_title": "Biblia Dios Habla Hoy",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 26,
+          "vrs": "eng"
+        },
+        {
+          "id": 1845,
+          "abbreviation": "DHHDK",
+          "local_abbreviation": "DHHDK",
+          "title": "Dios Habla Hoy DK",
+          "local_title": "Dios Habla Hoy DK",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "org"
+        },
+        {
+          "id": 1846,
+          "abbreviation": "DHHS94",
+          "local_abbreviation": "DHHS94",
+          "title": "Dios habla Hoy Estándar",
+          "local_title": "Dios habla Hoy Estándar",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        },
+        {
+          "id": 1076,
+          "abbreviation": "JBS",
+          "local_abbreviation": "JBS",
+          "title": "Biblia del Jubileo",
+          "local_title": "Biblia del Jubileo",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 533,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 89,
+          "abbreviation": "LBLA",
+          "local_abbreviation": "LBLA",
+          "title": "La Biblia de las Américas",
+          "local_title": "La Biblia de las Américas",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": [
+              "spa_es"
+            ]
+          },
+          "publisher_id": 37,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": "eng"
+        },
+        {
+          "id": 103,
+          "abbreviation": "NBLA",
+          "local_abbreviation": "NBLA",
+          "title": "Nueva Biblia de las Américas",
+          "local_title": "Nueva Biblia de las Américas",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 37,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 26,
+          "vrs": "eng"
+        },
+        {
+          "id": 753,
+          "abbreviation": "NBV",
+          "local_abbreviation": "NBV",
+          "title": "New Living Bible",
+          "local_title": "Nueva Biblia Viva",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 3539,
+          "abbreviation": "NTBIZ",
+          "local_abbreviation": "NTBIZ",
+          "title": "Segun el Texto Bizantino 2005",
+          "local_title": "Segun el Texto Bizantino 2005",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 1458,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "eng"
+        },
+        {
+          "id": 127,
+          "abbreviation": "NTV",
+          "local_abbreviation": "NTV",
+          "title": "Nueva Traducción Viviente",
+          "local_title": "Nueva Traducción Viviente",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 860,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 29,
+          "vrs": "eng"
+        },
+        {
+          "id": 128,
+          "abbreviation": "NVI-S",
+          "local_abbreviation": "NVI",
+          "title": "Nueva Versión Internacional 2022",
+          "local_title": "Nueva Versión Internacional - Español",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 38,
+          "vrs": "eng"
+        },
+        {
+          "id": 2664,
+          "abbreviation": "NVI-S",
+          "local_abbreviation": "NVIs",
+          "title": "Nueva Versión Internacional (Spanish New International Version) 2015",
+          "local_title": "La Santa Biblia, Nueva Versión Internacional Simplificada",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 3365,
+          "abbreviation": "spaPdDpt",
+          "local_abbreviation": "PdDpt",
+          "title": "Spanish Bible, Palabla de Dios para ti",
+          "local_title": "Palabla de Dios para ti",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 984,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 197,
+          "abbreviation": "PDT",
+          "local_abbreviation": "PDT",
+          "title": "Holy Bible: The Word of God for All",
+          "local_title": "La Biblia: La Palabra de Dios para todos",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 23,
+          "vrs": "eng"
+        },
+        {
+          "id": 1782,
+          "abbreviation": "RVA2015",
+          "local_abbreviation": "RVA2015",
+          "title": "Reina Valera Actualizada",
+          "local_title": "Reina Valera Actualizada",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 293,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 146,
+          "abbreviation": "RVC",
+          "local_abbreviation": "RVC",
+          "title": "Reina Valera Contemporánea",
+          "local_title": "Reina Valera Contemporánea",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 27,
+          "vrs": "eng"
+        },
+        {
+          "id": 147,
+          "abbreviation": "RVES",
+          "local_abbreviation": "RVES",
+          "title": "Reina-Valera Antigua",
+          "local_title": "Reina-Valera Antigua",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": [
+              "spa_es"
+            ]
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        },
+        {
+          "id": 1718,
+          "abbreviation": "RVR09",
+          "local_abbreviation": "RVR09",
+          "title": "Biblia Reina Valera 1909",
+          "local_title": "Biblia Reina Valera 1909",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "eng"
+        },
+        {
+          "id": 149,
+          "abbreviation": "RVR1960",
+          "local_abbreviation": "RVR1960",
+          "title": "Spanish, Biblia Reina Valera 1960",
+          "local_title": "Biblia Reina Valera 1960",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": [
+              "spa_es"
+            ]
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 30,
+          "vrs": "eng"
+        },
+        {
+          "id": 150,
+          "abbreviation": "RVR95",
+          "local_abbreviation": "RVR95",
+          "title": "Reina Valera 1995",
+          "local_title": "Biblia Reina Valera 1995",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": [
+              "spa_es"
+            ]
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 26,
+          "vrs": "eng"
+        },
+        {
+          "id": 4013,
+          "abbreviation": "TCB",
+          "local_abbreviation": "TCB",
+          "title": "NT Traducción Contemporánea de la Biblia",
+          "local_title": "NT Traducción Contemporánea de la Biblia",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 15140,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "lxx"
+        },
+        {
+          "id": 176,
+          "abbreviation": "TLA",
+          "local_abbreviation": "TLA",
+          "title": "Traducción en Lenguaje Actual",
+          "local_title": "Traducción en Lenguaje Actual",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 27,
+          "vrs": "eng"
+        },
+        {
+          "id": 178,
+          "abbreviation": "TLAI",
+          "local_abbreviation": "TLAI",
+          "title": "Traducción en Lenguaje Actual Interconfesional",
+          "local_title": "Traducción en Lenguaje Actual Interconfesional",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 26,
+          "vrs": "eng"
+        },
+        {
+          "id": 3291,
+          "abbreviation": "VBL",
+          "local_abbreviation": "VBL",
+          "title": "Versión Biblia Libre",
+          "local_title": "Versión Biblia Libre",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "es",
+            "iso_639_3": "spa",
+            "name": "Spanish",
+            "local_name": "Español (América Latina)",
+            "text_direction": "ltr",
+            "language_tag": "spa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 316,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 27,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

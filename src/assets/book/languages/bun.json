@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2617,
+          "abbreviation": "BUN1839",
+          "local_abbreviation": "BUN1839",
+          "title": "Sherbro Parables in Matthew and Luke 1839",
+          "local_title": "Sherbro Parables in Matthew and Luke 1839",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bun",
+            "name": "Sherbro",
+            "local_name": "Bolom",
+            "text_direction": "ltr",
+            "language_tag": "bun",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        },
+        {
+          "id": 2821,
+          "abbreviation": "SNT",
+          "local_abbreviation": "SNT",
+          "title": "Sherbro New Testament Portions",
+          "local_title": "Sherbro New Testament Portions",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bun",
+            "name": "Sherbro",
+            "local_name": "Bolom",
+            "text_direction": "ltr",
+            "language_tag": "bun",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 824,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

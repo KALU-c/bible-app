@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2985,
+          "abbreviation": "GVC",
+          "local_abbreviation": "GVC",
+          "title": "Wanano OT Portions",
+          "local_title": "Wanano OT Portions",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gvc",
+            "name": "Guanano",
+            "local_name": "Wanano",
+            "text_direction": "ltr",
+            "language_tag": "gvc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 832,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": null
+        },
+        {
+          "id": 1056,
+          "abbreviation": "gvcNT",
+          "local_abbreviation": "gvcNT",
+          "title": "Cohamacʉ Yare Yahari Tjuel",
+          "local_title": "Cohamacʉ Yare Yahari Tjuel",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gvc",
+            "name": "Guanano",
+            "local_name": "Wanano",
+            "text_direction": "ltr",
+            "language_tag": "gvc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

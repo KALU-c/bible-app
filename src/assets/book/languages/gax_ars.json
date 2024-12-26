@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3174,
+          "abbreviation": "ArsiDNT",
+          "local_abbreviation": "ArsiDNT",
+          "title": "Arsi-Bale Oromo NT",
+          "local_title": "Waadaa Haarawa",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gax",
+            "name": "Oromo, Arsi",
+            "local_name": "Arsi Oromo",
+            "text_direction": "ltr",
+            "language_tag": "gax_ars",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 279,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 3497,
+          "abbreviation": "AOBT",
+          "local_abbreviation": "KitWoy",
+          "title": "Arsi Oromo Bible",
+          "local_title": "Kitaaba Woyyuu",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gax",
+            "name": "Oromo, Arsi",
+            "local_name": "Arsi Oromo",
+            "text_direction": "ltr",
+            "language_tag": "gax_ars",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 279,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 3173,
+          "abbreviation": "WLNT",
+          "local_abbreviation": "WLNT",
+          "title": "Arsi-Bale Oromo NT - LTT",
+          "local_title": "WAADAA LAMMATAA",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gax",
+            "name": "Oromo, Arsi",
+            "local_name": "Arsi Oromo",
+            "text_direction": "ltr",
+            "language_tag": "gax_ars",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 279,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4004,
+          "abbreviation": "DOTY",
+          "local_abbreviation": "DOTY",
+          "title": "Doteli",
+          "local_title": "डोटेलि",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "dty",
+            "name": "Dotyali",
+            "local_name": "Dotyali",
+            "text_direction": "ltr",
+            "language_tag": "dty",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": null
+        },
+        {
+          "id": 3503,
+          "abbreviation": "DTYNT",
+          "local_abbreviation": "DTYNT",
+          "title": "Dotyali New Testament",
+          "local_title": "डोटेली नयाँ करार",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "dty",
+            "name": "Dotyali",
+            "local_name": "Dotyali",
+            "text_direction": "ltr",
+            "language_tag": "dty",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 820,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

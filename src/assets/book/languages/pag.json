@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2194,
+          "abbreviation": "MBBPAN83",
+          "local_abbreviation": "MBBPAN83",
+          "title": "Pangasinan Meaning-Based Bible",
+          "local_title": "Maung A Balita Biblia",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "pag",
+            "name": "Pangasinan",
+            "local_name": "Pangasinan",
+            "text_direction": "ltr",
+            "language_tag": "pag",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 240,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 1166,
+          "abbreviation": "PnPV",
+          "local_abbreviation": "PnPV",
+          "title": "Maung a Balita Biblia (PnPV)",
+          "local_title": "Maung a Balita Biblia",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "pag",
+            "name": "Pangasinan",
+            "local_name": "Pangasinan",
+            "text_direction": "ltr",
+            "language_tag": "pag",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 240,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

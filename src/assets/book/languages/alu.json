@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3943,
+          "abbreviation": "ALU",
+          "local_abbreviation": "ALU",
+          "title": "AreAre Old Testament",
+          "local_title": "AreAre Old Testament",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "alu",
+            "name": "Areare",
+            "local_name": "Areare",
+            "text_direction": "ltr",
+            "language_tag": "alu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 986,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": null
+        },
+        {
+          "id": 3761,
+          "abbreviation": "ALU",
+          "local_abbreviation": "ALU",
+          "title": "Areare",
+          "local_title": "'Are'are",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "alu",
+            "name": "Areare",
+            "local_name": "Areare",
+            "text_direction": "ltr",
+            "language_tag": "alu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

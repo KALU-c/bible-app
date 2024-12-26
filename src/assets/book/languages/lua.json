@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2919,
+          "abbreviation": "TSH",
+          "local_abbreviation": "TSH",
+          "title": "Bible in Tshiluba 2003",
+          "local_title": "Mukanda wa Nzambi Dihungila Dikulukulu ne Dihungila Dihia-dihia 2003",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lua",
+            "name": "Luba-Lulua",
+            "local_name": "Tshiluba",
+            "text_direction": "ltr",
+            "language_tag": "lua",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 266,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 2918,
+          "abbreviation": "TSH96",
+          "local_abbreviation": "TSH96",
+          "title": "Tshiluba DC Bible 1996",
+          "local_title": "MUKANDA WA MYIDI MUKULU",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lua",
+            "name": "Luba-Lulua",
+            "local_name": "Tshiluba",
+            "text_direction": "ltr",
+            "language_tag": "lua",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 266,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

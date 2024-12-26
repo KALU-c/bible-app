@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3203,
+          "abbreviation": "GuraB",
+          "local_abbreviation": "መቅጉ",
+          "title": "Gurage Bible",
+          "local_title": "መጣፍ ቅዱስ በጉራጌኛ",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "sgw",
+            "name": "Sebat Bet Gurage",
+            "local_name": "ሰባትቤት",
+            "text_direction": "ltr",
+            "language_tag": "sgw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 279,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

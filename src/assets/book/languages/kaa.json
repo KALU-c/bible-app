@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1732,
+          "abbreviation": "KrkNT",
+          "local_abbreviation": "KrkNT",
+          "title": "Karakalpak New Testament",
+          "local_title": "Жаңа Келисим",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kaa",
+            "name": "Karakalpak",
+            "local_name": "Qaraqalpaqsha (Қарақалпақша)",
+            "text_direction": "ltr",
+            "language_tag": "kaa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        },
+        {
+          "id": 3527,
+          "abbreviation": "KAA22L",
+          "local_abbreviation": "QrqMK22",
+          "title": "Karakalpak Bible (Latin)",
+          "local_title": "Muxaddes Kitap",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kaa",
+            "name": "Karakalpak",
+            "local_name": "Qaraqalpaqsha (Қарақалпақша)",
+            "text_direction": "ltr",
+            "language_tag": "kaa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "rsc"
+        },
+        {
+          "id": 3488,
+          "abbreviation": "KAA22C",
+          "local_abbreviation": "КркМК22",
+          "title": "Karakalpak Bible (Cyrillic)",
+          "local_title": "Мухаддес Китап",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kaa",
+            "name": "Karakalpak",
+            "local_name": "Qaraqalpaqsha (Қарақалпақша)",
+            "text_direction": "ltr",
+            "language_tag": "kaa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "rsc"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

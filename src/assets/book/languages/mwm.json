@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 446,
+          "abbreviation": "SB",
+          "local_abbreviation": "BS",
+          "title": "Sar Bible",
+          "local_title": "Bible sar",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mwm",
+            "name": "Sar",
+            "local_name": "Sar",
+            "text_direction": "ltr",
+            "language_tag": "mwm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 142,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "org"
+        },
+        {
+          "id": 445,
+          "abbreviation": "SARDC",
+          "local_abbreviation": "SARDC",
+          "title": "Sar Bible with DC",
+          "local_title": "Bibəl ta Sar̄",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mwm",
+            "name": "Sar",
+            "local_name": "Sar",
+            "text_direction": "ltr",
+            "language_tag": "mwm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 142,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

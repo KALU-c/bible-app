@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2330,
+          "abbreviation": "NSP",
+          "local_abbreviation": "ANA",
+          "title": "Nuaulu Bible",
+          "local_title": "Anahatana ne Anamanaya tau Sou Naunue",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nxl",
+            "name": "South Nuaulu",
+            "local_name": "South Nuaulu",
+            "text_direction": "ltr",
+            "language_tag": "nxl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

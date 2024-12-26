@@ -1,0 +1,134 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2561,
+          "abbreviation": "GERV",
+          "local_abbreviation": "GERV",
+          "title": "Holy Bible: Easy-to-Read Version",
+          "local_title": "પવિત્ર બાઈબલ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "gu",
+            "iso_639_3": "guj",
+            "name": "Gujarati",
+            "local_name": "ગુજરાતી",
+            "text_direction": "ltr",
+            "language_tag": "guj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 1848,
+          "abbreviation": "GUJCL-BSI",
+          "local_abbreviation": "GUJCL-BSI",
+          "title": "Gujarati Common Language Bible (BSI)",
+          "local_title": "પવિત્ર બાઇબલ C.L.",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "gu",
+            "iso_639_3": "guj",
+            "name": "Gujarati",
+            "local_name": "ગુજરાતી",
+            "text_direction": "ltr",
+            "language_tag": "guj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        },
+        {
+          "id": 1691,
+          "abbreviation": "GUJOVBSI",
+          "local_abbreviation": "GUJOVBSI",
+          "title": "Gujarati OV Reference Bible (BSI)",
+          "local_title": "પવિત્ર બાઇબલ OV Reference Bible (BSI)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "gu",
+            "iso_639_3": "guj",
+            "name": "Gujarati",
+            "local_name": "ગુજરાતી",
+            "text_direction": "ltr",
+            "language_tag": "guj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        },
+        {
+          "id": 1911,
+          "abbreviation": "IRVGuj",
+          "local_abbreviation": "IRVGuj",
+          "title": "Indian Revised Version (IRV) Gujarati-2019",
+          "local_title": "ઇન્ડિયન રીવાઇઝ્ડ વર્ઝન ગુજરાતી  - 2019",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "gu",
+            "iso_639_3": "guj",
+            "name": "Gujarati",
+            "local_name": "ગુજરાતી",
+            "text_direction": "ltr",
+            "language_tag": "guj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 424,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 4,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

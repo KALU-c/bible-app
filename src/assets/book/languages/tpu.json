@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2718,
+          "abbreviation": "tpu",
+          "local_abbreviation": "tpu",
+          "title": "Tampuan New Testament",
+          "local_title": "គម្ពីរ​ភាសា​ទំពួន",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tpu",
+            "name": "Tampuan",
+            "local_name": "Tampuan",
+            "text_direction": "ltr",
+            "language_tag": "tpu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "win8": true,
+            "wp7": true,
+            "ios": true,
+            "facebook": true,
+            "blackberry": true,
+            "android": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

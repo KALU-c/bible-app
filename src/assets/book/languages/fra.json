@@ -1,0 +1,584 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 504,
+          "abbreviation": "BCC1923",
+          "local_abbreviation": "BCC1923",
+          "title": "Bible catholique Crampon 1923",
+          "local_title": "Bible catholique Crampon 1923",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 158,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "org"
+        },
+        {
+          "id": 21,
+          "abbreviation": "BDS",
+          "local_abbreviation": "BDS",
+          "title": "La Bible du Semeur (The Bible of the Sower)",
+          "local_title": "La Bible du Semeur 2015",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 35,
+          "vrs": "org"
+        },
+        {
+          "id": 3286,
+          "abbreviation": "BEX",
+          "local_abbreviation": "BEX2004",
+          "title": "Explained Bible",
+          "local_title": "La Bible expliquée",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 24,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "org"
+        },
+        {
+          "id": 63,
+          "abbreviation": "BFC",
+          "local_abbreviation": "BFC",
+          "title": "French common language",
+          "local_title": "Bible en français courant",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 24,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 23,
+          "vrs": "org"
+        },
+        {
+          "id": 62,
+          "abbreviation": "FMAR",
+          "local_abbreviation": "FMAR",
+          "title": "Martin 1744",
+          "local_title": "Martin 1744",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        },
+        {
+          "id": 64,
+          "abbreviation": "JND",
+          "local_abbreviation": "JND",
+          "title": "Bible J.N. Darby",
+          "local_title": "Bible J.N. Darby",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 15132,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": "org"
+        },
+        {
+          "id": 4081,
+          "abbreviation": "LBS21",
+          "local_abbreviation": "LBS21",
+          "title": "La Bible Segond 21",
+          "local_title": "La Bible Segond 21",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 816,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "org"
+        },
+        {
+          "id": 93,
+          "abbreviation": "LSG",
+          "local_abbreviation": "LSG",
+          "title": "Bible Segond 1910",
+          "local_title": "La Sainte Bible par Louis Segond 1910",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 20,
+          "vrs": "org"
+        },
+        {
+          "id": 104,
+          "abbreviation": "NBS",
+          "local_abbreviation": "NBS",
+          "title": "Nouvelle Bible Segond",
+          "local_title": "Nouvelle Bible Segond",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 24,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": "org"
+        },
+        {
+          "id": 3877,
+          "abbreviation": "SGNEG79",
+          "local_abbreviation": "NEG 1979",
+          "title": "Segond NEG 1979",
+          "local_title": "Version Segond Nouvelle Edition de Genève 1979",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 816,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "org"
+        },
+        {
+          "id": 106,
+          "abbreviation": "NEG79",
+          "local_abbreviation": "NEG79",
+          "title": "Nouvelle Edition de Genève 1979",
+          "local_title": "Nouvelle Edition de Genève 1979",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 113,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 26,
+          "vrs": "org"
+        },
+        {
+          "id": 2367,
+          "abbreviation": "NFC",
+          "local_abbreviation": "NFC",
+          "title": "New French current",
+          "local_title": "Nouvelle Français courant",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 24,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "org"
+        },
+        {
+          "id": 2053,
+          "abbreviation": "NVS78P",
+          "local_abbreviation": "NVS78P",
+          "title": "Nouvelle Segond révisée",
+          "local_title": "Nouvelle Segond révisée",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 24,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "org"
+        },
+        {
+          "id": 131,
+          "abbreviation": "OST",
+          "local_abbreviation": "OST",
+          "title": "Ostervald",
+          "local_title": "Ostervald",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 20,
+          "vrs": "org"
+        },
+        {
+          "id": 133,
+          "abbreviation": "PDV2017",
+          "local_abbreviation": "PDV2017",
+          "title": "Parole de Vie 2017",
+          "local_title": "Parole de Vie 2017",
+          "audio": true,
+          "audio_count": 4,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 24,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 25,
+          "vrs": "org"
+        },
+        {
+          "id": 152,
+          "abbreviation": "S21",
+          "local_abbreviation": "S21",
+          "title": "Bible Segond 21",
+          "local_title": "Bible Segond 21",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 113,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 32,
+          "vrs": "org"
+        },
+        {
+          "id": 2599,
+          "abbreviation": "Sacy",
+          "local_abbreviation": "Sacy",
+          "title": "French Gospel of Matthew 1855 (de Sacy)",
+          "local_title": "Évangile de Saint Matthieu 1855 (de Sacy)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": null
+        },
+        {
+          "id": 3447,
+          "abbreviation": "TFM",
+          "local_abbreviation": "TFM",
+          "title": "French Model Translation",
+          "local_title": "Traduction Française de Modèle",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        },
+        {
+          "id": 3547,
+          "abbreviation": "THU",
+          "local_abbreviation": "THU",
+          "title": "Gospel of Matthew 1864 (Frainc-Comtois)",
+          "local_title": "Saint Maitthieu 1864 (Frainc-Comtou - Thuriet)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fr",
+            "iso_639_3": "fra",
+            "name": "French",
+            "local_name": "Français",
+            "text_direction": "ltr",
+            "language_tag": "fra",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 19,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

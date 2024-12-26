@@ -1,0 +1,134 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 215,
+          "abbreviation": "ARC",
+          "local_abbreviation": "ARC",
+          "title": "Translation of João Ferreira de Almeida, Revised and corrected (Portugal)",
+          "local_title": "Almeida Revista e Corrigida (Portugal)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Portugal)",
+            "local_name": "Português (Portugal) ",
+            "text_direction": "ltr",
+            "language_tag": "por_pt",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 71,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 28,
+          "vrs": "eng"
+        },
+        {
+          "id": 432,
+          "abbreviation": "BPT09",
+          "local_abbreviation": "BPT09",
+          "title": "Interconfessional Translation: The BIBLE for all",
+          "local_title": "a BÍBLIA para todos Edição Comum",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Portugal)",
+            "local_name": "Português (Portugal) ",
+            "text_direction": "ltr",
+            "language_tag": "por_pt",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 71,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "org"
+        },
+        {
+          "id": 228,
+          "abbreviation": "BPT09DC",
+          "local_abbreviation": "BPT09DC",
+          "title": "Interconfessional Translation: The BIBLE for all",
+          "local_title": "a BÍBLIA para todos Edição Católica",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Portugal)",
+            "local_name": "Português (Portugal) ",
+            "text_direction": "ltr",
+            "language_tag": "por_pt",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 71,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 34,
+          "vrs": "org"
+        },
+        {
+          "id": 1967,
+          "abbreviation": "OL",
+          "local_abbreviation": "OL",
+          "title": "O Livro",
+          "local_title": "O Livro",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Portugal)",
+            "local_name": "Português (Portugal) ",
+            "text_direction": "ltr",
+            "language_tag": "por_pt",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 4,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3360,
+          "abbreviation": "rbb",
+          "local_abbreviation": "RMT",
+          "title": "Rumai New Testament",
+          "local_title": "ဘေဲႇကျာမ်းတမာည်းညျှာရူမာည်း",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rbb",
+            "name": "Palaung, Rumai",
+            "local_name": "Palaung, Rumai",
+            "text_direction": "ltr",
+            "language_tag": "rbb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

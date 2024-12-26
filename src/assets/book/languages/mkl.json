@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1034,
+          "abbreviation": "MKL",
+          "local_abbreviation": "MKL",
+          "title": "Bible Monkolé",
+          "local_title": "Bibeli do fee",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mkl",
+            "name": "Mokole",
+            "local_name": "Mokole",
+            "text_direction": "ltr",
+            "language_tag": "mkl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 189,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

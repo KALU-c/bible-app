@@ -1,0 +1,254 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2318,
+          "abbreviation": "CHR",
+          "local_abbreviation": "CHR",
+          "title": "Chraska Bible",
+          "local_title": "Chráskov prevod",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sl",
+            "iso_639_3": "slv",
+            "name": "Slovenian",
+            "local_name": "Slovenščina",
+            "text_direction": "ltr",
+            "language_tag": "slv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 104,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "org"
+        },
+        {
+          "id": 2415,
+          "abbreviation": "DAL1584",
+          "local_abbreviation": "DAL1584",
+          "title": "Dalmatin Bible 1584",
+          "local_title": "Dalmatinova Biblija 1584",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sl",
+            "iso_639_3": "slv",
+            "name": "Slovenian",
+            "local_name": "Slovenščina",
+            "text_direction": "ltr",
+            "language_tag": "slv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 104,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": null
+        },
+        {
+          "id": 2051,
+          "abbreviation": "EKU",
+          "local_abbreviation": "EKU",
+          "title": "Ecumenical Edition",
+          "local_title": "Ekumenska izdaja",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sl",
+            "iso_639_3": "slv",
+            "name": "Slovenian",
+            "local_name": "Slovenščina",
+            "text_direction": "ltr",
+            "language_tag": "slv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 104,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "org"
+        },
+        {
+          "id": 376,
+          "abbreviation": "SJV",
+          "local_abbreviation": "JUB",
+          "title": "Jubilee Version of the New Testament",
+          "local_title": "Jubilejni prevod Nove zaveze",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sl",
+            "iso_639_3": "slv",
+            "name": "Slovenian",
+            "local_name": "Slovenščina",
+            "text_direction": "ltr",
+            "language_tag": "slv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 104,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 30,
+          "vrs": "lxx"
+        },
+        {
+          "id": 1733,
+          "abbreviation": "PREK28",
+          "local_abbreviation": "PREK28",
+          "title": "Prekmurian NT & Psalms (1928)",
+          "local_title": "Prekmurska NZ & Psalmi (1928)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sl",
+            "iso_639_3": "slv",
+            "name": "Slovenian",
+            "local_name": "Slovenščina",
+            "text_direction": "ltr",
+            "language_tag": "slv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 104,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "org"
+        },
+        {
+          "id": 2319,
+          "abbreviation": "SSP",
+          "local_abbreviation": "SSP",
+          "title": "Slovenian Standard Version",
+          "local_title": "Slovenski standardni prevod",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sl",
+            "iso_639_3": "slv",
+            "name": "Slovenian",
+            "local_name": "Slovenščina",
+            "text_direction": "ltr",
+            "language_tag": "slv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 104,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "org"
+        },
+        {
+          "id": 1636,
+          "abbreviation": "SLNT",
+          "local_abbreviation": "ZNZ",
+          "title": "Slovenian Living New Testament",
+          "local_title": "Živa Nova zaveza",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sl",
+            "iso_639_3": "slv",
+            "name": "Slovenian",
+            "local_name": "Slovenščina",
+            "text_direction": "ltr",
+            "language_tag": "slv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 1383,
+          "abbreviation": "ZJ",
+          "local_abbreviation": "ŽJ",
+          "title": "Life with Jesus",
+          "local_title": "Življenje z Jezusom",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sl",
+            "iso_639_3": "slv",
+            "name": "Slovenian",
+            "local_name": "Slovenščina",
+            "text_direction": "ltr",
+            "language_tag": "slv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 104,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 8,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

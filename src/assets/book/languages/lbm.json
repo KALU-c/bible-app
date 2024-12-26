@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2788,
+          "abbreviation": "NTLii20",
+          "local_abbreviation": "NTLii20",
+          "title": "The New Testament in Lodhi language",
+          "local_title": "परमेश्वर को सच्चो वचन , नयो नियम,",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lbm",
+            "name": "Lodhi",
+            "local_name": "Lodhi",
+            "text_direction": "ltr",
+            "language_tag": "lbm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 206,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

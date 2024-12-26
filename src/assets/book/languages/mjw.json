@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 997,
+          "abbreviation": "KARBIBSI",
+          "local_abbreviation": "KARBIBSI",
+          "title": "Karbi Holy Bible (BSI)",
+          "local_title": "BAIBEL KANGTHIR (BSI)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mjw",
+            "name": "Karbi",
+            "local_name": "Karbi",
+            "text_direction": "ltr",
+            "language_tag": "mjw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

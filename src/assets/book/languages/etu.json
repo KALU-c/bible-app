@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 889,
+          "abbreviation": "ETUNT",
+          "local_abbreviation": "ETUNT",
+          "title": "Ejagham New Testament",
+          "local_title": "Ejagham New Testament",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "etu",
+            "name": "Ejagham",
+            "local_name": "Ejagham",
+            "text_direction": "ltr",
+            "language_tag": "etu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 79,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

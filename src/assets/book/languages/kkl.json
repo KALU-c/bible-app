@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3740,
+          "abbreviation": "kklKOS",
+          "local_abbreviation": "kklKOS",
+          "title": "Kosarek New Testament (with OT portions)",
+          "local_title": "Allahri Yubu Nikne Wendogne (apna Samenagne pogtoba)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kkl",
+            "name": "Yale, Kosarek",
+            "local_name": "Yale, Kosarek",
+            "text_direction": "ltr",
+            "language_tag": "kkl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

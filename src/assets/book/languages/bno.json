@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2174,
+          "abbreviation": "bnoNTgnex",
+          "local_abbreviation": "bnoNTgnex",
+          "title": "Bantoanon/Asi NT with Gen Exo",
+          "local_title": "Bag-ong Kasuyatan",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bno",
+            "name": "Bantoanon",
+            "local_name": "Bantoanon",
+            "text_direction": "ltr",
+            "language_tag": "bno",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2970,
+          "abbreviation": "LB66",
+          "local_abbreviation": "LB66",
+          "title": "Bible in Lugbara",
+          "local_title": "E’yo Siza Alatararu Munguniri BIBLIA",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lgg",
+            "name": "Lugbara",
+            "local_name": "Lugbara",
+            "text_direction": "ltr",
+            "language_tag": "lgg",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

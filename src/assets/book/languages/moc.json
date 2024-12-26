@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 332,
+          "abbreviation": "MCV91",
+          "local_abbreviation": "MCV91",
+          "title": "Mocoví New Testament & Shorter Old Testament",
+          "local_title": "La'qaatqa ñi qota'olec Qota'olec & Qota'olec Novita Na Qomyipi",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "moc",
+            "name": "Mocoví",
+            "local_name": "Mocoví",
+            "text_direction": "ltr",
+            "language_tag": "moc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 116,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

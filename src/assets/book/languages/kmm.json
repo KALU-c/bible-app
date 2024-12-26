@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1542,
+          "abbreviation": "KOMRBSI",
+          "local_abbreviation": "KOMRBSI",
+          "title": "Komrem Revised Bible (BSI)",
+          "local_title": "LEKHARABU INTHENG (BSI)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kmm",
+            "name": "Kom (India)",
+            "local_name": "Komrem",
+            "text_direction": "ltr",
+            "language_tag": "kmm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

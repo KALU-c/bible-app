@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2071,
+          "abbreviation": "kubNT",
+          "local_abbreviation": "kubNT",
+          "title": "Kuteb New Testament with Old Testament portions",
+          "local_title": "Kutsingken Ira Rimam ti Saen Kyag",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kub",
+            "name": "Kutep",
+            "local_name": "Kutep",
+            "text_direction": "ltr",
+            "language_tag": "kub",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 138,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

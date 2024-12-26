@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2877,
+          "abbreviation": "LUKA",
+          "local_abbreviation": "LUKA",
+          "title": "MWIMBI MUTHAMBI  GOSPEL  OF LUKE",
+          "local_title": "NTETO ĨMBEGA TA BŨRĨA YANDĨKIRWE NĨ LUKA",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mws",
+            "name": "Mwimbi-Muthambi",
+            "local_name": "Mwimbi-Muthambi",
+            "text_direction": "ltr",
+            "language_tag": "mws",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

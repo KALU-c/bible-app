@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3277,
+          "abbreviation": "gfkh",
+          "local_abbreviation": "GFKH",
+          "title": "Hinsaal dialect of Patpatar New Testament",
+          "local_title": "No Tahut na Hinhinawas",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gfk",
+            "name": "Patpatar",
+            "local_name": "Patpatar",
+            "text_direction": "ltr",
+            "language_tag": "gfk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 1014,
+          "abbreviation": "gfk",
+          "local_abbreviation": "gfkNTP",
+          "title": "Patpatar New Testament and Psalms",
+          "local_title": "No Sigar Kunubus tika ma Ira Ninge na Lotu",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gfk",
+            "name": "Patpatar",
+            "local_name": "Patpatar",
+            "text_direction": "ltr",
+            "language_tag": "gfk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        },
+        {
+          "id": 3276,
+          "abbreviation": "gfks",
+          "local_abbreviation": "GFKS",
+          "title": "Sokarek New Testament",
+          "local_title": "No Tahut na Hininaawas",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gfk",
+            "name": "Patpatar",
+            "local_name": "Patpatar",
+            "text_direction": "ltr",
+            "language_tag": "gfk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

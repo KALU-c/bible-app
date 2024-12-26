@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3852,
+          "abbreviation": "APB",
+          "local_abbreviation": "APB",
+          "title": "pbuAF - Afghan Pashto Translation Project",
+          "local_title": "Afghan Pashto Bible",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "pbu",
+            "name": "Pashto, Northern",
+            "local_name": "Pashto, Northern",
+            "text_direction": "rtl",
+            "language_tag": "pbu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 63,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "eng"
+        },
+        {
+          "id": 2510,
+          "abbreviation": "PYPB",
+          "local_abbreviation": "PYPB",
+          "title": "Pakistani Yousafzai Pashto",
+          "local_title": "Pakistani Yousafzai Pashto",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "pbu",
+            "name": "Pashto, Northern",
+            "local_name": "Pashto, Northern",
+            "text_direction": "rtl",
+            "language_tag": "pbu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 63,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

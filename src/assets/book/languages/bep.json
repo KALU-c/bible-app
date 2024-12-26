@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2840,
+          "abbreviation": "NTBEP",
+          "local_abbreviation": "NTBEP",
+          "title": "Holy Book: Several books of the Old Testament and the New Testament in the Behoa language of Central Sulawesi",
+          "local_title": "Sura Magasaꞌ: Bahangapa sura Pototowiá to Sae hai Pototowiá to Woꞌu",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bep",
+            "name": "Besoa",
+            "local_name": "Besoa",
+            "text_direction": "ltr",
+            "language_tag": "bep",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

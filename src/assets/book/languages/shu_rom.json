@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 501,
+          "abbreviation": "ShulLatn",
+          "local_abbreviation": "ADT19",
+          "title": "Arabe tchadien (alphabet latin)",
+          "local_title": "Al-Kitaab al-Mukhaddas be l-arabi al-daariji hana Tchad",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "shu",
+            "name": "Chadian Arabic (Roman script)",
+            "local_name": "Arabe tchadien",
+            "text_direction": "ltr",
+            "language_tag": "shu_rom",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 142,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1823,
+          "abbreviation": "Akg-MkAc",
+          "local_abbreviation": "Akg-MkAc",
+          "title": "Akukem Portions for DBL",
+          "local_title": "Mak Osɨrisira Akaman Aghuuŋ ko Iesusɨm Mbɨsevisir Gumasi",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "spm",
+            "name": "Akukem",
+            "local_name": "Akɨghɨman Akam",
+            "text_direction": "ltr",
+            "language_tag": "spm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 173,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

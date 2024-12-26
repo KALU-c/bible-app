@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 915,
+          "abbreviation": "LBV",
+          "local_abbreviation": "LBV",
+          "title": "The New Testament in Lughulu",
+          "local_title": "Laghano Lya Sambi Kwe Iwanu Wose",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ruf",
+            "name": "Luguru",
+            "local_name": "Chilughuru",
+            "text_direction": "ltr",
+            "language_tag": "ruf",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 173,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

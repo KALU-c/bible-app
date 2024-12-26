@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3370,
+          "abbreviation": "BER",
+          "local_abbreviation": "BACHRO",
+          "title": "Biblia en Romané",
+          "local_title": "Biblia ande chib Romani",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmy",
+            "name": "Romani: Ursari",
+            "local_name": "Romani: Ursari",
+            "text_direction": "ltr",
+            "language_tag": "rmy",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 101,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 1360,
+          "abbreviation": "ROMURS",
+          "local_abbreviation": "ROMURS",
+          "title": "Gospel of Matthew in Vlax Usari Romani 1996",
+          "local_title": "Evanghelia pala o Matei 1996 (ursarilor România)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmy",
+            "name": "Romani: Ursari",
+            "local_name": "Romani: Ursari",
+            "text_direction": "ltr",
+            "language_tag": "rmy",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 246,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 18,
+          "vrs": null
+        },
+        {
+          "id": 3348,
+          "abbreviation": "LRB",
+          "local_abbreviation": "ЛРБ",
+          "title": "Lovary Romany Bible",
+          "local_title": "Библия пэ ловарицко романы щиб",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmy",
+            "name": "Romani: Ursari",
+            "local_name": "Romani: Ursari",
+            "text_direction": "ltr",
+            "language_tag": "rmy",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 173,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        },
+        {
+          "id": 3138,
+          "abbreviation": "SRB",
+          "local_abbreviation": "СРБ",
+          "title": "Servi Romani Bible",
+          "local_title": "Библия пы сэрвицко ромско чиб",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmy",
+            "name": "Romani: Ursari",
+            "local_name": "Romani: Ursari",
+            "text_direction": "ltr",
+            "language_tag": "rmy",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 173,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        },
+        {
+          "id": 3342,
+          "abbreviation": "VRB",
+          "local_abbreviation": "СРБ",
+          "title": "Власитский перевод",
+          "local_title": "Библия пэ влахицко романи шыб",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmy",
+            "name": "Romani: Ursari",
+            "local_name": "Romani: Ursari",
+            "text_direction": "ltr",
+            "language_tag": "rmy",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 173,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

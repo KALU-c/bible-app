@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3942,
+          "abbreviation": "CMO2023",
+          "local_abbreviation": "CMO2023",
+          "title": "The Holy Bible in M'Nong 2023",
+          "local_title": "Nau Brah Ndu Ngơi 2023",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cmo",
+            "name": "Bunong",
+            "local_name": "Bunong",
+            "text_direction": "ltr",
+            "language_tag": "cmo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 269,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 1758,
+          "abbreviation": "cmoK",
+          "local_abbreviation": "cmoK",
+          "title": "Central Mnong (Khmer)",
+          "local_title": "Bunong",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cmo",
+            "name": "Bunong",
+            "local_name": "Bunong",
+            "text_direction": "ltr",
+            "language_tag": "cmo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        },
+        {
+          "id": 1657,
+          "abbreviation": "cmoL",
+          "local_abbreviation": "cmoL",
+          "title": "Bunong Bible Latin Script Cambodian dialect",
+          "local_title": "Bunong Bible Latin Script Cambodian dialect",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cmo",
+            "name": "Bunong",
+            "local_name": "Bunong",
+            "text_direction": "ltr",
+            "language_tag": "cmo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1311,
+          "abbreviation": "wibDBL",
+          "local_abbreviation": "wibDBL",
+          "title": "wib New Testament in Toussian",
+          "local_title": "wib Nouveau Testament en toussian",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "wib",
+            "name": "Southern Toussian",
+            "local_name": "Win",
+            "text_direction": "ltr",
+            "language_tag": "wib",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

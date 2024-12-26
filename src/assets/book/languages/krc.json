@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2317,
+          "abbreviation": "BlkNTP",
+          "local_abbreviation": "BlkNTP",
+          "title": "Balkar New Testament + Psalms",
+          "local_title": "Сыйлы Инжил бла Забур",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "krc",
+            "name": "Qaraçay-Malqar til (Karachay-Balkar)",
+            "local_name": "Къарачай-Малкъар тил",
+            "text_direction": "ltr",
+            "language_tag": "krc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 323,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

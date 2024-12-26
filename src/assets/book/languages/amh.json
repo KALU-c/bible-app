@@ -1,0 +1,194 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1260,
+          "abbreviation": "NASV",
+          "local_abbreviation": "NASV",
+          "title": "New Amharic Standard Version 2024",
+          "local_title": "አዲሱ መደበኛ ትርጒም",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "am",
+            "iso_639_3": "amh",
+            "name": "Amharic",
+            "local_name": "አማርኛ",
+            "text_direction": "ltr",
+            "language_tag": "amh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        },
+        {
+          "id": 4096,
+          "abbreviation": "NASV",
+          "local_abbreviation": "NASV",
+          "title": "New Amharic Standard Version",
+          "local_title": "አዲሱ መደበኛ ትርጒም",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "am",
+            "iso_639_3": "amh",
+            "name": "Amharic",
+            "local_name": "አማርኛ",
+            "text_direction": "ltr",
+            "language_tag": "amh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        },
+        {
+          "id": 3199,
+          "abbreviation": "ACED",
+          "local_abbreviation": "መቅካእኤ",
+          "title": "Amharic Catholic Edition",
+          "local_title": "መጽሐፍ ቅዱስ - (ካቶሊካዊ  እትም - ኤማሁስ)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "am",
+            "iso_639_3": "amh",
+            "name": "Amharic",
+            "local_name": "አማርኛ",
+            "text_direction": "ltr",
+            "language_tag": "amh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 279,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "org"
+        },
+        {
+          "id": 3198,
+          "abbreviation": "Amh05",
+          "local_abbreviation": "አማ05",
+          "title": "Amharic CLT Bible",
+          "local_title": "አማርኛ አዲሱ መደበኛ ትርጉም",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "am",
+            "iso_639_3": "amh",
+            "name": "Amharic",
+            "local_name": "አማርኛ",
+            "text_direction": "ltr",
+            "language_tag": "amh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 279,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 3200,
+          "abbreviation": "Amh07",
+          "local_abbreviation": "አማ2000",
+          "title": "Amharic Bible (81 Books)",
+          "local_title": "የአማርኛ መጽሐፍ ቅዱስ (ሰማንያ አሃዱ)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "am",
+            "iso_639_3": "amh",
+            "name": "Amharic",
+            "local_name": "አማርኛ",
+            "text_direction": "ltr",
+            "language_tag": "amh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 279,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "rsc"
+        },
+        {
+          "id": 3867,
+          "abbreviation": "Amh62",
+          "local_abbreviation": "አማ54",
+          "title": "Amharic Bible (1962)",
+          "local_title": "መጽሐፍ ቅዱስ (የብሉይና የሐዲስ ኪዳን መጻሕፍት)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "am",
+            "iso_639_3": "amh",
+            "name": "Amharic",
+            "local_name": "አማርኛ",
+            "text_direction": "ltr",
+            "language_tag": "amh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 279,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 6,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

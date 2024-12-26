@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 544,
+          "abbreviation": "cbt",
+          "local_abbreviation": "cbt",
+          "title": "Chayahuita (Shahui)",
+          "local_title": "Chayahuita (Shahui)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cbt",
+            "name": "Chayahuita",
+            "local_name": "Chayahuita",
+            "text_direction": "ltr",
+            "language_tag": "cbt",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

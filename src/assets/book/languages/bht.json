@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3245,
+          "abbreviation": "BHTNT",
+          "local_abbreviation": "BHTNT",
+          "title": "Bhattiyali NT",
+          "local_title": "भटियाली नोआ नियम",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bht",
+            "name": "Bhattiyali",
+            "local_name": "Bhattiyali",
+            "text_direction": "ltr",
+            "language_tag": "bht",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 820,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

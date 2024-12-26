@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1743,
+          "abbreviation": "BOJ2014",
+          "local_abbreviation": "BOJ2014",
+          "title": "The New Testament in the Anjam language of Papua New Guinea",
+          "local_title": "Yesus Aqa Anjam Bole",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "boj",
+            "name": "Anjam",
+            "local_name": "Anjam",
+            "text_direction": "ltr",
+            "language_tag": "boj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 936,
+          "abbreviation": "bojNT",
+          "local_abbreviation": "bojNT",
+          "title": "Yesus Aqa Anjam Bole",
+          "local_title": "Yesus Aqa Anjam Bole",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "boj",
+            "name": "Anjam",
+            "local_name": "Anjam",
+            "text_direction": "ltr",
+            "language_tag": "boj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

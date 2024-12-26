@@ -1,0 +1,374 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1506,
+          "abbreviation": "BINT09",
+          "local_abbreviation": "BINT09",
+          "title": "Romanian Interconfessional New Testament 2009",
+          "local_title": "Română Noul Testament Interconfesional 2009",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ro",
+            "iso_639_3": "ron",
+            "name": "Romanian",
+            "local_name": "Română",
+            "text_direction": "ltr",
+            "language_tag": "ron",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 246,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 18,
+          "vrs": "eng"
+        },
+        {
+          "id": 1466,
+          "abbreviation": "BIV2014",
+          "local_abbreviation": "BIV2014",
+          "title": "Biblia în versuri 2014",
+          "local_title": "Biblia în versuri 2014",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ro",
+            "iso_639_3": "ron",
+            "name": "Romanian",
+            "local_name": "Română",
+            "text_direction": "ltr",
+            "language_tag": "ron",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 263,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 903,
+          "abbreviation": "BTF2015",
+          "local_abbreviation": "BTF2015",
+          "title": "Biblia Traducerea Fidela 2015",
+          "local_title": "Biblia Traducerea Fidela 2015",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ro",
+            "iso_639_3": "ron",
+            "name": "Romanian",
+            "local_name": "Română",
+            "text_direction": "ltr",
+            "language_tag": "ron",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 262,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 1454,
+          "abbreviation": "BVA",
+          "local_abbreviation": "BVA",
+          "title": "Biblia în Versiune Actualizată 2018",
+          "local_title": "Biblia în Versiune Actualizată 2018",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ro",
+            "iso_639_3": "ron",
+            "name": "Romanian",
+            "local_name": "Română",
+            "text_direction": "ltr",
+            "language_tag": "ron",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 257,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 3914,
+          "abbreviation": "EDC100",
+          "local_abbreviation": "EDC100",
+          "title": "Cornilescu Centenary Edition 2024",
+          "local_title": "Biblia Dumitru Cornilescu 2024",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ro",
+            "iso_639_3": "ron",
+            "name": "Romanian",
+            "local_name": "Română",
+            "text_direction": "ltr",
+            "language_tag": "ron",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 2311,
+          "abbreviation": "EDCR",
+          "local_abbreviation": "EDCR",
+          "title": "Revised Dumitru Cornilescu Edition 2022",
+          "local_title": "Ediția Dumitru Cornilescu revizuită 2022",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ro",
+            "iso_639_3": "ron",
+            "name": "Romanian",
+            "local_name": "Română",
+            "text_direction": "ltr",
+            "language_tag": "ron",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 126,
+          "abbreviation": "NTR",
+          "local_abbreviation": "NTR",
+          "title": "New Romanian Translation 2021",
+          "local_title": "Noua Traducere Românească",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "ro",
+            "iso_639_3": "ron",
+            "name": "Romanian",
+            "local_name": "Română",
+            "text_direction": "ltr",
+            "language_tag": "ron",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 29,
+          "vrs": "eng"
+        },
+        {
+          "id": 3616,
+          "abbreviation": "NTSBR",
+          "local_abbreviation": "NTSBR",
+          "title": "Noul Testament SBR 2023",
+          "local_title": "Noul Testament SBR 2023",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ro",
+            "iso_639_3": "ron",
+            "name": "Romanian",
+            "local_name": "Română",
+            "text_direction": "ltr",
+            "language_tag": "ron",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 6588,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 1467,
+          "abbreviation": "VBRC2020",
+          "local_abbreviation": "VBRC2020",
+          "title": "Versiunea Biblia Romano-Catolică 2020",
+          "local_title": "Versiunea Biblia Romano-Catolică 2020",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ro",
+            "iso_639_3": "ron",
+            "name": "Romanian",
+            "local_name": "Română",
+            "text_direction": "ltr",
+            "language_tag": "ron",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 264,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "org"
+        },
+        {
+          "id": 191,
+          "abbreviation": "BDC",
+          "local_abbreviation": "VDC",
+          "title": "Romanian Cornilescu 1924 Reference Bible",
+          "local_title": "Biblia sau Sfânta Scriptură cu Trimiteri 1924, Dumitru Cornilescu",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ro",
+            "iso_639_3": "ron",
+            "name": "Romanian",
+            "local_name": "Română",
+            "text_direction": "ltr",
+            "language_tag": "ron",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 246,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 32,
+          "vrs": "eng"
+        },
+        {
+          "id": 1996,
+          "abbreviation": "VDCL",
+          "local_abbreviation": "VDCL",
+          "title": "Romanian Cornilescu literal translation 1931",
+          "local_title": "Traducere Literală Cornilescu 1931",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ro",
+            "iso_639_3": "ron",
+            "name": "Romanian",
+            "local_name": "Română",
+            "text_direction": "ltr",
+            "language_tag": "ron",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 246,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 2072,
+          "abbreviation": "BDCC",
+          "local_abbreviation": "БДК",
+          "title": "Romanian Cornilescu Reference Bible 1924 in Cyrillic script (Moldova)",
+          "local_title": "Библия Думитру Корнилеску 1924",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ro",
+            "iso_639_3": "ron",
+            "name": "Romanian",
+            "local_name": "Română",
+            "text_direction": "ltr",
+            "language_tag": "ron",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 12,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

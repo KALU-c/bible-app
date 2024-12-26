@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2743,
+          "abbreviation": "IRVOry",
+          "local_abbreviation": "IRVOry",
+          "title": "Indian Revised Version(IRV) Odia - NT",
+          "local_title": "ଇଣ୍ଡିୟାନ ରିୱାଇସ୍ଡ୍ ୱରସନ୍ ଓଡିଆ -NT",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ory",
+            "name": "Oriya",
+            "local_name": "Odia",
+            "text_direction": "ltr",
+            "language_tag": "ory",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 424,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 1962,
+          "abbreviation": "ODCLBSI",
+          "local_abbreviation": "ODCLBSI",
+          "title": "Odia (CL) New Testament (BSI)",
+          "local_title": "ପବିତ୍ର ବାଇବଲ (CL) NT (BSI)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ory",
+            "name": "Oriya",
+            "local_name": "Odia",
+            "text_direction": "ltr",
+            "language_tag": "ory",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        },
+        {
+          "id": 1749,
+          "abbreviation": "ODIAOV-BSI",
+          "local_abbreviation": "ODIAOV-BSI",
+          "title": "Odia Old Version (Re-edited) - (BSI)",
+          "local_title": "ପବିତ୍ର ବାଇବଲ (Re-edited) - (BSI)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ory",
+            "name": "Oriya",
+            "local_name": "Odia",
+            "text_direction": "ltr",
+            "language_tag": "ory",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        },
+        {
+          "id": 3804,
+          "abbreviation": "OERV",
+          "local_abbreviation": "OERV",
+          "title": "Holy Bible: Easy-to-Read Version",
+          "local_title": "ପବିତ୍ର ବାଇବଲ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ory",
+            "name": "Oriya",
+            "local_name": "Odia",
+            "text_direction": "ltr",
+            "language_tag": "ory",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 1886,
+          "abbreviation": "oryirv",
+          "local_abbreviation": "ORYIRV",
+          "title": "Oria Indian Revised Version Bible",
+          "local_title": "ଓଡିଆ ବାଇବେଲ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ory",
+            "name": "Oriya",
+            "local_name": "Odia",
+            "text_direction": "ltr",
+            "language_tag": "ory",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 424,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

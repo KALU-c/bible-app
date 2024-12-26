@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2090,
+          "abbreviation": "SEMB",
+          "local_abbreviation": "SEMB",
+          "title": "Samberigi New Testament and Genesis",
+          "local_title": "Panake Pi La: Ula: Buka, pita: Kine Pieke Buka",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ssx",
+            "name": "Samberigi",
+            "local_name": "Samberigi",
+            "text_direction": "ltr",
+            "language_tag": "ssx",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 317,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

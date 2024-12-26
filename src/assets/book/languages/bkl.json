@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2844,
+          "abbreviation": "LAIBKL",
+          "local_abbreviation": "LAIBKL",
+          "title": "The New Testament in Berik",
+          "local_title": "Taterisi Uwa Sanbagirmana Ibirmiserem",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bkl",
+            "name": "Berik",
+            "local_name": "Berik",
+            "text_direction": "ltr",
+            "language_tag": "bkl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

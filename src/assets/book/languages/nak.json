@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1133,
+          "abbreviation": "nakNT",
+          "local_abbreviation": "nakNT",
+          "title": "La Buk Tabu ale halaba te la valolo ale taritigi te Iesus Kraist",
+          "local_title": "Nakanai",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nak",
+            "name": "Nakanai",
+            "local_name": "Nakanai",
+            "text_direction": "ltr",
+            "language_tag": "nak",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

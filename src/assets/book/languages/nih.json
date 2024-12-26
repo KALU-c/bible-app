@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3145,
+          "abbreviation": "nih",
+          "local_abbreviation": "nih",
+          "title": "Nyiha New Testament",
+          "local_title": "ULufingwi uLupwa",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nih",
+            "name": "Nyiha, Tanzania",
+            "local_name": "Nyiha, Tanzania",
+            "text_direction": "ltr",
+            "language_tag": "nih",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 3045,
+          "abbreviation": "NYi1965",
+          "local_abbreviation": "NYi1965",
+          "title": "Nyiha New Testament 1965",
+          "local_title": "Tesitamenti Umupwa 1965",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nih",
+            "name": "Nyiha, Tanzania",
+            "local_name": "Nyiha, Tanzania",
+            "text_direction": "ltr",
+            "language_tag": "nih",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 268,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

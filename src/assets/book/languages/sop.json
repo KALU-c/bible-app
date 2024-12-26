@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1494,
+          "abbreviation": "NTLK52",
+          "local_abbreviation": "NTLK52",
+          "title": "Nouveau Testament en Luba-Kalebwe 1952",
+          "local_title": "KILOMBENO KIHYA KIA NFUMWETU YESU KIDISITU",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "sop",
+            "name": "Songe",
+            "local_name": "Luba-Kalebwe",
+            "text_direction": "ltr",
+            "language_tag": "sop",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 266,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

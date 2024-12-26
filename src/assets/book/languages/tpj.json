@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3686,
+          "abbreviation": "TPJ",
+          "local_abbreviation": "TPJ",
+          "title": "NandevaBiblia",
+          "local_title": "NandevaBiblia",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tpj",
+            "name": "Ñandeva",
+            "local_name": "Ñandeva",
+            "text_direction": "ltr",
+            "language_tag": "tpj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 986,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

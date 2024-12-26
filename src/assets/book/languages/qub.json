@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1088,
+          "abbreviation": "qub",
+          "local_abbreviation": "qub",
+          "title": "Quechua, Huallaga Huánuco",
+          "local_title": "Tayta Diosninchi Isquirbichishan",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "qub",
+            "name": "Huallaga Huánuco Quechua",
+            "local_name": "Huallaga Huánuco Quechua",
+            "text_direction": "ltr",
+            "language_tag": "qub",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

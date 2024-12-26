@@ -1,0 +1,194 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3017,
+          "abbreviation": "CTUDC",
+          "local_abbreviation": "CholDc",
+          "title": "Deuteroanónicos Chol",
+          "local_title": "Deuteroanónicos Chol",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ctu",
+            "name": "Chol",
+            "local_name": "Chol",
+            "text_direction": "ltr",
+            "language_tag": "ctu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 93,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": null
+        },
+        {
+          "id": 2275,
+          "abbreviation": "CTU77",
+          "local_abbreviation": "CTU77",
+          "title": "Chol de Tumbalá Bible",
+          "local_title": "Chol de Tumbalá Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ctu",
+            "name": "Chol",
+            "local_name": "Chol",
+            "text_direction": "ltr",
+            "language_tag": "ctu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 93,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 795,
+          "abbreviation": "ctu",
+          "local_abbreviation": "ctuA",
+          "title": "Chol, Tila",
+          "local_title": "Chol, Tila",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ctu",
+            "name": "Chol",
+            "local_name": "Chol",
+            "text_direction": "ltr",
+            "language_tag": "ctu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        },
+        {
+          "id": 859,
+          "abbreviation": "ctuBI",
+          "local_abbreviation": "ctuBI",
+          "title": "Chol, Tumbalá Bible",
+          "local_title": "Chol: I T’an Dios",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ctu",
+            "name": "Chol",
+            "local_name": "Chol",
+            "text_direction": "ltr",
+            "language_tag": "ctu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        },
+        {
+          "id": 2128,
+          "abbreviation": "NTCH",
+          "local_abbreviation": "NTCH",
+          "title": "El Nuevo Testamento en Ch'ol 2013",
+          "local_title": "Jiñi Tsiji' bʌ Wen T'añ cha'añ Estudio",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ctu",
+            "name": "Chol",
+            "local_name": "Chol",
+            "text_direction": "ltr",
+            "language_tag": "ctu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 93,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        },
+        {
+          "id": 2504,
+          "abbreviation": "NTCH",
+          "local_abbreviation": "NTCH",
+          "title": "NT+",
+          "local_title": "Jiñi Tsiji' bʌ Wen T'añ cha'añ Estudio",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ctu",
+            "name": "Chol",
+            "local_name": "Chol",
+            "text_direction": "ltr",
+            "language_tag": "ctu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 93,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 6,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

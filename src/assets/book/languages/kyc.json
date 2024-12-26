@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2063,
+          "abbreviation": "KYC",
+          "local_abbreviation": "KYC",
+          "title": "Shorter OT, NT third edition 1987",
+          "local_title": "Anatunya Buku Baepole Ole Testamene Pii Lapo dee Nuu Tesamene",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kyc",
+            "name": "Kyaka",
+            "local_name": "Kyaka",
+            "text_direction": "ltr",
+            "language_tag": "kyc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 317,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

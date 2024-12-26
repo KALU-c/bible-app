@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2379,
+          "abbreviation": "cam",
+          "local_abbreviation": "cam",
+          "title": "Cemuhi New Testament",
+          "local_title": "Tii Iitihi: Élele Iitihi na mwo Coho",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cam",
+            "name": "Cemuhî",
+            "local_name": "Cemuhî",
+            "text_direction": "ltr",
+            "language_tag": "cam",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "lxx"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

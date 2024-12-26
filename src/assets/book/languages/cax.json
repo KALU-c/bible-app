@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 534,
+          "abbreviation": "cax",
+          "local_abbreviation": "cax",
+          "title": "Manitanati Tuparrü NT",
+          "local_title": "Manitanati Tuparrü",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cax",
+            "name": "Chiquitano",
+            "local_name": "Besiro (Chiquitano)",
+            "text_direction": "ltr",
+            "language_tag": "cax",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        },
+        {
+          "id": 362,
+          "abbreviation": "CHIQB",
+          "local_abbreviation": "CHIQB",
+          "title": "Chiquitano New Testament",
+          "local_title": "Manityanati Tupax",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cax",
+            "name": "Chiquitano",
+            "local_name": "Besiro (Chiquitano)",
+            "text_direction": "ltr",
+            "language_tag": "cax",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 72,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

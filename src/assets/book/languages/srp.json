@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1970,
+          "abbreviation": "NST",
+          "local_abbreviation": "NSP",
+          "title": "New Serbian Translation - Cyrillic",
+          "local_title": "Нови српски превод",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sr",
+            "iso_639_3": "srp",
+            "name": "Serbian",
+            "local_name": "Српски Srpski",
+            "text_direction": "ltr",
+            "language_tag": "srp",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        },
+        {
+          "id": 1969,
+          "abbreviation": "NSTL",
+          "local_abbreviation": "NSPL",
+          "title": "New Serbian Translation Latin 2017",
+          "local_title": "Novi srpski prevod",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sr",
+            "iso_639_3": "srp",
+            "name": "Serbian",
+            "local_name": "Српски Srpski",
+            "text_direction": "ltr",
+            "language_tag": "srp",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        },
+        {
+          "id": 202,
+          "abbreviation": "SB-ERV",
+          "local_abbreviation": "SB-ERV",
+          "title": "Holy Bible: Easy-to-Read Translation",
+          "local_title": "Библија: Савремени српски превод",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "sr",
+            "iso_639_3": "srp",
+            "name": "Serbian",
+            "local_name": "Српски Srpski",
+            "text_direction": "ltr",
+            "language_tag": "srp",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 26,
+          "vrs": "eng"
+        },
+        {
+          "id": 2724,
+          "abbreviation": "SNOTCNT",
+          "local_abbreviation": "SNP_CNZ",
+          "title": "Serbian Old Testament translated by prof. Milin AND Carnic NT",
+          "local_title": "Нови српски превод: Стари завет: Проф. др Драган Милин и Нови завет:   Проф. др Емилијан Чарнић",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sr",
+            "iso_639_3": "srp",
+            "name": "Serbian",
+            "local_name": "Српски Srpski",
+            "text_direction": "ltr",
+            "language_tag": "srp",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 276,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "org"
+        },
+        {
+          "id": 2165,
+          "abbreviation": "srp1865",
+          "local_abbreviation": "SRP1865",
+          "title": "Serbian Bible",
+          "local_title": "Sveta Biblija",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sr",
+            "iso_639_3": "srp",
+            "name": "Serbian",
+            "local_name": "Српски Srpski",
+            "text_direction": "ltr",
+            "language_tag": "srp",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 253,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

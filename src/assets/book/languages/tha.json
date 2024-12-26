@@ -1,0 +1,254 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 175,
+          "abbreviation": "KJV",
+          "local_abbreviation": "KJV",
+          "title": "Thai KJV",
+          "local_title": "พระคัมภีร์ภาษาไทยฉบับ KJV",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "th",
+            "iso_639_3": "tha",
+            "name": "Thai",
+            "local_name": "ภาษาไทย",
+            "text_direction": "ltr",
+            "language_tag": "tha",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 253,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": "eng"
+        },
+        {
+          "id": 2744,
+          "abbreviation": "NTV",
+          "local_abbreviation": "NTV",
+          "title": "New Thai Version (NTV)",
+          "local_title": "พระคัมภีร์ ฉบับแปลใหม่ (NTV)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "th",
+            "iso_639_3": "tha",
+            "name": "Thai",
+            "local_name": "ภาษาไทย",
+            "text_direction": "ltr",
+            "language_tag": "tha",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 818,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 2046,
+          "abbreviation": "TH1940",
+          "local_abbreviation": "TH1940",
+          "title": "Thai Holy Bible 1940",
+          "local_title": "พระคริสตธรรมคัมภีร์ ฉบับ 1940",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "th",
+            "iso_639_3": "tha",
+            "name": "Thai",
+            "local_name": "ภาษาไทย",
+            "text_direction": "ltr",
+            "language_tag": "tha",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 33,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 275,
+          "abbreviation": "TH71",
+          "local_abbreviation": "TH1971",
+          "title": "Thai Holy Bible 1971",
+          "local_title": "พระคัมภีร์ไทย ฉบับ 1971",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "th",
+            "iso_639_3": "tha",
+            "name": "Thai",
+            "local_name": "ภาษาไทย",
+            "text_direction": "ltr",
+            "language_tag": "tha",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 33,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": "eng"
+        },
+        {
+          "id": 203,
+          "abbreviation": "THA-ERV",
+          "local_abbreviation": "THA-ERV",
+          "title": "Holy Bible: Easy-to-Read Translation",
+          "local_title": "พระคริสตธรรมคัมภีร์: ฉบับอ่านเข้าใจง่าย",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "th",
+            "iso_639_3": "tha",
+            "name": "Thai",
+            "local_name": "ภาษาไทย",
+            "text_direction": "ltr",
+            "language_tag": "tha",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 28,
+          "vrs": "eng"
+        },
+        {
+          "id": 3615,
+          "abbreviation": "thaKJV",
+          "local_abbreviation": "thaKJV",
+          "title": "Thai KJV",
+          "local_title": "Thai KJV",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "th",
+            "iso_639_3": "tha",
+            "name": "Thai",
+            "local_name": "ภาษาไทย",
+            "text_direction": "ltr",
+            "language_tag": "tha",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 253,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "eng"
+        },
+        {
+          "id": 174,
+          "abbreviation": "THSVD",
+          "local_abbreviation": "THSV11",
+          "title": "Thai Standard Version Revision (Digital)",
+          "local_title": "ฉบับมาตรฐาน",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "th",
+            "iso_639_3": "tha",
+            "name": "Thai",
+            "local_name": "ภาษาไทย",
+            "text_direction": "ltr",
+            "language_tag": "tha",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 33,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 28,
+          "vrs": "eng"
+        },
+        {
+          "id": 179,
+          "abbreviation": "TNCV",
+          "local_abbreviation": "TNCV",
+          "title": "Thai New Contemporary Version",
+          "local_title": "พระคริสตธรรมคัมภีร์ไทย ฉบับอมตธรรมร่วมสมัย",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "th",
+            "iso_639_3": "tha",
+            "name": "Thai",
+            "local_name": "ภาษาไทย",
+            "text_direction": "ltr",
+            "language_tag": "tha",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 25,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 8,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3052,
+          "abbreviation": "BNT93",
+          "local_abbreviation": "BNT93",
+          "title": "Birifor New Testament",
+          "local_title": "A NAAŊMƖN PƲLƖ̃-TA-PAALAA",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bfo",
+            "name": "Birifor, Malba",
+            "local_name": "Birifor, Malba",
+            "text_direction": "ltr",
+            "language_tag": "bfo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 231,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

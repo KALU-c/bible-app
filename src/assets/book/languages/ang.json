@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4089,
+          "abbreviation": "ASPsa",
+          "local_abbreviation": "ASPsa",
+          "title": "Anglo-Saxon Psalms c.890-950 AD",
+          "local_title": "Anglo-Saxon Psalms c.890-950 AD",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ang",
+            "name": "Ænglisc",
+            "local_name": "Anglo-Saxon",
+            "text_direction": "ltr",
+            "language_tag": "ang",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": null
+        },
+        {
+          "id": 4088,
+          "abbreviation": "ASxG",
+          "local_abbreviation": "ASxG",
+          "title": "Anglo-Saxon Wessex Gospels c1000 AD",
+          "local_title": "Anglo-Saxon Wessex Gospels c1000 AD",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ang",
+            "name": "Ænglisc",
+            "local_name": "Anglo-Saxon",
+            "text_direction": "ltr",
+            "language_tag": "ang",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

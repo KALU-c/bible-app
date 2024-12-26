@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1912,
+          "abbreviation": "IRVMAL",
+          "local_abbreviation": "IRVMAL",
+          "title": "Indian Revised Version (IRV) Malayalam - 2019",
+          "local_title": "ഇന്ത്യൻ റിവൈസ്ഡ് വേർഷൻ - മലയാളം",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ml",
+            "iso_639_3": "mal",
+            "name": "Malayalam",
+            "local_name": "മലയാളം",
+            "text_direction": "ltr",
+            "language_tag": "mal",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 424,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        },
+        {
+          "id": 1685,
+          "abbreviation": "malclBSI",
+          "local_abbreviation": "malclBSI",
+          "title": "Malayalam C.L. Bible (BSI)",
+          "local_title": "സത്യവേദപുസ്തകം C.L. (BSI)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ml",
+            "iso_639_3": "mal",
+            "name": "Malayalam",
+            "local_name": "മലയാളം",
+            "text_direction": "ltr",
+            "language_tag": "mal",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        },
+        {
+          "id": 1693,
+          "abbreviation": "MALOVBSI",
+          "local_abbreviation": "MALOVBSI",
+          "title": "Malayalam OV Bible (BSI)",
+          "local_title": "സത്യവേദപുസ്തകം OV Bible (BSI)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ml",
+            "iso_639_3": "mal",
+            "name": "Malayalam",
+            "local_name": "മലയാളം",
+            "text_direction": "ltr",
+            "language_tag": "mal",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "eng"
+        },
+        {
+          "id": 2431,
+          "abbreviation": "MCV",
+          "local_abbreviation": "MCV",
+          "title": "Malayalam Contemporary Version 2020",
+          "local_title": "സമകാലിക മലയാളവിവർത്തനം",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "ml",
+            "iso_639_3": "mal",
+            "name": "Malayalam",
+            "local_name": "മലയാളം",
+            "text_direction": "ltr",
+            "language_tag": "mal",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 2333,
+          "abbreviation": "MAL10RO",
+          "local_abbreviation": "വേദപുസ്തകം",
+          "title": "Malayalam Sathyavedapusthakam 1910 Edition (Revised Orthography)",
+          "local_title": "മലയാളം സത്യവേദപുസ്തകം 1910 പതിപ്പ് (പരിഷ്കരിച്ച ലിപിയിൽ)",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "ml",
+            "iso_639_3": "mal",
+            "name": "Malayalam",
+            "local_name": "മലയാളം",
+            "text_direction": "ltr",
+            "language_tag": "mal",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 13163,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

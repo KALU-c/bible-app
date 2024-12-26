@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3074,
+          "abbreviation": "TMVR",
+          "local_abbreviation": "BM",
+          "title": "Today's Malay Version Protestant Bible",
+          "local_title": "Alkitab Berita Baik Protestant Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "zsm",
+            "name": "Standard Malay",
+            "local_name": "Melayu, bahasa",
+            "text_direction": "ltr",
+            "language_tag": "zsm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 9,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "org"
+        },
+        {
+          "id": 3073,
+          "abbreviation": "TMVRD",
+          "local_abbreviation": "BMDC",
+          "title": "Today's Malay Version Catholic Interconfessional Bible",
+          "local_title": "Alkitab Berita Baik Catholic Interconfessional Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "zsm",
+            "name": "Standard Malay",
+            "local_name": "Melayu, bahasa",
+            "text_direction": "ltr",
+            "language_tag": "zsm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 9,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "org"
+        },
+        {
+          "id": 4117,
+          "abbreviation": "KEAS1862",
+          "local_abbreviation": "KEAS1862",
+          "title": "Keasberry High Malay Genesis 1862 (Keasberry)",
+          "local_title": "Surat Kitab Taurat Musa yang bŭrnama Kajadian 1862 (Keasberry)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "zsm",
+            "name": "Standard Malay",
+            "local_name": "Melayu, bahasa",
+            "text_direction": "ltr",
+            "language_tag": "zsm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

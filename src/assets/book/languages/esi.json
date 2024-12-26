@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1415,
+          "abbreviation": "INUPIAQ",
+          "local_abbreviation": "INUPIAQ",
+          "title": "North Slope Iñupiaq Old Testament Portions and New Testament",
+          "local_title": "Iñupiatun Mumiksat Uqalugiksuat",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "esi",
+            "name": "North Alaskan Inupiatun",
+            "local_name": "Iñupiaq",
+            "text_direction": "ltr",
+            "language_tag": "esi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 23,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 19,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2654,
+          "abbreviation": "LUBBIBLE",
+          "local_abbreviation": "LUBUKUSU",
+          "title": "LUBUKUSU BIBLE",
+          "local_title": "EBIBILIA ENDAKATIFU",
+          "audio": true,
+          "audio_count": 3,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bxk",
+            "name": "Bukusu",
+            "local_name": "Luluhia",
+            "text_direction": "ltr",
+            "language_tag": "bxk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 2658,
+          "abbreviation": "LUBBIBLE",
+          "local_abbreviation": "LUBUKUSU",
+          "title": "LUBUKUSU BIBLE WITH DC BOOKS",
+          "local_title": "EBIBILIA ENDAKATIFU DC",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bxk",
+            "name": "Bukusu",
+            "local_name": "Luluhia",
+            "text_direction": "ltr",
+            "language_tag": "bxk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

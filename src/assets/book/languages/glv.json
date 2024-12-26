@@ -1,0 +1,254 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1702,
+          "abbreviation": "BIB1819",
+          "local_abbreviation": "BIB1819",
+          "title": "Manx Bible 1819",
+          "local_title": "Yn Vible Casherick 1819",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "gv",
+            "iso_639_3": "glv",
+            "name": "Manx Gaelic",
+            "local_name": "Gaelg",
+            "text_direction": "ltr",
+            "language_tag": "glv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        },
+        {
+          "id": 1780,
+          "abbreviation": "CON1810",
+          "local_abbreviation": "CON1810",
+          "title": "Manx New Testament 1810",
+          "local_title": "Yn Conaant Noa 1810",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "gv",
+            "iso_639_3": "glv",
+            "name": "Manx Gaelic",
+            "local_name": "Gaelg",
+            "text_direction": "ltr",
+            "language_tag": "glv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        },
+        {
+          "id": 1156,
+          "abbreviation": "NEan",
+          "local_abbreviation": "NEan",
+          "title": "Manx Gospel of John 1936",
+          "local_title": "Noo Ean 1936",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "gv",
+            "iso_639_3": "glv",
+            "name": "Manx Gaelic",
+            "local_name": "Gaelg",
+            "text_direction": "ltr",
+            "language_tag": "glv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": null
+        },
+        {
+          "id": 1985,
+          "abbreviation": "NMian",
+          "local_abbreviation": "NMian",
+          "title": "Manx Gospel of Matthew 1748",
+          "local_title": "Noo Mian 1748",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "gv",
+            "iso_639_3": "glv",
+            "name": "Manx Gaelic",
+            "local_name": "Gaelg",
+            "text_direction": "ltr",
+            "language_tag": "glv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": null
+        },
+        {
+          "id": 1366,
+          "abbreviation": "PS1761",
+          "local_abbreviation": "PS1761",
+          "title": "Manx Metrical Psalms 1761",
+          "local_title": "Psalmyn Ghavid 1761 (Metrical)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "gv",
+            "iso_639_3": "glv",
+            "name": "Manx Gaelic",
+            "local_name": "Gaelg",
+            "text_direction": "ltr",
+            "language_tag": "glv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": null
+        },
+        {
+          "id": 2059,
+          "abbreviation": "PS1765",
+          "local_abbreviation": "PS1765",
+          "title": "Manx Pointed Psalms 1765",
+          "local_title": "Lioar ny Psalmyn 1765 (Pointed)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "gv",
+            "iso_639_3": "glv",
+            "name": "Manx Gaelic",
+            "local_name": "Gaelg",
+            "text_direction": "ltr",
+            "language_tag": "glv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        },
+        {
+          "id": 1703,
+          "abbreviation": "YNAP",
+          "local_abbreviation": "YNAP",
+          "title": "Manx Apocrypha 1772",
+          "local_title": "Yn Apocrypha 1772",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "gv",
+            "iso_639_3": "glv",
+            "name": "Manx Gaelic",
+            "local_name": "Gaelg",
+            "text_direction": "ltr",
+            "language_tag": "glv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": null
+        },
+        {
+          "id": 1809,
+          "abbreviation": "YNAPBR",
+          "local_abbreviation": "YNAPBR",
+          "title": "Rest of the Manx Apocrypha (Broderick) 1979",
+          "local_title": "Yn Apocrypha (Broderick) 1979",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "gv",
+            "iso_639_3": "glv",
+            "name": "Manx Gaelic",
+            "local_name": "Gaelg",
+            "text_direction": "ltr",
+            "language_tag": "glv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 8,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

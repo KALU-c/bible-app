@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3644,
+          "abbreviation": "JGK",
+          "local_abbreviation": "JGK",
+          "title": "Jarawa",
+          "local_title": "Jarawa",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "jgk",
+            "name": "Gwak",
+            "local_name": "Gwak",
+            "text_direction": "ltr",
+            "language_tag": "jgk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 986,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

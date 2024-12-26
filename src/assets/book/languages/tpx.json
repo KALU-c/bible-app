@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2549,
+          "abbreviation": "Jonah",
+          "local_abbreviation": "Jonáa",
+          "title": "Jonah",
+          "local_title": "Jonáa",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tpx",
+            "name": "Me’phaa, Acatepec",
+            "local_name": "Me’phaa, Acatepec",
+            "text_direction": "ltr",
+            "language_tag": "tpx",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

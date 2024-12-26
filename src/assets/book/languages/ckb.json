@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 503,
+          "abbreviation": "KSS",
+          "local_abbreviation": "KSS",
+          "title": "Kurdi Sorani Standard 2020",
+          "local_title": "كوردی سۆرانی ستانده‌رد",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ku_IQ",
+            "iso_639_3": "ckb",
+            "name": "Sorani Kurdish",
+            "local_name": "کوردیی سۆرانی",
+            "text_direction": "rtl",
+            "language_tag": "ckb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 18,
+          "vrs": "eng"
+        },
+        {
+          "id": 1852,
+          "abbreviation": "SNTaP",
+          "local_abbreviation": "PNTZS",
+          "title": "Sorani New Testament and Psalms",
+          "local_title": "پەیمانی نوێ و زەبوورەکان بە سۆرانی",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ku_IQ",
+            "iso_639_3": "ckb",
+            "name": "Sorani Kurdish",
+            "local_name": "کوردیی سۆرانی",
+            "text_direction": "rtl",
+            "language_tag": "ckb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 274,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

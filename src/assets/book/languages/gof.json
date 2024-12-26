@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4044,
+          "abbreviation": "GFBEVF",
+          "local_abbreviation": "GFBEVF",
+          "title": "Gofa Bible",
+          "local_title": "ጌሻ ማፃፋ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gof",
+            "name": "Gofa",
+            "local_name": "Goofa",
+            "text_direction": "ltr",
+            "language_tag": "gof",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 206,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        },
+        {
+          "id": 4045,
+          "abbreviation": "GFBLVF",
+          "local_abbreviation": "GFBLVF",
+          "title": "Gofa Bible",
+          "local_title": "Geeshsha Maxaafa",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gof",
+            "name": "Gofa",
+            "local_name": "Goofa",
+            "text_direction": "ltr",
+            "language_tag": "gof",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 206,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        },
+        {
+          "id": 506,
+          "abbreviation": "gofENT",
+          "local_abbreviation": "gofENT",
+          "title": "ኦራ ጫቁዋ ጎፋ",
+          "local_title": "ኦራ ጫቁዋ ጎፋ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gof",
+            "name": "Gofa",
+            "local_name": "Goofa",
+            "text_direction": "ltr",
+            "language_tag": "gof",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2344,
+          "abbreviation": "GOFNT",
+          "local_abbreviation": "GOFNT",
+          "title": "Gofa New Testament",
+          "local_title": "Gofa New Testament",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gof",
+            "name": "Gofa",
+            "local_name": "Goofa",
+            "text_direction": "ltr",
+            "language_tag": "gof",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 206,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 435,
+          "abbreviation": "gofRNT",
+          "local_abbreviation": "gofRNT",
+          "title": "Ooratha Caaquwa Goofatho",
+          "local_title": "Ooratha Caaquwa Goofatho",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gof",
+            "name": "Gofa",
+            "local_name": "Goofa",
+            "text_direction": "ltr",
+            "language_tag": "gof",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

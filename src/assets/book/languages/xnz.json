@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2610,
+          "abbreviation": "XNZ1912",
+          "local_abbreviation": "XNZ1912",
+          "title": "Nuban Kenzi Mattoki Gospels 1912",
+          "local_title": "Enjil Yesu 1912 (4 Gospels in Nubian Kenuzi)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "xnz",
+            "name": "Kenzi Nubian",
+            "local_name": "Mattokki",
+            "text_direction": "ltr",
+            "language_tag": "xnz",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

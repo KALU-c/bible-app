@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1850,
+          "abbreviation": "AltNTBC",
+          "local_abbreviation": "AltNTBC",
+          "title": "Altai New Testament",
+          "local_title": "Јаҥы Кереес",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "alt",
+            "name": "Southern Altai",
+            "local_name": "Алтай тил",
+            "text_direction": "ltr",
+            "language_tag": "alt",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "rsc"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

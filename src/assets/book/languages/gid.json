@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3773,
+          "abbreviation": "BG",
+          "local_abbreviation": "GB",
+          "title": "Bible en Guidar",
+          "local_title": "Bible en Guidar",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gid",
+            "name": "Gidar",
+            "local_name": "Gidar",
+            "text_direction": "ltr",
+            "language_tag": "gid",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 79,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "org"
+        },
+        {
+          "id": 3774,
+          "abbreviation": "BGD",
+          "local_abbreviation": "GBD",
+          "title": "Bible en Guidar",
+          "local_title": "Bible en Guidar",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gid",
+            "name": "Gidar",
+            "local_name": "Gidar",
+            "text_direction": "ltr",
+            "language_tag": "gid",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 79,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "org"
+        },
+        {
+          "id": 1120,
+          "abbreviation": "GDRNT85",
+          "local_abbreviation": "GDRNT85",
+          "title": "Gidar New Testament",
+          "local_title": "Nouveau Testament en Guidar",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gid",
+            "name": "Gidar",
+            "local_name": "Gidar",
+            "text_direction": "ltr",
+            "language_tag": "gid",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 79,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

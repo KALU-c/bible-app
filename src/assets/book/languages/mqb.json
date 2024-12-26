@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 456,
+          "abbreviation": "MQB",
+          "local_abbreviation": "MQB",
+          "title": "Mbuko New Testament of Cameroon",
+          "local_title": "Aban 'am wiya awan",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mqb",
+            "name": "Mbuko",
+            "local_name": "Mbuko",
+            "text_direction": "ltr",
+            "language_tag": "mqb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

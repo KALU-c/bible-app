@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3703,
+          "abbreviation": "ErzNT",
+          "local_abbreviation": "ОВ",
+          "title": "Erzya New Testament 2006",
+          "local_title": "Од Вейсэньлув 2006",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "myv",
+            "name": "Erzya",
+            "local_name": "Erzya",
+            "text_direction": "ltr",
+            "language_tag": "myv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 1057,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "rsc"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

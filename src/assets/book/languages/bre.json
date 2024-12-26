@@ -1,0 +1,134 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1799,
+          "abbreviation": "JEN1897",
+          "local_abbreviation": "JEN1897",
+          "title": "Breton New Testament 1897 (Jenkins)",
+          "local_title": "Testamant Nevez 1897 (Jenkins)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "br",
+            "iso_639_3": "bre",
+            "name": "Breton",
+            "local_name": "Brezhoneg",
+            "text_direction": "ltr",
+            "language_tag": "bre",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 19,
+          "vrs": "eng"
+        },
+        {
+          "id": 1231,
+          "abbreviation": "Koad21",
+          "local_abbreviation": "Koad21",
+          "title": "Breton Koad21",
+          "local_title": "Bibl Koad 21: Ar Bibl e Brezhoneg evit ar Vretoned",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "br",
+            "iso_639_3": "bre",
+            "name": "Breton",
+            "local_name": "Brezhoneg",
+            "text_direction": "ltr",
+            "language_tag": "bre",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "org"
+        },
+        {
+          "id": 3393,
+          "abbreviation": "MAT1858",
+          "local_abbreviation": "MAT1858",
+          "title": "Breton Gospel of Matthew 1858 (Vannes dialect)",
+          "local_title": "Aviel revé St. Maheu troeit é Brehonec Guénet 1858",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "br",
+            "iso_639_3": "bre",
+            "name": "Breton",
+            "local_name": "Brezhoneg",
+            "text_direction": "ltr",
+            "language_tag": "bre",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        },
+        {
+          "id": 1984,
+          "abbreviation": "PS1873",
+          "local_abbreviation": "PS1873",
+          "title": "Breton Psalms 1873 (Williams)",
+          "local_title": "Levr ar Psalmou 1873 (Williams)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "br",
+            "iso_639_3": "bre",
+            "name": "Breton",
+            "local_name": "Brezhoneg",
+            "text_direction": "ltr",
+            "language_tag": "bre",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 4,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3839,
+          "abbreviation": "FIJ1864",
+          "local_abbreviation": "FIJ1864",
+          "title": "Fiji Bible 1864",
+          "local_title": "AI VOLA TABU",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fj",
+            "iso_639_3": "fij",
+            "name": "Fijian",
+            "local_name": "Vosa Vakaviti",
+            "text_direction": "ltr",
+            "language_tag": "fij",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 676,
+          "abbreviation": "FNV",
+          "local_abbreviation": "FNV",
+          "title": "Fijian New Version Revised",
+          "local_title": "Ai Vola Tabu Ena Vakavakadewa Vou",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "fj",
+            "iso_639_3": "fij",
+            "name": "Fijian",
+            "local_name": "Vosa Vakaviti",
+            "text_direction": "ltr",
+            "language_tag": "fij",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 301,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        },
+        {
+          "id": 675,
+          "abbreviation": "FNVDC12",
+          "local_abbreviation": "FNVDC12",
+          "title": "Fijian New Version including Deuterocanonical Books",
+          "local_title": "Vakavakadewa Vou kei na iVola tale eso",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "fj",
+            "iso_639_3": "fij",
+            "name": "Fijian",
+            "local_name": "Vosa Vakaviti",
+            "text_direction": "ltr",
+            "language_tag": "fij",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 301,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        },
+        {
+          "id": 508,
+          "abbreviation": "FOV",
+          "local_abbreviation": "FOV",
+          "title": "Fijian Bible",
+          "local_title": "Vakavakadewa Makawa",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fj",
+            "iso_639_3": "fij",
+            "name": "Fijian",
+            "local_name": "Vosa Vakaviti",
+            "text_direction": "ltr",
+            "language_tag": "fij",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 301,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "eng"
+        },
+        {
+          "id": 3559,
+          "abbreviation": "FRV21",
+          "local_abbreviation": "FRV21",
+          "title": "Fijian Revised Version 2021",
+          "local_title": "Ai Vola Tabu (Vakadewa Makawa Vakavoutaki 2021)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fj",
+            "iso_639_3": "fij",
+            "name": "Fijian",
+            "local_name": "Vosa Vakaviti",
+            "text_direction": "ltr",
+            "language_tag": "fij",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 301,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3081,
+          "abbreviation": "KUVI",
+          "local_abbreviation": "KUVI",
+          "title": "Kuvi Kond Gospel of Luike 1916 (Roman script)",
+          "local_title": "Luka Suvarta 1916 (Kuvi Kond)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kxv",
+            "name": "Kuvi",
+            "local_name": "କୁଭି, କୁୱି ",
+            "text_direction": "ltr",
+            "language_tag": "kxv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        },
+        {
+          "id": 2787,
+          "abbreviation": "NTKii20",
+          "local_abbreviation": "NTKii20",
+          "title": "The New Testament in Kuvi Language",
+          "local_title": "ପୁଃନି ମେ଼ରା, କୁୱି ପୁଃନି ମେ଼ରା",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kxv",
+            "name": "Kuvi",
+            "local_name": "କୁଭି, କୁୱି ",
+            "text_direction": "ltr",
+            "language_tag": "kxv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 206,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "lxx"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3715,
+          "abbreviation": "NTRPT23",
+          "local_abbreviation": "NTRPT23",
+          "title": "Relli New Testament",
+          "local_title": "సొత్తొ పురువురొ పవిత్రొ కొత",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rei",
+            "name": "Reli",
+            "local_name": "Reli",
+            "text_direction": "ltr",
+            "language_tag": "rei",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 206,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

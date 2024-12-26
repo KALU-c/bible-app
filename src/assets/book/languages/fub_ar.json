@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1707,
+          "abbreviation": "FBA",
+          "local_abbreviation": "داَ",
+          "title": "Fulfulde Bible Ajamiya",
+          "local_title": "دٜڢْتٜرٜ اَللَّه ڢُلْڢُلْدٜ عَدَمَوَ",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "fub",
+            "name": "Adamawa Fulfulde",
+            "local_name": "ڢُلْڢُلْدٜ عَدَمَوَ",
+            "text_direction": "rtl",
+            "language_tag": "fub_ar",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 79,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

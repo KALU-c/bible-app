@@ -1,0 +1,194 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3717,
+          "abbreviation": "NTTzZN",
+          "local_abbreviation": "LeqAC",
+          "title": "Nuevo Testamento en Tzotzil de Zinacantan",
+          "local_title": "LEQUIL ACH' C'OP",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tzo",
+            "name": "Tzotzil",
+            "local_name": "Tzotzil",
+            "text_direction": "ltr",
+            "language_tag": "tzo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 93,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": null
+        },
+        {
+          "id": 334,
+          "abbreviation": "TZC00",
+          "local_abbreviation": "TZC00",
+          "title": "Bible in Tzotzil de Chamula",
+          "local_title": "Bible in Tzotzil de Chamula",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tzo",
+            "name": "Tzotzil",
+            "local_name": "Tzotzil",
+            "text_direction": "ltr",
+            "language_tag": "tzo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 93,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 20,
+          "vrs": "eng"
+        },
+        {
+          "id": 382,
+          "abbreviation": "TZE97",
+          "local_abbreviation": "TZE97",
+          "title": "Bible in Tzotzil de Chenalhó with Deuterocanon",
+          "local_title": "Bible in Tzotzil de Chenalhó with Deuterocanon",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tzo",
+            "name": "Tzotzil",
+            "local_name": "Tzotzil",
+            "text_direction": "ltr",
+            "language_tag": "tzo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 93,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        },
+        {
+          "id": 837,
+          "abbreviation": "tzoA",
+          "local_abbreviation": "tzoA",
+          "title": "Tzotzil de Huixtán NT",
+          "local_title": "Tzotzil de Huixtán",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tzo",
+            "name": "Tzotzil",
+            "local_name": "Tzotzil",
+            "text_direction": "ltr",
+            "language_tag": "tzo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        },
+        {
+          "id": 757,
+          "abbreviation": "tzoSA",
+          "local_abbreviation": "tzoSA",
+          "title": "Tzotzil, San Andres NT",
+          "local_title": "Tzotzil, San Andres",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tzo",
+            "name": "Tzotzil",
+            "local_name": "Tzotzil",
+            "text_direction": "ltr",
+            "language_tag": "tzo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        },
+        {
+          "id": 279,
+          "abbreviation": "tzoZ",
+          "local_abbreviation": "tzoZ",
+          "title": "Tzotzil Zinacantan NT",
+          "local_title": "Tzotzil Zinacantan",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tzo",
+            "name": "Tzotzil",
+            "local_name": "Tzotzil",
+            "text_direction": "ltr",
+            "language_tag": "tzo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 28,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 6,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

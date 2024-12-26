@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1028,
+          "abbreviation": "cuk",
+          "local_abbreviation": "cuk",
+          "title": "Kuna, San Blas Bible",
+          "local_title": "Kuna, San Blas",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cuk",
+            "name": "San Blas Kuna",
+            "local_name": "Kuna San Blas",
+            "text_direction": "ltr",
+            "language_tag": "cuk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        },
+        {
+          "id": 240,
+          "abbreviation": "cukNT",
+          "local_abbreviation": "cukNT",
+          "title": "Bab dummad Jesucristoba igar mesisad garda",
+          "local_title": "Bab dummad Jesucristoba igar mesisad garda",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cuk",
+            "name": "San Blas Kuna",
+            "local_name": "Kuna San Blas",
+            "text_direction": "ltr",
+            "language_tag": "cuk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3282,
+          "abbreviation": "KED1946",
+          "local_abbreviation": "KED1946",
+          "title": "Kerewe (Kerebe) New Testament 1946",
+          "local_title": "Omulago Muhya 1946 (Kikahindurwa mu Kikerewe)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ked",
+            "name": "Bukerebe (Kerebe)",
+            "local_name": "Kikerewe (Kerewe)",
+            "text_direction": "ltr",
+            "language_tag": "ked",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "vul"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

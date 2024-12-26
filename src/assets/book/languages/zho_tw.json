@@ -1,0 +1,614 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1392,
+          "abbreviation": "CCBT",
+          "local_abbreviation": "CCB",
+          "title": "Chinese Contemporary Bible 2023 (Traditional)",
+          "local_title": "當代譯本",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        },
+        {
+          "id": 2361,
+          "abbreviation": "CCCbst",
+          "local_abbreviation": "CCCbst",
+          "title": "The Four Gospels – Interconfessional Version (2015)",
+          "local_title": "四福音書 – 共同譯本",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 295,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": null
+        },
+        {
+          "id": 40,
+          "abbreviation": "CNV",
+          "local_abbreviation": "CNV",
+          "title": "新譯本（繁體字版）",
+          "local_title": "新譯本",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 16,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 32,
+          "vrs": "eng"
+        },
+        {
+          "id": 312,
+          "abbreviation": "CSBT",
+          "local_abbreviation": "CSBT",
+          "title": "Chinese Standard Bible (Traditional Script)",
+          "local_title": "中文標準譯本",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 251,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 46,
+          "vrs": "eng"
+        },
+        {
+          "id": 414,
+          "abbreviation": "CUNP-Shangti",
+          "local_abbreviation": "CUNP-上帝",
+          "title": "Chinese Union Version, New Punctuation, Shangti Edition, TS",
+          "local_title": "新標點和合本, 上帝版",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 278,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": "eng"
+        },
+        {
+          "id": 46,
+          "abbreviation": "CUNP-Shen",
+          "local_abbreviation": "CUNP-神",
+          "title": "Chinese Union Version, New Punctuation, Shen Edition, TS",
+          "local_title": "新標點和合本, 神版",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 278,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 32,
+          "vrs": "eng"
+        },
+        {
+          "id": 139,
+          "abbreviation": "RCUV",
+          "local_abbreviation": "RCUV",
+          "title": "Revised Chinese Union Version (Traditional Script)",
+          "local_title": "和合本修訂版",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 278,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 30,
+          "vrs": "eng"
+        },
+        {
+          "id": 3283,
+          "abbreviation": "TCV2019T",
+          "local_abbreviation": "TCV2019T",
+          "title": "Today's Chinese Version 2019 Traditional",
+          "local_title": "《現代中文譯本2019－－繁體版》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 1581,
+          "abbreviation": "CMPMV",
+          "local_abbreviation": "北京官話譯本",
+          "title": "Peking Mandarian Version",
+          "local_title": "北京官話譯本",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 2034,
+          "abbreviation": "CMNNT",
+          "local_abbreviation": "南京官話新約",
+          "title": "Nanking Mandarin New Testament",
+          "local_title": "南京官話《新約全書》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 2625,
+          "abbreviation": "CU2010Ts",
+          "local_abbreviation": "和合本2010 - 神版",
+          "title": "Chinese Union Version 2010 (Traditional Script) Shen Edition",
+          "local_title": "和合本2010 （和合本修訂版） （繁體字） 神版",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 278,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 1579,
+          "abbreviation": "CMUV",
+          "local_abbreviation": "官話和合譯本",
+          "title": "Chinese Union Mandarin Version",
+          "local_title": "《官話和合譯本》",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2297,
+          "abbreviation": "CMZBHSN",
+          "local_abbreviation": "朱寶惠注釋本",
+          "title": "ZHU Baohui New Testament with study notes",
+          "local_title": "朱寶惠《重譯新約全書》附注釋",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 2087,
+          "abbreviation": "CMLNTSN",
+          "local_abbreviation": "李山甫等注釋本",
+          "title": "Litvanyi (and others) New Testament with study notes",
+          "local_title": "李山甫等《新經全書》附注釋",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        },
+        {
+          "id": 2217,
+          "abbreviation": "CGJMNT",
+          "local_abbreviation": "楊格非官話新約",
+          "title": "Griffith John Mandarin New Testament",
+          "local_title": "楊格非官話《新約全書》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 1889,
+          "abbreviation": "DC",
+          "local_abbreviation": "次經",
+          "title": "The Apocrypha / Deuterocanon",
+          "local_title": "次經全書 ( 繁體 )",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 278,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": null
+        },
+        {
+          "id": 2293,
+          "abbreviation": "CMWNT",
+          "local_abbreviation": "王元德譯本",
+          "title": "Wang Newly Punctuated New Testament",
+          "local_title": "王元德《新式標點新約全書》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 2032,
+          "abbreviation": "CMTHNT",
+          "local_abbreviation": "蕭鐵笛譯本",
+          "title": "Theodore Hsiao New Testament",
+          "local_title": "蕭鐵笛《新譯新約全書》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 2036,
+          "abbreviation": "CMJHSN",
+          "local_abbreviation": "蕭靜山注釋本",
+          "title": "Joseph Hsiao New Testament with study notes",
+          "local_title": "蕭靜山《新經全集》附注釋",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2030,
+          "abbreviation": "CMRZSN",
+          "local_abbreviation": "陸亨理－鄭壽麟注釋本",
+          "title": "Ruck-Zheng Bible Treasury New Testament",
+          "local_title": "陸亨理－鄭壽麟《國語新舊庫譯本－新約全書》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_TW",
+            "iso_639_3": "zho",
+            "name": "Chinese (Traditional)",
+            "local_name": "繁體中文",
+            "text_direction": "ltr",
+            "language_tag": "zho_tw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 20,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

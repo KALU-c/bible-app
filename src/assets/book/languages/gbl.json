@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3504,
+          "abbreviation": "GBLNT",
+          "local_abbreviation": "GBLNT",
+          "title": "Gamit New Testament",
+          "local_title": "ગામીત નોવો કરાર",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gbl",
+            "name": "Gamit",
+            "local_name": "Gamit",
+            "text_direction": "ltr",
+            "language_tag": "gbl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 820,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

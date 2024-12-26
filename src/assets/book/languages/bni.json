@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3431,
+          "abbreviation": "BANGI",
+          "local_abbreviation": "BANGI",
+          "title": "New Testament, Genesis, Psalms and Prophets in Bobangi 1916 (DRC)",
+          "local_title": "Mbengu Etemu, Mabandela, Nzembo, Bantete 1916",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bni",
+            "name": "Bangi",
+            "local_name": "Bobangi",
+            "text_direction": "ltr",
+            "language_tag": "bni",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

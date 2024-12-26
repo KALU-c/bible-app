@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2632,
+          "abbreviation": "abn",
+          "local_abbreviation": "ẠḌI",
+          "title": "Abuan Bible",
+          "local_title": "Ạḍinya Iigbia",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "abn",
+            "name": "Abua",
+            "local_name": "Abua",
+            "text_direction": "ltr",
+            "language_tag": "abn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 138,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

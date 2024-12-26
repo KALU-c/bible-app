@@ -1,0 +1,704 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2104,
+          "abbreviation": "SAN-DN",
+          "local_abbreviation": "SAN-DN",
+          "title": "Sanskrit NT in Devanagari",
+          "local_title": "सत्यवेदः। Sanskrit NT in Devanagari",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2105,
+          "abbreviation": "SANAS",
+          "local_abbreviation": "SANAS",
+          "title": "Sanskrit Bible (NT) in Assamese Script (সত্যৱেদঃ।)",
+          "local_title": "সত্যৱেদঃ। Sanskrit Bible (NT) in Assamese Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2106,
+          "abbreviation": "SANBN",
+          "local_abbreviation": "SANBN",
+          "title": "Sanskrit Bible (NT) in Bengali Script",
+          "local_title": "সত্যবেদঃ। Sanskrit Bible (NT) in Bengali Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2158,
+          "abbreviation": "SANBU",
+          "local_abbreviation": "SANBU",
+          "title": "Sanskrit Bible (NT) in Burmese Script (သတျဝေဒး၊)",
+          "local_title": "သတျဝေဒး၊ Sanskrit Bible (NT) in Burmese Script ()",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2107,
+          "abbreviation": "SANCO",
+          "local_abbreviation": "SANCO",
+          "title": "Sanskrit Bible (NT) in Cologne Script (satyavEdaH|)",
+          "local_title": "satyavEdaH| Sanskrit Bible (NT) in Cologne Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2103,
+          "abbreviation": "SANGJ",
+          "local_abbreviation": "SANGJ",
+          "title": "Sanskrit Bible (NT) in Gujarati Script (સત્યવેદઃ।)",
+          "local_title": "સત્યવેદઃ। Sanskrit Bible (NT) in Gujarati Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2114,
+          "abbreviation": "SANHK",
+          "local_abbreviation": "SANHK",
+          "title": "Sanskrit Bible (NT) in Harvard-Kyoto Script (satyavedaH|)",
+          "local_title": "satyavedaH| Sanskrit Bible (NT) in Harvard-Kyoto Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2110,
+          "abbreviation": "SANIA",
+          "local_abbreviation": "SANIA",
+          "title": "Sanskrit Bible (NT) in IAST Script (satyavedaḥ|)",
+          "local_title": "satyavedaḥ| Sanskrit Bible (NT) in IAST Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2117,
+          "abbreviation": "SANIS",
+          "local_abbreviation": "SANIS",
+          "title": "Sanskrit Bible (NT) in ISO Script (satyavēdaḥ|)",
+          "local_title": "satyavēdaḥ| Sanskrit Bible (NT) in ISO Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2116,
+          "abbreviation": "SANIT",
+          "local_abbreviation": "SANIT",
+          "title": "Sanskrit Bible (NT) in ITRANS Script (satyavedaH|)",
+          "local_title": "satyavedaH| Sanskrit Bible (NT) in ITRANS Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2121,
+          "abbreviation": "SANKA",
+          "local_abbreviation": "SANKA",
+          "title": "Sanskrit Bible (NT) in Kannada Script (ಸತ್ಯವೇದಃ।)",
+          "local_title": "ಸತ್ಯವೇದಃ। Sanskrit Bible (NT) in Kannada Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2119,
+          "abbreviation": "SANKH",
+          "local_abbreviation": "SANKH",
+          "title": "Sanskrit Bible (NT) in Khmer Script (សត្យវេទះ។)",
+          "local_title": "សត្យវេទះ។ Sanskrit Bible (NT) in Khmer Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2113,
+          "abbreviation": "SANML",
+          "local_abbreviation": "SANML",
+          "title": "Sanskrit Bible (NT) in Malayalam Script (സത്യവേദഃ।)",
+          "local_title": "സത്യവേദഃ। Sanskrit Bible (NT) in Malayalam Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2118,
+          "abbreviation": "SANOR",
+          "local_abbreviation": "SANOR",
+          "title": "Sanskrit Bible (NT) in Oriya Script (ସତ୍ୟୱେଦଃ।)",
+          "local_title": "ସତ୍ୟୱେଦଃ। Sanskrit Bible (NT) in Oriya Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2108,
+          "abbreviation": "SANPN",
+          "local_abbreviation": "SANPN",
+          "title": "Sanskrit Bible (NT) in Punjabi Script (ਸਤ੍ਯਵੇਦਃ।)",
+          "local_title": "ਸਤ੍ਯਵੇਦਃ। Sanskrit Bible (NT) in Punjabi Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2111,
+          "abbreviation": "SANSI",
+          "local_abbreviation": "SANSI",
+          "title": "Sanskrit Bible (NT) in Sinhala Script (සත්‍යවේදඃ।)",
+          "local_title": "සත්‍යවේදඃ। Sanskrit Bible (NT) in Sinhala Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 1875,
+          "abbreviation": "SANSKBSI",
+          "local_abbreviation": "SANSKBSI",
+          "title": "Sanskrit New Testament (BSI)",
+          "local_title": "Sanskrit New Testament (BSI)",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 2122,
+          "abbreviation": "SANTE",
+          "local_abbreviation": "SANTE",
+          "title": "Sanskrit Bible (NT) in Telugu Script (సత్యవేదః।)",
+          "local_title": "సత్యవేదః। Sanskrit Bible (NT) in Telugu Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2115,
+          "abbreviation": "SANTH",
+          "local_abbreviation": "SANTH",
+          "title": "Sanskrit Bible (NT) in Thai Script (สตฺยเวท:ฯ)",
+          "local_title": "สตฺยเวท:ฯ Sanskrit Bible (NT) in Thai Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2112,
+          "abbreviation": "SANTI",
+          "local_abbreviation": "SANTI",
+          "title": "Sanskrit Bible (NT) in Tibetan Script (སཏྱཝེདཿ།)",
+          "local_title": "སཏྱཝེདཿ། Sanskrit Bible (NT) in Tibetan Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2102,
+          "abbreviation": "SANTM",
+          "local_abbreviation": "SANTM",
+          "title": "Sanskrit Bible (NT) in Tamil Script (ஸத்யவேத³​:।)",
+          "local_title": "ஸத்யவேத³​:। Sanskrit Bible (NT) in Tamil Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2109,
+          "abbreviation": "SANUR",
+          "local_abbreviation": "SANUR",
+          "title": "Sanskrit Bible (NT) in Urdu Script (سَتْیَویدَح۔)",
+          "local_title": "سَتْیَویدَح۔ Sanskrit Bible (NT) in Urdu Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2120,
+          "abbreviation": "SANVE",
+          "local_abbreviation": "SANVE",
+          "title": "Sanskrit Bible (NT) in Velthuis Script (satyaveda.h|)",
+          "local_title": "satyaveda.h| Sanskrit Bible (NT) in Velthuis Script",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sa",
+            "iso_639_3": "san",
+            "name": "Sanskrit",
+            "local_name": "Saṃskṛtam",
+            "text_direction": "ltr",
+            "language_tag": "san",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 324,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 23,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

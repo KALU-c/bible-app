@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 369,
+          "abbreviation": "MAB2004",
+          "local_abbreviation": "АБ2004",
+          "title": "Mongolian Ariun Bible, 2004 Edition",
+          "local_title": "Ариун Библи, 2004",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "mn",
+            "iso_639_3": "khk",
+            "name": "Mongolian",
+            "local_name": "Монгол",
+            "text_direction": "ltr",
+            "language_tag": "khk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 139,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        },
+        {
+          "id": 1590,
+          "abbreviation": "AB2013",
+          "local_abbreviation": "АБ2013",
+          "title": "Ariun Bible 2013",
+          "local_title": "Ариун Библи 2013",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "mn",
+            "iso_639_3": "khk",
+            "name": "Mongolian",
+            "local_name": "Монгол",
+            "text_direction": "ltr",
+            "language_tag": "khk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 139,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

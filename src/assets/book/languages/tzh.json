@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2132,
+          "abbreviation": "AMANNT",
+          "local_abbreviation": "AMANNT",
+          "title": "Tzeltal de Amatenango New Testament",
+          "local_title": "Nuevo Testamento Tzeltal de Amatenango",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tzh",
+            "name": "Tzeltal",
+            "local_name": "Tzeltal",
+            "text_direction": "ltr",
+            "language_tag": "tzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 93,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 361,
+          "abbreviation": "TZH",
+          "local_abbreviation": "TZH",
+          "title": "Bible in Tzeltal Bachajón",
+          "local_title": "Bible in Tzeltal Bachajón",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tzh",
+            "name": "Tzeltal",
+            "local_name": "Tzeltal",
+            "text_direction": "ltr",
+            "language_tag": "tzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 93,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        },
+        {
+          "id": 363,
+          "abbreviation": "TZOXCH",
+          "local_abbreviation": "TZOXCH",
+          "title": "Bible in Tzeltal de Oxchuc y Tenejapa",
+          "local_title": "Bible in Tzeltal de Oxchuc y Tenejapa",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tzh",
+            "name": "Tzeltal",
+            "local_name": "Tzeltal",
+            "text_direction": "ltr",
+            "language_tag": "tzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 93,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

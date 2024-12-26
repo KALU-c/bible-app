@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2771,
+          "abbreviation": "EKEGUSIIBBLE",
+          "local_abbreviation": "EKEGUSIIBBLE",
+          "title": "OLD EKEGUSII BIBLE PROTESTANT EDITION",
+          "local_title": "EBIBILIA  ENCHENU",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "guz",
+            "name": "Ekegusii",
+            "local_name": "Kusli",
+            "text_direction": "ltr",
+            "language_tag": "guz",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 2925,
+          "abbreviation": "EKGE",
+          "local_abbreviation": "EKGE",
+          "title": "THE HOLY BIBLE IN EKEGUSII PROTESTANT EDITION",
+          "local_title": "EBIBILIA ENCHENU",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "guz",
+            "name": "Ekegusii",
+            "local_name": "Kusli",
+            "text_direction": "ltr",
+            "language_tag": "guz",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 2940,
+          "abbreviation": "EKGE",
+          "local_abbreviation": "EKGE",
+          "title": "THE HOLY BIBLE IN EKEGUSII WITH CATHOLIC BOOKS",
+          "local_title": "EBIBILIA ENCHENU AMO NEBITABU BINDE BI’OKONACHA GWA KABERE",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "guz",
+            "name": "Ekegusii",
+            "local_name": "Kusli",
+            "text_direction": "ltr",
+            "language_tag": "guz",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

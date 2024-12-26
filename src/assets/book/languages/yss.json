@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1093,
+          "abbreviation": "yss",
+          "local_abbreviation": "yss-Yawu",
+          "title": "The New Testament in the Yawu Dialect of the Yessan-Mayo Language of Papua New Guinea",
+          "local_title": "GOD ETER AGERKE NAMDERASEM TUMA YENBO",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "yss",
+            "name": "Yessan-Mayo",
+            "local_name": "Yessan-Mayo",
+            "text_direction": "ltr",
+            "language_tag": "yss",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

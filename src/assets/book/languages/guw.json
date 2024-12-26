@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2405,
+          "abbreviation": "GB23",
+          "local_abbreviation": "BWL23",
+          "title": "Gun Bible 1923",
+          "local_title": "BIBLU WIWE LỌ 1923",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "guw",
+            "name": "Gun",
+            "local_name": "Gun-Alada",
+            "text_direction": "ltr",
+            "language_tag": "guw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 244,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2841,
+          "abbreviation": "LAIBGZ",
+          "local_abbreviation": "LAIBGZ",
+          "title": "Old and New Testament in Today's Banggai Version",
+          "local_title": "KITAB MOLIYOUS BILITA MONONDOK",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bgz",
+            "name": "Banggai",
+            "local_name": "Banggai",
+            "text_direction": "ltr",
+            "language_tag": "bgz",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4090,
+          "abbreviation": "APD2024",
+          "local_abbreviation": "APD2024",
+          "title": "Sudanese Arabic New Testament (Arabic Script)",
+          "local_title": "كِتاب العَهد الجَّديد مِن الكِتاب المُقَدَّس",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "apd",
+            "name": "Arabic, Sudanese",
+            "local_name": "لهجة سودانية",
+            "text_direction": "ltr",
+            "language_tag": "apd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 189,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

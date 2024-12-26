@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4036,
+          "abbreviation": "MLU",
+          "local_abbreviation": "MLU",
+          "title": "To'abaita Scripture",
+          "local_title": "To'abaita Scripture NT",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mlu",
+            "name": "Toqabaqita",
+            "local_name": "To’abaita (Malu)",
+            "text_direction": "ltr",
+            "language_tag": "mlu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 986,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": null
+        },
+        {
+          "id": 3957,
+          "abbreviation": "MLU",
+          "local_abbreviation": "MLU-SB",
+          "title": "Toabaita Old Testament",
+          "local_title": "Toabaita Old Testament",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mlu",
+            "name": "Toqabaqita",
+            "local_name": "To’abaita (Malu)",
+            "text_direction": "ltr",
+            "language_tag": "mlu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 986,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": null
+        },
+        {
+          "id": 3648,
+          "abbreviation": "MLU1949",
+          "local_abbreviation": "MLU1949",
+          "title": "To'abiata New Testament 1923, 1949",
+          "local_title": "Ṉa Alaofua Falu 1923, 1949",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mlu",
+            "name": "Toqabaqita",
+            "local_name": "To’abaita (Malu)",
+            "text_direction": "ltr",
+            "language_tag": "mlu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2240,
+          "abbreviation": "KDN",
+          "local_abbreviation": "KUNDA",
+          "title": "Portions of the Chikunda Bible",
+          "local_title": "Bhukhu la Kuyamba",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kdn",
+            "name": "Kunda",
+            "local_name": "Kunda",
+            "text_direction": "ltr",
+            "language_tag": "kdn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 281,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

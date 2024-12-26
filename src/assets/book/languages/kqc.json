@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1033,
+          "abbreviation": "kqc",
+          "local_abbreviation": "kqc",
+          "title": "The New Testament and Ruth in the Doromu-Koki language of Papua New Guinea",
+          "local_title": "Sei di Uka Ago Ruaka di Buka Bedakai",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kqc",
+            "name": "Doromu-Koki",
+            "local_name": "Doromu-Koki",
+            "text_direction": "ltr",
+            "language_tag": "kqc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

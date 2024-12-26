@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2408,
+          "abbreviation": "THV12Rdb",
+          "local_abbreviation": "THV12Rdb",
+          "title": "Name: The Hakka Bible – Today's Taiwan Hakka Version, Old and New Testaments – Roman Script Edition (2012)",
+          "local_title": "HAK-NGÎ SṲN-KÎN – Hien-thoi Thòi-vân Hak-ngî Yi̍t-pún – Sîn-Khiu Yok Chhiòn Sû (Lò-mâ-sṳ pán)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "hak",
+            "name": "Chinese, Hakka",
+            "local_name": "Hakkafa (Roman script)",
+            "text_direction": "ltr",
+            "language_tag": "hak_rom",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 295,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 407,
+          "abbreviation": "aai",
+          "local_abbreviation": "aai",
+          "title": "Miniafia Oyan  New Testament",
+          "local_title": "Tur gewasin o baibasit boubun",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "aai",
+            "name": "Arifama-Miniafia",
+            "local_name": "Arifama-Miniafia ",
+            "text_direction": "ltr",
+            "language_tag": "aai",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 25,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

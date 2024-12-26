@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 904,
+          "abbreviation": "WLC",
+          "local_abbreviation": "WLC",
+          "title": "Westminster Leningrad Codex - Groves Center Version",
+          "local_title": "Westminster Leningrad Codex - Groves Center Version",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "hbo",
+            "name": "Hebrew (Ancient)",
+            "local_name": "עִבְרִית קְלַסִית‎",
+            "text_direction": "rtl",
+            "language_tag": "hbo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 343,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": null
+        },
+        {
+          "id": 2376,
+          "abbreviation": "HebOTbsi",
+          "local_abbreviation": "תנ\"ך",
+          "title": "Hebrew Old Testament (electronic reproduction of Westminster Leningrad Codex)",
+          "local_title": "תנ\"ך (שעתוק אלקטרוני נאמן לכתב יד לנינגרד)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "hbo",
+            "name": "Hebrew (Ancient)",
+            "local_name": "עִבְרִית קְלַסִית‎",
+            "text_direction": "rtl",
+            "language_tag": "hbo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 105,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

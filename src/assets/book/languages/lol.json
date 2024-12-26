@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2917,
+          "abbreviation": "LOL87",
+          "local_abbreviation": "LOL87",
+          "title": "Lomongo Bible 1987",
+          "local_title": "BONKANDA WA NZAKOMBA",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lol",
+            "name": "Mongo",
+            "local_name": "Mongo-Nkundu",
+            "text_direction": "ltr",
+            "language_tag": "lol",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 266,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 1495,
+          "abbreviation": "NTMN58",
+          "local_abbreviation": "NTMN58",
+          "title": "Nouveau Testament en Mongo-Nkundu 1958",
+          "local_title": "BONKANDA WA NZAKOMBA W’AEYOKO",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lol",
+            "name": "Mongo",
+            "local_name": "Mongo-Nkundu",
+            "text_direction": "ltr",
+            "language_tag": "lol",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 266,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

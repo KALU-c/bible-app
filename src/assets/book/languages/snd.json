@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3391,
+          "abbreviation": "HSB",
+          "local_abbreviation": "HSB",
+          "title": "Hindu Sindi Bible",
+          "local_title": "Hindu Sindhi Bible",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "sd",
+            "iso_639_3": "snd",
+            "name": "Sindhi",
+            "local_name": "سنڌي",
+            "text_direction": "rtl",
+            "language_tag": "snd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 63,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 3392,
+          "abbreviation": "MSB",
+          "local_abbreviation": "MSB",
+          "title": "Muslim Sindhi Bible",
+          "local_title": "Muslim Sindhi Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sd",
+            "iso_639_3": "snd",
+            "name": "Sindhi",
+            "local_name": "سنڌي",
+            "text_direction": "rtl",
+            "language_tag": "snd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 63,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 3316,
+          "abbreviation": "SB62",
+          "local_abbreviation": "SB62",
+          "title": "Sindhi Bible",
+          "local_title": "Sindhi Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sd",
+            "iso_639_3": "snd",
+            "name": "Sindhi",
+            "local_name": "سنڌي",
+            "text_direction": "rtl",
+            "language_tag": "snd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 63,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 722,
+          "abbreviation": "SCLNT",
+          "local_abbreviation": "SCLNT",
+          "title": "Common Language New Testament",
+          "local_title": "Common Language New Testament",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "sd",
+            "iso_639_3": "snd",
+            "name": "Sindhi",
+            "local_name": "سنڌي",
+            "text_direction": "rtl",
+            "language_tag": "snd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 63,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        },
+        {
+          "id": 3818,
+          "abbreviation": "SND",
+          "local_abbreviation": "SND",
+          "title": "Sindhi India Bible",
+          "local_title": "Sindhi Bible (India)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sd",
+            "iso_639_3": "snd",
+            "name": "Sindhi",
+            "local_name": "سنڌي",
+            "text_direction": "rtl",
+            "language_tag": "snd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 314,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

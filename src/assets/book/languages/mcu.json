@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2226,
+          "abbreviation": "mcu",
+          "local_abbreviation": "mcu",
+          "title": "Mambilla NT",
+          "local_title": "Mambilla NT (Cameroon)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mcu",
+            "name": "Cameroon Mambila",
+            "local_name": "Cameroon Mambila",
+            "text_direction": "ltr",
+            "language_tag": "mcu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

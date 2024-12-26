@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3871,
+          "abbreviation": "SKRV",
+          "local_abbreviation": "SKRV",
+          "title": "Holy Bible in Modern Central Saraiki",
+          "local_title": "کِتاب مُقدّس سرائیکی ترجمہ",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "skr",
+            "name": "Seraiki",
+            "local_name": "Seraiki",
+            "text_direction": "rtl",
+            "language_tag": "skr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 14826,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 3731,
+          "abbreviation": "skr",
+          "local_abbreviation": "سرائیکی",
+          "title": "Gospel of Matthew in Common Saraiki",
+          "local_title": "متّی دی راہِیں اِنجِیل سرائیکی بولی اِچ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "skr",
+            "name": "Seraiki",
+            "local_name": "Seraiki",
+            "text_direction": "rtl",
+            "language_tag": "skr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 63,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

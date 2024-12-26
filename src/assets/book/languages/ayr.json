@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2251,
+          "abbreviation": "AYBOL1986",
+          "local_abbreviation": "AYBOL1986",
+          "title": "Biblia Aymara 1986",
+          "local_title": "Aymar Bibliia 1986",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ayr",
+            "name": "Central Aymara",
+            "local_name": "Aymar",
+            "text_direction": "ltr",
+            "language_tag": "ayr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 72,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 293,
+          "abbreviation": "AYOP",
+          "local_abbreviation": "AYOP",
+          "title": "Biblia Aymara",
+          "local_title": "Qullan Arunaca",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ayr",
+            "name": "Central Aymara",
+            "local_name": "Aymar",
+            "text_direction": "ltr",
+            "language_tag": "ayr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 72,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": "eng"
+        },
+        {
+          "id": 2250,
+          "abbreviation": "AYOPD",
+          "local_abbreviation": "AYOPD",
+          "title": "Aymara Bible with DC",
+          "local_title": "Qullan Arunaka DC",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ayr",
+            "name": "Central Aymara",
+            "local_name": "Aymar",
+            "text_direction": "ltr",
+            "language_tag": "ayr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 72,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

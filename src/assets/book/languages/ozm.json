@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2387,
+          "abbreviation": "ozm",
+          "local_abbreviation": "ozm",
+          "title": "Koonzime NT",
+          "local_title": "Kálar Nzyɛ̌m : Ejwán é Sáá",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ozm",
+            "name": "Koonzime",
+            "local_name": "Koonzime",
+            "text_direction": "ltr",
+            "language_tag": "ozm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 426,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        },
+        {
+          "id": 2388,
+          "abbreviation": "ozm",
+          "local_abbreviation": "ozmBad",
+          "title": "Le Nouveau Testament en bìdwe'e",
+          "local_title": "Kálara Zyɛ̌m Edwán é mpʉ̌n",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ozm",
+            "name": "Koonzime",
+            "local_name": "Koonzime",
+            "text_direction": "ltr",
+            "language_tag": "ozm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 426,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "lxx"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

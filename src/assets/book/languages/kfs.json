@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2768,
+          "abbreviation": "KFSNT",
+          "local_abbreviation": "KFSNT",
+          "title": "Bilaspuri New Testament",
+          "local_title": "बिलासपुरी नौआं नियम",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kfs",
+            "name": "Bilaspuri",
+            "local_name": "Bilaspuri",
+            "text_direction": "ltr",
+            "language_tag": "kfs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 820,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

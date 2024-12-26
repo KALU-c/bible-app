@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1887,
+          "abbreviation": "urdgvr",
+          "local_abbreviation": "GVR",
+          "title": "Urdu Geo Version (Roman Script)",
+          "local_title": "Kitab-i Muqaddas",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "urd",
+            "name": "Urdu (Roman)",
+            "local_name": "Urdū",
+            "text_direction": "ltr",
+            "language_tag": "urd_rom",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 253,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 1553,
+          "abbreviation": "URDR55",
+          "local_abbreviation": "URDR55",
+          "title": "Romanised Urdu Bible 1955",
+          "local_title": "Kitáb i Muqaddas 1955 (Tauret, Zabúr, Ambiyá ke Sahífa, aur Injíl)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "urd",
+            "name": "Urdu (Roman)",
+            "local_name": "Urdū",
+            "text_direction": "ltr",
+            "language_tag": "urd_rom",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        },
+        {
+          "id": 2609,
+          "abbreviation": "URDRPS",
+          "local_abbreviation": "URDRPS",
+          "title": "Zabúr -  Romanised Urdu Psalms 1863 (Owen)",
+          "local_title": "Zabúr 1863 (Roman Urdū)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "urd",
+            "name": "Urdu (Roman)",
+            "local_name": "Urdū",
+            "text_direction": "ltr",
+            "language_tag": "urd_rom",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1603,
+          "abbreviation": "lhiNT",
+          "local_abbreviation": "lhiNT",
+          "title": "The New Testament in the Lahu Si language",
+          "local_title": "Lahu Shi",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lhi",
+            "name": "Lahu Shi",
+            "local_name": "Lahu Shi",
+            "text_direction": "ltr",
+            "language_tag": "lhi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

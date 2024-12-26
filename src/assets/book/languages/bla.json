@@ -1,0 +1,134 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1897,
+          "abbreviation": "bla1890",
+          "local_abbreviation": "bla1890",
+          "title": "Blackfoot Matthew",
+          "local_title": "ŎKHS' I TSĬN IK SĬN NI ST. MATTHEW OT SĬN AI PI.",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bla",
+            "name": "Siksika (Blackfoot)",
+            "local_name": "Siksiká",
+            "text_direction": "ltr",
+            "language_tag": "bla",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 253,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": null
+        },
+        {
+          "id": 2500,
+          "abbreviation": "BLA1979",
+          "local_abbreviation": "BLA1979",
+          "title": "Blackfoot Gospel of John 1979 (Canada)",
+          "local_title": "Annaahk John Manistsitsinikatahpi Jesus Manistsipaitapiihpiai 1979",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bla",
+            "name": "Siksika (Blackfoot)",
+            "local_name": "Siksiká",
+            "text_direction": "ltr",
+            "language_tag": "bla",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 239,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": null
+        },
+        {
+          "id": 2529,
+          "abbreviation": "BLAMAT",
+          "local_abbreviation": "BLAMAT",
+          "title": "Blackfoot Gospel of Matthew 1890 (Canada)",
+          "local_title": "Ŏkhsʼ i tsĭn ik sĭn Ni Matthew otsĭn ai pi 1890",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bla",
+            "name": "Siksika (Blackfoot)",
+            "local_name": "Siksiká",
+            "text_direction": "ltr",
+            "language_tag": "bla",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 239,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": null
+        },
+        {
+          "id": 3518,
+          "abbreviation": "BLAMRK",
+          "local_abbreviation": "BLAMRK",
+          "title": "Good News as told by Mark in the Blackfoot Language 1972",
+          "local_title": "l'taamitsinikssin Mark manistaitsinikatoohpiayi 1972",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bla",
+            "name": "Siksika (Blackfoot)",
+            "local_name": "Siksiká",
+            "text_direction": "ltr",
+            "language_tag": "bla",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 4,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

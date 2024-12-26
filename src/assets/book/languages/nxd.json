@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1492,
+          "abbreviation": "BBY62",
+          "local_abbreviation": "BBY62",
+          "title": "Nouveau Testament en Longando 1962",
+          "local_title": "Bokanda Bona Yakomba Bon’ototo",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nxd",
+            "name": "Ngando (Democratic Republic of Congo)",
+            "local_name": "Longando",
+            "text_direction": "ltr",
+            "language_tag": "nxd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 266,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

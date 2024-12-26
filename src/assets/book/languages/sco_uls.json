@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 885,
+          "abbreviation": "USNT",
+          "local_abbreviation": "USNT",
+          "title": "The Four Gospels in Ulster Scots 2021",
+          "local_title": "Tha Fower Gospels ïn Ulstèr-Scots 2021",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "sco",
+            "name": "Ulster Scots",
+            "local_name": "Ullans",
+            "text_direction": "ltr",
+            "language_tag": "sco_uls",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 197,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

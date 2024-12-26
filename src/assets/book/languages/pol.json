@@ -1,0 +1,254 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3490,
+          "abbreviation": "PLWB1975",
+          "local_abbreviation": "BW1975",
+          "title": "The Warsaw Bible 1975",
+          "local_title": "Biblia Warszawska 1975",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pl",
+            "iso_639_3": "pol",
+            "name": "Polish",
+            "local_name": "Polski",
+            "text_direction": "ltr",
+            "language_tag": "pol",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 990,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "org"
+        },
+        {
+          "id": 319,
+          "abbreviation": "NBG",
+          "local_abbreviation": "NBG",
+          "title": "Nowa Biblia Gdańska",
+          "local_title": "Nowa Biblia Gdańska",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "pl",
+            "iso_639_3": "pol",
+            "name": "Polish",
+            "local_name": "Polski",
+            "text_direction": "ltr",
+            "language_tag": "pol",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 128,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": "org"
+        },
+        {
+          "id": 3551,
+          "abbreviation": "NT NPD",
+          "local_abbreviation": "NT NPD",
+          "title": "Good News About The Rescue In Christ. New Dynamic Translation of New Testament",
+          "local_title": "Dobra Wiadomość o ratunku w Chrystusie. Nowy Przekład Dynamiczny Nowego Testamentu",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pl",
+            "iso_639_3": "pol",
+            "name": "Polish",
+            "local_name": "Polski",
+            "text_direction": "ltr",
+            "language_tag": "pol",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 1880,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 132,
+          "abbreviation": "PBG",
+          "local_abbreviation": "PBG",
+          "title": "Biblia Gdańska",
+          "local_title": "Biblia Gdańska",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pl",
+            "iso_639_3": "pol",
+            "name": "Polish",
+            "local_name": "Polski",
+            "text_direction": "ltr",
+            "language_tag": "pol",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        },
+        {
+          "id": 137,
+          "abbreviation": "PLNT",
+          "local_abbreviation": "PLNT",
+          "title": "Polish Living New Testament (The Word of Life)",
+          "local_title": "Słowo Życia",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "pl",
+            "iso_639_3": "pol",
+            "name": "Polish",
+            "local_name": "Polski",
+            "text_direction": "ltr",
+            "language_tag": "pol",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": "eng"
+        },
+        {
+          "id": 2095,
+          "abbreviation": "SNP",
+          "local_abbreviation": "SNP",
+          "title": "Polish Bible 2018",
+          "local_title": "Biblia, to jest Pismo Święte Starego i Nowego Przymierza Wydanie pierwsze 2018",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pl",
+            "iso_639_3": "pol",
+            "name": "Polish",
+            "local_name": "Polski",
+            "text_direction": "ltr",
+            "language_tag": "pol",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 319,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "org"
+        },
+        {
+          "id": 3881,
+          "abbreviation": "SNPD4",
+          "local_abbreviation": "SNPD4",
+          "title": "BIBLIA to jest Pismo Święte Starego i Nowego Przymierza",
+          "local_title": "Biblia, to jest Pismo Święte Starego i Nowego Przymierza",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pl",
+            "iso_639_3": "pol",
+            "name": "Polish",
+            "local_name": "Polski",
+            "text_direction": "ltr",
+            "language_tag": "pol",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 319,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "org"
+        },
+        {
+          "id": 138,
+          "abbreviation": "polUBG",
+          "local_abbreviation": "UBG",
+          "title": "Updated Gdansk Bible",
+          "local_title": "UWSPÓŁCZEŚNIONA BIBLIA GDAŃSKA",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pl",
+            "iso_639_3": "pol",
+            "name": "Polish",
+            "local_name": "Polski",
+            "text_direction": "ltr",
+            "language_tag": "pol",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 253,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 19,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 8,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

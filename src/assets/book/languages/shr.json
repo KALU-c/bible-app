@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3953,
+          "abbreviation": "MKongoBu",
+          "local_abbreviation": "MKB",
+          "title": "Projet de Traduction Bible en mashi du Congo",
+          "local_title": "BIBLIYA NTAGATIFU OMU MASHI",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "shr",
+            "name": "Shi",
+            "local_name": "Mashi",
+            "text_direction": "ltr",
+            "language_tag": "shr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 15138,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

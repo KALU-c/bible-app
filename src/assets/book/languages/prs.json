@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 341,
+          "abbreviation": "TDV",
+          "local_abbreviation": "TDV",
+          "title": "prsAF - Today's Dari Version Bible - revision project",
+          "local_title": "کتاب مقدس به زبان دری",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "prs",
+            "name": "Dari",
+            "local_name": "دری‎",
+            "text_direction": "rtl",
+            "language_tag": "prs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 995,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 28,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

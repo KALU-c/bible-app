@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1910,
+          "abbreviation": "IRVMar",
+          "local_abbreviation": "IRVMar",
+          "title": "Indian Revised Version (IRV) - Marathi",
+          "local_title": "इंडियन रीवाइज्ड वर्जन (IRV) - मराठी",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "mr",
+            "iso_639_3": "mar",
+            "name": "Marathi",
+            "local_name": "मराठी",
+            "text_direction": "ltr",
+            "language_tag": "mar",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 424,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 2143,
+          "abbreviation": "MACLBSI",
+          "local_abbreviation": "MACLBSI",
+          "title": "Marathi CL New Testament (BSI)",
+          "local_title": "पवित्र शास्त्र CL New Testament (BSI)",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "mr",
+            "iso_639_3": "mar",
+            "name": "Marathi",
+            "local_name": "मराठी",
+            "text_direction": "ltr",
+            "language_tag": "mar",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 1686,
+          "abbreviation": "MARVBSI",
+          "local_abbreviation": "MARVBSI",
+          "title": "Marathi RV (Re-edited) Bible (BSI)",
+          "local_title": "पवित्र शास्त्र RV (Re-edited) Bible (BSI)",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "mr",
+            "iso_639_3": "mar",
+            "name": "Marathi",
+            "local_name": "मराठी",
+            "text_direction": "ltr",
+            "language_tag": "mar",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 3260,
+          "abbreviation": "MRCV",
+          "local_abbreviation": "MRCV",
+          "title": "Holy Bible, Marathi Contemporary Version",
+          "local_title": "पवित्रशास्त्र, मराठी समकालीन आवृत्ती",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "mr",
+            "iso_639_3": "mar",
+            "name": "Marathi",
+            "local_name": "मराठी",
+            "text_direction": "ltr",
+            "language_tag": "mar",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 4109,
+          "abbreviation": "MRCV",
+          "local_abbreviation": "MRCV",
+          "title": "Marathi Contemporary Version 2022",
+          "local_title": "मराठी समकालीन आवृत्ती",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "mr",
+            "iso_639_3": "mar",
+            "name": "Marathi",
+            "local_name": "मराठी",
+            "text_direction": "ltr",
+            "language_tag": "mar",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3632,
+          "abbreviation": "ZHN",
+          "local_abbreviation": "ZHN",
+          "title": "Zhuang, Nong",
+          "local_title": "Sw dij Sen (kauq Noangz)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "zhn",
+            "name": "Zhuang, Nong",
+            "local_name": "Zhuang, Nong",
+            "text_direction": "ltr",
+            "language_tag": "zhn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 15142,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

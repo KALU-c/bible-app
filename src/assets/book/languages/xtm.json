@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 847,
+          "abbreviation": "xtm",
+          "local_abbreviation": "xtm",
+          "title": "New Testament, Psalms and Proverbs in Mixtec, Magdalena Peñasco",
+          "local_title": "New Testament, Psalms and Proverbs in Mixtec, Magdalena Peñasco",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "xtm",
+            "name": "Magdalena Peñasco Mixtec",
+            "local_name": "Magdalena Peñasco Mixtec",
+            "text_direction": "ltr",
+            "language_tag": "xtm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

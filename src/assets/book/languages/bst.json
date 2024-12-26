@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3171,
+          "abbreviation": "BasNT",
+          "local_abbreviation": "ኦጫ̈ቃማ",
+          "title": "Basketo NT",
+          "local_title": "ኦራ ጫ̈ቃ ማጻ̈ፋ",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bst",
+            "name": "Basketo",
+            "local_name": "ባስኬቶኛ",
+            "text_direction": "ltr",
+            "language_tag": "bst",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 279,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

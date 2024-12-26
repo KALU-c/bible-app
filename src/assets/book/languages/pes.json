@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 118,
+          "abbreviation": "nmv",
+          "local_abbreviation": "nmv",
+          "title": "New Millenium Version",
+          "local_title": "هزارۀ نو",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "fa",
+            "iso_639_3": "pes",
+            "name": "Farsi (Persian)",
+            "local_name": "فارسی",
+            "text_direction": "rtl",
+            "language_tag": "pes",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 249,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 25,
+          "vrs": "eng"
+        },
+        {
+          "id": 1619,
+          "abbreviation": "PCB",
+          "local_abbreviation": "PCB",
+          "title": "Persian Contemporary Bible 2022",
+          "local_title": "کتاب مقدس، ترجمۀ معاصر",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "fa",
+            "iso_639_3": "pes",
+            "name": "Farsi (Persian)",
+            "local_name": "فارسی",
+            "text_direction": "rtl",
+            "language_tag": "pes",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        },
+        {
+          "id": 136,
+          "abbreviation": "POV-FAS",
+          "local_abbreviation": "POV-FAS",
+          "title": "Persian Old Version",
+          "local_title": "Persian Old Version",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fa",
+            "iso_639_3": "pes",
+            "name": "Farsi (Persian)",
+            "local_name": "فارسی",
+            "text_direction": "rtl",
+            "language_tag": "pes",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 249,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        },
+        {
+          "id": 181,
+          "abbreviation": "TPV",
+          "local_abbreviation": "TPV",
+          "title": "Today's Farsi",
+          "local_title": "مژده برای عصر جدید",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "fa",
+            "iso_639_3": "pes",
+            "name": "Farsi (Persian)",
+            "local_name": "فارسی",
+            "text_direction": "rtl",
+            "language_tag": "pes",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 25,
+          "vrs": "eng"
+        },
+        {
+          "id": 3737,
+          "abbreviation": "TPVR",
+          "local_abbreviation": "مژده",
+          "title": "Today's Persian Version Revised",
+          "local_title": "مژده برای عصر جدید - ویرایش ۲۰۲۳",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "fa",
+            "iso_639_3": "pes",
+            "name": "Farsi (Persian)",
+            "local_name": "فارسی",
+            "text_direction": "rtl",
+            "language_tag": "pes",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

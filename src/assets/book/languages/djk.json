@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 243,
+          "abbreviation": "djk",
+          "local_abbreviation": "djk",
+          "title": "Maroon Creole (Eastern) NT",
+          "local_title": "Businenge Tongo",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "djk",
+            "name": "Eastern Maroon Creole",
+            "local_name": "Businenge Tongo",
+            "text_direction": "ltr",
+            "language_tag": "djk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3980,
+          "abbreviation": "yai",
+          "local_abbreviation": "yai",
+          "title": "Irayain, Yagnobi Portions",
+          "local_title": "Irayain, Yagnobi",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "yai",
+            "name": "Yagnobi",
+            "local_name": "Yagnobi",
+            "text_direction": "ltr",
+            "language_tag": "yai",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 15146,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

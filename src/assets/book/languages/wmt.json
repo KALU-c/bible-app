@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1430,
+          "abbreviation": "wmtOTNT",
+          "local_abbreviation": "wmtOTNT",
+          "title": "Walmajarri - The Good News that Sraigthens",
+          "local_title": "Wangki Wulyi Jirrkirlikanujuwal",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "wmt",
+            "name": "Walmajarri",
+            "local_name": "Walmajarri",
+            "text_direction": "ltr",
+            "language_tag": "wmt",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

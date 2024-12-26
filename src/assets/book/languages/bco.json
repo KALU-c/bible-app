@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1298,
+          "abbreviation": "bco",
+          "local_abbreviation": "BCO",
+          "title": "Kaluli NT plus OT Portions",
+          "local_title": "Godeya: To Nafayo: We",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bco",
+            "name": "Kaluli",
+            "local_name": "Kaluli",
+            "text_direction": "ltr",
+            "language_tag": "bco",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

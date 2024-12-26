@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1465,
+          "abbreviation": "ses",
+          "local_abbreviation": "ses",
+          "title": "Songhai de Gao",
+          "local_title": "Songhai de Gao Bible",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ses",
+            "name": "Koyraboro Senni Songhai",
+            "local_name": "Songhai de Gao",
+            "text_direction": "ltr",
+            "language_tag": "ses",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

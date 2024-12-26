@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3847,
+          "abbreviation": "sxw",
+          "local_abbreviation": "sxw",
+          "title": "Gbe, Saxwe - 2022 WBT (NT) Non Drama",
+          "local_title": "Gbe, Saxwe - 2022 WBT (NT) Non Drama",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "sxw",
+            "name": "Gbe, Saxwe",
+            "local_name": "Gbe, Saxwe",
+            "text_direction": "ltr",
+            "language_tag": "sxw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 334,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3312,
+          "abbreviation": "KMNT",
+          "local_abbreviation": "KMNT",
+          "title": "Kreol Morisien New Testament plus Psalms and Proverbs",
+          "local_title": "Nouvo Testaman Kreol Morisien Harmonisation NTPS KM",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mfe",
+            "name": "Mauritian",
+            "local_name": "Morisyen",
+            "text_direction": "ltr",
+            "language_tag": "mfe",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 115,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 3313,
+          "abbreviation": "KMOTPOR",
+          "local_abbreviation": "KMOTPOR",
+          "title": "Kreol Morisyen OT Portions",
+          "local_title": "Kreol Morisyen OT Portions",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mfe",
+            "name": "Mauritian",
+            "local_name": "Morisyen",
+            "text_direction": "ltr",
+            "language_tag": "mfe",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 115,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        },
+        {
+          "id": 344,
+          "abbreviation": "NTKM2009",
+          "local_abbreviation": "NTKM2009",
+          "title": "Mauritian Kreol New Testament",
+          "local_title": "Nouvo Testaman dan Kreol Morisien",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mfe",
+            "name": "Mauritian",
+            "local_name": "Morisyen",
+            "text_direction": "ltr",
+            "language_tag": "mfe",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 115,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 19,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

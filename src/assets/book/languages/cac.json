@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 492,
+          "abbreviation": "CSM",
+          "local_abbreviation": "CSM",
+          "title": "Chuj San Mateo Bible",
+          "local_title": "Chuj San Mateo Bible",
+          "audio": true,
+          "audio_count": 3,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cac",
+            "name": "Chuj",
+            "local_name": "Chuj",
+            "text_direction": "ltr",
+            "language_tag": "cac",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 152,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": null
+        },
+        {
+          "id": 494,
+          "abbreviation": "CSS",
+          "local_abbreviation": "CSS",
+          "title": "Chuj San Sebastian Bible",
+          "local_title": "Chuj San Sebastian Bible",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cac",
+            "name": "Chuj",
+            "local_name": "Chuj",
+            "text_direction": "ltr",
+            "language_tag": "cac",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 152,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 18,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

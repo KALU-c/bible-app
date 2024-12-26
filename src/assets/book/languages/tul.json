@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1920,
+          "abbreviation": "Tula",
+          "local_abbreviation": "Tula",
+          "title": "Kitule (Tula) New Testament",
+          "local_title": "Bwaki Kifwiyang",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tul",
+            "name": "Tula",
+            "local_name": "Ki̱tule",
+            "text_direction": "ltr",
+            "language_tag": "tul",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 138,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

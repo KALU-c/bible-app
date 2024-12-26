@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1810,
+          "abbreviation": "DHO15",
+          "local_abbreviation": "DHO15",
+          "title": "The Bible in Dholuo 2015",
+          "local_title": "MUMA MALER 2015",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "luo",
+            "name": "Luo (Kenya and Tanzania)",
+            "local_name": "Dholuo",
+            "text_direction": "ltr",
+            "language_tag": "luo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 268,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 18,
+          "vrs": "eng"
+        },
+        {
+          "id": 2652,
+          "abbreviation": "NLT",
+          "local_abbreviation": "MLM",
+          "title": "New Luo Translation 2020",
+          "local_title": "Motingʼo Loko Manyien",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "luo",
+            "name": "Luo (Kenya and Tanzania)",
+            "local_name": "Dholuo",
+            "text_direction": "ltr",
+            "language_tag": "luo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

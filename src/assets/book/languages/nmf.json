@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1545,
+          "abbreviation": "TANGBSI",
+          "local_abbreviation": "TANGBSI",
+          "title": "Tangkhul Naga Bible (BSI)",
+          "local_title": "Kathara Bible (BSI)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nmf",
+            "name": "Tangkhul Naga (India)",
+            "local_name": "Tangkhul",
+            "text_direction": "ltr",
+            "language_tag": "nmf",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

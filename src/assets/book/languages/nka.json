@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3296,
+          "abbreviation": "NTN2008",
+          "local_abbreviation": "KK2008",
+          "title": "New Testament in Nkoya",
+          "local_title": "Kulimama Kwakupya",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nka",
+            "name": "Nkoya",
+            "local_name": "Shinkoya",
+            "text_direction": "ltr",
+            "language_tag": "nka",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 165,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 3091,
+          "abbreviation": "SOTB",
+          "local_abbreviation": "LLK",
+          "title": "Nkoya Bible",
+          "local_title": "Libuka Lya Kuyela",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nka",
+            "name": "Nkoya",
+            "local_name": "Shinkoya",
+            "text_direction": "ltr",
+            "language_tag": "nka",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 165,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

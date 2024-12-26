@@ -1,0 +1,194 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2182,
+          "abbreviation": "BIBU1",
+          "local_abbreviation": "BIBU1",
+          "title": "BIBULIYA ENTUKUVU",
+          "local_title": "BIBULIYA ENTUKUVU",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "lg",
+            "iso_639_3": "lug",
+            "name": "Ganda",
+            "local_name": "Luganda",
+            "text_direction": "ltr",
+            "language_tag": "lug",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 141,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "org"
+        },
+        {
+          "id": 1625,
+          "abbreviation": "LCB",
+          "local_abbreviation": "EEEE",
+          "title": "Luganda Contemporary Bible",
+          "local_title": "Endagaano Enkadde n’Endagaano Empya",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "lg",
+            "iso_639_3": "lug",
+            "name": "Ganda",
+            "local_name": "Luganda",
+            "text_direction": "ltr",
+            "language_tag": "lug",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        },
+        {
+          "id": 2808,
+          "abbreviation": "LB03",
+          "local_abbreviation": "LB03",
+          "title": "Luganda Bible 2003",
+          "local_title": "Luganda Bible 2003",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "lg",
+            "iso_639_3": "lug",
+            "name": "Ganda",
+            "local_name": "Luganda",
+            "text_direction": "ltr",
+            "language_tag": "lug",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 141,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 1423,
+          "abbreviation": "LBR",
+          "local_abbreviation": "LBR",
+          "title": "Luganda Revised Bible",
+          "local_title": "EKITABO EKITUKUVU, BAIBULI",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "lg",
+            "iso_639_3": "lug",
+            "name": "Ganda",
+            "local_name": "Luganda",
+            "text_direction": "ltr",
+            "language_tag": "lug",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 141,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 2804,
+          "abbreviation": "LBwD03",
+          "local_abbreviation": "LBwD03",
+          "title": "Luganda DC Bible 2003",
+          "local_title": "Luganda DC Bible 2003",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "lg",
+            "iso_639_3": "lug",
+            "name": "Ganda",
+            "local_name": "Luganda",
+            "text_direction": "ltr",
+            "language_tag": "lug",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 141,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 1829,
+          "abbreviation": "LUG68",
+          "local_abbreviation": "LUG68",
+          "title": "Luganda Bible 1968 Edition",
+          "local_title": "Ekitabo Ekitukuvu ekiyitibwa Baibuli Endagaano Enkadde n'Empya",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "lg",
+            "iso_639_3": "lug",
+            "name": "Ganda",
+            "local_name": "Luganda",
+            "text_direction": "ltr",
+            "language_tag": "lug",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 141,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 6,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

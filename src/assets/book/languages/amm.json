@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 991,
+          "abbreviation": "amm",
+          "local_abbreviation": "amm",
+          "title": "Ama NT",
+          "local_title": "Kotoni Imo Itouniyaimo",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "amm",
+            "name": "Ama (Papua New Guinea",
+            "local_name": "Ama (PNG)",
+            "text_direction": "ltr",
+            "language_tag": "amm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

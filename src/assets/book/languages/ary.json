@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3655,
+          "abbreviation": "ary",
+          "local_abbreviation": "ary",
+          "title": "Northern Mor N T",
+          "local_title": "Northern Mor N T",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ary",
+            "name": "Moroccan Arabic",
+            "local_name": "الدارجة المغربية",
+            "text_direction": "rtl",
+            "language_tag": "ary",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 558,
+          "abbreviation": "MSTD",
+          "local_abbreviation": "MSTD",
+          "title": "Moroccan Standard Translation",
+          "local_title": "الترجمة المغربية القياسية",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ary",
+            "name": "Moroccan Arabic",
+            "local_name": "الدارجة المغربية",
+            "text_direction": "rtl",
+            "language_tag": "ary",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 168,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 19,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

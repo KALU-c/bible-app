@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 264,
+          "abbreviation": "QUII",
+          "local_abbreviation": "QUII",
+          "title": "Quichua Imbabura Bible",
+          "local_title": "Diospaj Shimi",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "qvi",
+            "name": "Imbabura Highland Quichua",
+            "local_name": "Kichwa: Imbabura",
+            "text_direction": "ltr",
+            "language_tag": "qvi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 76,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 27,
+          "vrs": "eng"
+        },
+        {
+          "id": 3626,
+          "abbreviation": "QVI16",
+          "local_abbreviation": "QVI16",
+          "title": "Quichua Imbabura 2016",
+          "local_title": "Quichua Imbabura 2016",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "qvi",
+            "name": "Imbabura Highland Quichua",
+            "local_name": "Kichwa: Imbabura",
+            "text_direction": "ltr",
+            "language_tag": "qvi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

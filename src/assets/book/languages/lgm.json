@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1497,
+          "abbreviation": "NTKI57",
+          "local_abbreviation": "NTKI57",
+          "title": "Kilega New Testament 1957",
+          "local_title": "Nouveau Testament en Kilega",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lgm",
+            "name": "Lega-Mwenga",
+            "local_name": "Lega-Mwenga",
+            "text_direction": "ltr",
+            "language_tag": "lgm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 266,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

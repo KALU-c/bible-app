@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1540,
+          "abbreviation": "KOKBSI",
+          "local_abbreviation": "KOKBSI",
+          "title": "Kok Borok (Re-edited) Bible (BSI)",
+          "local_title": "Kok Borok (Re-edited) Bible (BSI)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "trp",
+            "name": "Kok Borok",
+            "local_name": "Kokborok",
+            "text_direction": "ltr",
+            "language_tag": "trp",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

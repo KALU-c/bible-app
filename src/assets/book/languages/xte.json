@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3486,
+          "abbreviation": "KNTOT",
+          "local_abbreviation": "KNTOT",
+          "title": "Ketengban Bible NT OTX",
+          "local_title": "Allah Upu: Allahdi Pumun Taru pe, Ukupu Taru pe, Pediramseu Upu",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "xte",
+            "name": "Ketengban",
+            "local_name": "Ketengban",
+            "text_direction": "ltr",
+            "language_tag": "xte",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 986,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

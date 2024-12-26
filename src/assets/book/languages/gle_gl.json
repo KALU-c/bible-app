@@ -1,0 +1,194 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3907,
+          "abbreviation": "ABNPOLG",
+          "local_abbreviation": "ABNPOLG",
+          "title": "Gospels and Acts in Irish 1915, 1921 (Peter O'Leary)",
+          "local_title": "Na Ċeiṫre Soisgéil agus Gníoṁarṫa na n-Aspol 1915, 1921 (Peadar Ua Laoghaire)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gle",
+            "name": "Irish Gaelic (Gaelic type)",
+            "local_name": "Gaeilge (cló Gaelach)",
+            "text_direction": "ltr",
+            "language_tag": "gle_gl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": null
+        },
+        {
+          "id": 3592,
+          "abbreviation": "ASN1943G",
+          "local_abbreviation": "ASN1943G",
+          "title": "Gospels and Acts in Irish 1943 in Gaelic type",
+          "local_title": "Na Ceiṫre Soiscéil agus Gníoṁarṫa na n-Abstal 1943 (Pádraig Mac Giolla Cheara)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gle",
+            "name": "Irish Gaelic (Gaelic type)",
+            "local_name": "Gaeilge (cló Gaelach)",
+            "text_direction": "ltr",
+            "language_tag": "gle_gl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 810,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        },
+        {
+          "id": 3908,
+          "abbreviation": "BedellG",
+          "local_abbreviation": "BedellG",
+          "title": "Irish Bedell Bible 1817 (Bedell) Gaelic type",
+          "local_title": "An Bíobla Naoṁṫa 1817 (Bedell)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gle",
+            "name": "Irish Gaelic (Gaelic type)",
+            "local_name": "Gaeilge (cló Gaelach)",
+            "text_direction": "ltr",
+            "language_tag": "gle_gl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 3905,
+          "abbreviation": "JOYNTG",
+          "local_abbreviation": "JOYNTG",
+          "title": "Irish Gaelic New Testament 1951 (Joynt) Gaelic type",
+          "local_title": "Tiomna Nua 1951 (de Siúnta)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gle",
+            "name": "Irish Gaelic (Gaelic type)",
+            "local_name": "Gaeilge (cló Gaelach)",
+            "text_direction": "ltr",
+            "language_tag": "gle_gl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 3906,
+          "abbreviation": "OC1965G",
+          "local_abbreviation": "OC1965G",
+          "title": "Irish Psalter 1965 (Ó Cuinn) Gaelic type",
+          "local_title": "An tSaltair, nó Sailm Ḋáiḃí 1965 (Ó Cuinn)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gle",
+            "name": "Irish Gaelic (Gaelic type)",
+            "local_name": "Gaeilge (cló Gaelach)",
+            "text_direction": "ltr",
+            "language_tag": "gle_gl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 258,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": null
+        },
+        {
+          "id": 3419,
+          "abbreviation": "PSA1836G",
+          "local_abbreviation": "PSA1836G",
+          "title": "Irish Gaelic Metrical Psalms 1836 (McLeod) Gaelic type",
+          "local_title": "Psalma Ḋaiḃí 1836 (McLeod)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gle",
+            "name": "Irish Gaelic (Gaelic type)",
+            "local_name": "Gaeilge (cló Gaelach)",
+            "text_direction": "ltr",
+            "language_tag": "gle_gl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 6,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2315,
+          "abbreviation": "BNP76",
+          "local_abbreviation": "BNP76",
+          "title": "Buenas Nuevas para el Paraguay",
+          "local_title": "Ñandeyara Ñe'ẽ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gug",
+            "name": "Avañe'e",
+            "local_name": "Guaraní paraguayo",
+            "text_direction": "ltr",
+            "language_tag": "gug",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 108,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 3374,
+          "abbreviation": "GDC2006",
+          "local_abbreviation": "GDC2006",
+          "title": "Biblia Guaraní con Deuterocanónicos",
+          "local_title": "Ñandejara Ñe’ẽ ✟",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gug",
+            "name": "Avañe'e",
+            "local_name": "Guaraní paraguayo",
+            "text_direction": "ltr",
+            "language_tag": "gug",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 108,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "org"
+        },
+        {
+          "id": 66,
+          "abbreviation": "GPC2006",
+          "local_abbreviation": "GPC2006",
+          "title": "Biblia Guaraní",
+          "local_title": "Ñandejára Ñe’ẽ",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gug",
+            "name": "Avañe'e",
+            "local_name": "Guaraní paraguayo",
+            "text_direction": "ltr",
+            "language_tag": "gug",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 108,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": "org"
+        },
+        {
+          "id": 805,
+          "abbreviation": "GRN1913",
+          "local_abbreviation": "GRN1913",
+          "title": "Paraguayan Guarani 1913 New Testament",
+          "local_title": "Tûpâ Ñandeyára 1913",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gug",
+            "name": "Avañe'e",
+            "local_name": "Guaraní paraguayo",
+            "text_direction": "ltr",
+            "language_tag": "gug",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 108,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "eng"
+        },
+        {
+          "id": 3146,
+          "abbreviation": "BGNNP15",
+          "local_abbreviation": "ÑÑP2015",
+          "title": "Biblia en Guaraní - Ñanderuete Ñe’ẽ Porã 2015",
+          "local_title": "Ñanderuete Ñe’ẽ Porã 2015",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gug",
+            "name": "Avañe'e",
+            "local_name": "Guaraní paraguayo",
+            "text_direction": "ltr",
+            "language_tag": "gug",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 865,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

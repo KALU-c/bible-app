@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2758,
+          "abbreviation": "KXW1941",
+          "local_abbreviation": "KXW1941",
+          "title": "Gospels and Epistles in Kiwai: Goaribari (Kerewa) 1941 [PNG]",
+          "local_title": "Iesu Keriso imo pai-dubi naiba kitouti dubu nou pai mea 1941",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kxz",
+            "name": "Kerewo (PNG)",
+            "local_name": "Kerewo (Goaribari)",
+            "text_direction": "ltr",
+            "language_tag": "kxz",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

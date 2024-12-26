@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3457,
+          "abbreviation": "OYBC2022",
+          "local_abbreviation": "OYBC",
+          "title": "Orthodox Yiddish Brit Chadasha New Testament",
+          "local_title": "דער ארטאדאקסישע יידישער ברית חדשה",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ydd",
+            "name": "Yiddish, Eastern",
+            "local_name": "ייִדיש",
+            "text_direction": "rtl",
+            "language_tag": "ydd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 932,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 3732,
+          "abbreviation": "OYTNCH23",
+          "local_abbreviation": "OYT2023",
+          "title": "Yehoash Tanakh",
+          "local_title": "ארטאדאקסישע חסידישע יידישע ביבל",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ydd",
+            "name": "Yiddish, Eastern",
+            "local_name": "ייִדיש",
+            "text_direction": "rtl",
+            "language_tag": "ydd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 932,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": null
+        },
+        {
+          "id": 4073,
+          "abbreviation": "OYTORAH",
+          "local_abbreviation": "OYTORAH",
+          "title": "Orthodox Yiddish Torah",
+          "local_title": "ארטאדאקסישע יידישע תורה",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ydd",
+            "name": "Yiddish, Eastern",
+            "local_name": "ייִדיש",
+            "text_direction": "rtl",
+            "language_tag": "ydd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 932,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

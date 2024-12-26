@@ -1,0 +1,134 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3557,
+          "abbreviation": "QUTTOT22",
+          "local_abbreviation": "K’iche’",
+          "title": "Nuevo Testamento K'iche' of Totonicapan",
+          "local_title": "RI KꞌAKꞌ TESTAMENTO PA TZIJOBꞌAL KꞌICHEꞌ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "quc",
+            "name": "K'iche'",
+            "local_name": "K'iche'",
+            "text_direction": "ltr",
+            "language_tag": "quc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 173,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 657,
+          "abbreviation": "quc",
+          "local_abbreviation": "qucN",
+          "title": "K'iche' NT (New Orthography)",
+          "local_title": "K'iche' (New Orthography)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "quc",
+            "name": "K'iche'",
+            "local_name": "K'iche'",
+            "text_direction": "ltr",
+            "language_tag": "quc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        },
+        {
+          "id": 653,
+          "abbreviation": "quc",
+          "local_abbreviation": "qucT",
+          "title": "K'iche' NT (Traditional)",
+          "local_title": "K'iche'",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "quc",
+            "name": "K'iche'",
+            "local_name": "K'iche'",
+            "text_direction": "ltr",
+            "language_tag": "quc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        },
+        {
+          "id": 490,
+          "abbreviation": "QUICH1",
+          "local_abbreviation": "QUICH1",
+          "title": "Quiché Bible",
+          "local_title": "Quiché Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "quc",
+            "name": "K'iche'",
+            "local_name": "K'iche'",
+            "text_direction": "ltr",
+            "language_tag": "quc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 152,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 4,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

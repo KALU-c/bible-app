@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3340,
+          "abbreviation": "jbn",
+          "local_abbreviation": "KTJT",
+          "title": "STB transliteration standard project",
+          "local_title": "كتب تمازغت توتنسية",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "jbn",
+            "name": "Nafusi",
+            "local_name": "Nafusi",
+            "text_direction": "rtl",
+            "language_tag": "jbn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3988,
+          "abbreviation": "TIG24",
+          "local_abbreviation": "TIG24",
+          "title": "Contemporary Tigrinya Bible 2024",
+          "local_title": "Tigrigna:  Contemporary Tigrinya Bible 2024",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tir",
+            "name": "Tigrinya",
+            "local_name": "ትግርኛ",
+            "text_direction": "ltr",
+            "language_tag": "tir",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 4686,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 2998,
+          "abbreviation": "TB15",
+          "local_abbreviation": "ትመ15",
+          "title": "Tigrigna Bible",
+          "local_title": "መፅሓፍ ቅዱስ",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tir",
+            "name": "Tigrinya",
+            "local_name": "ትግርኛ",
+            "text_direction": "ltr",
+            "language_tag": "tir",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 279,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3814,
+          "abbreviation": "MAK2023",
+          "local_abbreviation": "MAK2023",
+          "title": "New Translation of the New Testament 2023 (in Modern Macedonian)",
+          "local_title": "Нов превод на Новиот Завет 2023",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "mk",
+            "iso_639_3": "mkd",
+            "name": "Macedonian",
+            "local_name": "Македонски",
+            "text_direction": "ltr",
+            "language_tag": "mkd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 261,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "rsc"
+        },
+        {
+          "id": 4079,
+          "abbreviation": "MAK2024PS",
+          "local_abbreviation": "MAK2024PS",
+          "title": "Macedonian Psalms 2024 LXX",
+          "local_title": "Нов превод на Псалмите од LXX 2024",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "mk",
+            "iso_639_3": "mkd",
+            "name": "Macedonian",
+            "local_name": "Македонски",
+            "text_direction": "ltr",
+            "language_tag": "mkd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 261,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": null
+        },
+        {
+          "id": 1696,
+          "abbreviation": "MK1990",
+          "local_abbreviation": "MK1990",
+          "title": "Macedonian Bible (Gavril's) 1990",
+          "local_title": "Свето Писмо (Гаврилова) 1990",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "mk",
+            "iso_639_3": "mkd",
+            "name": "Macedonian",
+            "local_name": "Македонски",
+            "text_direction": "ltr",
+            "language_tag": "mkd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 261,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "rso"
+        },
+        {
+          "id": 1501,
+          "abbreviation": "MK2006",
+          "local_abbreviation": "MK2006",
+          "title": "Macedonian Standard Bible (66 books)",
+          "local_title": "Свето Писмо: Стандардна Библија 2006 (66 книги)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "mk",
+            "iso_639_3": "mkd",
+            "name": "Macedonian",
+            "local_name": "Македонски",
+            "text_direction": "ltr",
+            "language_tag": "mkd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 261,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 18,
+          "vrs": "org"
+        },
+        {
+          "id": 1272,
+          "abbreviation": "MK2006D",
+          "local_abbreviation": "MK2006D",
+          "title": "Macedonian Standard Bible (with deuterocanonical books) 2006",
+          "local_title": "Свето Писмо: Стандардна Библија 2006 (со девтероканонски книги)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "mk",
+            "iso_639_3": "mkd",
+            "name": "Macedonian",
+            "local_name": "Македонски",
+            "text_direction": "ltr",
+            "language_tag": "mkd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 261,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 22,
+          "vrs": "rso"
+        },
+        {
+          "id": 1706,
+          "abbreviation": "MK2008",
+          "local_abbreviation": "MK2008",
+          "title": "Macedonian Liturgical Gospels 2008",
+          "local_title": "Свето Евангелие 2008",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "mk",
+            "iso_639_3": "mkd",
+            "name": "Macedonian",
+            "local_name": "Македонски",
+            "text_direction": "ltr",
+            "language_tag": "mkd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 261,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": null
+        },
+        {
+          "id": 311,
+          "abbreviation": "MKB",
+          "local_abbreviation": "MKB",
+          "title": "Библија: Стариот и Новиот Завет, Константинов",
+          "local_title": "Библија: Стариот и Новиот Завет, Константинов",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "mk",
+            "iso_639_3": "mkd",
+            "name": "Macedonian",
+            "local_name": "Македонски",
+            "text_direction": "ltr",
+            "language_tag": "mkd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 4686,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        },
+        {
+          "id": 322,
+          "abbreviation": "MNT",
+          "local_abbreviation": "MNT",
+          "title": "Динамичен превод на Новиот завет на македонски јазик",
+          "local_title": "Динамичен превод на Новиот завет на македонски јазик",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "mk",
+            "iso_639_3": "mkd",
+            "name": "Macedonian",
+            "local_name": "Македонски",
+            "text_direction": "ltr",
+            "language_tag": "mkd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 125,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 8,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

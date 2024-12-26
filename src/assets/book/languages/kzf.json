@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2865,
+          "abbreviation": "LAIKZF",
+          "local_abbreviation": "KZF",
+          "title": "The New Testament in Da'a",
+          "local_title": "Buku Nagasa Pojanji Nabou",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kzf",
+            "name": "Da'a Kaili",
+            "local_name": "Da'a Kaili",
+            "text_direction": "ltr",
+            "language_tag": "kzf",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

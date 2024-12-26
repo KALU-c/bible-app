@@ -1,0 +1,314 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1276,
+          "abbreviation": "BB",
+          "local_abbreviation": "BB",
+          "title": "BasisBijbel",
+          "local_title": "BasisBijbel, de bijbel in makkelijk Nederlands",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "nl",
+            "iso_639_3": "nld",
+            "name": "Dutch",
+            "local_name": "Nederlands",
+            "text_direction": "ltr",
+            "language_tag": "nld",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 248,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 31,
+          "vrs": "org"
+        },
+        {
+          "id": 3699,
+          "abbreviation": "EBV24",
+          "local_abbreviation": "EBV24",
+          "title": "Evangelial Bible Version in Dutch",
+          "local_title": "EBV24 een eigentijdse Bijbelvertaling",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "nl",
+            "iso_639_3": "nld",
+            "name": "Dutch",
+            "local_name": "Nederlands",
+            "text_direction": "ltr",
+            "language_tag": "nld",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 4686,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "org"
+        },
+        {
+          "id": 1990,
+          "abbreviation": "HSVU",
+          "local_abbreviation": "HSV",
+          "title": "Dutch Revised Bible 2010-2017",
+          "local_title": "Herziene Statenvertaling",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "nl",
+            "iso_639_3": "nld",
+            "name": "Dutch",
+            "local_name": "Nederlands",
+            "text_direction": "ltr",
+            "language_tag": "nld",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 310,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "org"
+        },
+        {
+          "id": 75,
+          "abbreviation": "HTB",
+          "local_abbreviation": "HTB",
+          "title": "Het Boek 2007",
+          "local_title": "Het Boek",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "nl",
+            "iso_639_3": "nld",
+            "name": "Dutch",
+            "local_name": "Nederlands",
+            "text_direction": "ltr",
+            "language_tag": "nld",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 32,
+          "vrs": "org"
+        },
+        {
+          "id": 3932,
+          "abbreviation": "HW",
+          "local_abbreviation": "HW",
+          "title": "Het Woord",
+          "local_title": "Het Woord",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "nl",
+            "iso_639_3": "nld",
+            "name": "Dutch",
+            "local_name": "Nederlands",
+            "text_direction": "ltr",
+            "language_tag": "nld",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 15134,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": null
+        },
+        {
+          "id": 328,
+          "abbreviation": "NBG51",
+          "local_abbreviation": "NBG51",
+          "title": "NBG 1951 Translation",
+          "local_title": "NBG-vertaling 1951",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "nl",
+            "iso_639_3": "nld",
+            "name": "Dutch",
+            "local_name": "Nederlands",
+            "text_direction": "ltr",
+            "language_tag": "nld",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 95,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "org"
+        },
+        {
+          "id": 2307,
+          "abbreviation": "nld1939",
+          "local_abbreviation": "NLD1939",
+          "title": "Dutch Bible 1939",
+          "local_title": "De Heilige Schrift, Petrus Canisiusvertaling, 1939",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "nl",
+            "iso_639_3": "nld",
+            "name": "Dutch",
+            "local_name": "Nederlands",
+            "text_direction": "ltr",
+            "language_tag": "nld",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 165,
+          "abbreviation": "STV",
+          "local_abbreviation": "STV",
+          "title": "Statenvertaling (Importantia edition) Bible",
+          "local_title": "Statenvertaling (Importantia edition)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "nl",
+            "iso_639_3": "nld",
+            "name": "Dutch",
+            "local_name": "Nederlands",
+            "text_direction": "ltr",
+            "language_tag": "nld",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 12681,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 25,
+          "vrs": "org"
+        },
+        {
+          "id": 3799,
+          "abbreviation": "SVV",
+          "local_abbreviation": "SVV",
+          "title": "States General Version (edition Jongbloed 1995)",
+          "local_title": "Statenvertaling Jongbloed-editie",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "nl",
+            "iso_639_3": "nld",
+            "name": "Dutch",
+            "local_name": "Nederlands",
+            "text_direction": "ltr",
+            "language_tag": "nld",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 310,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "org"
+        },
+        {
+          "id": 3743,
+          "abbreviation": "VB",
+          "local_abbreviation": "VB",
+          "title": "VensterBijbel",
+          "local_title": "VensterBijbel",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "nl",
+            "iso_639_3": "nld",
+            "name": "Dutch",
+            "local_name": "Nederlands",
+            "text_direction": "ltr",
+            "language_tag": "nld",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 11598,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 10,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

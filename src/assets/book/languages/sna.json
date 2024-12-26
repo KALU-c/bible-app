@@ -1,0 +1,224 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 32,
+          "abbreviation": "SCB",
+          "local_abbreviation": "BDSC",
+          "title": "Shona Contemporary Bible",
+          "local_title": "Bhaibheri Dzvene MuChiShona Chanhasi",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "sn",
+            "iso_639_3": "sna",
+            "name": "Shona",
+            "local_name": "chiShona",
+            "text_direction": "ltr",
+            "language_tag": "sna",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 26,
+          "vrs": "eng"
+        },
+        {
+          "id": 2262,
+          "abbreviation": "SCLB",
+          "local_abbreviation": "SCLB",
+          "title": "Shona Common Language Bible",
+          "local_title": "Bhaibhiri Idzva rechiShona",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sn",
+            "iso_639_3": "sna",
+            "name": "Shona",
+            "local_name": "chiShona",
+            "text_direction": "ltr",
+            "language_tag": "sna",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 281,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 2245,
+          "abbreviation": "SCLBD",
+          "local_abbreviation": "SCLBC",
+          "title": "Shona Common Language Catholic Bible",
+          "local_title": "Bhaibhiri Idzva rechiShona rine Dhuterokanonika",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sn",
+            "iso_639_3": "sna",
+            "name": "Shona",
+            "local_name": "chiShona",
+            "text_direction": "ltr",
+            "language_tag": "sna",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 281,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 2248,
+          "abbreviation": "SCLBD",
+          "local_abbreviation": "SCLBD",
+          "title": "Shona Common Language Interconfessional Bible",
+          "local_title": "Bhaibhiri Idzva rechiShona rine Dhuterokanonika",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sn",
+            "iso_639_3": "sna",
+            "name": "Shona",
+            "local_name": "chiShona",
+            "text_direction": "ltr",
+            "language_tag": "sna",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 281,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 1960,
+          "abbreviation": "SNA2002",
+          "local_abbreviation": "SNA2002",
+          "title": "Shona Bible 1949, revised 2002",
+          "local_title": "Shona Bible 1949, revised 2002",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sn",
+            "iso_639_3": "sna",
+            "name": "Shona",
+            "local_name": "chiShona",
+            "text_direction": "ltr",
+            "language_tag": "sna",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 281,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 4046,
+          "abbreviation": "SUB",
+          "local_abbreviation": "SUB",
+          "title": "Shona Bible Union Version 2002",
+          "local_title": "Shona BIBLE",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sn",
+            "iso_639_3": "sna",
+            "name": "Shona",
+            "local_name": "chiShona",
+            "text_direction": "ltr",
+            "language_tag": "sna",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 281,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        },
+        {
+          "id": 1931,
+          "abbreviation": "SUB1949",
+          "local_abbreviation": "SUB1949",
+          "title": "Original Shona Union Bible 1949 (Doke Orthography)",
+          "local_title": "Baiberi Magwaro Matȿene aMŋari 1949 (Doke)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sn",
+            "iso_639_3": "sna",
+            "name": "Shona",
+            "local_name": "chiShona",
+            "text_direction": "ltr",
+            "language_tag": "sna",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 7,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1631,
+          "abbreviation": "AKCB",
+          "local_abbreviation": "AKNA",
+          "title": "Akuapem Twi Contemporary Bible 2020",
+          "local_title": "Akuapem Twi Nkwa Asɛm",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "tw",
+            "iso_639_3": "twi",
+            "name": "Twi",
+            "local_name": "Twi",
+            "text_direction": "ltr",
+            "language_tag": "twi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 2094,
+          "abbreviation": "ASCB",
+          "local_abbreviation": "ASNA",
+          "title": "Asante Twi Contemporary Bible 2020",
+          "local_title": "Asante Twi Nkwa Asɛm",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "tw",
+            "iso_639_3": "twi",
+            "name": "Twi",
+            "local_name": "Twi",
+            "text_direction": "ltr",
+            "language_tag": "twi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 1861,
+          "abbreviation": "ASW",
+          "local_abbreviation": "ASW",
+          "title": "New Revised Asante Twi Bible",
+          "local_title": "New Revised Asante Twi Bible",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "tw",
+            "iso_639_3": "twi",
+            "name": "Twi",
+            "local_name": "Twi",
+            "text_direction": "ltr",
+            "language_tag": "twi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 259,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 1461,
+          "abbreviation": "ASWDC",
+          "local_abbreviation": "ASWDC",
+          "title": "Asante-Twi Bible With Deutero-Canons",
+          "local_title": "Twerɛ Kronkron",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "tw",
+            "iso_639_3": "twi",
+            "name": "Twi",
+            "local_name": "Twi",
+            "text_direction": "ltr",
+            "language_tag": "twi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 259,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        },
+        {
+          "id": 3439,
+          "abbreviation": "ATWDB",
+          "local_abbreviation": "ATWDB",
+          "title": "Revised Akuapem Twi DC Bible",
+          "local_title": "KYERƐW KRONKRON",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "tw",
+            "iso_639_3": "twi",
+            "name": "Twi",
+            "local_name": "Twi",
+            "text_direction": "ltr",
+            "language_tag": "twi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 259,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 3440,
+          "abbreviation": "RATB",
+          "local_abbreviation": "RATB",
+          "title": "Revised Akuapem Twi Bible",
+          "local_title": "KYERƐW KRONKRON",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "tw",
+            "iso_639_3": "twi",
+            "name": "Twi",
+            "local_name": "Twi",
+            "text_direction": "ltr",
+            "language_tag": "twi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 259,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 6,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2025,
+          "abbreviation": "NO1938NN",
+          "local_abbreviation": "NO1938N",
+          "title": "NO1938 nynorsk",
+          "local_title": "Norsk oversettelse 1938 nynorsk",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "nn",
+            "iso_639_3": "nno",
+            "name": "Norwegian Nynorsk",
+            "local_name": "Norsk: nynorsk",
+            "text_direction": "ltr",
+            "language_tag": "nno",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 14,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "org"
+        },
+        {
+          "id": 120,
+          "abbreviation": "NO1978NN",
+          "local_abbreviation": "NO1978NN",
+          "title": "The Bible in Norwegian 1978 Nynorsk (edited in 1985)",
+          "local_title": "Norsk ovesettelse 1978/85 nynorsk",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "nn",
+            "iso_639_3": "nno",
+            "name": "Norwegian Nynorsk",
+            "local_name": "Norsk: nynorsk",
+            "text_direction": "ltr",
+            "language_tag": "nno",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 14,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 23,
+          "vrs": "org"
+        },
+        {
+          "id": 119,
+          "abbreviation": "NO2011NN",
+          "local_abbreviation": "NO2011NN",
+          "title": "Bible in Norwegian 2011 Nynorsk",
+          "local_title": "Bibelen – Bibelselskapets omsetjing 2011",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "nn",
+            "iso_639_3": "nno",
+            "name": "Norwegian Nynorsk",
+            "local_name": "Norsk: nynorsk",
+            "text_direction": "ltr",
+            "language_tag": "nno",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 14,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 22,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

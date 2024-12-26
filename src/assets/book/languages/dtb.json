@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3627,
+          "abbreviation": "DTB",
+          "local_abbreviation": "LabukPKV",
+          "title": "The New Testament in Labuk-Kinabatangan Kadazandusun",
+          "local_title": "Buuk do Pongojonjian di Kavavagu  --  Abar do Aandai",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "dtb",
+            "name": "Kadazan, Labuk-Kinabatangan",
+            "local_name": "Kadazan, Labuk-Kinabatangan",
+            "text_direction": "ltr",
+            "language_tag": "dtb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

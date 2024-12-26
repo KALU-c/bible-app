@@ -1,0 +1,194 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2013,
+          "abbreviation": "CL-NA",
+          "local_abbreviation": "CL-NA",
+          "title": "Punjabi CL (Revised Common Language North American Edition)",
+          "local_title": "ਪਵਿੱਤਰ ਬਾਈਬਲ (Revised Common Language North American Edition)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "pa",
+            "iso_639_3": "pan",
+            "name": "Panjabi",
+            "local_name": "ਪੰਜਾਬੀ",
+            "text_direction": "ltr",
+            "language_tag": "pan",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 20,
+          "vrs": "eng"
+        },
+        {
+          "id": 1884,
+          "abbreviation": "IRVPun",
+          "local_abbreviation": "IRVPun",
+          "title": "Indian Revised Version (IRV) Punjabi - 2019",
+          "local_title": "ਇੰਡਿਅਨ ਰਿਵਾਇਜ਼ਡ ਵਰਜ਼ਨ (IRV) - ਪੰਜਾਬੀ",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "pa",
+            "iso_639_3": "pan",
+            "name": "Panjabi",
+            "local_name": "ਪੰਜਾਬੀ",
+            "text_direction": "ltr",
+            "language_tag": "pan",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 424,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        },
+        {
+          "id": 3805,
+          "abbreviation": "PERV",
+          "local_abbreviation": "PERV",
+          "title": "Holy Bible: Easy-to-Read Version",
+          "local_title": "ਪਵਿੱਤਰ ਬਾਈਬਲ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pa",
+            "iso_639_3": "pan",
+            "name": "Panjabi",
+            "local_name": "ਪੰਜਾਬੀ",
+            "text_direction": "ltr",
+            "language_tag": "pan",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 3467,
+          "abbreviation": "PCV",
+          "local_abbreviation": "PMT",
+          "title": "Punjabi Contemporary Version 2022",
+          "local_title": "ਪੰਜਾਬੀ ਮੌਜੂਦਾ ਤਰਜਮਾ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pa",
+            "iso_639_3": "pan",
+            "name": "Panjabi",
+            "local_name": "ਪੰਜਾਬੀ",
+            "text_direction": "ltr",
+            "language_tag": "pan",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 3642,
+          "abbreviation": "PSB",
+          "local_abbreviation": "PSB",
+          "title": "Punjabi Standard Bible",
+          "local_title": "Punjabi Standard Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pa",
+            "iso_639_3": "pan",
+            "name": "Panjabi",
+            "local_name": "ਪੰਜਾਬੀ",
+            "text_direction": "ltr",
+            "language_tag": "pan",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 251,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 1687,
+          "abbreviation": "PUNOVBSI",
+          "local_abbreviation": "PUNOVBSI",
+          "title": "Punjabi Old Version Bible (BSI)",
+          "local_title": "ਪਵਿੱਤਰ ਬਾਈਬਲ O.V. Bible (BSI)",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "pa",
+            "iso_639_3": "pan",
+            "name": "Panjabi",
+            "local_name": "ਪੰਜਾਬੀ",
+            "text_direction": "ltr",
+            "language_tag": "pan",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 6,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

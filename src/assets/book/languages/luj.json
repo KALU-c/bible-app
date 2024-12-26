@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4053,
+          "abbreviation": "LunaNT",
+          "local_abbreviation": "Luna_NT",
+          "title": "New Testament in Luna in Kongo",
+          "local_title": "Disambi Dipyadipya",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "luj",
+            "name": "Luna",
+            "local_name": "Luna",
+            "text_direction": "ltr",
+            "language_tag": "luj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 816,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 976,
+          "abbreviation": "atb",
+          "local_abbreviation": "atb",
+          "title": "Zaiwa NT",
+          "local_title": "Chyoiyúng chyumlaiká: dangshikaq asik; Zaiwa",
+          "audio": true,
+          "audio_count": 3,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "atb",
+            "name": "Zaiwa (Atsi)",
+            "local_name": "Zaiwa",
+            "text_direction": "ltr",
+            "language_tag": "atb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        },
+        {
+          "id": 3515,
+          "abbreviation": "ATB1938",
+          "local_abbreviation": "ATB1938",
+          "title": "Zaiwa Atsi Gospel of Mark 1938 (Fraser script)",
+          "local_title": "M-KU MAU SAU 1938",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "atb",
+            "name": "Zaiwa (Atsi)",
+            "local_name": "Zaiwa",
+            "text_direction": "ltr",
+            "language_tag": "atb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        },
+        {
+          "id": 2078,
+          "abbreviation": "ATB1951",
+          "local_abbreviation": "ATB1951",
+          "title": "Zaiwa Atsi Gospel of Mark 1951 (Roman script)",
+          "local_title": "Marku mau sau 1951; Zaiwa",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "atb",
+            "name": "Zaiwa (Atsi)",
+            "local_name": "Zaiwa",
+            "text_direction": "ltr",
+            "language_tag": "atb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2933,
+          "abbreviation": "CNT13",
+          "local_abbreviation": "CCHNT13",
+          "title": "Novo Testamento Cisena 2013",
+          "local_title": "Cibverano Cipsa Cisena 2013",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "seh",
+            "name": "Sena",
+            "local_name": "Sena",
+            "text_direction": "ltr",
+            "language_tag": "seh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 825,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2932,
+          "abbreviation": "SEHMAT",
+          "local_abbreviation": "SEHMAT",
+          "title": "ShiPuthso Gospel of Matthew 1911 (Mozambique)",
+          "local_title": "Mattheo 1911 (Evangelho de S. Mattheus - XiPuthshu)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "seh",
+            "name": "Sena",
+            "local_name": "Sena",
+            "text_direction": "ltr",
+            "language_tag": "seh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 825,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        },
+        {
+          "id": 1378,
+          "abbreviation": "sehNT",
+          "local_abbreviation": "sehNT",
+          "title": "The New Testament in Sena",
+          "local_title": "Cibverano Cipsa",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "seh",
+            "name": "Sena",
+            "local_name": "Sena",
+            "text_direction": "ltr",
+            "language_tag": "seh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

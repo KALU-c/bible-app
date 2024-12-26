@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2267,
+          "abbreviation": "NendNP03",
+          "local_abbreviation": "NendNP03",
+          "title": "Nend Portions - Mark",
+          "local_title": "MAK Yakŋ Ohɨrand Ya Imbɨr Makɨv Mpamar",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "anh",
+            "name": "Nend",
+            "local_name": "Nend",
+            "text_direction": "ltr",
+            "language_tag": "anh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 173,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

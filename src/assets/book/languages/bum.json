@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3293,
+          "abbreviation": "BDCB",
+          "local_abbreviation": "BDCB",
+          "title": "Bulu DC Bible",
+          "local_title": "Kalate Zambe Nnomo a Mfefe Mfefé Nkôñelan",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bum",
+            "name": "Bulu (Cameroon)",
+            "local_name": "Bulu (Cameroon)",
+            "text_direction": "ltr",
+            "language_tag": "bum",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 79,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "org"
+        },
+        {
+          "id": 856,
+          "abbreviation": "BULU09",
+          "local_abbreviation": "BULU09",
+          "title": "New Bulu Bible",
+          "local_title": "Bible en langue Bulu",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bum",
+            "name": "Bulu (Cameroon)",
+            "local_name": "Bulu (Cameroon)",
+            "text_direction": "ltr",
+            "language_tag": "bum",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 79,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

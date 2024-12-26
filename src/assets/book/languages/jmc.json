@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3043,
+          "abbreviation": "MAS2",
+          "local_abbreviation": "MAS2",
+          "title": "Holy Bible in Kimashami",
+          "local_title": "BIBILLYA Mareiyo Meele a Iruva",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "jmc",
+            "name": "Machame",
+            "local_name": "Machame",
+            "text_direction": "ltr",
+            "language_tag": "jmc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 268,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 3042,
+          "abbreviation": "MASNT00",
+          "local_abbreviation": "MASNT00",
+          "title": "Mashami New Testament",
+          "local_title": "Kyaasa Kiiya",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "jmc",
+            "name": "Machame",
+            "local_name": "Machame",
+            "text_direction": "ltr",
+            "language_tag": "jmc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 268,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1080,
+          "abbreviation": "aii",
+          "local_abbreviation": "aii",
+          "title": "The New Testament of Our Lord Jesus Christ and the Psalms in Assyrian",
+          "local_title": "ܕܝܬܩܐ ܚܕܬܐ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܘܡܙܡܘܪ̈ܐ ܒܠܫܢܐ ܐܬܘܪܝܐ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "aii",
+            "name": "Assyrian Neo-Aramaic",
+            "local_name": "ܐܬܘܪܝܐ ܣܘܪܝܝܐ",
+            "text_direction": "rtl",
+            "language_tag": "aii",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 219,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

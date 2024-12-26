@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2424,
+          "abbreviation": "thv",
+          "local_abbreviation": "thv",
+          "title": "Tamahaq (written version)",
+          "local_title": "Awal n Messineɣ s Tamahaq",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "thv",
+            "name": "Tuareg",
+            "local_name": "Tamahaq",
+            "text_direction": "ltr",
+            "language_tag": "thv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

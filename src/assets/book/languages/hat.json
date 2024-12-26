@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3821,
+          "abbreviation": "hatbsa",
+          "local_abbreviation": "BSA",
+          "title": "Haitian Bible",
+          "local_title": "Bib Sen An: Kreyòl Ayisyen",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ht",
+            "iso_639_3": "hat",
+            "name": "Haitian Creole",
+            "local_name": "Kreyòl Ayisyen",
+            "text_direction": "ltr",
+            "language_tag": "hat",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 253,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 1957,
+          "abbreviation": "HAT98",
+          "local_abbreviation": "HAT98",
+          "title": "1998 Haitian Creole",
+          "local_title": "1998 Haïtienne",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ht",
+            "iso_639_3": "hat",
+            "name": "Haitian Creole",
+            "local_name": "Kreyòl Ayisyen",
+            "text_direction": "ltr",
+            "language_tag": "hat",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 309,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 2474,
+          "abbreviation": "VKF",
+          "local_abbreviation": "VKF",
+          "title": "New Testament: Easy-to-Read Translation",
+          "local_title": "Nouvo Testaman: Vèsyon Kreyòl Fasil",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ht",
+            "iso_639_3": "hat",
+            "name": "Haitian Creole",
+            "local_name": "Kreyòl Ayisyen",
+            "text_direction": "ltr",
+            "language_tag": "hat",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

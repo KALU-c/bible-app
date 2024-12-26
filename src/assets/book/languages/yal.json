@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 620,
+          "abbreviation": "Yalunka",
+          "local_abbreviation": "Kitabuna",
+          "title": "Yalunka Bible",
+          "local_title": "Kisin Kiraan Kitabuna",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "yal",
+            "name": "Yalunka",
+            "local_name": "Yalunka",
+            "text_direction": "ltr",
+            "language_tag": "yal",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 173,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "org"
+        },
+        {
+          "id": 2992,
+          "abbreviation": "YAL",
+          "local_abbreviation": "YAL",
+          "title": "Yalunka Matthew 1907",
+          "local_title": "Yalunka Matthew 1907",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "yal",
+            "name": "Yalunka",
+            "local_name": "Yalunka",
+            "text_direction": "ltr",
+            "language_tag": "yal",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

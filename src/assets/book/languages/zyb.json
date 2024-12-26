@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1656,
+          "abbreviation": "YBNT",
+          "local_abbreviation": "YBNT",
+          "title": "Yongbei Zhuang New Testament and Old Testament Portions",
+          "local_title": "Gij Baujcingq Moq Caeuq Geij Bonj Gij Baujcingq Daeuzdaeuz",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "zyb",
+            "name": "Zhuang, Yongbei",
+            "local_name": "Zhuang, Yongbei",
+            "text_direction": "ltr",
+            "language_tag": "zyb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 596,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

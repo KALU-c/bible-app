@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3307,
+          "abbreviation": "hauAS",
+          "local_abbreviation": "hauAS",
+          "title": "Hausa Ajami Bible",
+          "local_title": "أَتَّوْرَتْ دَ أَنَّبَاوَا",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "hau",
+            "name": "Hausa Arabic script",
+            "local_name": "Hausa arabic",
+            "text_direction": "rtl",
+            "language_tag": "hau_arb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 244,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2754,
+          "abbreviation": "YBCV",
+          "local_abbreviation": "YBCV",
+          "title": "YORUBA BIBLE CROWTHER VERSION",
+          "local_title": "Bibeli Mimọ",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "yo",
+            "iso_639_3": "yor",
+            "name": "Yoruba",
+            "local_name": "Yorùbá",
+            "text_direction": "ltr",
+            "language_tag": "yor",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 244,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 911,
+          "abbreviation": "YCB",
+          "local_abbreviation": "YCB",
+          "title": "Yoruba Contemporary Bible",
+          "local_title": "Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "yo",
+            "iso_639_3": "yor",
+            "name": "Yoruba",
+            "local_name": "Yorùbá",
+            "text_direction": "ltr",
+            "language_tag": "yor",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 18,
+          "vrs": "eng"
+        },
+        {
+          "id": 207,
+          "abbreviation": "YCE",
+          "local_abbreviation": "YCE",
+          "title": "Bible in Yoruba",
+          "local_title": "Yoruba Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "yo",
+            "iso_639_3": "yor",
+            "name": "Yoruba",
+            "local_name": "Yorùbá",
+            "text_direction": "ltr",
+            "language_tag": "yor",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 244,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

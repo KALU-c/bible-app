@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 25,
+          "abbreviation": "BHNT",
+          "local_abbreviation": "BHNT",
+          "title": "Navarro-Labourdin Basque",
+          "local_title": "Navarro-Labourdin Basque",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "eu",
+            "iso_639_3": "eus",
+            "name": "Basque",
+            "local_name": "Euskara",
+            "text_direction": "ltr",
+            "language_tag": "eus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 23,
+          "vrs": "vul"
+        },
+        {
+          "id": 56,
+          "abbreviation": "EAB",
+          "local_abbreviation": "EAB",
+          "title": "Elizen Arteko Biblia (Biblia en Euskara, Traducción Interconfesional)",
+          "local_title": "Elizen Arteko Biblia (Biblia en Euskara, Traducción Interconfesional)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "eu",
+            "iso_639_3": "eus",
+            "name": "Basque",
+            "local_name": "Euskara",
+            "text_direction": "ltr",
+            "language_tag": "eus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 13,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 23,
+          "vrs": "org"
+        },
+        {
+          "id": 223,
+          "abbreviation": "EABD",
+          "local_abbreviation": "EABD",
+          "title": "Elizen Arteko Biblia (Biblia en Euskara, Traducción Interconfesional)",
+          "local_title": "Elizen Arteko Biblia (Biblia en Euskara, Traducción Interconfesional)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "eu",
+            "iso_639_3": "eus",
+            "name": "Basque",
+            "local_name": "Euskara",
+            "text_direction": "ltr",
+            "language_tag": "eus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 13,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 22,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

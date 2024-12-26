@@ -1,0 +1,404 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2294,
+          "abbreviation": "CWBBNT",
+          "local_abbreviation": "包爾騰－柏漢理譯本",
+          "title": "Burdon-Blodget Wenli New Testament",
+          "local_title": "包爾騰－柏漢理淺文理《新約聖經》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lzh",
+            "name": "Chinese (Classical)",
+            "local_name": "文言（中文）",
+            "text_direction": "ltr",
+            "language_tag": "lzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 2295,
+          "abbreviation": "CWDV",
+          "local_abbreviation": "委辦譯本",
+          "title": "Wenli Delegates' Version",
+          "local_title": "文理《委辦譯本》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lzh",
+            "name": "Chinese (Classical)",
+            "local_name": "文言（中文）",
+            "text_direction": "ltr",
+            "language_tag": "lzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 1578,
+          "abbreviation": "CWUV",
+          "local_abbreviation": "文理和合譯本",
+          "title": "Chinese Union High Wenli Version",
+          "local_title": "文理和合譯本《新舊約全書》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lzh",
+            "name": "Chinese (Classical)",
+            "local_name": "文言（中文）",
+            "text_direction": "ltr",
+            "language_tag": "lzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        },
+        {
+          "id": 2296,
+          "abbreviation": "CWSV",
+          "local_abbreviation": "施約瑟淺文理譯本",
+          "title": "Schereschewsky Wenli Version",
+          "local_title": "施約瑟淺文理《新舊約聖經》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lzh",
+            "name": "Chinese (Classical)",
+            "local_name": "文言（中文）",
+            "text_direction": "ltr",
+            "language_tag": "lzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 2047,
+          "abbreviation": "CGJWP",
+          "local_abbreviation": "楊格非文理詩篇",
+          "title": "Griffith John Wenli Psalms",
+          "local_title": "楊格非文理《舊約詩篇》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lzh",
+            "name": "Chinese (Classical)",
+            "local_name": "文言（中文）",
+            "text_direction": "ltr",
+            "language_tag": "lzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": null
+        },
+        {
+          "id": 2218,
+          "abbreviation": "CGJWNT",
+          "local_abbreviation": "楊格非文理譯本",
+          "title": "Griffith John Wenli NT",
+          "local_title": "Griffith John Wenli NT",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lzh",
+            "name": "Chinese (Classical)",
+            "local_name": "文言（中文）",
+            "text_direction": "ltr",
+            "language_tag": "lzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 1580,
+          "abbreviation": "CWONTP",
+          "local_abbreviation": "正教文理譯本",
+          "title": "Orthodox Wenli New Testament - Mandarin Psalters",
+          "local_title": "俄羅斯正教文理《希臘原文新約聖經》附《官話聖詠經》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lzh",
+            "name": "Chinese (Classical)",
+            "local_name": "文言（中文）",
+            "text_direction": "ltr",
+            "language_tag": "lzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": null
+        },
+        {
+          "id": 1577,
+          "abbreviation": "CEWUNT",
+          "local_abbreviation": "淺文理和合新約",
+          "title": "Chinese Union Easy Wenli Version",
+          "local_title": "淺文理和合《新約全書》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lzh",
+            "name": "Chinese (Classical)",
+            "local_name": "文言（中文）",
+            "text_direction": "ltr",
+            "language_tag": "lzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        },
+        {
+          "id": 2212,
+          "abbreviation": "CWCSNT",
+          "local_abbreviation": "湛約翰－韶瑪亭譯本",
+          "title": "Chalmers-Schaub Wenli New Testament",
+          "local_title": "湛約翰－韶瑪亭文理《新約全書》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lzh",
+            "name": "Chinese (Classical)",
+            "local_name": "文言（中文）",
+            "text_direction": "ltr",
+            "language_tag": "lzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 2211,
+          "abbreviation": "CWBSV",
+          "local_abbreviation": "白徐譯本",
+          "title": "Basset-Su Wenli New Testament",
+          "local_title": "白日昇－徐約翰文理新約（缺）",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lzh",
+            "name": "Chinese (Classical)",
+            "local_name": "文言（中文）",
+            "text_direction": "ltr",
+            "language_tag": "lzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": null
+        },
+        {
+          "id": 2283,
+          "abbreviation": "CWMMV",
+          "local_abbreviation": "神天聖書",
+          "title": "Morrison-Milne Wenli Version",
+          "local_title": "馬禮遜－米憐文理《神天聖書》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lzh",
+            "name": "Chinese (Classical)",
+            "local_name": "文言（中文）",
+            "text_direction": "ltr",
+            "language_tag": "lzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 2213,
+          "abbreviation": "CWBCV",
+          "local_abbreviation": "裨治文－克陛存譯本",
+          "title": "Bridgman-Culbertson Wenli Old Testament",
+          "local_title": "裨治文－克陛存文理《新約全書》和《舊約全書》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lzh",
+            "name": "Chinese (Classical)",
+            "local_name": "文言（中文）",
+            "text_direction": "ltr",
+            "language_tag": "lzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 2323,
+          "abbreviation": "CWMLV",
+          "local_abbreviation": "馬殊曼－拉撒文理譯本",
+          "title": "Marshman-Lassar Wenli Version",
+          "local_title": "馬殊曼－拉撒文理《新舊約全書》",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lzh",
+            "name": "Chinese (Classical)",
+            "local_name": "文言（中文）",
+            "text_direction": "ltr",
+            "language_tag": "lzh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 13,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

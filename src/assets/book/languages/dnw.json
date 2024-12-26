@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2853,
+          "abbreviation": "LAIDNW",
+          "local_abbreviation": "LAIDNW",
+          "title": "The Holy Bible in the Lani language (Western Dani) Papua, Indonesia",
+          "local_title": "Ala Wone Peenok Peebi Mbanak",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "dnw",
+            "name": "Western Dani",
+            "local_name": "Western Dani",
+            "text_direction": "ltr",
+            "language_tag": "dnw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3532,
+          "abbreviation": "KXPNT",
+          "local_abbreviation": "KXPNT",
+          "title": "Koli New Testament",
+          "local_title": "કોલી નવો કરાર",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kxp",
+            "name": "Koli, Wadiyara",
+            "local_name": "Koli, Wadiyara",
+            "text_direction": "ltr",
+            "language_tag": "kxp",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 820,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

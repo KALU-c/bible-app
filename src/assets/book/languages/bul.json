@@ -1,0 +1,284 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 22,
+          "abbreviation": "BG1871",
+          "local_abbreviation": "BG1871",
+          "title": "Цариградски",
+          "local_title": "Цариградски",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "bg",
+            "iso_639_3": "bul",
+            "name": "Bulgarian",
+            "local_name": "български",
+            "text_direction": "ltr",
+            "language_tag": "bul",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 12,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 23,
+          "vrs": "eng"
+        },
+        {
+          "id": 23,
+          "abbreviation": "BG1940",
+          "local_abbreviation": "BG1940",
+          "title": "Ревизиран",
+          "local_title": "Ревизиран",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "bg",
+            "iso_639_3": "bul",
+            "name": "Bulgarian",
+            "local_name": "български",
+            "text_direction": "ltr",
+            "language_tag": "bul",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 12,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 19,
+          "vrs": "eng"
+        },
+        {
+          "id": 196,
+          "abbreviation": "SPB",
+          "local_abbreviation": "SPB",
+          "title": "Новият завет: съвременен превод",
+          "local_title": "Новият завет: съвременен превод",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "bg",
+            "iso_639_3": "bul",
+            "name": "Bulgarian",
+            "local_name": "български",
+            "text_direction": "ltr",
+            "language_tag": "bul",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 26,
+          "vrs": "eng"
+        },
+        {
+          "id": 190,
+          "abbreviation": "VBG",
+          "local_abbreviation": "VBG",
+          "title": "Верен",
+          "local_title": "Верен",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "bg",
+            "iso_639_3": "bul",
+            "name": "Bulgarian",
+            "local_name": "български",
+            "text_direction": "ltr",
+            "language_tag": "bul",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 64,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 26,
+          "vrs": "eng"
+        },
+        {
+          "id": 1724,
+          "abbreviation": "BLB",
+          "local_abbreviation": "БЛБ",
+          "title": "Bulgarian Protestant Bible Revised edition - Bible League of Bulgaria",
+          "local_title": "Библейски текст: Ревизирано издание, 2001 г., на ревизираното издание от 1924 г. на протестантския превод на Библията на български език от 1871г.",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "bg",
+            "iso_639_3": "bul",
+            "name": "Bulgarian",
+            "local_name": "български",
+            "text_direction": "ltr",
+            "language_tag": "bul",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 283,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 901,
+          "abbreviation": "CBT",
+          "local_abbreviation": "НП",
+          "title": "Contemporary Bulgarian Translation with DC books 2013",
+          "local_title": "Съвременен български превод (с DC books) 2013",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "bg",
+            "iso_639_3": "bul",
+            "name": "Bulgarian",
+            "local_name": "български",
+            "text_direction": "ltr",
+            "language_tag": "bul",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 199,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 18,
+          "vrs": "org"
+        },
+        {
+          "id": 1443,
+          "abbreviation": "BgPB2015",
+          "local_abbreviation": "РИ ББД",
+          "title": "Bulgarian Protestant Bible (Revised)",
+          "local_title": "Библия, ревизирано издание",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "bg",
+            "iso_639_3": "bul",
+            "name": "Bulgarian",
+            "local_name": "български",
+            "text_direction": "ltr",
+            "language_tag": "bul",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 199,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "eng"
+        },
+        {
+          "id": 1558,
+          "abbreviation": "BOB06",
+          "local_abbreviation": "СИ",
+          "title": "Bulgarian Orthodox Bible 2006 (1982 r.)",
+          "local_title": "Библия, синодално издание (1982 г.)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "bg",
+            "iso_639_3": "bul",
+            "name": "Bulgarian",
+            "local_name": "български",
+            "text_direction": "ltr",
+            "language_tag": "bul",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 199,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "rso"
+        },
+        {
+          "id": 3779,
+          "abbreviation": "SPB",
+          "local_abbreviation": "СПБ",
+          "title": "New Testament: Easy-to-Read Translation",
+          "local_title": "Новият завет: съвременен превод",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "bg",
+            "iso_639_3": "bul",
+            "name": "Bulgarian",
+            "local_name": "български",
+            "text_direction": "ltr",
+            "language_tag": "bul",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 9,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

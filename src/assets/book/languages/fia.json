@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2598,
+          "abbreviation": "FIA1885",
+          "local_abbreviation": "FIA1885",
+          "title": "Nobiin Gospel of Mark and the Lord's Prayer 1860 (Fiadidja Nubian)",
+          "local_title": "Iṅǵīl Yesū El-Messīhnilin, Markosin Fāyisīn Nagittā 1860",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "fia",
+            "name": "Nobiin (Nòbíín)",
+            "local_name": "نُـٰوبين",
+            "text_direction": "ltr",
+            "language_tag": "fia",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

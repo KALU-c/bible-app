@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 237,
+          "abbreviation": "Car03",
+          "local_abbreviation": "Car03",
+          "title": "Carib New Testament 2003",
+          "local_title": "Asery Tamusi karetary",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "car",
+            "name": "Galibi Carib",
+            "local_name": "Carib",
+            "text_direction": "ltr",
+            "language_tag": "car",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 829,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 29,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

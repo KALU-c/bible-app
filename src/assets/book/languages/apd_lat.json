@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3321,
+          "abbreviation": "APD1927",
+          "local_abbreviation": "APD1927",
+          "title": "Ingīl Marqus 1927 (Romanised Sudanese Arabic)",
+          "local_title": "Ingīl Marqus 1927",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "apd",
+            "name": "Arabic, Sudanese (Latin)",
+            "local_name": "لهجة سودانية",
+            "text_direction": "ltr",
+            "language_tag": "apd_lat",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        },
+        {
+          "id": 3401,
+          "abbreviation": "APD1978",
+          "local_abbreviation": "APD1978",
+          "title": "Sudanese Arabic New Testament 1978 (romanised)",
+          "local_title": "Kitaab al Vahd aj Jadid 1978",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "apd",
+            "name": "Arabic, Sudanese (Latin)",
+            "local_name": "لهجة سودانية",
+            "text_direction": "ltr",
+            "language_tag": "apd_lat",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 189,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

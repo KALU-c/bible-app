@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3018,
+          "abbreviation": "LKMIXHUI",
+          "local_abbreviation": "LKMIXHUI",
+          "title": "Porciones en Mixe de Huitepec",
+          "local_title": "Porciones en Mixe de Huitepec",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mto",
+            "name": "Totontepec Mixe",
+            "local_name": "Mixe: Totontepec",
+            "text_direction": "ltr",
+            "language_tag": "mto",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 93,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        },
+        {
+          "id": 3019,
+          "abbreviation": "LUK",
+          "local_abbreviation": "LUKMya",
+          "title": "Lucas en Mixe de Yalalag",
+          "local_title": "Ntsoj Lucas tmatya'aky Jesús jyüky'ajjt",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mto",
+            "name": "Totontepec Mixe",
+            "local_name": "Mixe: Totontepec",
+            "text_direction": "ltr",
+            "language_tag": "mto",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 93,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        },
+        {
+          "id": 723,
+          "abbreviation": "mtoDBL",
+          "local_abbreviation": "mtoDBL",
+          "title": "New Testament in Mixe, Totontepec",
+          "local_title": "Ya̱ʼa̱ tseʼe je̱ nam ko̱jtstán juuʼ veʼe je̱ Nteʼyamˍ xyaktaajnjimdu je̱ nMa̱j Vintsá̱namda Jesucristo ka̱jx",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mto",
+            "name": "Totontepec Mixe",
+            "local_name": "Mixe: Totontepec",
+            "text_direction": "ltr",
+            "language_tag": "mto",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "lxx"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3752,
+          "abbreviation": "kus",
+          "local_abbreviation": "kus_gh",
+          "title": "Kusaal Bible, Ghana",
+          "local_title": "GH",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kus",
+            "name": "Kusaal",
+            "local_name": "Kusaal",
+            "text_direction": "ltr",
+            "language_tag": "kus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 833,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

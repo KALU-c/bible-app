@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2839,
+          "abbreviation": "ATQ",
+          "local_abbreviation": "ATQ",
+          "title": "New Testament with three portions from the Old Testament in the Tabulahan language",
+          "local_title": "Suha' Masero",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "atq",
+            "name": "Aralle-Tabulahan",
+            "local_name": "Aralle-Tabulahan",
+            "text_direction": "ltr",
+            "language_tag": "atq",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

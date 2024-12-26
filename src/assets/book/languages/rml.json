@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1658,
+          "abbreviation": "LET1933",
+          "local_abbreviation": "LET1933",
+          "title": "St John's Gospel in Lettish Romani 1933",
+          "local_title": "Joannostir Svencono lačopheniben 1933 (Latvia)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rml",
+            "name": "Romani: Baltic",
+            "local_name": "Romani: Baltic",
+            "text_direction": "ltr",
+            "language_tag": "rml",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": null
+        },
+        {
+          "id": 2606,
+          "abbreviation": "ROMBALT",
+          "local_abbreviation": "ROMBALT",
+          "title": "Baltic Romani Bible 2019 in Cyrillic script",
+          "local_title": "Библия - Пэ Балтитко Романи чиб (Романэс) 2019",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rml",
+            "name": "Romani: Baltic",
+            "local_name": "Romani: Baltic",
+            "text_direction": "ltr",
+            "language_tag": "rml",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "org"
+        },
+        {
+          "id": 2605,
+          "abbreviation": "ROMBALTR",
+          "local_abbreviation": "ROMBALTR",
+          "title": "Baltic Romani Bible 2019 in Roman scrpt",
+          "local_title": "Biblija - Pe Baltitko Romani čib (Romanes) 2019",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rml",
+            "name": "Romani: Baltic",
+            "local_name": "Romani: Baltic",
+            "text_direction": "ltr",
+            "language_tag": "rml",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2680,
+          "abbreviation": "ERGNT79",
+          "local_abbreviation": "ERGNT79",
+          "title": "Erromangan New TEstament 2019",
+          "local_title": "NAM NUMPUSOK ITĒVAU ENI IESU KRISTO NOVSUROMON ENUGKOS 2019",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "erg",
+            "name": "Erromangan",
+            "local_name": "Sie",
+            "text_direction": "ltr",
+            "language_tag": "erg",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 301,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 3405,
+          "abbreviation": "ERGOT",
+          "local_abbreviation": "ERGOT",
+          "title": "Erromangan OT Portions (Genesis and Ruth)",
+          "local_title": "Kenesĭs 1914, Ruth 1932 (Erromanga)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "erg",
+            "name": "Erromangan",
+            "local_name": "Sie",
+            "text_direction": "ltr",
+            "language_tag": "erg",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

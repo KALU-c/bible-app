@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 487,
+          "abbreviation": "ALGNT",
+          "local_abbreviation": "ALGNT",
+          "title": "Algonquin New Testament",
+          "local_title": "Kije Manido Odikido8in: Ocki Mazinaigan",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "alq",
+            "name": "Algonquin",
+            "local_name": "Anicinabemowin",
+            "text_direction": "ltr",
+            "language_tag": "alq",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 239,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "lxx"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2393,
+          "abbreviation": "QUEAN",
+          "local_abbreviation": "QUEAN",
+          "title": "Quechua Ancash New Testament",
+          "local_title": "Quechua Ancash New Testament",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "qwh",
+            "name": "Huaylas Ancash Quechua",
+            "local_name": "Huaylas Ancash Quechua",
+            "text_direction": "ltr",
+            "language_tag": "qwh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 167,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 734,
+          "abbreviation": "qwhB",
+          "local_abbreviation": "qwhB",
+          "title": "Quechua, Huaylas Bible",
+          "local_title": "Teyta Diospa Willakïnin",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "qwh",
+            "name": "Huaylas Ancash Quechua",
+            "local_name": "Huaylas Ancash Quechua",
+            "text_direction": "ltr",
+            "language_tag": "qwh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

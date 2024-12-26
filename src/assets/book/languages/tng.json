@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3711,
+          "abbreviation": "TNG1978",
+          "local_abbreviation": "TNG1978",
+          "title": "Tobanga New Testament 1978 (Le Nouveau Testament traduit en langue Tobanga)",
+          "local_title": "Kebu go dore go herua 1978",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tng",
+            "name": "Northern Gabri",
+            "local_name": "Tobanga (Chad)",
+            "text_direction": "ltr",
+            "language_tag": "tng",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

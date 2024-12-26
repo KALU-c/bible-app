@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3285,
+          "abbreviation": "CBT",
+          "local_abbreviation": "CBT",
+          "title": "Chakma Bible",
+          "local_title": "Chakma Bible",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ccp",
+            "name": "Chakma",
+            "local_name": "Chakma",
+            "text_direction": "ltr",
+            "language_tag": "ccp",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 272,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

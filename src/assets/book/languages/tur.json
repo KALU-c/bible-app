@@ -1,0 +1,254 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3076,
+          "abbreviation": "TRDEU",
+          "local_abbreviation": "APO12",
+          "title": "Turkish Deuterocanonical Books",
+          "local_title": "Deuterokanonik Kitaplar (Apokrifler)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "tr",
+            "iso_639_3": "tur",
+            "name": "Turkish",
+            "local_name": "Türkçe",
+            "text_direction": "ltr",
+            "language_tag": "tur",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 60,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": null
+        },
+        {
+          "id": 2308,
+          "abbreviation": "KKDEU",
+          "local_abbreviation": "KKDEU",
+          "title": "Turkish Bible with Deuterocanonicals 2003",
+          "local_title": "Kutsal Kitap ve Deuterokanonik Kitaplar",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "tr",
+            "iso_639_3": "tur",
+            "name": "Turkish",
+            "local_name": "Türkçe",
+            "text_direction": "ltr",
+            "language_tag": "tur",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 60,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2028,
+          "abbreviation": "KMESK",
+          "local_abbreviation": "KMEYA",
+          "title": "Turkish Bible Old Translation 1941",
+          "local_title": "Turkish Bible Old Translation 1941",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "tr",
+            "iso_639_3": "tur",
+            "name": "Turkish",
+            "local_name": "Türkçe",
+            "text_direction": "ltr",
+            "language_tag": "tur",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 60,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 170,
+          "abbreviation": "TCL02",
+          "local_abbreviation": "TCL02",
+          "title": "Turkish Bible, 2001, 2008",
+          "local_title": "Kutsal Kitap Yeni Çeviri 2001, 2008",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "tr",
+            "iso_639_3": "tur",
+            "name": "Turkish",
+            "local_name": "Türkçe",
+            "text_direction": "ltr",
+            "language_tag": "tur",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 60,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 22,
+          "vrs": "eng"
+        },
+        {
+          "id": 3763,
+          "abbreviation": "BTT",
+          "local_abbreviation": "TTT",
+          "title": "Basic Turkish Translation",
+          "local_title": "Temel Türkçe Tercüme",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "tr",
+            "iso_639_3": "tur",
+            "name": "Turkish",
+            "local_name": "Türkçe",
+            "text_direction": "ltr",
+            "language_tag": "tur",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 3516,
+          "abbreviation": "TURMAT",
+          "local_abbreviation": "TURMAT",
+          "title": "Turkish Gospel of Matthew 1883 (Roman script)",
+          "local_title": "Inğil Mettanyn tahriri üzre 1883",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "tr",
+            "iso_639_3": "tur",
+            "name": "Turkish",
+            "local_name": "Türkçe",
+            "text_direction": "ltr",
+            "language_tag": "tur",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        },
+        {
+          "id": 3844,
+          "abbreviation": "turytc",
+          "local_abbreviation": "YTC",
+          "title": "Literal Turkish Bible Translation (YTC)",
+          "local_title": "Yorumsuz Türkçe Çeviri (YTC)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "tr",
+            "iso_639_3": "tur",
+            "name": "Turkish",
+            "local_name": "Türkçe",
+            "text_direction": "ltr",
+            "language_tag": "tur",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 253,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2091,
+          "abbreviation": "TKK",
+          "local_abbreviation": "ТКК",
+          "title": "Turkish Revision 2008 Bible in Cyrillic",
+          "local_title": "Кирил харфлерийле Тюркче Кутсал Китап",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "tr",
+            "iso_639_3": "tur",
+            "name": "Turkish",
+            "local_name": "Türkçe",
+            "text_direction": "ltr",
+            "language_tag": "tur",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 60,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 8,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

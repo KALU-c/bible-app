@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3487,
+          "abbreviation": "AMRI-BSI",
+          "local_abbreviation": "AMRI-BSI",
+          "title": "Amri Karbi New Testament (BSI)",
+          "local_title": "AKIMI ANGTON N.T. (BSI)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ajz",
+            "name": "Amri Karbi",
+            "local_name": "Amri Karbi",
+            "text_direction": "ltr",
+            "language_tag": "ajz",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 1535,
+          "abbreviation": "AMRI-BSI",
+          "local_abbreviation": "AMRI-BSI",
+          "title": "Amri Karbi New Testament (BSI)",
+          "local_title": "AKIMI ANGTON N.T. (BSI)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ajz",
+            "name": "Amri Karbi",
+            "local_name": "Amri Karbi",
+            "text_direction": "ltr",
+            "language_tag": "ajz",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

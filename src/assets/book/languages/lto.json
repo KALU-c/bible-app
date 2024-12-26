@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2941,
+          "abbreviation": "IBIBILIA",
+          "local_abbreviation": "LLLCATHOLIC",
+          "title": "IBIBILIA INDAKATIFU THE BIBLE WITH DC BOOKS FOR LUTIRICHI, LWITAKHO NENDE LWISUKHA",
+          "local_title": "IBIBILIA INDAKATIFU MU LUTIRICHI, LWITAKHO NENDE LWISUKHA",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lto",
+            "name": "Tsotso",
+            "local_name": "Tsotso",
+            "text_direction": "ltr",
+            "language_tag": "lto",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 2928,
+          "abbreviation": "IBIBILIA",
+          "local_abbreviation": "LLLPRO",
+          "title": "IBIBILIA INDAKATIFU THE BIBLE WITHOUT DC BOOKS FOR LUTIRICHI, LWITAKHO NENDE LWISUKHA",
+          "local_title": "IBIBILIA INDAKATIFU MU LUTIRICHI, LWITAKHO NENDE LWISUKHA",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lto",
+            "name": "Tsotso",
+            "local_name": "Tsotso",
+            "text_direction": "ltr",
+            "language_tag": "lto",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

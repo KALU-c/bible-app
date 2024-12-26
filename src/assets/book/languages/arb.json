@@ -1,0 +1,374 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 13,
+          "abbreviation": "AVD",
+          "local_abbreviation": "AVD",
+          "title": "New Van Dyck Bible (Full Vocalization with Helps)",
+          "local_title": "الكتاب المقدس",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ar",
+            "iso_639_3": "arb",
+            "name": "Arabic (Standard)",
+            "local_name": "العربية",
+            "text_direction": "rtl",
+            "language_tag": "arb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 6,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 27,
+          "vrs": "eng"
+        },
+        {
+          "id": 14,
+          "abbreviation": "AVDDV",
+          "local_abbreviation": "AVDDV",
+          "title": "New Van Dyck Bible (Reduced Vocalization with Helps)",
+          "local_title": "الكتاب المقدس  (تخفيف تشكيل)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ar",
+            "iso_639_3": "arb",
+            "name": "Arabic (Standard)",
+            "local_name": "العربية",
+            "text_direction": "rtl",
+            "language_tag": "arb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 6,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 23,
+          "vrs": "eng"
+        },
+        {
+          "id": 2301,
+          "abbreviation": "FAOV",
+          "local_abbreviation": "FAOV",
+          "title": "Father Afif Osayran Psalms",
+          "local_title": "مزامير داود النبيّ - ترجمة الأب عفيف عسيران",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ar",
+            "iso_639_3": "arb",
+            "name": "Arabic (Standard)",
+            "local_name": "العربية",
+            "text_direction": "rtl",
+            "language_tag": "arb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 274,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        },
+        {
+          "id": 3513,
+          "abbreviation": "GOV",
+          "local_abbreviation": "GOV",
+          "title": "Greek Orthodox New Testament",
+          "local_title": "الكتاب المقدس العهد الجديد، النسخة الارثوذكسية/ القدس",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ar",
+            "iso_639_3": "arb",
+            "name": "Arabic (Standard)",
+            "local_name": "العربية",
+            "text_direction": "rtl",
+            "language_tag": "arb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 992,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 101,
+          "abbreviation": "NAV",
+          "local_abbreviation": "KEH",
+          "title": "New Arabic Version",
+          "local_title": "كتاب الحياة",
+          "audio": true,
+          "audio_count": 4,
+          "text": true,
+          "language": {
+            "iso_639_1": "ar",
+            "iso_639_3": "arb",
+            "name": "Arabic (Standard)",
+            "local_name": "العربية",
+            "text_direction": "rtl",
+            "language_tag": "arb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 28,
+          "vrs": "eng"
+        },
+        {
+          "id": 153,
+          "abbreviation": "SAB",
+          "local_abbreviation": "SAB",
+          "title": "Sharif Arabic Bible",
+          "local_title": "الكتاب الشريف",
+          "audio": true,
+          "audio_count": 4,
+          "text": true,
+          "language": {
+            "iso_639_1": "ar",
+            "iso_639_3": "arb",
+            "name": "Arabic (Standard)",
+            "local_name": "العربية",
+            "text_direction": "rtl",
+            "language_tag": "arb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 298,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 27,
+          "vrs": "eng"
+        },
+        {
+          "id": 1714,
+          "abbreviation": "arb",
+          "local_abbreviation": "TMA",
+          "title": "True Meaning Arabic",
+          "local_title": "المعنى الصحيح لإنجيل المسيح",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ar",
+            "iso_639_3": "arb",
+            "name": "Arabic (Standard)",
+            "local_name": "العربية",
+            "text_direction": "rtl",
+            "language_tag": "arb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 291,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 19,
+          "vrs": "eng"
+        },
+        {
+          "id": 3275,
+          "abbreviation": "TMA-C",
+          "local_abbreviation": "TMA-C",
+          "title": "True Meaning Chanted",
+          "local_title": "المعنى الصحيح لإنجيل المسيح - ترتيل",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ar",
+            "iso_639_3": "arb",
+            "name": "Arabic (Standard)",
+            "local_name": "العربية",
+            "text_direction": "rtl",
+            "language_tag": "arb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 297,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": null
+        },
+        {
+          "id": 67,
+          "abbreviation": "GNA93",
+          "local_abbreviation": "المشتركة",
+          "title": "Good News Arabic Bible",
+          "local_title": "الترجمة العربية المشتركة",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ar",
+            "iso_639_3": "arb",
+            "name": "Arabic (Standard)",
+            "local_name": "العربية",
+            "text_direction": "rtl",
+            "language_tag": "arb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 274,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 25,
+          "vrs": "org"
+        },
+        {
+          "id": 1665,
+          "abbreviation": "GNA93DC",
+          "local_abbreviation": "المشتركة",
+          "title": "Good News Arabic Bible with DC",
+          "local_title": "الترجمة العربية المشتركة مع الكتب اليونانية",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ar",
+            "iso_639_3": "arb",
+            "name": "Arabic (Standard)",
+            "local_name": "العربية",
+            "text_direction": "rtl",
+            "language_tag": "arb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 274,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "org"
+        },
+        {
+          "id": 195,
+          "abbreviation": "SAT",
+          "local_abbreviation": "ت ع م",
+          "title": "Holy Bible: Easy-to-Read Translation",
+          "local_title": "الكِتاب المُقَدَّس: التَّرْجَمَةُ العَرَبِيَّةُ المُبَسَّطَةُ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ar",
+            "iso_639_3": "arb",
+            "name": "Arabic (Standard)",
+            "local_name": "العربية",
+            "text_direction": "rtl",
+            "language_tag": "arb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 22,
+          "vrs": "eng"
+        },
+        {
+          "id": 1981,
+          "abbreviation": "CAV",
+          "local_abbreviation": "ت.ك.ع",
+          "title": "Catholic Arabic Version",
+          "local_title": "الترجمة الكاثوليكيّة (اليسوعيّة)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ar",
+            "iso_639_3": "arb",
+            "name": "Arabic (Standard)",
+            "local_name": "العربية",
+            "text_direction": "rtl",
+            "language_tag": "arb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 274,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 12,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

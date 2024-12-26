@@ -1,0 +1,494 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 313,
+          "abbreviation": "RBT",
+          "local_abbreviation": "BTI",
+          "title": "Библия под ред. М.П. Кулакова и М.М. Кулаков",
+          "local_title": "Библия под ред. М.П. Кулакова и М.М. Кулакова",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ru",
+            "iso_639_3": "rus",
+            "name": "Russian",
+            "local_name": "Русский",
+            "text_direction": "ltr",
+            "language_tag": "rus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 84,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 34,
+          "vrs": "rsc"
+        },
+        {
+          "id": 3830,
+          "abbreviation": "CAROS",
+          "local_abbreviation": "CAROS",
+          "title": "Central Asian Russian Oral Scriptures",
+          "local_title": "Священное Писание, Устный Восточный перевода",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ru",
+            "iso_639_3": "rus",
+            "name": "Russian",
+            "local_name": "Русский",
+            "text_direction": "ltr",
+            "language_tag": "rus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": null
+        },
+        {
+          "id": 385,
+          "abbreviation": "CARS",
+          "local_abbreviation": "CARS",
+          "title": "Central Asian Russian Scriptures",
+          "local_title": "Восточный Перевод",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ru",
+            "iso_639_3": "rus",
+            "name": "Russian",
+            "local_name": "Русский",
+            "text_direction": "ltr",
+            "language_tag": "rus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 37,
+          "vrs": "rsc"
+        },
+        {
+          "id": 840,
+          "abbreviation": "CARZ",
+          "local_abbreviation": "CARS-A",
+          "title": "Central Asian Russian Scriptures (CARS-A)",
+          "local_title": "Восточный перевод, версия с «Аллахом»",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ru",
+            "iso_639_3": "rus",
+            "name": "Russian",
+            "local_name": "Русский",
+            "text_direction": "ltr",
+            "language_tag": "rus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 18,
+          "vrs": "rsc"
+        },
+        {
+          "id": 853,
+          "abbreviation": "CARS-T",
+          "local_abbreviation": "CARS-T",
+          "title": "Central Asian Russian Scriptures (CARS-Tajikistan)",
+          "local_title": "Central Asian Russian Scriptures (CARS-Tajikistan)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ru",
+            "iso_639_3": "rus",
+            "name": "Russian",
+            "local_name": "Русский",
+            "text_direction": "ltr",
+            "language_tag": "rus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "rsc"
+        },
+        {
+          "id": 4028,
+          "abbreviation": "CARS-A",
+          "local_abbreviation": "CARSA",
+          "title": "Central Asian Russian Scriptures 2023 (CARS-A)",
+          "local_title": "Восточный перевод",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ru",
+            "iso_639_3": "rus",
+            "name": "Russian",
+            "local_name": "Русский",
+            "text_direction": "ltr",
+            "language_tag": "rus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "rsc"
+        },
+        {
+          "id": 4027,
+          "abbreviation": "CARS-T",
+          "local_abbreviation": "CARST",
+          "title": "Central Asian Russian Scriptures 2023 (Tajikistani edition)",
+          "local_title": "Восточный перевод, версия для Таджикистана",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ru",
+            "iso_639_3": "rus",
+            "name": "Russian",
+            "local_name": "Русский",
+            "text_direction": "ltr",
+            "language_tag": "rus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "rsc"
+        },
+        {
+          "id": 480,
+          "abbreviation": "CASS70",
+          "local_abbreviation": "CASS70",
+          "title": "Cassian New Testament",
+          "local_title": "перевод Еп. Кассиана",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ru",
+            "iso_639_3": "rus",
+            "name": "Russian",
+            "local_name": "Русский",
+            "text_direction": "ltr",
+            "language_tag": "rus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 241,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "lxx"
+        },
+        {
+          "id": 45,
+          "abbreviation": "CSLAV",
+          "local_abbreviation": "CSLAV",
+          "title": "Библия на церковнославянском языке",
+          "local_title": "Библия на церковнославянском языке",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ru",
+            "iso_639_3": "rus",
+            "name": "Russian",
+            "local_name": "Русский",
+            "text_direction": "ltr",
+            "language_tag": "rus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 22,
+          "vrs": "rsc"
+        },
+        {
+          "id": 3873,
+          "abbreviation": "DROT",
+          "local_abbreviation": "DROT",
+          "title": "Dramatized Russian Oral Translation",
+          "local_title": "Dramatized Russian Oral Translation",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ru",
+            "iso_639_3": "rus",
+            "name": "Russian",
+            "local_name": "Русский",
+            "text_direction": "ltr",
+            "language_tag": "rus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": null
+        },
+        {
+          "id": 3764,
+          "abbreviation": "ROT",
+          "local_abbreviation": "ROT",
+          "title": "Russian Oral Translation",
+          "local_title": "Устный перевод на русский язык",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "ru",
+            "iso_639_3": "rus",
+            "name": "Russian",
+            "local_name": "Русский",
+            "text_direction": "ltr",
+            "language_tag": "rus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": null
+        },
+        {
+          "id": 201,
+          "abbreviation": "RSP",
+          "local_abbreviation": "RSP",
+          "title": "Holy Bible: Easy-to-Read Translation",
+          "local_title": "Святая Библия: Современный перевод",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ru",
+            "iso_639_3": "rus",
+            "name": "Russian",
+            "local_name": "Русский",
+            "text_direction": "ltr",
+            "language_tag": "rus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 26,
+          "vrs": "rsc"
+        },
+        {
+          "id": 400,
+          "abbreviation": "SYNO",
+          "local_abbreviation": "SYNO",
+          "title": "Synodal Bible (Protestant Version)",
+          "local_title": "Синодальный перевод",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ru",
+            "iso_639_3": "rus",
+            "name": "Russian",
+            "local_name": "Русский",
+            "text_direction": "ltr",
+            "language_tag": "rus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 241,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 25,
+          "vrs": "rso"
+        },
+        {
+          "id": 143,
+          "abbreviation": "NRT",
+          "local_abbreviation": "НРП",
+          "title": "New Russian Translation 2023",
+          "local_title": "Новый русский перевод",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ru",
+            "iso_639_3": "rus",
+            "name": "Russian",
+            "local_name": "Русский",
+            "text_direction": "ltr",
+            "language_tag": "rus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 26,
+          "vrs": "rsc"
+        },
+        {
+          "id": 167,
+          "abbreviation": "Synod",
+          "local_abbreviation": "Синод",
+          "title": "Russian: Synodal Orthodox Version 1994",
+          "local_title": "Синодальный перевод",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ru",
+            "iso_639_3": "rus",
+            "name": "Russian",
+            "local_name": "Русский",
+            "text_direction": "ltr",
+            "language_tag": "rus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 241,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 25,
+          "vrs": "rso"
+        },
+        {
+          "id": 1999,
+          "abbreviation": "CRVNT",
+          "local_abbreviation": "СРП-2",
+          "title": "Contemporary Russian Version (2nd ed.) NT",
+          "local_title": "Современный русский перевод (2-е изд.)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ru",
+            "iso_639_3": "rus",
+            "name": "Russian",
+            "local_name": "Русский",
+            "text_direction": "ltr",
+            "language_tag": "rus",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 241,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "rsc"
+        }
+      ],
+      "totals": {
+        "versions": 16,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

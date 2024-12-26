@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3854,
+          "abbreviation": "CSEB24",
+          "local_abbreviation": "CSEB24",
+          "title": "Contemporary Sepedi Nothern Sotho Bible 2024",
+          "local_title": "Contemporary Sepedi Nothern Sotho Bible 2024",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nso",
+            "name": "Sotho, Northern",
+            "local_name": "Sesotho sa Leboa",
+            "text_direction": "ltr",
+            "language_tag": "nso",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 4686,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 256,
+          "abbreviation": "NSO00",
+          "local_abbreviation": "NSO00",
+          "title": "Northern Sotho 2000",
+          "local_title": "BIBELE Taba yea Botse",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nso",
+            "name": "Sotho, Northern",
+            "local_name": "Sesotho sa Leboa",
+            "text_direction": "ltr",
+            "language_tag": "nso",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 2,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 30,
+          "vrs": "eng"
+        },
+        {
+          "id": 124,
+          "abbreviation": "NSO51",
+          "local_abbreviation": "NSO51",
+          "title": "Northern Sotho 1951/1986",
+          "local_title": "BIBELE",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nso",
+            "name": "Sotho, Northern",
+            "local_name": "Sesotho sa Leboa",
+            "text_direction": "ltr",
+            "language_tag": "nso",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 2,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 31,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

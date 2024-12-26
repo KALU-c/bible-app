@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2451,
+          "abbreviation": "LalaNT",
+          "local_abbreviation": "LalaNT",
+          "title": "Chilala New Testament",
+          "local_title": "Chipangano Chabwangu",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "leb",
+            "name": "Lala-Bisa",
+            "local_name": "Lala-Bisa",
+            "text_direction": "ltr",
+            "language_tag": "leb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 165,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

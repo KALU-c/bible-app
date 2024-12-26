@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2089,
+          "abbreviation": "XalBBL",
+          "local_abbreviation": "ХКО_ӘБ",
+          "title": "Kalmyk Holy Scriptures",
+          "local_title": "Хальмг келнд орчулсн Әрүн Бичлһс",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "xal",
+            "name": "Kalmyk",
+            "local_name": "Хальмг келн",
+            "text_direction": "ltr",
+            "language_tag": "xal",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "rsc"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

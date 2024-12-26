@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1613,
+          "abbreviation": "ECS",
+          "local_abbreviation": "AL",
+          "title": "Ewe Contemporary Scriptures 2020",
+          "local_title": "Agbenya La",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ee",
+            "iso_639_3": "ewe",
+            "name": "Éwé",
+            "local_name": "eʋegbe",
+            "text_direction": "ltr",
+            "language_tag": "ewe",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 3306,
+          "abbreviation": "EBDC14",
+          "local_abbreviation": "EB14",
+          "title": "Éwé Bible with DC",
+          "local_title": "EƲEGBE BIBLIA",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ee",
+            "iso_639_3": "ewe",
+            "name": "Éwé",
+            "local_name": "eʋegbe",
+            "text_direction": "ltr",
+            "language_tag": "ewe",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 166,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 2259,
+          "abbreviation": "EWERV",
+          "local_abbreviation": "EWERV",
+          "title": "Bible in Éwé Revised Version 1913",
+          "local_title": "Biblia alo Ŋɔŋlɔ Kɔkɔe La Le Eʋegbe Me 1913",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ee",
+            "iso_639_3": "ewe",
+            "name": "Éwé",
+            "local_name": "eʋegbe",
+            "text_direction": "ltr",
+            "language_tag": "ewe",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 259,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

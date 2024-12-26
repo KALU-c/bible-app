@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 726,
+          "abbreviation": "cnt",
+          "local_abbreviation": "cnt",
+          "title": "Chinantec, Tepetotutla NT",
+          "local_title": "Jag₁ ʼmɨ́₂ a₂ma₂lɨʼ₅₄ quianʼ₅₄ Diu₄",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cnt",
+            "name": "Tepetotutla Chinantec",
+            "local_name": "Tepetotutla Chinantec",
+            "text_direction": "ltr",
+            "language_tag": "cnt",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

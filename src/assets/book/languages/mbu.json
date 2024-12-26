@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1835,
+          "abbreviation": "mbu",
+          "local_abbreviation": "mbu",
+          "title": "Mbula New Testament",
+          "local_title": "Maləmce Məfele mala Ɓakuli: Kurcau Məbəshe",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mbu",
+            "name": "Mbula-Bwazza",
+            "local_name": "Mbula",
+            "text_direction": "ltr",
+            "language_tag": "mbu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 138,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

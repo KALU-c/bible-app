@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3280,
+          "abbreviation": "SCO1904",
+          "local_abbreviation": "SCO1904",
+          "title": "New Testament in Braid Scots 1904 (William Wye Smith)",
+          "local_title": "New Testament in Braid Scots 1904 (William Wye Smith)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "sco",
+            "name": "Scots",
+            "local_name": "Lallans",
+            "text_direction": "ltr",
+            "language_tag": "sco",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        },
+        {
+          "id": 2334,
+          "abbreviation": "SCOMP",
+          "local_abbreviation": "SCOMP",
+          "title": "Metrical Psalms in Braid Scots 1928 (T.T. Alexander)",
+          "local_title": "Metrical Psalms in Braid Scots 1928 (T.T. Alexander)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "sco",
+            "name": "Scots",
+            "local_name": "Lallans",
+            "text_direction": "ltr",
+            "language_tag": "sco",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 318,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

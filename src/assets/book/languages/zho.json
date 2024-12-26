@@ -1,0 +1,224 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 36,
+          "abbreviation": "CCB",
+          "local_abbreviation": "CCB",
+          "title": "Chinese Contemporary Bible 2022 (Simplified)",
+          "local_title": "当代译本",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_CN",
+            "iso_639_3": "zho",
+            "name": "Chinese (Simplified)",
+            "local_name": "简体中文",
+            "text_direction": "ltr",
+            "language_tag": "zho",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 30,
+          "vrs": "eng"
+        },
+        {
+          "id": 41,
+          "abbreviation": "CNVS",
+          "local_abbreviation": "CNVS",
+          "title": "新译本（简体字版）",
+          "local_title": "新译本",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_CN",
+            "iso_639_3": "zho",
+            "name": "Chinese (Simplified)",
+            "local_name": "简体中文",
+            "text_direction": "ltr",
+            "language_tag": "zho",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 16,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 32,
+          "vrs": "eng"
+        },
+        {
+          "id": 43,
+          "abbreviation": "CSBS",
+          "local_abbreviation": "CSBS",
+          "title": "Chinese Standard Bible (Simplified Script)",
+          "local_title": "中文标准译本",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_CN",
+            "iso_639_3": "zho",
+            "name": "Chinese (Simplified)",
+            "local_name": "简体中文",
+            "text_direction": "ltr",
+            "language_tag": "zho",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 251,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 59,
+          "vrs": "eng"
+        },
+        {
+          "id": 47,
+          "abbreviation": "CUNPSS-Shangti",
+          "local_abbreviation": "CUNPSS-上帝",
+          "title": "Chinese Union Version, New Punctuation, Shangti Edition, SS",
+          "local_title": "新标点和合本, 上帝版",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_CN",
+            "iso_639_3": "zho",
+            "name": "Chinese (Simplified)",
+            "local_name": "简体中文",
+            "text_direction": "ltr",
+            "language_tag": "zho",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 278,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 26,
+          "vrs": "eng"
+        },
+        {
+          "id": 48,
+          "abbreviation": "CUNPSS-Shen",
+          "local_abbreviation": "CUNPSS-神",
+          "title": "Chinese Union New Punctuation 1989 Bible",
+          "local_title": "新标点和合本, 神版",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_CN",
+            "iso_639_3": "zho",
+            "name": "Chinese (Simplified)",
+            "local_name": "简体中文",
+            "text_direction": "ltr",
+            "language_tag": "zho",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 28,
+          "vrs": "eng"
+        },
+        {
+          "id": 140,
+          "abbreviation": "RCUVSS",
+          "local_abbreviation": "RCUVSS",
+          "title": "Revised Chinese Union Version (Simplified Script)",
+          "local_title": "和合本修订版",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_CN",
+            "iso_639_3": "zho",
+            "name": "Chinese (Simplified)",
+            "local_name": "简体中文",
+            "text_direction": "ltr",
+            "language_tag": "zho",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 278,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 32,
+          "vrs": "eng"
+        },
+        {
+          "id": 3780,
+          "abbreviation": "CMN",
+          "local_abbreviation": "普通话",
+          "title": "Simplified Chinese: Holy Bible: Easy-to-Read Translation (Mandarin)",
+          "local_title": "圣经–普通话本",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "zh_CN",
+            "iso_639_3": "zho",
+            "name": "Chinese (Simplified)",
+            "local_name": "简体中文",
+            "text_direction": "ltr",
+            "language_tag": "zho",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 7,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

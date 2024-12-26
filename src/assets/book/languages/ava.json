@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2086,
+          "abbreviation": "AvrNT",
+          "local_abbreviation": "AvrNT",
+          "title": "Avar New Testament",
+          "local_title": "Инжил",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "av",
+            "iso_639_3": "ava",
+            "name": "Avaric",
+            "local_name": "Магӏарул",
+            "text_direction": "ltr",
+            "language_tag": "ava",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 4035,
+          "abbreviation": "AvaBBL",
+          "local_abbreviation": "АварАК",
+          "title": "Avar Holy Scriptures",
+          "local_title": "Аллагьасул Калима",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "av",
+            "iso_639_3": "ava",
+            "name": "Avaric",
+            "local_name": "Магӏарул",
+            "text_direction": "ltr",
+            "language_tag": "ava",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "rsc"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

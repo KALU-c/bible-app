@@ -17,7 +17,6 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "@/components/ui/popover"
-import { getAllSupportedLanguages, getBibleVersionsByLanguage } from "@/assets/book"
 import { useState } from "react"
 
 // TODO - make it dynamic
@@ -45,8 +44,8 @@ const bibleVersions = [
 ]
 
 export function SelectVersion() {
-  const [open, setOpen] = React.useState(false)
-  const [value, setValue] = React.useState("")
+  const [open, setOpen] = useState(false)
+  const [value, setValue] = useState("")
 
   return (
     <Popover open={open} onOpenChange={setOpen}>

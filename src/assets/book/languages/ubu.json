@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1251,
+          "abbreviation": "ubuA",
+          "local_abbreviation": "ubuA",
+          "title": "Umbu-Ungu, Andelale",
+          "local_title": "Pulu Yemonga Ungu Kondemo",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ubu",
+            "name": "Umbu-Ungu",
+            "local_name": "Umbu-Ungu",
+            "text_direction": "ltr",
+            "language_tag": "ubu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        },
+        {
+          "id": 1234,
+          "abbreviation": "ubuK",
+          "local_abbreviation": "ubuK",
+          "title": "Umbu-Ungu, Kala",
+          "local_title": "Pulu Yemonga Ungu Kondemo",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ubu",
+            "name": "Umbu-Ungu",
+            "local_name": "Umbu-Ungu",
+            "text_direction": "ltr",
+            "language_tag": "ubu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        },
+        {
+          "id": 1417,
+          "abbreviation": "ubuN",
+          "local_abbreviation": "ubuN",
+          "title": "Umbu-Ungu (No Penge)",
+          "local_title": "Pulu Yemonga ungu kondemo: Pulu Yemone nimbe panjipe mi lerimu ungu kondemo",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ubu",
+            "name": "Umbu-Ungu",
+            "local_name": "Umbu-Ungu",
+            "text_direction": "ltr",
+            "language_tag": "ubu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

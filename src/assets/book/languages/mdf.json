@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4022,
+          "abbreviation": "MOK16",
+          "local_abbreviation": "ОС16",
+          "title": "Mordvin-Moksha: New Testament 2016",
+          "local_title": "Од Соткс, Новый Завет на мордовском-мокша языке 2016",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mdf",
+            "name": "Moksha",
+            "local_name": "Moksha",
+            "text_direction": "ltr",
+            "language_tag": "mdf",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 1057,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "rsc"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

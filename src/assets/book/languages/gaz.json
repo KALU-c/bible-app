@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3552,
+          "abbreviation": "NOCV",
+          "local_abbreviation": "HAH",
+          "title": "New Oromo Contemporary Version, Western 2022",
+          "local_title": "Hiikkaa Ammayyaa Haaraa, Loqoda Dhiʼaa",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gaz",
+            "name": "West Central Oromo",
+            "local_name": "West Central Oromo",
+            "text_direction": "ltr",
+            "language_tag": "gaz",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 3202,
+          "abbreviation": "MacQul",
+          "local_abbreviation": "MacQul",
+          "title": "West Oromo Bible",
+          "local_title": "Macaafa Qulqulluu Afaan Oromoo",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gaz",
+            "name": "West Central Oromo",
+            "local_name": "West Central Oromo",
+            "text_direction": "ltr",
+            "language_tag": "gaz",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 279,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 3725,
+          "abbreviation": "NOCV",
+          "local_abbreviation": "NOCV",
+          "title": "New Oromo Contemporary Version Ethiopic 2023",
+          "local_title": "ክታበ ቁልቁሉ፣ ሂካ አመያ ሃራ",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gaz",
+            "name": "West Central Oromo",
+            "local_name": "West Central Oromo",
+            "text_direction": "ltr",
+            "language_tag": "gaz",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

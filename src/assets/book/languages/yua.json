@@ -1,0 +1,134 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 324,
+          "abbreviation": "MAYABI",
+          "local_abbreviation": "MAYABI",
+          "title": "Maya Bible",
+          "local_title": "Biblia Maya",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "yua",
+            "name": "Yucateco",
+            "local_name": "Màaya",
+            "text_direction": "ltr",
+            "language_tag": "yua",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 22,
+          "vrs": "eng"
+        },
+        {
+          "id": 2687,
+          "abbreviation": "MAYADC",
+          "local_abbreviation": "MAYADC",
+          "title": "Maya DC Bible 1992",
+          "local_title": "Biblia Maya de Yucatán con DC 1992",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "yua",
+            "name": "Yucateco",
+            "local_name": "Màaya",
+            "text_direction": "ltr",
+            "language_tag": "yua",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 93,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 3893,
+          "abbreviation": "YUA04",
+          "local_abbreviation": "YUA04",
+          "title": "Maya de Yucatan NT Revision 2004",
+          "local_title": "Màaya Yucateco: Tumben Nupt'an 2004",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "yua",
+            "name": "Yucateco",
+            "local_name": "Màaya",
+            "text_direction": "ltr",
+            "language_tag": "yua",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 93,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        },
+        {
+          "id": 3025,
+          "abbreviation": "YUA04Ev",
+          "local_abbreviation": "YUA04Ev",
+          "title": "Maya de Yucatan Evangelios Revision 2004",
+          "local_title": "Evangelios Màaya Yucateco 2004",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "yua",
+            "name": "Yucateco",
+            "local_name": "Màaya",
+            "text_direction": "ltr",
+            "language_tag": "yua",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 93,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 4,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

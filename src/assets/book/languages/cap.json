@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 236,
+          "abbreviation": "cap",
+          "local_abbreviation": "cap",
+          "title": "Chipaya NT",
+          "local_title": "Puquina",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cap",
+            "name": "Chipaya",
+            "local_name": "Puquina",
+            "text_direction": "ltr",
+            "language_tag": "cap",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 22,
+          "vrs": "eng"
+        },
+        {
+          "id": 218,
+          "abbreviation": "CHIPBO",
+          "local_abbreviation": "CHIPBO",
+          "title": "Nuevo Testamento Chipaya",
+          "local_title": "Ew Testamento Chipay Tawqkistan",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cap",
+            "name": "Chipaya",
+            "local_name": "Puquina",
+            "text_direction": "ltr",
+            "language_tag": "cap",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 72,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 23,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

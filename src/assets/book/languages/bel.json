@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1573,
+          "abbreviation": "BBB",
+          "local_abbreviation": "БББ",
+          "title": "Bible (A.Bokun translation)",
+          "local_title": "Біблія (пераклад А.Бокуна)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "be",
+            "iso_639_3": "bel",
+            "name": "Belarusian",
+            "local_name": "беларуская",
+            "text_direction": "ltr",
+            "language_tag": "bel",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 277,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "org"
+        },
+        {
+          "id": 1723,
+          "abbreviation": "BBL",
+          "local_abbreviation": "ББЛ",
+          "title": "Bible (V. Semukha translation)",
+          "local_title": "Біблія (пераклад В. Сёмухі)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "be",
+            "iso_639_3": "bel",
+            "name": "Belarusian",
+            "local_name": "беларуская",
+            "text_direction": "ltr",
+            "language_tag": "bel",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 277,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "rsc"
+        },
+        {
+          "id": 3637,
+          "abbreviation": "BelBC17",
+          "local_abbreviation": "ББЧ",
+          "title": "The Belarusian Bible translated by Čarniaŭski in 2000",
+          "local_title": "Кнігі Святога Пісання - Біблія - Біблія — пераклад Чарняўскага (выданне 2017 года)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "be",
+            "iso_639_3": "bel",
+            "name": "Belarusian",
+            "local_name": "беларуская",
+            "text_direction": "ltr",
+            "language_tag": "bel",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8100,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

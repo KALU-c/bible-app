@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 280,
+          "abbreviation": "VEN98",
+          "local_abbreviation": "VEN98",
+          "title": "Tshivenda 1998 Translation",
+          "local_title": "BIVHILI KHETHWA Mafhungo Madifha",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ve",
+            "iso_639_3": "ven",
+            "name": "Venda",
+            "local_name": "Tshivenḓa",
+            "text_direction": "ltr",
+            "language_tag": "ven",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 2,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 30,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

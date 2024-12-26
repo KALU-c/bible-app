@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 366,
+          "abbreviation": "nhi",
+          "local_abbreviation": "nhi",
+          "title": "Nahuatl: Zacatlán, Ahuacatlán, Tepetzintla NT",
+          "local_title": "Nahuatl: Zacatlán, Ahuacatlán, Tepetzintla",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "nhi",
+            "name": "Zacatlán-Ahuacatlán-Tepetzintla Nahuatl",
+            "local_name": "Nahuatl Zacatlán-Ahuacatlán-Tepetzintla",
+            "text_direction": "ltr",
+            "language_tag": "nhi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

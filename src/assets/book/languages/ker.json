@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3118,
+          "abbreviation": "KERNT05",
+          "local_abbreviation": "KERNT05",
+          "title": "Kera New Testament",
+          "local_title": "JAA TƏMARWAŊ",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ker",
+            "name": "Kera",
+            "local_name": "Kera",
+            "text_direction": "ltr",
+            "language_tag": "ker",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 142,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

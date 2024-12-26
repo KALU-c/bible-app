@@ -1,0 +1,224 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3103,
+          "abbreviation": "MR35",
+          "local_abbreviation": "BPFF",
+          "title": "Malagasy Protestant Bible 2011",
+          "local_title": "Baiboly Protestanta Malagasy 2011",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "mg",
+            "iso_639_3": "plt",
+            "name": "Malgache",
+            "local_name": "Malagasy (Madagascar)",
+            "text_direction": "ltr",
+            "language_tag": "plt",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 106,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "org"
+        },
+        {
+          "id": 396,
+          "abbreviation": "DIEM",
+          "local_abbreviation": "DIEM",
+          "title": "Malagasy Bible",
+          "local_title": "DIEM PROTESTANTA",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "mg",
+            "iso_639_3": "plt",
+            "name": "Malgache",
+            "local_name": "Malagasy (Madagascar)",
+            "text_direction": "ltr",
+            "language_tag": "plt",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 106,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 28,
+          "vrs": "org"
+        },
+        {
+          "id": 384,
+          "abbreviation": "DIEMDC",
+          "local_abbreviation": "DIEMDC",
+          "title": "Malagasy Bible Interconfessionelle",
+          "local_title": "Dikateny Iombonana Eto Madagasikara",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "mg",
+            "iso_639_3": "plt",
+            "name": "Malgache",
+            "local_name": "Malagasy (Madagascar)",
+            "text_direction": "ltr",
+            "language_tag": "plt",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 106,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 28,
+          "vrs": "org"
+        },
+        {
+          "id": 814,
+          "abbreviation": "MCB",
+          "local_abbreviation": "MBC",
+          "title": "Malagasy Catholic Bible",
+          "local_title": "Baiboly Katolika",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "mg",
+            "iso_639_3": "plt",
+            "name": "Malgache",
+            "local_name": "Malagasy (Madagascar)",
+            "text_direction": "ltr",
+            "language_tag": "plt",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 106,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "org"
+        },
+        {
+          "id": 873,
+          "abbreviation": "MPB",
+          "local_abbreviation": "MBP",
+          "title": "Malagasy Protestant Bible",
+          "local_title": "Baiboly Protestanta Malagasy",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "mg",
+            "iso_639_3": "plt",
+            "name": "Malgache",
+            "local_name": "Malagasy (Madagascar)",
+            "text_direction": "ltr",
+            "language_tag": "plt",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 106,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "org"
+        },
+        {
+          "id": 96,
+          "abbreviation": "MG1865",
+          "local_abbreviation": "MG1865",
+          "title": "Malagasy Bible",
+          "local_title": "Malagasy Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "mg",
+            "iso_639_3": "plt",
+            "name": "Malgache",
+            "local_name": "Malagasy (Madagascar)",
+            "text_direction": "ltr",
+            "language_tag": "plt",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 22,
+          "vrs": "eng"
+        },
+        {
+          "id": 1219,
+          "abbreviation": "MRV",
+          "local_abbreviation": "MRV",
+          "title": "Malagasy Bible Revision Version",
+          "local_title": "La Bible en Malgache",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "mg",
+            "iso_639_3": "plt",
+            "name": "Malgache",
+            "local_name": "Malagasy (Madagascar)",
+            "text_direction": "ltr",
+            "language_tag": "plt",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 106,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 7,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 321,
+          "abbreviation": "KBV",
+          "local_abbreviation": "KBV",
+          "title": "Biblija. Senasis Testamentas. Naujasis Testamentas",
+          "local_title": "Biblija. Senasis Testamentas. Naujasis Testamentas",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "lt",
+            "iso_639_3": "lit",
+            "name": "Lithuanian",
+            "local_name": "Lietuvių",
+            "text_direction": "ltr",
+            "language_tag": "lit",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 134,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 25,
+          "vrs": "eng"
+        },
+        {
+          "id": 3309,
+          "abbreviation": "LBD",
+          "local_abbreviation": "LBD",
+          "title": "Lithuanian Bible Rubsys and Kavaliauskas",
+          "local_title": "Biblija arba Šventasis Raštas",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "lt",
+            "iso_639_3": "lit",
+            "name": "Lithuanian",
+            "local_name": "Lietuvių",
+            "text_direction": "ltr",
+            "language_tag": "lit",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 136,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "org"
+        },
+        {
+          "id": 3317,
+          "abbreviation": "LBD-DC",
+          "local_abbreviation": "LBD-DC",
+          "title": "Lithuanian Bible Rubsys and Kavaliauskas DC",
+          "local_title": "Biblija arba Šventasis Raštas",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "lt",
+            "iso_639_3": "lit",
+            "name": "Lithuanian",
+            "local_name": "Lietuvių",
+            "text_direction": "ltr",
+            "language_tag": "lit",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 136,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "org"
+        },
+        {
+          "id": 420,
+          "abbreviation": "LBD-EKU",
+          "local_abbreviation": "LBD-EKU",
+          "title": "Lithuanian Bible DC",
+          "local_title": "A. Rubšio ir Č. Kavaliausko vertimas su Antrojo Kanono knygomis",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "lt",
+            "iso_639_3": "lit",
+            "name": "Lithuanian",
+            "local_name": "Lietuvių",
+            "text_direction": "ltr",
+            "language_tag": "lit",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 136,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 20,
+          "vrs": "org"
+        },
+        {
+          "id": 419,
+          "abbreviation": "LBD-KAN",
+          "local_abbreviation": "LBD-KAN",
+          "title": "Lithuanian Bible",
+          "local_title": "A. Rubšio ir Č. Kavaliausko vertimas be Antrojo Kanono knygų",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "lt",
+            "iso_639_3": "lit",
+            "name": "Lithuanian",
+            "local_name": "Lietuvių",
+            "text_direction": "ltr",
+            "language_tag": "lit",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 136,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

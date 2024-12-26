@@ -1,0 +1,224 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2040,
+          "abbreviation": "AB",
+          "local_abbreviation": "AB",
+          "title": "ALIVE Bible: New Testament",
+          "local_title": "ALIVEバイブル: 新約聖書",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ja",
+            "iso_639_3": "jpn",
+            "name": "Japanese",
+            "local_name": "日本語",
+            "text_direction": "ltr",
+            "language_tag": "jpn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 3802,
+          "abbreviation": "JERV",
+          "local_abbreviation": "ERV訳",
+          "title": "ERV Translation ー Easy-to-Read Scriptures ー (New Testament)",
+          "local_title": "ERV 訳 ー 読みやすい聖書 ー（新約聖書）",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ja",
+            "iso_639_3": "jpn",
+            "name": "Japanese",
+            "local_name": "日本語",
+            "text_direction": "ltr",
+            "language_tag": "jpn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 81,
+          "abbreviation": "JA1955",
+          "local_abbreviation": "JA1955",
+          "title": "Colloquial Japanese (1955)",
+          "local_title": "Colloquial Japanese (1955)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ja",
+            "iso_639_3": "jpn",
+            "name": "Japanese",
+            "local_name": "日本語",
+            "text_direction": "ltr",
+            "language_tag": "jpn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        },
+        {
+          "id": 83,
+          "abbreviation": "JCB",
+          "local_abbreviation": "JCB",
+          "title": "Japanese Contemporary Bible",
+          "local_title": "リビングバイブル",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ja",
+            "iso_639_3": "jpn",
+            "name": "Japanese",
+            "local_name": "日本語",
+            "text_direction": "ltr",
+            "language_tag": "jpn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 31,
+          "vrs": "eng"
+        },
+        {
+          "id": 1820,
+          "abbreviation": "JC",
+          "local_abbreviation": "口語訳",
+          "title": "The Bible, Colloquial Japanese",
+          "local_title": "Japanese: 聖書　口語訳",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ja",
+            "iso_639_3": "jpn",
+            "name": "Japanese",
+            "local_name": "日本語",
+            "text_direction": "ltr",
+            "language_tag": "jpn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 307,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 4016,
+          "abbreviation": "JCV",
+          "local_abbreviation": "口語訳",
+          "title": "Japanese Colloquial Version",
+          "local_title": "聖書 口語訳",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ja",
+            "iso_639_3": "jpn",
+            "name": "Japanese",
+            "local_name": "日本語",
+            "text_direction": "ltr",
+            "language_tag": "jpn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 307,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 1819,
+          "abbreviation": "JNIV",
+          "local_abbreviation": "新共同訳",
+          "title": "The Bible with Deuterocanonicals/ Apocrypha. The New Interconfessional Translation.",
+          "local_title": "Seisho Shinkyoudoyaku 聖書 新共同訳",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ja",
+            "iso_639_3": "jpn",
+            "name": "Japanese",
+            "local_name": "日本語",
+            "text_direction": "ltr",
+            "language_tag": "jpn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 307,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 7,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

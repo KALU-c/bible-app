@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3063,
+          "abbreviation": "MAAREDC",
+          "local_abbreviation": "BIBLIACATHO",
+          "title": "MAASAI REVISED CATHOLIC BIBLE",
+          "local_title": "BIBLIA SINYATI TE NKUTUK OO LMAASAI NATISIRAKI ENG'EJUK NAATA MBUKUI E DITROKANONI",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mas",
+            "name": "Masai",
+            "local_name": "Maasai",
+            "text_direction": "ltr",
+            "language_tag": "mas",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 3064,
+          "abbreviation": "MAAREPRO",
+          "local_abbreviation": "BIBLIAPRO",
+          "title": "MAASAI REVISED PROTESTANT BIBLE",
+          "local_title": "BIBLIA SINYATI TE NKUTUK OO LMAASAI NATISIRAKI ENG'EJUK",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mas",
+            "name": "Masai",
+            "local_name": "Maasai",
+            "text_direction": "ltr",
+            "language_tag": "mas",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 3044,
+          "abbreviation": "MAS70",
+          "local_abbreviation": "MAS70",
+          "title": "New Testament in Maasai/Arusha",
+          "local_title": "Osotua Ng'ejuk",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mas",
+            "name": "Masai",
+            "local_name": "Maasai",
+            "text_direction": "ltr",
+            "language_tag": "mas",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 268,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "lxx"
+        },
+        {
+          "id": 1816,
+          "abbreviation": "MBS",
+          "local_abbreviation": "MBS",
+          "title": "Maasai Bible",
+          "local_title": "Biblia Sinyati",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mas",
+            "name": "Masai",
+            "local_name": "Maasai",
+            "text_direction": "ltr",
+            "language_tag": "mas",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 18,
+          "vrs": "eng"
+        },
+        {
+          "id": 3310,
+          "abbreviation": "SINYATI",
+          "local_abbreviation": "SINYATI",
+          "title": "OLD MAASAI BIBLE",
+          "local_title": "BIBLIA SINYATI",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mas",
+            "name": "Masai",
+            "local_name": "Maasai",
+            "text_direction": "ltr",
+            "language_tag": "mas",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2990,
+          "abbreviation": "sev",
+          "local_abbreviation": "sev",
+          "title": "Sénoufo, Nyarafolo",
+          "local_title": "Sénoufo, Nyarafolo",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "sev",
+            "name": "Sénoufo, Nyarafolo",
+            "local_name": "Sénoufo, Nyarafolo",
+            "text_direction": "ltr",
+            "language_tag": "sev",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4116,
+          "abbreviation": "ULBIBLE",
+          "local_abbreviation": "ULBIBLE",
+          "title": "Urak Lawaoi 'Bible",
+          "local_title": "ซูรัจ ปือมือเลา นะ ตูฮัด",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "urk",
+            "name": "Urak Lawoi’",
+            "local_name": "Urak Lawoi’",
+            "text_direction": "ltr",
+            "language_tag": "urk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 33,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1224,
+          "abbreviation": "HZUTCYR",
+          "local_abbreviation": "HZUTCYR",
+          "title": "Һазирқи Заман Уйғурчә Тәрҗимиси",
+          "local_title": "Һазирқи Заман Уйғурчә Тәрҗимиси",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ug",
+            "iso_639_3": "uig",
+            "name": "Uyghur Cyrillic",
+            "local_name": "Уйғурчә",
+            "text_direction": "ltr",
+            "language_tag": "uig_cyr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 144,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

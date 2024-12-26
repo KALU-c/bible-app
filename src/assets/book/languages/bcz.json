@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4082,
+          "abbreviation": "GD",
+          "local_abbreviation": "GD",
+          "title": "The Bible in Baynunk Guñaamolo",
+          "local_title": "Gúloku Díino",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bcz",
+            "name": "Bainouk-Gunyaamolo",
+            "local_name": "Baynunk-Gunyaamolo ",
+            "text_direction": "ltr",
+            "language_tag": "bcz",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 933,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

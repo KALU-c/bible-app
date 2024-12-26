@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1192,
+          "abbreviation": "rwoKNT",
+          "local_abbreviation": "rwoKNT",
+          "title": "Rawa (Karo) NT",
+          "local_title": "Rawa (Karo)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rwo",
+            "name": "Rawa",
+            "local_name": "Rawa",
+            "text_direction": "ltr",
+            "language_tag": "rwo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        },
+        {
+          "id": 1314,
+          "abbreviation": "rwo",
+          "local_abbreviation": "rwoR",
+          "title": "Rawa New Testament",
+          "local_title": "Anutro Mande Keta",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rwo",
+            "name": "Rawa",
+            "local_name": "Rawa",
+            "text_direction": "ltr",
+            "language_tag": "rwo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 1189,
+          "abbreviation": "rwoRNT",
+          "local_abbreviation": "rwoRNT",
+          "title": "Anutro Mande Keta",
+          "local_title": "Anutro Mande Keta",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rwo",
+            "name": "Rawa",
+            "local_name": "Rawa",
+            "text_direction": "ltr",
+            "language_tag": "rwo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

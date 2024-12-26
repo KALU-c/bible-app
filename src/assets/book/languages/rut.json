@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2320,
+          "abbreviation": "RUT",
+          "local_abbreviation": "RUT",
+          "title": "Luke",
+          "local_title": "Лукаады Шадды Хабар",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rut",
+            "name": "Myxʼabišdy čʼel (Rutul)",
+            "local_name": "мыхӀабишды чӀел",
+            "text_direction": "ltr",
+            "language_tag": "rut",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

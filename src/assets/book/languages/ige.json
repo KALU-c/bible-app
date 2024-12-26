@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2538,
+          "abbreviation": "IBT2",
+          "local_abbreviation": "IBNO",
+          "title": "Igede Bible Translation",
+          "local_title": "IBAYỊBỤỤ NYA OHE OLUHYE",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ige",
+            "name": "Igede",
+            "local_name": "Igede",
+            "text_direction": "ltr",
+            "language_tag": "ige",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 244,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

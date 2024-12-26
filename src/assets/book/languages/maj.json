@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 854,
+          "abbreviation": "maj",
+          "local_abbreviation": "maj",
+          "title": "Mazatec, Jalapa de Díaz NT",
+          "local_title": "Éhe̱n Nti̱a̱ná",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "maj",
+            "name": "Jalapa De Díaz Mazatec",
+            "local_name": "Jalapa De Díaz Mazatec",
+            "text_direction": "ltr",
+            "language_tag": "maj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "lxx"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

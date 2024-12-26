@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3600,
+          "abbreviation": "AKNT2023",
+          "local_abbreviation": "AKNT2023",
+          "title": "Asang Khongso New Testament",
+          "local_title": "Asang Khongso New Testament",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cek",
+            "name": "Eastern Khumi Chin",
+            "local_name": "Lemi",
+            "text_direction": "ltr",
+            "language_tag": "cek",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 94,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "eng"
+        },
+        {
+          "id": 1853,
+          "abbreviation": "cekNT",
+          "local_abbreviation": "cekNT",
+          "title": "Chin, Lemi (Eastern) NT",
+          "local_title": "Caekäcai Kangthae (Lemi)",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cek",
+            "name": "Eastern Khumi Chin",
+            "local_name": "Lemi",
+            "text_direction": "ltr",
+            "language_tag": "cek",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

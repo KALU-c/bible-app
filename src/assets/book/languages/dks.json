@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2021,
+          "abbreviation": "DIET",
+          "local_abbreviation": "DIƐT",
+          "title": "Dinka Bor Pointed Psalms 1956",
+          "local_title": "Diɛt ke Dabid 1956",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "dks",
+            "name": "Dinka, Southeastern",
+            "local_name": "Dinka Bor",
+            "text_direction": "ltr",
+            "language_tag": "dks",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": null
+        },
+        {
+          "id": 1800,
+          "abbreviation": "LEKJOT",
+          "local_abbreviation": "LEKJOT",
+          "title": "Dinka Bor New Testament 1940",
+          "local_title": "Lek Jot  de Jecu Kritho 1940",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "dks",
+            "name": "Dinka, Southeastern",
+            "local_name": "Dinka Bor",
+            "text_direction": "ltr",
+            "language_tag": "dks",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

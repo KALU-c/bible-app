@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1441,
+          "abbreviation": "KBT13",
+          "local_abbreviation": "BILK13",
+          "title": "Kumam Bible 2013",
+          "local_title": "Baibuli I Leb Kumam 2013",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kdi",
+            "name": "Kumam",
+            "local_name": "Kumam",
+            "text_direction": "ltr",
+            "language_tag": "kdi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 141,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 2676,
+          "abbreviation": "KBTDC13",
+          "local_abbreviation": "BILKDC13",
+          "title": "Kumam DC Bible 2013",
+          "local_title": "Baibuli I Leb Kumam 2013",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kdi",
+            "name": "Kumam",
+            "local_name": "Kumam",
+            "text_direction": "ltr",
+            "language_tag": "kdi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 141,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

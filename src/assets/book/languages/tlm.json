@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2762,
+          "abbreviation": "TLM1909",
+          "local_abbreviation": "TLM9109",
+          "title": "Tolomaku Portions 1909",
+          "local_title": "Tolomaku Portions 1909",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tlm",
+            "name": "Tolomako",
+            "local_name": "Tolomako",
+            "text_direction": "ltr",
+            "language_tag": "tlm",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

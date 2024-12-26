@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2536,
+          "abbreviation": "BB",
+          "local_abbreviation": "KNB",
+          "title": "Bura Bible",
+          "local_title": "KAKAƊU NA ƁƊAKKARKARA",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bwr",
+            "name": "Bura-Pabir",
+            "local_name": "Bura-Pabir",
+            "text_direction": "ltr",
+            "language_tag": "bwr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 244,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

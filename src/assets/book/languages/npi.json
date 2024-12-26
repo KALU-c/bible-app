@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4111,
+          "abbreviation": "NCV",
+          "local_abbreviation": "NCV",
+          "title": "Nepali Contemporary Version 2021",
+          "local_title": "नेपाली समकालीन संस्करण",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ne",
+            "iso_639_3": "npi",
+            "name": "Nepali",
+            "local_name": "नेपाली",
+            "text_direction": "ltr",
+            "language_tag": "npi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        },
+        {
+          "id": 3261,
+          "abbreviation": "NCV",
+          "local_abbreviation": "NCV",
+          "title": "Holy Bible, Nepali Contemporary Version",
+          "local_title": "पवित्र बाइबल, नेपाली समकालीन संस्करण",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ne",
+            "iso_639_3": "npi",
+            "name": "Nepali",
+            "local_name": "नेपाली",
+            "text_direction": "ltr",
+            "language_tag": "npi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 2671,
+          "abbreviation": "NERV",
+          "local_abbreviation": "NERV",
+          "title": "Holy Bible: Easy-to-Read Version",
+          "local_title": "पवित्र बाइबल",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ne",
+            "iso_639_3": "npi",
+            "name": "Nepali",
+            "local_name": "नेपाली",
+            "text_direction": "ltr",
+            "language_tag": "npi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 1483,
+          "abbreviation": "NNRV",
+          "local_abbreviation": "NNRV",
+          "title": "Nepali New Revised Version",
+          "local_title": "नेपाली नयाँ संशोधित संस्करण",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "ne",
+            "iso_639_3": "npi",
+            "name": "Nepali",
+            "local_name": "नेपाली",
+            "text_direction": "ltr",
+            "language_tag": "npi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 270,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        },
+        {
+          "id": 1711,
+          "abbreviation": "SNHB",
+          "local_abbreviation": "सरल नेपाली",
+          "title": "Simple Nepali Holy Bible",
+          "local_title": "सरल नेपाली पवित्र बाइबल",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ne",
+            "iso_639_3": "npi",
+            "name": "Nepali",
+            "local_name": "नेपाली",
+            "text_direction": "ltr",
+            "language_tag": "npi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 270,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

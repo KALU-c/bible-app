@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3855,
+          "abbreviation": "CTSB24",
+          "local_abbreviation": "CTSB24",
+          "title": "Contemporary Tsonga Bible 2024",
+          "local_title": "Contemporary Tsonga Bible 2024",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ts",
+            "iso_639_3": "tso",
+            "name": "Tsonga",
+            "local_name": "Xitsonga",
+            "text_direction": "ltr",
+            "language_tag": "tso",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 4686,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 2939,
+          "abbreviation": "NTC2014",
+          "local_abbreviation": "NTC2014",
+          "title": "Novo Testamento Changana",
+          "local_title": "Testamente Leyimpsha Xichangana",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ts",
+            "iso_639_3": "tso",
+            "name": "Tsonga",
+            "local_name": "Xitsonga",
+            "text_direction": "ltr",
+            "language_tag": "tso",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 825,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 607,
+          "abbreviation": "TSO29",
+          "local_abbreviation": "TSO29",
+          "title": "Tsonga 1929/2012",
+          "local_title": "Xitsonga (Bibele)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ts",
+            "iso_639_3": "tso",
+            "name": "Tsonga",
+            "local_name": "Xitsonga",
+            "text_direction": "ltr",
+            "language_tag": "tso",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 2,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 19,
+          "vrs": "eng"
+        },
+        {
+          "id": 418,
+          "abbreviation": "TSO89",
+          "local_abbreviation": "TSO89",
+          "title": "Tsonga 1989 Translation w/ DC",
+          "local_title": "BIBELE Mahungu Lamanene",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ts",
+            "iso_639_3": "tso",
+            "name": "Tsonga",
+            "local_name": "Xitsonga",
+            "text_direction": "ltr",
+            "language_tag": "tso",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 2,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 18,
+          "vrs": null
+        },
+        {
+          "id": 184,
+          "abbreviation": "TSO89",
+          "local_abbreviation": "TSO89",
+          "title": "Tsonga 1989 Translation",
+          "local_title": "BIBELE Mahungu Lamanene",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ts",
+            "iso_639_3": "tso",
+            "name": "Tsonga",
+            "local_name": "Xitsonga",
+            "text_direction": "ltr",
+            "language_tag": "tso",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 2,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 28,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

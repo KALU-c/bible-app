@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2205,
+          "abbreviation": "mfh",
+          "local_abbreviation": "mfh",
+          "title": "Matal NT (Cameroon)",
+          "local_title": "Wakità Zəzagəla Wakità Aŋa Makəs Vok Slawda Mawga (Cameroun)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mfh",
+            "name": "Matal",
+            "local_name": "Matal",
+            "text_direction": "ltr",
+            "language_tag": "mfh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

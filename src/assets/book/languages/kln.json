@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2927,
+          "abbreviation": "BUKUIT",
+          "local_abbreviation": "BUKUIT",
+          "title": "OLD KALENJIN BIBLE",
+          "local_title": "BUKUIT NE TILIL",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kln",
+            "name": "Kalenjin",
+            "local_name": "Kalenjin",
+            "text_direction": "ltr",
+            "language_tag": "kln",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 1586,
+          "abbreviation": "KALDC",
+          "local_abbreviation": "KALDC",
+          "title": "Kalenjin DC Bible",
+          "local_title": "BUKUIT NE TILIIL Sireet ne Dutero Kanon",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kln",
+            "name": "Kalenjin",
+            "local_name": "Kalenjin",
+            "text_direction": "ltr",
+            "language_tag": "kln",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        },
+        {
+          "id": 1585,
+          "abbreviation": "KAPR",
+          "local_abbreviation": "KAPR",
+          "title": "Kalenjin Bible",
+          "local_title": "Bukuit Ne Tilil",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kln",
+            "name": "Kalenjin",
+            "local_name": "Kalenjin",
+            "text_direction": "ltr",
+            "language_tag": "kln",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

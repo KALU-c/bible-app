@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3684,
+          "abbreviation": "MGS1937",
+          "local_abbreviation": "MGS1937",
+          "title": "chiManda New Testament 1937",
+          "local_title": "Kilagano kya hino 1937",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mgs",
+            "name": "Manda (Tanzania)",
+            "local_name": "chiManda",
+            "text_direction": "ltr",
+            "language_tag": "mgs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 3758,
+          "abbreviation": "MGSPSA",
+          "local_abbreviation": "MGSPSA",
+          "title": "Psalms of David in chiManda 1913 (Tanzania)",
+          "local_title": "Zaburi sya Daud 1913 (Tanzania)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mgs",
+            "name": "Manda (Tanzania)",
+            "local_name": "chiManda",
+            "text_direction": "ltr",
+            "language_tag": "mgs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

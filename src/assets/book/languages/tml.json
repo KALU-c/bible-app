@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2899,
+          "abbreviation": "TML",
+          "local_abbreviation": "TML",
+          "title": "New Testament in Today's Tamnim Version",
+          "local_title": "AI ADAKAM ZI ARE",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tml",
+            "name": "Tamnim Citak",
+            "local_name": "Tamnim Citak",
+            "text_direction": "ltr",
+            "language_tag": "tml",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

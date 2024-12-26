@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2531,
+          "abbreviation": "Kwak",
+          "local_abbreviation": "Kwak",
+          "title": "Kwak'wala 4 Gospels, Acts and Selections 1897",
+          "local_title": "Kwak'wala 4 Gospels Acts,  and Selections 1897",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kwk",
+            "name": "Kwakiutl",
+            "local_name": "Kwak'wala",
+            "text_direction": "ltr",
+            "language_tag": "kwk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 239,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

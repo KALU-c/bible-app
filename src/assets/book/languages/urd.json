@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4112,
+          "abbreviation": "UCV",
+          "local_abbreviation": "UCV",
+          "title": "Urdu Contemporary Version",
+          "local_title": "اُردو ہم عصر ترجُمہ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ur",
+            "iso_639_3": "urd",
+            "name": "Urdu",
+            "local_name": "اردو",
+            "text_direction": "rtl",
+            "language_tag": "urd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        },
+        {
+          "id": 3536,
+          "abbreviation": "UCV",
+          "local_abbreviation": "UCV",
+          "title": "Urdu Contemporary Version 2024",
+          "local_title": "اُردو ہم عصر ترجُمہ",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "ur",
+            "iso_639_3": "urd",
+            "name": "Urdu",
+            "local_name": "اردو",
+            "text_direction": "rtl",
+            "language_tag": "urd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 189,
+          "abbreviation": "URD",
+          "local_abbreviation": "URD",
+          "title": "Urdu Bible",
+          "local_title": "کِتابِ مُقادّس",
+          "audio": true,
+          "audio_count": 3,
+          "text": true,
+          "language": {
+            "iso_639_1": "ur",
+            "iso_639_3": "urd",
+            "name": "Urdu",
+            "local_name": "اردو",
+            "text_direction": "rtl",
+            "language_tag": "urd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 63,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": "eng"
+        },
+        {
+          "id": 3327,
+          "abbreviation": "urdgvh",
+          "local_abbreviation": "URDGVH",
+          "title": "Urdu Geo Version (Hindi Script)",
+          "local_title": "किताबे-मुक़द्दस",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ur",
+            "iso_639_3": "urd",
+            "name": "Urdu",
+            "local_name": "اردو",
+            "text_direction": "rtl",
+            "language_tag": "urd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 253,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 187,
+          "abbreviation": "urdgvu",
+          "local_abbreviation": "URDGVU",
+          "title": "Urdu Geo Version, Urdu Script",
+          "local_title": "ہولی بائبل کا اردو جیو ورژن",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ur",
+            "iso_639_3": "urd",
+            "name": "Urdu",
+            "local_name": "اردو",
+            "text_direction": "rtl",
+            "language_tag": "urd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 253,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 25,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

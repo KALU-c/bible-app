@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4040,
+          "abbreviation": "KPNT19",
+          "local_abbreviation": "БЮ19",
+          "title": "Komi-Permyak New Testament 2019",
+          "local_title": "Бур Юӧр 2019",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "koi",
+            "name": "Komi-Permyak",
+            "local_name": "Komi-Permyak",
+            "text_direction": "ltr",
+            "language_tag": "koi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 1057,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "rsc"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

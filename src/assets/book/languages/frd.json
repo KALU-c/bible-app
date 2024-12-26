@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2178,
+          "abbreviation": "frd",
+          "local_abbreviation": "frd",
+          "title": "Scriptures in Our language",
+          "local_title": "Surat Ralan na'a Vaidida",
+          "audio": true,
+          "audio_count": 3,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "frd",
+            "name": "Fordata",
+            "local_name": "Fordata",
+            "text_direction": "ltr",
+            "language_tag": "frd",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

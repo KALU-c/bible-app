@@ -1,0 +1,194 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3861,
+          "abbreviation": "BCB",
+          "local_abbreviation": "BCB",
+          "title": "Burmese Contemporary Bible",
+          "local_title": "ခေတ်သစ်​မြန်မာ သမ္မာကျမ်း",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "my",
+            "iso_639_3": "mya",
+            "name": "Myanmar Burmese (Unicode)",
+            "local_name": "မြန်မာယူနီကုတ်",
+            "text_direction": "ltr",
+            "language_tag": "mya",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "eng"
+        },
+        {
+          "id": 404,
+          "abbreviation": "BCL",
+          "local_abbreviation": "BCL",
+          "title": "Common Language Bible",
+          "local_title": "Common Language Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "my",
+            "iso_639_3": "mya",
+            "name": "Myanmar Burmese (Unicode)",
+            "local_name": "မြန်မာယူနီကုတ်",
+            "text_direction": "ltr",
+            "language_tag": "mya",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 94,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 20,
+          "vrs": "eng"
+        },
+        {
+          "id": 2397,
+          "abbreviation": "GHB",
+          "local_abbreviation": "GHB",
+          "title": "Garrad Bible",
+          "local_title": "Garrad Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "my",
+            "iso_639_3": "mya",
+            "name": "Myanmar Burmese (Unicode)",
+            "local_name": "မြန်မာယူနီကုတ်",
+            "text_direction": "ltr",
+            "language_tag": "mya",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 94,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 386,
+          "abbreviation": "JBMLE",
+          "local_abbreviation": "JBMLE",
+          "title": "Judson Bible",
+          "local_title": "Judson Bible",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "my",
+            "iso_639_3": "mya",
+            "name": "Myanmar Burmese (Unicode)",
+            "local_name": "မြန်မာယူနီကုတ်",
+            "text_direction": "ltr",
+            "language_tag": "mya",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 94,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 22,
+          "vrs": null
+        },
+        {
+          "id": 3926,
+          "abbreviation": "JBMLE",
+          "local_abbreviation": "JBMLE",
+          "title": "Gospel Judson Bible Revision",
+          "local_title": "မြန်မာ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "my",
+            "iso_639_3": "mya",
+            "name": "Myanmar Burmese (Unicode)",
+            "local_name": "မြန်မာယူနီကုတ်",
+            "text_direction": "ltr",
+            "language_tag": "mya",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 94,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": null
+        },
+        {
+          "id": 1391,
+          "abbreviation": "MSBU",
+          "local_abbreviation": "MSBU",
+          "title": "Myanmar Standard Bible (Unicode)",
+          "local_title": "မြန်​​​မာ့​​​စံ​​​မီ​​​သမ္မာ​​​ကျမ်း​​",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "my",
+            "iso_639_3": "mya",
+            "name": "Myanmar Burmese (Unicode)",
+            "local_name": "မြန်မာယူနီကုတ်",
+            "text_direction": "ltr",
+            "language_tag": "mya",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 251,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 6,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

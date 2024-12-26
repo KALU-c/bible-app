@@ -1,0 +1,434 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2645,
+          "abbreviation": "A21",
+          "local_abbreviation": "A21",
+          "title": "Almeida 21 Bible Portuguese BR language",
+          "local_title": "Biblia Almeida Século 21",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Brazil)",
+            "local_name": "Português (Brasil)",
+            "text_direction": "ltr",
+            "language_tag": "por",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 746,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 1608,
+          "abbreviation": "ARA",
+          "local_abbreviation": "ARA",
+          "title": "Almeida Revised and Updated",
+          "local_title": "Almeida Revista e Atualizada",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Brazil)",
+            "local_name": "Português (Brasil)",
+            "text_direction": "ltr",
+            "language_tag": "por",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 273,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        },
+        {
+          "id": 3407,
+          "abbreviation": "ARC",
+          "local_abbreviation": "ARC",
+          "title": "Translation of João Ferreira de Almeida, Revised and corrected (Portugal)",
+          "local_title": "Almeida Revista e Corrigida (Portugal)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Brazil)",
+            "local_name": "Português (Brasil)",
+            "text_direction": "ltr",
+            "language_tag": "por",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 71,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        },
+        {
+          "id": 212,
+          "abbreviation": "ARC",
+          "local_abbreviation": "ARC",
+          "title": "Almeida Revista e Corrigida",
+          "local_title": "Almeida Revista e Corrigida",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Brazil)",
+            "local_name": "Português (Brasil)",
+            "text_direction": "ltr",
+            "language_tag": "por",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 273,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 27,
+          "vrs": "eng"
+        },
+        {
+          "id": 3254,
+          "abbreviation": "BLT",
+          "local_abbreviation": "BLT",
+          "title": "Biblia Livre Para Todos",
+          "local_title": "Biblia Livre Para Todos",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Brazil)",
+            "local_name": "Português (Brasil)",
+            "text_direction": "ltr",
+            "language_tag": "por",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 316,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 4094,
+          "abbreviation": "mzNVI",
+          "local_abbreviation": "mzNVI",
+          "title": "Nova Versão Internacional (Mozambique) 2024",
+          "local_title": "Nova Versão Internacional, Português de Moçambique",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Brazil)",
+            "local_name": "Português (Brasil)",
+            "text_direction": "ltr",
+            "language_tag": "por",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 1840,
+          "abbreviation": "NAA",
+          "local_abbreviation": "NAA",
+          "title": "New Almeida Updated",
+          "local_title": "Nova Almeida Atualizada",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Brazil)",
+            "local_name": "Português (Brasil)",
+            "text_direction": "ltr",
+            "language_tag": "por",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 273,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "eng"
+        },
+        {
+          "id": 1966,
+          "abbreviation": "NBV-P",
+          "local_abbreviation": "NBV-P",
+          "title": "Brazilian Portuguese: New Living Bible",
+          "local_title": "Nova Bíblia Viva Português",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Brazil)",
+            "local_name": "Português (Brasil)",
+            "text_direction": "ltr",
+            "language_tag": "por",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 211,
+          "abbreviation": "NTLH",
+          "local_abbreviation": "NTLH",
+          "title": "New Translation on Todays Language",
+          "local_title": "Nova Tradução na Linguagem de Hoje",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Brazil)",
+            "local_name": "Português (Brasil)",
+            "text_direction": "ltr",
+            "language_tag": "por",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 273,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 29,
+          "vrs": "eng"
+        },
+        {
+          "id": 129,
+          "abbreviation": "NVI",
+          "local_abbreviation": "NVI",
+          "title": "Nova Versão Internacional - Português",
+          "local_title": "Nova Versão Internacional - Português",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Brazil)",
+            "local_name": "Português (Brasil)",
+            "text_direction": "ltr",
+            "language_tag": "por",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 36,
+          "vrs": "eng"
+        },
+        {
+          "id": 1930,
+          "abbreviation": "NVT",
+          "local_abbreviation": "NVT",
+          "title": "Bíblia Sagrada, Nova Versão Transformadora",
+          "local_title": "Bíblia Sagrada, Nova Versão Transformadora",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Brazil)",
+            "local_name": "Português (Brasil)",
+            "text_direction": "ltr",
+            "language_tag": "por",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 860,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        },
+        {
+          "id": 3658,
+          "abbreviation": "RC60DO",
+          "local_abbreviation": "RC60DO",
+          "title": "Portuguese Bible Old Orthography",
+          "local_title": "Portuguese Bible Old Orthography",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Brazil)",
+            "local_name": "Português (Brasil)",
+            "text_direction": "ltr",
+            "language_tag": "por",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 273,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "eng"
+        },
+        {
+          "id": 277,
+          "abbreviation": "TB",
+          "local_abbreviation": "TB",
+          "title": "Tradução Brasileira",
+          "local_title": "Tradução Brasileira",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Brazil)",
+            "local_name": "Português (Brasil)",
+            "text_direction": "ltr",
+            "language_tag": "por",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 273,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 22,
+          "vrs": "eng"
+        },
+        {
+          "id": 200,
+          "abbreviation": "VFL",
+          "local_abbreviation": "VFL",
+          "title": "Holy Bible: Easy-to-Read Translation",
+          "local_title": "Bíblia Sagrada: Versão Fácil de Ler",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "pt",
+            "iso_639_3": "por",
+            "name": "Portuguese (Brazil)",
+            "local_name": "Português (Brasil)",
+            "text_direction": "ltr",
+            "language_tag": "por",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 28,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 14,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

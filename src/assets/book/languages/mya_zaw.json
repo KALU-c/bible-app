@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2760,
+          "abbreviation": "JBZV",
+          "local_abbreviation": "JBZV",
+          "title": "Judson Bible in Zawgyi Version",
+          "local_title": "Judson Bible in Zawgyi Version",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "my",
+            "iso_639_3": "mya",
+            "name": "Myanmar Burmese (Zawgyi)",
+            "local_name": "ျမန္မာေဇာ္ဂ်ီ",
+            "text_direction": "ltr",
+            "language_tag": "mya_zaw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 94,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 2649,
+          "abbreviation": "MCLZV",
+          "local_abbreviation": "MCLZV",
+          "title": "Myanmar Common Language Zawgyi Version",
+          "local_title": "Myanmar Common Language Zawgyi Version",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "my",
+            "iso_639_3": "mya",
+            "name": "Myanmar Burmese (Zawgyi)",
+            "local_name": "ျမန္မာေဇာ္ဂ်ီ",
+            "text_direction": "ltr",
+            "language_tag": "mya_zaw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 94,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 1459,
+          "abbreviation": "MSBZ",
+          "local_abbreviation": "MSBZ",
+          "title": "Myanmar Standard Bible (Zawgyi)",
+          "local_title": "ျမန္​မာ့​စံ​မီ​သမၼာ​က်မ္",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "my",
+            "iso_639_3": "mya",
+            "name": "Myanmar Burmese (Zawgyi)",
+            "local_name": "ျမန္မာေဇာ္ဂ်ီ",
+            "text_direction": "ltr",
+            "language_tag": "mya_zaw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 251,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 19,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

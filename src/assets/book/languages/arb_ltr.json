@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3869,
+          "abbreviation": "BB3arabe",
+          "local_abbreviation": "BB3arabe",
+          "title": "Bible bil 3arabe - The Bible in Lebanese dialect written in Latin alphabet",
+          "local_title": "Bible bil 3arabe App",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "arb",
+            "name": "Arabic (Latin)",
+            "local_name": "العربية",
+            "text_direction": "ltr",
+            "language_tag": "arb_ltr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 274,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

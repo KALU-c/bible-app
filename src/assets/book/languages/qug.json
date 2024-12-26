@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 98,
+          "abbreviation": "MTDS",
+          "local_abbreviation": "MTDS",
+          "title": "Mushuj Testamento Diospaj Shimi (Quichua-Chimborazo New Testament)",
+          "local_title": "Mushuj Testamento Diospaj Shimi",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "qug",
+            "name": "Chimborazo Highland Quichua",
+            "local_name": "Kichwa: Chaupi urcucuna",
+            "text_direction": "ltr",
+            "language_tag": "qug",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 27,
+          "vrs": "eng"
+        },
+        {
+          "id": 262,
+          "abbreviation": "QCHI04",
+          "local_abbreviation": "QCHI04",
+          "title": "Quichua Chimborazo Bible",
+          "local_title": "Dios Rimashca Shimicunami",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "qug",
+            "name": "Chimborazo Highland Quichua",
+            "local_name": "Kichwa: Chaupi urcucuna",
+            "text_direction": "ltr",
+            "language_tag": "qug",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 22,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1705,
+          "abbreviation": "bzi",
+          "local_abbreviation": "bzi",
+          "title": "Bisu New Testament",
+          "local_title": "จี่วีดม้าม้า พระคัมภีร์ อางซื่อ บี่ซู่ ต่าง",
+          "audio": true,
+          "audio_count": 3,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bzi",
+            "name": "Bisu",
+            "local_name": "Bisu",
+            "text_direction": "ltr",
+            "language_tag": "bzi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

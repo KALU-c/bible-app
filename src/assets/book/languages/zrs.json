@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2924,
+          "abbreviation": "zrs",
+          "local_abbreviation": "zrs",
+          "title": "Mairasi New Testament",
+          "local_title": "Enggavoter Fariri Teai Ao",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "zrs",
+            "name": "Mairasi",
+            "local_name": "Mairasi",
+            "text_direction": "ltr",
+            "language_tag": "zrs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "lxx"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

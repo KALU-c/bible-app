@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 20,
+          "abbreviation": "BDAN",
+          "local_abbreviation": "BPH",
+          "title": "Bibelen på Hverdagsdansk (The Bible in Everyday Danish)",
+          "local_title": "Bibelen på Hverdagsdansk",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "da",
+            "iso_639_3": "dan",
+            "name": "Danish",
+            "local_name": "Dansk",
+            "text_direction": "ltr",
+            "language_tag": "dan",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 32,
+          "vrs": "org"
+        },
+        {
+          "id": 49,
+          "abbreviation": "DA1871",
+          "local_abbreviation": "DA1871",
+          "title": "Danske Bibel 1871/1907",
+          "local_title": "Danske Bibel 1871/1907",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "da",
+            "iso_639_3": "dan",
+            "name": "Danish",
+            "local_name": "Dansk",
+            "text_direction": "ltr",
+            "language_tag": "dan",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 19,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

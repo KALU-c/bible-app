@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1444,
+          "abbreviation": "BKJ",
+          "local_abbreviation": "BKJ",
+          "title": "Bible of King James",
+          "local_title": "Biblija kralja Jakova",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "hr",
+            "iso_639_3": "hrv",
+            "name": "Croatian",
+            "local_name": "Hrvatski",
+            "text_direction": "ltr",
+            "language_tag": "hrv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 256,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 39,
+          "abbreviation": "KOK",
+          "local_abbreviation": "KOK",
+          "title": "Croatian Living New Testament 2000",
+          "local_title": "Knjiga O Kristu",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "hr",
+            "iso_639_3": "hrv",
+            "name": "Croatian",
+            "local_name": "Hrvatski",
+            "text_direction": "ltr",
+            "language_tag": "hrv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 25,
+          "vrs": "eng"
+        },
+        {
+          "id": 2475,
+          "abbreviation": "SHP",
+          "local_abbreviation": "SHP",
+          "title": "Holy Bible: Easy-to-Read Translation",
+          "local_title": "Biblija: suvremeni hrvatski prijevod",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "hr",
+            "iso_639_3": "hrv",
+            "name": "Croatian",
+            "local_name": "Hrvatski",
+            "text_direction": "ltr",
+            "language_tag": "hrv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

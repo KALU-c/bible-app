@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 515,
+          "abbreviation": "AGR",
+          "local_abbreviation": "AGR",
+          "title": "Awajún: Apajuí chichame pegkejam Old Testament Portions and New Testament",
+          "local_title": "Awajún: Apajuí chichame pegkejam Porciones del Antiguo Testamento y el Nuevo Testamento",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "agr",
+            "name": "Aguaruna",
+            "local_name": "Aguaruna",
+            "text_direction": "ltr",
+            "language_tag": "agr",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

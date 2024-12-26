@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1304,
+          "abbreviation": "TANT2022",
+          "local_abbreviation": "بالتونسي",
+          "title": "Tunisian Arabic New Testament",
+          "local_title": "العهد الجديد بالدارجة التونسية 2022",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "aeb",
+            "name": "Tunisian Arabic",
+            "local_name": "العربية التونسية",
+            "text_direction": "rtl",
+            "language_tag": "aeb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

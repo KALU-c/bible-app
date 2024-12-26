@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3119,
+          "abbreviation": "kml",
+          "local_abbreviation": "kml",
+          "title": "Mangali Kalinga NT",
+          "local_title": "Sa Ugud Apudyus",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kml",
+            "name": "Kalinga, Tanudan",
+            "local_name": "Mangali (Minangali)",
+            "text_direction": "ltr",
+            "language_tag": "kml",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 864,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

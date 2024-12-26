@@ -1,0 +1,284 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 949,
+          "abbreviation": "cak",
+          "local_abbreviation": "cak",
+          "title": "Kaqchikel South Central NT",
+          "local_title": "GT:cak:Kaqchikel",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cak",
+            "name": "Kaqchikel",
+            "local_name": "Kakchikel",
+            "text_direction": "ltr",
+            "language_tag": "cak",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "eng"
+        },
+        {
+          "id": 530,
+          "abbreviation": "cak",
+          "local_abbreviation": "cakC",
+          "title": "Kaqchikel, Central Guatemala",
+          "local_title": "Kaqchikel, Central Guatemala",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cak",
+            "name": "Kaqchikel",
+            "local_name": "Kakchikel",
+            "text_direction": "ltr",
+            "language_tag": "cak",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        },
+        {
+          "id": 572,
+          "abbreviation": "cak",
+          "local_abbreviation": "cakE",
+          "title": "Kaqchikel, Eastern",
+          "local_title": "Kaqchikel, Eastern",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cak",
+            "name": "Kaqchikel",
+            "local_name": "Kakchikel",
+            "text_direction": "ltr",
+            "language_tag": "cak",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        },
+        {
+          "id": 216,
+          "abbreviation": "cakSMJ",
+          "local_abbreviation": "cakSMJ",
+          "title": "Kaqchikel, Santa Maria de Jesus",
+          "local_title": "Kaqchikel, Santa Maria de Jesus",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cak",
+            "name": "Kaqchikel",
+            "local_name": "Kakchikel",
+            "text_direction": "ltr",
+            "language_tag": "cak",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 31,
+          "vrs": "eng"
+        },
+        {
+          "id": 902,
+          "abbreviation": "cak",
+          "local_abbreviation": "cakSS",
+          "title": "Kakchikel, Southern",
+          "local_title": "Kakchikel, Southern",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cak",
+            "name": "Kaqchikel",
+            "local_name": "Kakchikel",
+            "text_direction": "ltr",
+            "language_tag": "cak",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        },
+        {
+          "id": 570,
+          "abbreviation": "cak",
+          "local_abbreviation": "cakWS",
+          "title": "Kaqchikel, Western Solola",
+          "local_title": "Kaqchikel, Western Solola",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cak",
+            "name": "Kaqchikel",
+            "local_name": "Kakchikel",
+            "text_direction": "ltr",
+            "language_tag": "cak",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "eng"
+        },
+        {
+          "id": 1519,
+          "abbreviation": "cak",
+          "local_abbreviation": "cakX",
+          "title": "Kaqchikel, Santo Domingo Xenacoj",
+          "local_title": "Kaqchikel, Santo Domingo (Xenacoj)",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cak",
+            "name": "Kaqchikel",
+            "local_name": "Kakchikel",
+            "text_direction": "ltr",
+            "language_tag": "cak",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 531,
+          "abbreviation": "cakY",
+          "local_abbreviation": "cakY",
+          "title": "Kaqchikel, South Western",
+          "local_title": "Re C'ac'a Testamento pa Kach'abal",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cak",
+            "name": "Kaqchikel",
+            "local_name": "Kakchikel",
+            "text_direction": "ltr",
+            "language_tag": "cak",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        },
+        {
+          "id": 489,
+          "abbreviation": "KQC",
+          "local_abbreviation": "KQC",
+          "title": "Kaqchiquel Bible",
+          "local_title": "Kaqchiquel Bible",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "cak",
+            "name": "Kaqchikel",
+            "local_name": "Kakchikel",
+            "text_direction": "ltr",
+            "language_tag": "cak",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 152,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 9,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

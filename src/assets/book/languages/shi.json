@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3161,
+          "abbreviation": "SHILNT10",
+          "local_abbreviation": "SHILNT10",
+          "title": "New Testament in Tashelhayt (Latin script)",
+          "local_title": "aåaras n-tudrt - injil l-lmasiæ - løhd l-ljdid lli-iskr rbbi å-gras d-bnadm",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "shi",
+            "name": "Tachelhit",
+            "local_name": "Tachelhit",
+            "text_direction": "ltr",
+            "language_tag": "shi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 168,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        },
+        {
+          "id": 3162,
+          "abbreviation": "SHILOT20",
+          "local_abbreviation": "SHILOT20",
+          "title": "Selected Old Testament in Tashelhayt (Latin script)",
+          "local_title": "ssfjjijat f-mddn-inu - arratn imñlayn zå-løhd aqdim lli-iskr rbbi å-gras d-mddn-ns",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "shi",
+            "name": "Tachelhit",
+            "local_name": "Tachelhit",
+            "text_direction": "ltr",
+            "language_tag": "shi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 168,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": null
+        },
+        {
+          "id": 4058,
+          "abbreviation": "SHINT10",
+          "local_abbreviation": "SHINT10",
+          "title": "New Testament in Tashelhayt (Arabic)",
+          "local_title": "اغاراس ن-تودرت - ءينجيل لّماسيح - لعهد لّجديد لّي-يسكر ربّي غ-گراس د-بنادم",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "shi",
+            "name": "Tachelhit",
+            "local_name": "Tachelhit",
+            "text_direction": "ltr",
+            "language_tag": "shi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 168,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

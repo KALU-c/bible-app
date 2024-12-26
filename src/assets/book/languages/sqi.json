@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3631,
+          "abbreviation": "AL",
+          "local_abbreviation": "AL",
+          "title": "Interconfessional Albanian Bible – 2020 (66 books)",
+          "local_title": "Bibla Shqip \"Së bashku\" 2020",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "sq",
+            "iso_639_3": "sqi",
+            "name": "Albanian (Standard)",
+            "local_name": "Shqip",
+            "text_direction": "ltr",
+            "language_tag": "sqi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 290,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "org"
+        },
+        {
+          "id": 292,
+          "abbreviation": "AL1",
+          "local_abbreviation": "AL1",
+          "title": "Interconfessional Albanian Bible – 2020 (with DC)",
+          "local_title": "Bibla Shqip \"Së bashku\" 2020 (me DK)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "sq",
+            "iso_639_3": "sqi",
+            "name": "Albanian (Standard)",
+            "local_name": "Shqip",
+            "text_direction": "ltr",
+            "language_tag": "sqi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 290,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 36,
+          "vrs": "org"
+        },
+        {
+          "id": 7,
+          "abbreviation": "ALBB",
+          "local_abbreviation": "ALBB",
+          "title": "Albanian Bible 1994",
+          "local_title": "Bibla Shqip 1994",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sq",
+            "iso_639_3": "sqi",
+            "name": "Albanian (Standard)",
+            "local_name": "Shqip",
+            "text_direction": "ltr",
+            "language_tag": "sqi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 27,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

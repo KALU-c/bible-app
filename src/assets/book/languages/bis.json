@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1923,
+          "abbreviation": "BBR",
+          "local_abbreviation": "BBR",
+          "title": "Bislama Bible Revised 2012",
+          "local_title": "Baebol Long Bislama",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "bi",
+            "iso_639_3": "bis",
+            "name": "Bislama",
+            "local_name": "Bislama",
+            "text_direction": "ltr",
+            "language_tag": "bis",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 301,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

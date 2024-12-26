@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 372,
+          "abbreviation": "ONDB",
+          "local_abbreviation": "ONDB",
+          "title": "Oshindonga Bible",
+          "local_title": "Ombiimbeli Ondjapuki",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ng",
+            "iso_639_3": "ndo",
+            "name": "Ndonga",
+            "local_name": "OshiNdonga",
+            "text_direction": "ltr",
+            "language_tag": "ndo",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 102,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 23,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

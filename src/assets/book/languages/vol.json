@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2056,
+          "abbreviation": "VOL",
+          "local_abbreviation": "VOL",
+          "title": "Volapuk First Epistle of John 1888",
+          "local_title": "Pened balid Yoliánesà 1888",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "vo",
+            "iso_639_3": "vol",
+            "name": "Volapük",
+            "local_name": "Volapük",
+            "text_direction": "ltr",
+            "language_tag": "vol",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

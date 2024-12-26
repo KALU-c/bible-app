@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2666,
+          "abbreviation": "BBE",
+          "local_abbreviation": "BBE",
+          "title": "BARI BIBLE 1979",
+          "local_title": "Bibilia, Buk na Ŋun nagon koti luŋu a",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "bfa",
+            "name": "Bari",
+            "local_name": "Kutuk",
+            "text_direction": "ltr",
+            "language_tag": "bfa",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 322,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

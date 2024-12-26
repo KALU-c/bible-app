@@ -1,0 +1,464 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 74,
+          "abbreviation": "BHN",
+          "local_abbreviation": "BHN",
+          "title": "Swahili, Common Language Bible",
+          "local_title": "Biblia Habari Njema",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "sw",
+            "iso_639_3": "swh",
+            "name": "Swahili",
+            "local_name": "Kiswahili",
+            "text_direction": "ltr",
+            "language_tag": "swh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 268,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 26,
+          "vrs": "eng"
+        },
+        {
+          "id": 393,
+          "abbreviation": "BHND",
+          "local_abbreviation": "BHND",
+          "title": "Swahili, Common Language Bible with DCs",
+          "local_title": "Biblia Habari Njema",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "sw",
+            "iso_639_3": "swh",
+            "name": "Swahili",
+            "local_name": "Kiswahili",
+            "text_direction": "ltr",
+            "language_tag": "swh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 268,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 20,
+          "vrs": "eng"
+        },
+        {
+          "id": 2144,
+          "abbreviation": "BHNTLK",
+          "local_abbreviation": "BHNTLK",
+          "title": "Kiswahili Study Bible",
+          "local_title": "Biblia Habari Njema: Toleo la Kujifunza",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "sw",
+            "iso_639_3": "swh",
+            "name": "Swahili",
+            "local_name": "Kiswahili",
+            "text_direction": "ltr",
+            "language_tag": "swh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 268,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 1627,
+          "abbreviation": "NEN",
+          "local_abbreviation": "NEN",
+          "title": "Kiswahili Contemporary Version 2015",
+          "local_title": "Neno: Bibilia Takatifu",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "sw",
+            "iso_639_3": "swh",
+            "name": "Swahili",
+            "local_name": "Kiswahili",
+            "text_direction": "ltr",
+            "language_tag": "swh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        },
+        {
+          "id": 2729,
+          "abbreviation": "NMM24",
+          "local_abbreviation": "NENO",
+          "title": "Kiswahili Contemporary Scriptures 2024",
+          "local_title": "Neno: Maandiko Matakatifu 2024",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sw",
+            "iso_639_3": "swh",
+            "name": "Swahili",
+            "local_name": "Kiswahili",
+            "text_direction": "ltr",
+            "language_tag": "swh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 4098,
+          "abbreviation": "NMM",
+          "local_abbreviation": "NMM",
+          "title": "Kiswahili Contemporary Scriptures",
+          "local_title": "Neno: Maandiko Matakatifu",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sw",
+            "iso_639_3": "swh",
+            "name": "Swahili",
+            "local_name": "Kiswahili",
+            "text_direction": "ltr",
+            "language_tag": "swh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        },
+        {
+          "id": 4107,
+          "abbreviation": "ONMM24",
+          "local_abbreviation": "ONMM",
+          "title": "Biblica® Open Kiswahili Contemporary Scriptures 2024",
+          "local_title": "Biblica® Toleo Wazi Neno: Maandiko Matakatifu 2024",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sw",
+            "iso_639_3": "swh",
+            "name": "Swahili",
+            "local_name": "Kiswahili",
+            "text_direction": "ltr",
+            "language_tag": "swh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        },
+        {
+          "id": 2937,
+          "abbreviation": "RSUVDC",
+          "local_abbreviation": "RSUVDC",
+          "title": "Bible in Kiswahili, Revised Union Version 2013",
+          "local_title": "BIBLIA KISWAHILI",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sw",
+            "iso_639_3": "swh",
+            "name": "Swahili",
+            "local_name": "Kiswahili",
+            "text_direction": "ltr",
+            "language_tag": "swh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 268,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 2936,
+          "abbreviation": "SCLDC10",
+          "local_abbreviation": "SCLDC10",
+          "title": "Swahili Common Language DC Bible",
+          "local_title": "BIBLIA Yenye Vitabu vya Deuterokanoni HABARI NJEMA",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sw",
+            "iso_639_3": "swh",
+            "name": "Swahili",
+            "local_name": "Kiswahili",
+            "text_direction": "ltr",
+            "language_tag": "swh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 268,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 3049,
+          "abbreviation": "SRB37",
+          "local_abbreviation": "SRB37",
+          "title": "Swahili Roehl Bible 1937",
+          "local_title": "Swahili Roehl Bible 1937",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sw",
+            "iso_639_3": "swh",
+            "name": "Swahili",
+            "local_name": "Kiswahili",
+            "text_direction": "ltr",
+            "language_tag": "swh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 268,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 1818,
+          "abbreviation": "SRUV",
+          "local_abbreviation": "SRUV",
+          "title": "Swahili Revised Union Version",
+          "local_title": "Swahili Revised Union Version",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sw",
+            "iso_639_3": "swh",
+            "name": "Swahili",
+            "local_name": "Kiswahili",
+            "text_direction": "ltr",
+            "language_tag": "swh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        },
+        {
+          "id": 1817,
+          "abbreviation": "SRUVDC",
+          "local_abbreviation": "SRUVDC",
+          "title": "Swahili Revised Union Version",
+          "local_title": "Swahili Revised Union Version",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sw",
+            "iso_639_3": "swh",
+            "name": "Swahili",
+            "local_name": "Kiswahili",
+            "text_direction": "ltr",
+            "language_tag": "swh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        },
+        {
+          "id": 164,
+          "abbreviation": "SUV",
+          "local_abbreviation": "SUV",
+          "title": "Swahili Union Version Bible",
+          "local_title": "Maandiko Matakatifu ya Mungu Yaitwayo Biblia",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "sw",
+            "iso_639_3": "swh",
+            "name": "Swahili",
+            "local_name": "Kiswahili",
+            "text_direction": "ltr",
+            "language_tag": "swh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 268,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 32,
+          "vrs": "eng"
+        },
+        {
+          "id": 3048,
+          "abbreviation": "SWZZB1921",
+          "local_abbreviation": "SWZZB1921",
+          "title": "New Testament in Swahili (Zanzibar) Revised Edition 1921",
+          "local_title": "New Testament in Swahili (Zanzibar) Revised Edition 1921",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sw",
+            "iso_639_3": "swh",
+            "name": "Swahili",
+            "local_name": "Kiswahili",
+            "text_direction": "ltr",
+            "language_tag": "swh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 268,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 2484,
+          "abbreviation": "TKU",
+          "local_abbreviation": "TKU",
+          "title": "New Testament: Easy-to-Read Translation",
+          "local_title": "Agano Jipya: Tafsiri ya Kusoma-Kwa-Urahisi",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "sw",
+            "iso_639_3": "swh",
+            "name": "Swahili",
+            "local_name": "Kiswahili",
+            "text_direction": "ltr",
+            "language_tag": "swh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 15,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

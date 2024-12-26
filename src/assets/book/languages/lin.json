@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1964,
+          "abbreviation": "LCV",
+          "local_abbreviation": "MNB",
+          "title": "Lingala Contemporary Version 2020",
+          "local_title": "Mokanda na Bomoi",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "ln",
+            "iso_639_3": "lin",
+            "name": "Lingala",
+            "local_name": "Lingala",
+            "text_direction": "ltr",
+            "language_tag": "lin",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

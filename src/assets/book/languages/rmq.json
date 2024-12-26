@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1412,
+          "abbreviation": "CALO1837",
+          "local_abbreviation": "CALO1837",
+          "title": "Caló Gospel of Luke 1837",
+          "local_title": "Embéo e Majaró Lucas 1837 (Caló)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmq",
+            "name": "Romani: Calo (Iberia)",
+            "local_name": "Romaní: Caló (Iberia)",
+            "text_direction": "ltr",
+            "language_tag": "rmq",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 19,
+          "vrs": null
+        },
+        {
+          "id": 1592,
+          "abbreviation": "CALO1872",
+          "local_abbreviation": "CALO1872",
+          "title": "Calo Gospel of Luke 1872",
+          "local_title": "Criscote e Majaró Lucas 1872 (Caló)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "rmq",
+            "name": "Romani: Calo (Iberia)",
+            "local_name": "Romaní: Caló (Iberia)",
+            "text_direction": "ltr",
+            "language_tag": "rmq",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

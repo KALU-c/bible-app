@@ -1,0 +1,134 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2353,
+          "abbreviation": "QU055PDTI",
+          "local_abbreviation": "DQDC",
+          "title": "Revision Biblia en Quechua Boliviano con DC",
+          "local_title": "DIOSPA QHELQACHISQAN DEUTEROCANONICAL",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "quh",
+            "name": "South Bolivian Quechua",
+            "local_name": "Uralan Buliwya runasimi",
+            "text_direction": "ltr",
+            "language_tag": "quh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 72,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 2354,
+          "abbreviation": "QU055PTI",
+          "local_abbreviation": "DQPC",
+          "title": "Revision Biblia en Quechua Boliviano",
+          "local_title": "DIOSPA QHELQACHISQ",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "quh",
+            "name": "South Bolivian Quechua",
+            "local_name": "Uralan Buliwya runasimi",
+            "text_direction": "ltr",
+            "language_tag": "quh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 72,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 2249,
+          "abbreviation": "QCHSB",
+          "local_abbreviation": "QCHSB",
+          "title": "Quechua Bolivia DC Bible",
+          "local_title": "Qheshwa Biblia DC",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "quh",
+            "name": "South Bolivian Quechua",
+            "local_name": "Uralan Buliwya runasimi",
+            "text_direction": "ltr",
+            "language_tag": "quh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 30,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 649,
+          "abbreviation": "quh",
+          "local_abbreviation": "quh",
+          "title": "Quechua, South Bolivia NT",
+          "local_title": "Quechua, South Bolivia: Dios Parlapawanchej",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "quh",
+            "name": "South Bolivian Quechua",
+            "local_name": "Uralan Buliwya runasimi",
+            "text_direction": "ltr",
+            "language_tag": "quh",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 4,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

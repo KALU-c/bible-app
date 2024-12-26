@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2202,
+          "abbreviation": "GEO02",
+          "local_abbreviation": "GEO02",
+          "title": "Georgian Bible with DC",
+          "local_title": "ბიბლია",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ka",
+            "iso_639_3": "kat",
+            "name": "Georgian",
+            "local_name": "ქართული",
+            "text_direction": "ltr",
+            "language_tag": "kat",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 323,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "rsc"
+        },
+        {
+          "id": 2368,
+          "abbreviation": "SBS",
+          "local_abbreviation": "სბს",
+          "title": "Standard Georgian Bible 2013  (with Deuterocanon)",
+          "local_title": "ბიბლია",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ka",
+            "iso_639_3": "kat",
+            "name": "Georgian",
+            "local_name": "ქართული",
+            "text_direction": "ltr",
+            "language_tag": "kat",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 342,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "rsc"
+        },
+        {
+          "id": 2369,
+          "abbreviation": "GB",
+          "local_abbreviation": "ქბსვ",
+          "title": "Bible",
+          "local_title": "ქართული ბიბლია, სრული ვერსია",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ka",
+            "iso_639_3": "kat",
+            "name": "Georgian",
+            "local_name": "ქართული",
+            "text_direction": "ltr",
+            "language_tag": "kat",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 342,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "rsc"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

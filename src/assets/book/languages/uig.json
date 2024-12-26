@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 453,
+          "abbreviation": "HZUT",
+          "local_abbreviation": "HZUT",
+          "title": "ھازىرقى زامان ئۇيغۇرچە تەرجىمىسى",
+          "local_title": "ھازىرقى زامان ئۇيغۇرچە تەرجىمىسى",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "ug",
+            "iso_639_3": "uig",
+            "name": "Uyghur",
+            "local_name": "ئۇيغۇر تىلى‎",
+            "text_direction": "rtl",
+            "language_tag": "uig",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 144,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

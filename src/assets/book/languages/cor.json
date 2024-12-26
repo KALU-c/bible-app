@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1079,
+          "abbreviation": "ABK",
+          "local_abbreviation": "ABK",
+          "title": "Cornish Bible 2024 (Kernewek Kemmyn)",
+          "local_title": "An Bibel Kernewek 20234 (Kernewek Kemmyn)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "kw",
+            "iso_639_3": "cor",
+            "name": "Cornish",
+            "local_name": "Kernewek",
+            "text_direction": "ltr",
+            "language_tag": "cor",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 27,
+          "vrs": "eng"
+        },
+        {
+          "id": 1704,
+          "abbreviation": "ASK",
+          "local_abbreviation": "ASK",
+          "title": "Cornish Psalter (liturgical) 1997, 2023",
+          "local_title": "An Sowter 1997, 2023",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "kw",
+            "iso_639_3": "cor",
+            "name": "Cornish",
+            "local_name": "Kernewek",
+            "text_direction": "ltr",
+            "language_tag": "cor",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

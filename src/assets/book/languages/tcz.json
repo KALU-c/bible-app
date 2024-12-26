@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1879,
+          "abbreviation": "THADBSI",
+          "local_abbreviation": "THADBSI",
+          "title": "Thadou Kuki CL (Re-edited) Bible (BSI)",
+          "local_title": "Pathen Thutheng BU (BSI)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tcz",
+            "name": "Thado Chin",
+            "local_name": "Thadou Kuki",
+            "text_direction": "ltr",
+            "language_tag": "tcz",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 97,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

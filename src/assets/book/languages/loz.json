@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 825,
+          "abbreviation": "Lozi09",
+          "local_abbreviation": "Lozi09",
+          "title": "Lozi Bible 2009",
+          "local_title": "Bibele ye Kenile (Catholic Edition)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "loz",
+            "name": "Lozi",
+            "local_name": "Lozi",
+            "text_direction": "ltr",
+            "language_tag": "loz",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 165,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

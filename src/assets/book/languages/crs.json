@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1053,
+          "abbreviation": "BSK",
+          "local_abbreviation": "BSK",
+          "title": "Bible in Seychelles Kreol with Deuterocanonical Books",
+          "local_title": "Labib An Kreol Seselwa",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "crs",
+            "name": "Seselwa Creole French",
+            "local_name": "Seselwa Creole French",
+            "text_direction": "ltr",
+            "language_tag": "crs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 211,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        },
+        {
+          "id": 1054,
+          "abbreviation": "BSK",
+          "local_abbreviation": "BSK",
+          "title": "Bible in Seychelles Kreol",
+          "local_title": "Labib An Kreol Seselwa",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "crs",
+            "name": "Seselwa Creole French",
+            "local_name": "Seselwa Creole French",
+            "text_direction": "ltr",
+            "language_tag": "crs",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 211,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

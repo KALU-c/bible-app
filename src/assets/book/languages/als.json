@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1822,
+          "abbreviation": "AL1884",
+          "local_abbreviation": "AL1884",
+          "title": "Old Testament books in Tosk by Konstandin Kristoforidhi 1884 (transliteration from Greek to Latin)",
+          "local_title": "Libra të Dhiatës së Vjetër të përkthyera në dialektin tosk nga Konstandin Kristoforidhi në 1884 (transliterim nga gërmat greke në latine)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "als",
+            "name": "Albanian, Tosk",
+            "local_name": "Shqip: Tosk",
+            "text_direction": "ltr",
+            "language_tag": "als",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 290,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": null
+        },
+        {
+          "id": 1821,
+          "abbreviation": "ALTMK27",
+          "local_abbreviation": "ALTMK27",
+          "title": "Albanian Tosk New Testament 1827",
+          "local_title": "Dhjata e Re 1827",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "als",
+            "name": "Albanian, Tosk",
+            "local_name": "Shqip: Tosk",
+            "text_direction": "ltr",
+            "language_tag": "als",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 290,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "lxx"
+        },
+        {
+          "id": 1825,
+          "abbreviation": "ALPSTO1868",
+          "local_abbreviation": "PSTOKK1868",
+          "title": "Albanian Tosk Psalms Konstandin Kristoforidhi 1868",
+          "local_title": "Psalmet Toskërisht Konstandin Kristoforidhi 1868",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "als",
+            "name": "Albanian, Tosk",
+            "local_name": "Shqip: Tosk",
+            "text_direction": "ltr",
+            "language_tag": "als",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 290,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

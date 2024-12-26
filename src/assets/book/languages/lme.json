@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3304,
+          "abbreviation": "NTP",
+          "local_abbreviation": "KMN",
+          "title": "New Testament and Psalms",
+          "local_title": "Kawvun mə Mbrew kə Nyeme",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "lme",
+            "name": "Pévé",
+            "local_name": "Lamé",
+            "text_direction": "ltr",
+            "language_tag": "lme",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 142,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

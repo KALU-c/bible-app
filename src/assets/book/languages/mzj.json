@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3590,
+          "abbreviation": "MBT2023",
+          "local_abbreviation": "MBT2023",
+          "title": "Manya New Testament",
+          "local_title": "Ala Ya Salatikan Kula Kitabu",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "mzj",
+            "name": "Manya",
+            "local_name": "Manya",
+            "text_direction": "ltr",
+            "language_tag": "mzj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 189,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

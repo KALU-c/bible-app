@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2256,
+          "abbreviation": "gup2018",
+          "local_abbreviation": "gup2018",
+          "title": "God's Word 2018",
+          "local_title": "God Nuye Kunwok 2018",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "gup",
+            "name": "Gunwinggu",
+            "local_name": "Kunwinjku",
+            "text_direction": "ltr",
+            "language_tag": "gup",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 286,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 2869,
+          "abbreviation": "LAILOE",
+          "local_abbreviation": "LAILOE",
+          "title": "The Old and New Testament in Today's Saluan Version",
+          "local_title": "KITAB NU TUMPU ALLA LELE MA'IMAI'",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "loe",
+            "name": "Saluan",
+            "local_name": "Saluan",
+            "text_direction": "ltr",
+            "language_tag": "loe",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

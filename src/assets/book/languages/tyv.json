@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1520,
+          "abbreviation": "TUV",
+          "local_abbreviation": "TUV",
+          "title": "The Bible in the Tuvan Language",
+          "local_title": "Ыдыктыг Библия",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "tyv",
+            "name": "Tuvinian",
+            "local_name": "Тыва дыл",
+            "text_direction": "ltr",
+            "language_tag": "tyv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 300,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "rsc"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

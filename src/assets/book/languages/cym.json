@@ -1,0 +1,884 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4114,
+          "abbreviation": "BCND",
+          "local_abbreviation": "BCND",
+          "title": "Beibl Cymraeg Newydd Diwygiedig yn cynnwys yr Apocryffa (New Welsh Bible Revised including the Apocrypha) 2004",
+          "local_title": "Beibl Cymraeg Newydd Diwygiedig yn cynnwys yr Apocryffa 2004",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        },
+        {
+          "id": 394,
+          "abbreviation": "BCND",
+          "local_abbreviation": "BCND",
+          "title": "Beibl Cymraeg Newydd Diwygiedig 2004",
+          "local_title": "Beibl Cymraeg Newydd Diwygiedig 2004",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 28,
+          "vrs": "eng"
+        },
+        {
+          "id": 221,
+          "abbreviation": "BCNDA",
+          "local_abbreviation": "BCNDA",
+          "title": "Beibl Cymraeg Newydd Diwygiedig yn cynnwys yr Apocryffa 2004",
+          "local_title": "Beibl Cymraeg Newydd Diwygiedig yn cynnwys yr Apocryffa 2004",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 31,
+          "vrs": null
+        },
+        {
+          "id": 329,
+          "abbreviation": "bnet",
+          "local_abbreviation": "bnet",
+          "title": "beibl.net (Welsh Colloquial Bible) 2015, 2024",
+          "local_title": "beibl.net 2015, 2024",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 35,
+          "vrs": "eng"
+        },
+        {
+          "id": 287,
+          "abbreviation": "BWM",
+          "local_abbreviation": "BWM",
+          "title": "William Morgan Bible, Parry Revision, Updated Orthography 1955",
+          "local_title": "Beibl William Morgan - Argraffiad 1955",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 36,
+          "vrs": "eng"
+        },
+        {
+          "id": 3394,
+          "abbreviation": "BWM1955C",
+          "local_abbreviation": "BWM1955C",
+          "title": "Beibl William Morgan - 1955 Edition with cross-references",
+          "local_title": "Beibl William Morgan - Argraffiad 1955  gyda chroesgyfeiriadau",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2101,
+          "abbreviation": "BWMA",
+          "local_abbreviation": "BWMA",
+          "title": "William Morgan Bible with Apocrypha, 1959 Edition",
+          "local_title": "Beibl William Morgan yn cynnwys yr Apocryffa - Argraffiad 1959",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 3563,
+          "abbreviation": "BWMG1588",
+          "local_abbreviation": "BWMG1588",
+          "title": "William Morgan Bible 1588 original edition",
+          "local_title": "Y Beibl Cyssegr-lan 1588 (William Morgan) - Argraffiad gwreiddiol",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 3099,
+          "abbreviation": "CJO",
+          "local_abbreviation": "CJO",
+          "title": "Prophets and Epistles 1852-62 (John Owen)",
+          "local_title": "Proffwydi ac Epistolau 1852-62 (John Owen)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        },
+        {
+          "id": 3183,
+          "abbreviation": "CJW",
+          "local_abbreviation": "CJW",
+          "title": "Yr Oraclau Bywiol - Welsh New Testament by John Williams 1842",
+          "local_title": "Yr Oraclau Bywiol - Testament Newydd 1842 (John Williams)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 2737,
+          "abbreviation": "CTB",
+          "local_abbreviation": "CTB",
+          "title": "Welsh Translation by Thomas Briscoe 1894 (New Testament, Job, Psalms, Proverbs and Isaiah, and selections from Genesis and Exodus)",
+          "local_title": "Cyfieithiad Briscoe 1853-94 (Test. Newydd a rhannau o'r Hen Dest.)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "org"
+        },
+        {
+          "id": 3693,
+          "abbreviation": "CTE",
+          "local_abbreviation": "CTE",
+          "title": "New Testament with Notes by William Edwards 1915",
+          "local_title": "Testament Newydd gyda Nodiadau 1894-1915 (William Edwards)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 3006,
+          "abbreviation": "CUG",
+          "local_abbreviation": "CUG",
+          "title": "University of Wales Guild of Graduates Translation 1945 (NT, Hosea, Amos)",
+          "local_title": "Cyfieithiad Urdd y Graddedigion 1921-45 (T.N., Hosea ac Amos)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 3900,
+          "abbreviation": "DAFIS",
+          "local_abbreviation": "DAFIS",
+          "title": "The Four Gospels 2000 (Lyn Lewis Dafis)  in Pembrokeshire Welsh",
+          "local_title": "Y Beder Ifengyl 2000 (Lyn Lewis Dafis) yn iaith Sir Benfro",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        },
+        {
+          "id": 2588,
+          "abbreviation": "DAW",
+          "local_abbreviation": "DAW",
+          "title": "Duw ar waith (The Good News According to Mark) 1990",
+          "local_title": "Duw ar waith - Y Newyddion da yn ôl Marc 1990",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": null
+        },
+        {
+          "id": 2618,
+          "abbreviation": "FfN",
+          "local_abbreviation": "FfN",
+          "title": "The 4 Gospels in Popular Welsh (Y Ffordd Newydd) 1971",
+          "local_title": "Y Ffordd Newydd  - 4 Efengyl mewn Cymraeg Byw 1971",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": null
+        },
+        {
+          "id": 3071,
+          "abbreviation": "JJCN",
+          "local_abbreviation": "JJCN",
+          "title": "Y Cyfammod Newydd (The 4 Gospels) 1818 by John Jones",
+          "local_title": "Y Cyfammod Newydd - Y Pedair Efengyl 1818 (John Jones)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        },
+        {
+          "id": 3395,
+          "abbreviation": "PBJD",
+          "local_abbreviation": "PBJD",
+          "title": "The Minor Prophets 1881 (John Davies, Ietwen)",
+          "local_title": "Y Proffwydi Byrion 1881 (John Davies, Ietwen)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        },
+        {
+          "id": 3086,
+          "abbreviation": "RDEB",
+          "local_abbreviation": "RDEB",
+          "title": "Pastoral Epistles by Bishop Richard Davies c.1564",
+          "local_title": "Epistolau Bugeiliol c.1564 (Esgob Richard Davies)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        },
+        {
+          "id": 2000,
+          "abbreviation": "SBY1567",
+          "local_abbreviation": "SBY1567",
+          "title": "Welsh New Testament  and Psalms 1567 (William Salesbury)",
+          "local_title": "Testament Newydd a'r Salmau 1567 (William Salesbury)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 20,
+          "vrs": "eng"
+        },
+        {
+          "id": 1363,
+          "abbreviation": "SC",
+          "local_abbreviation": "SC",
+          "title": "Welsh Metrical Psalms 1621 (Edmwnd Prys)",
+          "local_title": "Salmau Cân 1621 (Edmwnd Prys)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": null
+        },
+        {
+          "id": 3960,
+          "abbreviation": "SC1595",
+          "local_abbreviation": "SC1595",
+          "title": "Welsh Metrical Psalms by William Middleton 1595 - Original edition",
+          "local_title": "Psalmæ Dafydh 1595 (William Middleton) - Agraffiad 1603",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": null
+        },
+        {
+          "id": 2590,
+          "abbreviation": "SC1603",
+          "local_abbreviation": "SC1603",
+          "title": "Welsh Metrical Psalms by Edward Kyffin 1603",
+          "local_title": "Salmau Dafydd Broffwyd 1603 (Edward Kyffin)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        },
+        {
+          "id": 3011,
+          "abbreviation": "SC1850",
+          "local_abbreviation": "SC1850",
+          "title": "Welsh Metrical Psalms by Morris Williams 1850",
+          "local_title": "Salmau Cân - Y Psallwyr 1850 (Nicander)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        },
+        {
+          "id": 3012,
+          "abbreviation": "SC1875",
+          "local_abbreviation": "SC1875",
+          "title": "Welsh Metrical Psalms by William Rees 1875",
+          "local_title": "Salmau Cân - Tŵr Dafydd 1875 (Gwilym Hiraethog)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        },
+        {
+          "id": 1364,
+          "abbreviation": "SCN",
+          "local_abbreviation": "SCN",
+          "title": "New Metrical Psalms 2008 (Gwynn ap Gwilym)",
+          "local_title": "Salmau Cân Newydd 2008 (Gwynn ap Gwilym)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 18,
+          "vrs": null
+        },
+        {
+          "id": 2801,
+          "abbreviation": "SLV",
+          "local_abbreviation": "SLV",
+          "title": "Welsh Selection of Psalms by Lewis Valentine 1936",
+          "local_title": "Detholiad o’r Salmau 1936 (Lewis Valentine)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        },
+        {
+          "id": 3009,
+          "abbreviation": "TEGID",
+          "local_abbreviation": "TEGID",
+          "title": "Welsh Psalms 1-20 and selection of Ruth and Isaiah 1830-35 (Ioan Tegid)",
+          "local_title": "Salmau 1-20 a detholiad o Ruth ac Eseia 1830-35 (Ioan Tegid)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": null
+        },
+        {
+          "id": 3343,
+          "abbreviation": "YSEPT",
+          "local_abbreviation": "YSEPT",
+          "title": "Welsh Septuagint, Genesis 1-10:2, 1866 (Evan Andrews)",
+          "local_title": "Y Septuagint, Genesis 1-10:2, 1866 (Evan Andrews)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "cy",
+            "iso_639_3": "cym",
+            "name": "Welsh, Galés",
+            "local_name": "Cymraeg",
+            "text_direction": "ltr",
+            "language_tag": "cym",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 29,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

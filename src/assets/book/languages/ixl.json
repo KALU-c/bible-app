@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1763,
+          "abbreviation": "ixl",
+          "local_abbreviation": "ixlC",
+          "title": "Primera edición del Nuevo Testamento en Ixil de Chajul",
+          "local_title": "VIKAʼV IYOL QUBʼAAL TIUXH quyolbʼalxhtuʼ",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ixl",
+            "name": "Ixil",
+            "local_name": "Ixil",
+            "text_direction": "ltr",
+            "language_tag": "ixl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "eng"
+        },
+        {
+          "id": 608,
+          "abbreviation": "ixlN",
+          "local_abbreviation": "ixlN",
+          "title": "Ixil, Nebaj NT",
+          "local_title": "Ixil Nebaj",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ixl",
+            "name": "Ixil",
+            "local_name": "Ixil",
+            "text_direction": "ltr",
+            "language_tag": "ixl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        },
+        {
+          "id": 247,
+          "abbreviation": "ixl",
+          "local_abbreviation": "ixlSJC",
+          "title": "Ixil, San Juan Cotzal NT",
+          "local_title": "Ixil, San Juan Cotzal",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "ixl",
+            "name": "Ixil",
+            "local_name": "Ixil",
+            "text_direction": "ltr",
+            "language_tag": "ixl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 24,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

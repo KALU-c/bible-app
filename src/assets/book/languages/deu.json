@@ -1,0 +1,374 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 877,
+          "abbreviation": "NeU",
+          "local_abbreviation": "bibel.heute",
+          "title": "bibel heute",
+          "local_title": "bibel heute",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "de",
+            "iso_639_3": "deu",
+            "name": "German",
+            "local_name": "Deutsch",
+            "text_direction": "ltr",
+            "language_tag": "deu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 862,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "org"
+        },
+        {
+          "id": 51,
+          "abbreviation": "DELUT",
+          "local_abbreviation": "DELUT",
+          "title": "Luther Bible 1912",
+          "local_title": "Lutherbibel 1912",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "de",
+            "iso_639_3": "deu",
+            "name": "German",
+            "local_name": "Deutsch",
+            "text_direction": "ltr",
+            "language_tag": "deu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 22,
+          "vrs": "eng"
+        },
+        {
+          "id": 57,
+          "abbreviation": "deuelo",
+          "local_abbreviation": "ELB",
+          "title": "German Unrevised Elberfelder Bible",
+          "local_title": "Darby Unrevidierte Elberfelder",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "de",
+            "iso_639_3": "deu",
+            "name": "German",
+            "local_name": "Deutsch",
+            "text_direction": "ltr",
+            "language_tag": "deu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 253,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        },
+        {
+          "id": 58,
+          "abbreviation": "ELB71",
+          "local_abbreviation": "ELB71",
+          "title": "Elberfelder 1871",
+          "local_title": "Elberfelder 1871",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "de",
+            "iso_639_3": "deu",
+            "name": "German",
+            "local_name": "Deutsch",
+            "text_direction": "ltr",
+            "language_tag": "deu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        },
+        {
+          "id": 2351,
+          "abbreviation": "ELBBK",
+          "local_abbreviation": "ELBBK",
+          "title": "Elberfelder Translation (Version of bibelkommentare.de)",
+          "local_title": "Elberfelder Übersetzung (Version von bibelkommentare.de)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "de",
+            "iso_639_3": "deu",
+            "name": "German",
+            "local_name": "Deutsch",
+            "text_direction": "ltr",
+            "language_tag": "deu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 340,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 8,
+          "vrs": "org"
+        },
+        {
+          "id": 65,
+          "abbreviation": "GANTP",
+          "local_abbreviation": "GANTP",
+          "title": "Albrecht NT und Psalmen",
+          "local_title": "Albrecht NT und Psalmen",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "de",
+            "iso_639_3": "deu",
+            "name": "German",
+            "local_name": "Deutsch",
+            "text_direction": "ltr",
+            "language_tag": "deu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 22,
+          "vrs": "eng"
+        },
+        {
+          "id": 73,
+          "abbreviation": "Hfa",
+          "local_abbreviation": "Hfa",
+          "title": "Hoffnung für alle (Hope for All)",
+          "local_title": "Hoffnung für alle",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "de",
+            "iso_639_3": "deu",
+            "name": "German",
+            "local_name": "Deutsch",
+            "text_direction": "ltr",
+            "language_tag": "deu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 30,
+          "vrs": "org"
+        },
+        {
+          "id": 3100,
+          "abbreviation": "LUTheute",
+          "local_abbreviation": "LUTheute",
+          "title": "luther.heute",
+          "local_title": "luther.heute",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "de",
+            "iso_639_3": "deu",
+            "name": "German",
+            "local_name": "Deutsch",
+            "text_direction": "ltr",
+            "language_tag": "deu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 862,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "org"
+        },
+        {
+          "id": 108,
+          "abbreviation": "NGU2011",
+          "local_abbreviation": "NGU2011",
+          "title": "Neue Genfer Übersetzung",
+          "local_title": "Neue Genfer Übersetzung",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "de",
+            "iso_639_3": "deu",
+            "name": "German",
+            "local_name": "Deutsch",
+            "text_direction": "ltr",
+            "language_tag": "deu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 41,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 32,
+          "vrs": "org"
+        },
+        {
+          "id": 158,
+          "abbreviation": "SCH1951",
+          "local_abbreviation": "SCH1951",
+          "title": "Die Bibel (Schlachter 1951)",
+          "local_title": "Die Heilige Schrift (Schlachter 1951)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "de",
+            "iso_639_3": "deu",
+            "name": "German",
+            "local_name": "Deutsch",
+            "text_direction": "ltr",
+            "language_tag": "deu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 816,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 29,
+          "vrs": "eng"
+        },
+        {
+          "id": 157,
+          "abbreviation": "SCH2000",
+          "local_abbreviation": "SCH2000",
+          "title": "Die Bibel (Schlachter 2000)",
+          "local_title": "Die Bibel (Schlachter 2000)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "de",
+            "iso_639_3": "deu",
+            "name": "German",
+            "local_name": "Deutsch",
+            "text_direction": "ltr",
+            "language_tag": "deu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 816,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 29,
+          "vrs": "org"
+        },
+        {
+          "id": 2200,
+          "abbreviation": "deutkw",
+          "local_abbreviation": "TKW",
+          "title": "The Holy Bible in German, translation by Kautzsch und Weizsäcker 1906",
+          "local_title": "Textbibel von Kautzsch und Weizsäcker",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "de",
+            "iso_639_3": "deu",
+            "name": "German",
+            "local_name": "Deutsch",
+            "text_direction": "ltr",
+            "language_tag": "deu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 253,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 12,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

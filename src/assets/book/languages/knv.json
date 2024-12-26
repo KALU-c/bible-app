@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 959,
+          "abbreviation": "knvA",
+          "local_abbreviation": "KNVA",
+          "title": "Tabo Aramia New Testament",
+          "local_title": "Godokono Hido Tabo",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "knv",
+            "name": "Tabo",
+            "local_name": "Tabo",
+            "text_direction": "ltr",
+            "language_tag": "knv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "eng"
+        },
+        {
+          "id": 989,
+          "abbreviation": "knvF",
+          "local_abbreviation": "KNVF",
+          "title": "Tabo Fly River New Testament",
+          "local_title": "Godokono Wade Tabo",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "knv",
+            "name": "Tabo",
+            "local_name": "Tabo",
+            "text_direction": "ltr",
+            "language_tag": "knv",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

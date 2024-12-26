@@ -1,0 +1,284 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 209,
+          "abbreviation": "BYZ04",
+          "local_abbreviation": "BYZ04",
+          "title": "Patriarchal Text (Antoniadis Text, 1904)",
+          "local_title": "Πατριαρχικό Κείμενο (Έκδοση Αντωνιάδη, 1904)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "grc",
+            "name": "Koine Greek",
+            "local_name": "Ελληνιστική Κοινή",
+            "text_direction": "ltr",
+            "language_tag": "grc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 47,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 31,
+          "vrs": "rsc"
+        },
+        {
+          "id": 3449,
+          "abbreviation": "ByzTxf18",
+          "local_abbreviation": "Byz18",
+          "title": "The New Testament In the Original Greek: Byzantine Textform 2018",
+          "local_title": "Byzantine Textform 2018",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "grc",
+            "name": "Koine Greek",
+            "local_name": "Ελληνιστική Κοινή",
+            "text_direction": "ltr",
+            "language_tag": "grc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 989,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        },
+        {
+          "id": 3130,
+          "abbreviation": "grcF35",
+          "local_abbreviation": "F35",
+          "title": "The Greek New Testament According to Family 35",
+          "local_title": "Η Ελληνική Καινή Διαθήκη Σύμφωνα με την Οικογένεια 35",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "grc",
+            "name": "Koine Greek",
+            "local_name": "Ελληνιστική Κοινή",
+            "text_direction": "ltr",
+            "language_tag": "grc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 253,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 2503,
+          "abbreviation": "grcbrent",
+          "local_abbreviation": "GRCBRENT",
+          "title": "Brenton Greek Septuagint",
+          "local_title": "μετάφραση των εβδομήκοντα",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "grc",
+            "name": "Koine Greek",
+            "local_name": "Ελληνιστική Κοινή",
+            "text_direction": "ltr",
+            "language_tag": "grc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 253,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        },
+        {
+          "id": 156,
+          "abbreviation": "SBLG",
+          "local_abbreviation": "SBLG",
+          "title": "SBL Greek New Testament",
+          "local_title": "SBL Greek New Testament",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "grc",
+            "name": "Koine Greek",
+            "local_name": "Ελληνιστική Κοινή",
+            "text_direction": "ltr",
+            "language_tag": "grc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 55,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 23,
+          "vrs": "lxx"
+        },
+        {
+          "id": 3428,
+          "abbreviation": "grcTCGNT",
+          "local_abbreviation": "TCGNT",
+          "title": "Text-Critical Greek New Testament",
+          "local_title": "Text-Critical Greek New Testament",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "grc",
+            "name": "Koine Greek",
+            "local_name": "Ελληνιστική Κοινή",
+            "text_direction": "ltr",
+            "language_tag": "grc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 253,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 2270,
+          "abbreviation": "THGNT",
+          "local_abbreviation": "THGNT",
+          "title": "The Greek New Testament",
+          "local_title": "The Greek New Testament",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "grc",
+            "name": "Koine Greek",
+            "local_name": "Ελληνιστική Κοινή",
+            "text_direction": "ltr",
+            "language_tag": "grc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 430,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "lxx"
+        },
+        {
+          "id": 182,
+          "abbreviation": "TR1624",
+          "local_abbreviation": "TR1624",
+          "title": "Elzevir Textus Receptus 1624",
+          "local_title": "Elzevir Textus Receptus 1624",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "grc",
+            "name": "Koine Greek",
+            "local_name": "Ελληνιστική Κοινή",
+            "text_direction": "ltr",
+            "language_tag": "grc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        },
+        {
+          "id": 183,
+          "abbreviation": "TR1894",
+          "local_abbreviation": "TR1894",
+          "title": "Scrivener’s Textus Receptus 1894",
+          "local_title": "Scrivener’s Textus Receptus 1894",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "grc",
+            "name": "Koine Greek",
+            "local_name": "Ελληνιστική Κοινή",
+            "text_direction": "ltr",
+            "language_tag": "grc",
+            "secondary_language_tags": null
+          },
+          "publisher_id": null,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 9,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

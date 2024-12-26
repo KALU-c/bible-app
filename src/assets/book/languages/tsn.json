@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3912,
+          "abbreviation": "CTWB24",
+          "local_abbreviation": "CTWB24",
+          "title": "Contemporary Tswana Bible 2024",
+          "local_title": "Contemporary Tswana Bible 2024",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "tn",
+            "iso_639_3": "tsn",
+            "name": "Setswana",
+            "local_name": "Sechuana",
+            "text_direction": "ltr",
+            "language_tag": "tsn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 4686,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 1615,
+          "abbreviation": "LEF",
+          "local_abbreviation": "LEF",
+          "title": "Living Tswana New Testament 1993",
+          "local_title": "Lefoko: La Botshelo Kgolagano e Ntsha",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "tn",
+            "iso_639_3": "tsn",
+            "name": "Setswana",
+            "local_name": "Sechuana",
+            "text_direction": "ltr",
+            "language_tag": "tsn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 2608,
+          "abbreviation": "TSN1890",
+          "local_abbreviation": "TSN1890",
+          "title": "Sechuana Tlhaping Moffatt Bible 1890",
+          "local_title": "Bibela ea Boitsépho 1890 (Sechuana Tlhaping - Moffatt Bible)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "tn",
+            "iso_639_3": "tsn",
+            "name": "Setswana",
+            "local_name": "Sechuana",
+            "text_direction": "ltr",
+            "language_tag": "tsn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 7,
+          "vrs": "eng"
+        },
+        {
+          "id": 278,
+          "abbreviation": "TSW08NO",
+          "local_abbreviation": "TSW08NO",
+          "title": "SetswanaTswana 1908/1992",
+          "local_title": "BAEBELE e e Boitshepo",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "tn",
+            "iso_639_3": "tsn",
+            "name": "Setswana",
+            "local_name": "Sechuana",
+            "text_direction": "ltr",
+            "language_tag": "tsn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 2,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 29,
+          "vrs": "eng"
+        },
+        {
+          "id": 185,
+          "abbreviation": "TSW70",
+          "local_abbreviation": "TSW70",
+          "title": "Setswana 1970",
+          "local_title": "Setswana 1970",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "tn",
+            "iso_639_3": "tsn",
+            "name": "Setswana",
+            "local_name": "Sechuana",
+            "text_direction": "ltr",
+            "language_tag": "tsn",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 2,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 27,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1814,
+          "abbreviation": "KNT95",
+          "local_abbreviation": "EE95",
+          "title": "Igikuria New Testament 1995",
+          "local_title": "Endagano Ehea 1995",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kuj",
+            "name": "Kuria",
+            "local_name": "Kuria",
+            "text_direction": "ltr",
+            "language_tag": "kuj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 268,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        },
+        {
+          "id": 3187,
+          "abbreviation": "KURBIBLE",
+          "local_abbreviation": "KURBIBLE",
+          "title": "IGIKURIA BIBLE CATHOLIC EDITION",
+          "local_title": "IBHIBHURIA ËNHOREERU ËNO ËNA IBHITABHÖ BHIA TEUTUROKANONIKO",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kuj",
+            "name": "Kuria",
+            "local_name": "Kuria",
+            "text_direction": "ltr",
+            "language_tag": "kuj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 3188,
+          "abbreviation": "KURBIBLE",
+          "local_abbreviation": "KURBIBLE",
+          "title": "IGIKURIA BIBLE PROTESTANT EDITION",
+          "local_title": "IBHIBHURIA ËNHOREERU",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kuj",
+            "name": "Kuria",
+            "local_name": "Kuria",
+            "text_direction": "ltr",
+            "language_tag": "kuj",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 245,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 3,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

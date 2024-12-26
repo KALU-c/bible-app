@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 984,
+          "abbreviation": "Tonga63",
+          "local_abbreviation": "Ibbaib63",
+          "title": "Tonga Bible 1963",
+          "local_title": "Ibbaibele 1963",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "toi",
+            "name": "Tonga (Zambia)",
+            "local_name": "chiTonga",
+            "text_direction": "ltr",
+            "language_tag": "toi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 165,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 14,
+          "vrs": "eng"
+        },
+        {
+          "id": 2956,
+          "abbreviation": "Tonga96",
+          "local_abbreviation": "Tonga96",
+          "title": "Tonga Bible 1996",
+          "local_title": "Bbaibele",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "toi",
+            "name": "Tonga (Zambia)",
+            "local_name": "chiTonga",
+            "text_direction": "ltr",
+            "language_tag": "toi",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 165,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

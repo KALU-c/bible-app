@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 614,
+          "abbreviation": "SIDC",
+          "local_abbreviation": "SIDC",
+          "title": "Solomon Islands Bible with Deuterocanonical Books",
+          "local_title": "Pijin Deuterocanon",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "pis",
+            "name": "Solomon Islands Pidgin",
+            "local_name": "Pijin",
+            "text_direction": "ltr",
+            "language_tag": "pis",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 301,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 615,
+          "abbreviation": "SIPB",
+          "local_abbreviation": "SIPB",
+          "title": "Solomon Islands Pijin Bible",
+          "local_title": "Pijin Bible",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "pis",
+            "name": "Solomon Islands Pidgin",
+            "local_name": "Pijin",
+            "text_direction": "ltr",
+            "language_tag": "pis",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 301,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

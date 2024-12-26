@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3507,
+          "abbreviation": "BudKoya",
+          "local_abbreviation": "BudKoya",
+          "title": "Budu Koya New Testament",
+          "local_title": "Agɔmɔ ngia wʉ Ɨtakɨ-takɨ",
+          "audio": true,
+          "audio_count": 3,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "buu",
+            "name": "Budu",
+            "local_name": "Budu",
+            "text_direction": "ltr",
+            "language_tag": "buu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "lxx"
+        },
+        {
+          "id": 3919,
+          "abbreviation": "buu",
+          "local_abbreviation": "buuN",
+          "title": "Buda-Nita Genesis + New Testament",
+          "local_title": "Mʉkpanganɨa nɔ Agɔmɛ ɔ Ɨtakɨtakɨ",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "buu",
+            "name": "Budu",
+            "local_name": "Budu",
+            "text_direction": "ltr",
+            "language_tag": "buu",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "lxx"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

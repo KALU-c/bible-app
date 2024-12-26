@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1567,
+          "abbreviation": "kxw2014",
+          "local_abbreviation": "kxw2014",
+          "title": "The Kala̱i̱ (Konai) New Testament",
+          "local_title": "Godiha̱ Ta̱ Bolofei̱",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "kxw",
+            "name": "Konai",
+            "local_name": "Konai",
+            "text_direction": "ltr",
+            "language_tag": "kxw",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 9,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

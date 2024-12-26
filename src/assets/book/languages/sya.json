@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 4048,
+          "abbreviation": "TBSS",
+          "local_abbreviation": "TBSS",
+          "title": "New Testament in Today's Siang Language",
+          "local_title": "Alkitab Porjanjian Baa Ponah Bohasa Dayak Siang",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "sya",
+            "name": "Siang",
+            "local_name": "Siang",
+            "text_direction": "ltr",
+            "language_tag": "sya",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

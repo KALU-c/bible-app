@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1161,
+          "abbreviation": "IAB",
+          "local_abbreviation": "موقدس کتاب",
+          "title": "Iranian Azeri Bible",
+          "local_title": "موقدس کتاب",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "azb",
+            "name": "Azeri (Persian script)",
+            "local_name": "آذری",
+            "text_direction": "rtl",
+            "language_tag": "azb",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 249,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1477,
+          "abbreviation": "KM92",
+          "local_abbreviation": "KM92",
+          "title": "Tajiki Bible (IBT Sweden) 1992, 1999",
+          "local_title": "Китоби Муқаддас 1992, 1999",
+          "audio": true,
+          "audio_count": 5,
+          "text": true,
+          "language": {
+            "iso_639_1": "tg",
+            "iso_639_3": "tgk",
+            "name": "Tajiki",
+            "local_name": "тоҷикӣ",
+            "text_direction": "ltr",
+            "language_tag": "tgk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 323,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 15,
+          "vrs": "rsc"
+        },
+        {
+          "id": 1152,
+          "abbreviation": "KMO",
+          "local_abbreviation": "KMO",
+          "title": "Common-Language Translation in Tajik",
+          "local_title": "Китоби Муқаддас Оммафаҳм",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "tg",
+            "iso_639_3": "tgk",
+            "name": "Tajiki",
+            "local_name": "тоҷикӣ",
+            "text_direction": "ltr",
+            "language_tag": "tgk",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 20,
+          "vrs": "rsc"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

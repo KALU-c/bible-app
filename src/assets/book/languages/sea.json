@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 3920,
+          "abbreviation": "sea",
+          "local_abbreviation": "AEH",
+          "title": "SEAPUB2 (2024.04.26 1st Edition 2nd Print)",
+          "local_title": "Alkitab Engrok Hik",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "sea",
+            "name": "Semai",
+            "local_name": "Semai",
+            "text_direction": "ltr",
+            "language_tag": "sea",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 3,
+          "vrs": "eng"
+        },
+        {
+          "id": 3827,
+          "abbreviation": "sea",
+          "local_abbreviation": "sea",
+          "title": "Semai - WBT (Gen, Luke, Acts) Drama",
+          "local_title": "Semai - WBT (Gen, Luke, Acts) Drama",
+          "audio": true,
+          "audio_count": 2,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "sea",
+            "name": "Semai",
+            "local_name": "Semai",
+            "text_direction": "ltr",
+            "language_tag": "sea",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 334,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

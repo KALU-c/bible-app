@@ -1,0 +1,254 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 199,
+          "abbreviation": "AMD",
+          "local_abbreviation": "AMD",
+          "title": "New Testament: Easy-to-Read Translation",
+          "local_title": "Perjanjian Baru: Alkitab Mudah Dibaca",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "id",
+            "iso_639_3": "ind",
+            "name": "Indonesian",
+            "local_name": "Bahasa Indonesia",
+            "text_direction": "ltr",
+            "language_tag": "ind",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 25,
+          "vrs": "eng"
+        },
+        {
+          "id": 27,
+          "abbreviation": "BIMK",
+          "local_abbreviation": "BIMK",
+          "title": "Today's Indonesian Version",
+          "local_title": "Alkitab dalam Bahasa Indonesia Masa Kini",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "id",
+            "iso_639_3": "ind",
+            "name": "Indonesian",
+            "local_name": "Bahasa Indonesia",
+            "text_direction": "ltr",
+            "language_tag": "ind",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 27,
+          "vrs": "org"
+        },
+        {
+          "id": 2727,
+          "abbreviation": "ILB",
+          "local_abbreviation": "FAYH",
+          "title": "Firman Allah Yang Hidup 2020",
+          "local_title": "Firman Allah Yang Hidup",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "id",
+            "iso_639_3": "ind",
+            "name": "Indonesian",
+            "local_name": "Bahasa Indonesia",
+            "text_direction": "ltr",
+            "language_tag": "ind",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "eng"
+        },
+        {
+          "id": 2862,
+          "abbreviation": "inotazi",
+          "local_abbreviation": "inotazi",
+          "title": "Indonesian Tazi NT Study Bible",
+          "local_title": "Indonesian Tazi NT",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "id",
+            "iso_639_3": "ind",
+            "name": "Indonesian",
+            "local_name": "Bahasa Indonesia",
+            "text_direction": "ltr",
+            "language_tag": "ind",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 2861,
+          "abbreviation": "LAI-TL",
+          "local_abbreviation": "LAI-TL",
+          "title": "Indonesian Bible Old Translation",
+          "local_title": "Alkitab Terjemahan Lama",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "id",
+            "iso_639_3": "ind",
+            "name": "Indonesian",
+            "local_name": "Bahasa Indonesia",
+            "text_direction": "ltr",
+            "language_tag": "ind",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "org"
+        },
+        {
+          "id": 2863,
+          "abbreviation": "PBTB2",
+          "local_abbreviation": "PBTB2",
+          "title": "Second Edition New Testament - TB",
+          "local_title": "Perjanjian Baru Terjemahan Baru Edisi 2",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "id",
+            "iso_639_3": "ind",
+            "name": "Indonesian",
+            "local_name": "Bahasa Indonesia",
+            "text_direction": "ltr",
+            "language_tag": "ind",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 4,
+          "vrs": "lxx"
+        },
+        {
+          "id": 306,
+          "abbreviation": "TB",
+          "local_abbreviation": "TB",
+          "title": "Terjemahan Baru Indonesia",
+          "local_title": "Alkitab Terjemahan Baru",
+          "audio": true,
+          "audio_count": 6,
+          "text": true,
+          "language": {
+            "iso_639_1": "id",
+            "iso_639_3": "ind",
+            "name": "Indonesian",
+            "local_name": "Bahasa Indonesia",
+            "text_direction": "ltr",
+            "language_tag": "ind",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 8,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 23,
+          "vrs": "org"
+        },
+        {
+          "id": 320,
+          "abbreviation": "TSI",
+          "local_abbreviation": "TSI",
+          "title": "Plain Indonesian Translation",
+          "local_title": "Terjemahan Sederhana Indonesia",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": "id",
+            "iso_639_3": "ind",
+            "name": "Indonesian",
+            "local_name": "Bahasa Indonesia",
+            "text_direction": "ltr",
+            "language_tag": "ind",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 260,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 37,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 8,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

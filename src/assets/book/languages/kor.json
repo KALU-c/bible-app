@@ -1,0 +1,164 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 86,
+          "abbreviation": "KLB",
+          "local_abbreviation": "KLB",
+          "title": "Korean Living Bible 1985",
+          "local_title": "현대인의 성경",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ko",
+            "iso_639_3": "kor",
+            "name": "Korean",
+            "local_name": "한국어",
+            "text_direction": "ltr",
+            "language_tag": "kor",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 27,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 26,
+          "vrs": "eng"
+        },
+        {
+          "id": 3803,
+          "abbreviation": "KOERV",
+          "local_abbreviation": "KOERV",
+          "title": "Holy Bible: Easy-to-Read Translation",
+          "local_title": "읽기 쉬운 성경",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ko",
+            "iso_639_3": "kor",
+            "name": "Korean",
+            "local_name": "한국어",
+            "text_direction": "ltr",
+            "language_tag": "kor",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 98,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 2,
+          "vrs": "eng"
+        },
+        {
+          "id": 88,
+          "abbreviation": "KRV",
+          "local_abbreviation": "KRV",
+          "title": "Korean Revised Version",
+          "local_title": "개역한글",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ko",
+            "iso_639_3": "kor",
+            "name": "Korean",
+            "local_name": "한국어",
+            "text_direction": "ltr",
+            "language_tag": "kor",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 50,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 26,
+          "vrs": "eng"
+        },
+        {
+          "id": 3502,
+          "abbreviation": "NLTNK",
+          "local_abbreviation": "NLTNK",
+          "title": "God’s Promises: New Testament in North Korean",
+          "local_title": "God’s Promises: New Testament in North Korean",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ko",
+            "iso_639_3": "kor",
+            "name": "Korean",
+            "local_name": "한국어",
+            "text_direction": "ltr",
+            "language_tag": "kor",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 991,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "eng"
+        },
+        {
+          "id": 142,
+          "abbreviation": "RNKSV",
+          "local_abbreviation": "RNKSV",
+          "title": "Revised New Korean Standard Version",
+          "local_title": "새번역",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ko",
+            "iso_639_3": "kor",
+            "name": "Korean",
+            "local_name": "한국어",
+            "text_direction": "ltr",
+            "language_tag": "kor",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 50,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 21,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 5,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

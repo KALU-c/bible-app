@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 259,
+          "abbreviation": "otq",
+          "local_abbreviation": "otq",
+          "title": "Otomi, Querétaro NT",
+          "local_title": "Otomi, Querétaro",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "otq",
+            "name": "Querétaro Otomi",
+            "local_name": "Otom Querétaro",
+            "text_direction": "ltr",
+            "language_tag": "otq",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 27,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

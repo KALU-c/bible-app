@@ -1,0 +1,284 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 554,
+          "abbreviation": "ABN",
+          "local_abbreviation": "ABN",
+          "title": "Irish Gaelic Bible 1981",
+          "local_title": "An Bíobla Naofa 1981",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ga",
+            "iso_639_3": "gle",
+            "name": "Irish Gaelic",
+            "local_name": "Gaeilge",
+            "text_direction": "ltr",
+            "language_tag": "gle",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 164,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": "org"
+        },
+        {
+          "id": 3110,
+          "abbreviation": "ABN2012",
+          "local_abbreviation": "ABN2012",
+          "title": "Revised Irish New Testament and Psalms 2012 (revision of ABN 1981)",
+          "local_title": "An Tiomna Nua agus Leabhar na Salm 2012",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ga",
+            "iso_639_3": "gle",
+            "name": "Irish Gaelic",
+            "local_name": "Gaeilge",
+            "text_direction": "ltr",
+            "language_tag": "gle",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 863,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": "org"
+        },
+        {
+          "id": 2694,
+          "abbreviation": "ASN1943",
+          "local_abbreviation": "ASN1943",
+          "title": "Gospels and Acts in Irish 1943 (Pádraig Mac Giolla Cheara)",
+          "local_title": "Na Ceithre Soiscéil agus Gníomhartha na n-Abstal 1943 (Pádraig Mac Giolla Cheara)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ga",
+            "iso_639_3": "gle",
+            "name": "Irish Gaelic",
+            "local_name": "Gaeilge",
+            "text_direction": "ltr",
+            "language_tag": "gle",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 810,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 13,
+          "vrs": null
+        },
+        {
+          "id": 2704,
+          "abbreviation": "ATN1951",
+          "local_abbreviation": "ATN1951",
+          "title": "Irish Gaelic New Testament 1951 (Joynt)",
+          "local_title": "Tiomna Nua 1951 (de Siúnta)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ga",
+            "iso_639_3": "gle",
+            "name": "Irish Gaelic",
+            "local_name": "Gaeilge",
+            "text_direction": "ltr",
+            "language_tag": "gle",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 5,
+          "vrs": "eng"
+        },
+        {
+          "id": 883,
+          "abbreviation": "Bedell",
+          "local_abbreviation": "Bedell",
+          "title": "Irish Gaelic Bible 1817 (Bedell)",
+          "local_title": "An Bíobla Naomhtha 1817 (Bedell)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ga",
+            "iso_639_3": "gle",
+            "name": "Irish Gaelic",
+            "local_name": "Gaeilge",
+            "text_direction": "ltr",
+            "language_tag": "gle",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 16,
+          "vrs": "eng"
+        },
+        {
+          "id": 3117,
+          "abbreviation": "OC1965",
+          "local_abbreviation": "OC1965",
+          "title": "Irish Psalter 1965 (Ó Cuinn) Roman type",
+          "local_title": "An tSaltair 1965 (Ó Cuinn)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ga",
+            "iso_639_3": "gle",
+            "name": "Irish Gaelic",
+            "local_name": "Gaeilge",
+            "text_direction": "ltr",
+            "language_tag": "gle",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 258,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": null
+        },
+        {
+          "id": 884,
+          "abbreviation": "OC1970",
+          "local_abbreviation": "OC1970",
+          "title": "New Testament 1970 (Ó Cuinn)",
+          "local_title": "An Tiomna Nua 1970 (Ó Cuinn)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ga",
+            "iso_639_3": "gle",
+            "name": "Irish Gaelic",
+            "local_name": "Gaeilge",
+            "text_direction": "ltr",
+            "language_tag": "gle",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 258,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 17,
+          "vrs": "eng"
+        },
+        {
+          "id": 2703,
+          "abbreviation": "POL",
+          "local_abbreviation": "POL",
+          "title": "Gospels and Acts in Irish 1915, 1921 (Peter O'Leary)",
+          "local_title": "Na Cheithre Soisgéil agus Gníoṁartha na n-Aspol 1915, 1921 (Peadar Ua Laoghaire)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ga",
+            "iso_639_3": "gle",
+            "name": "Irish Gaelic",
+            "local_name": "Gaeilge",
+            "text_direction": "ltr",
+            "language_tag": "gle",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 243,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 6,
+          "vrs": null
+        },
+        {
+          "id": 3375,
+          "abbreviation": "PSA1836",
+          "local_abbreviation": "PSA1836",
+          "title": "Irish Gaelic Metrical Psalms 1836 (McLeod)",
+          "local_title": "Psalma Dhaibhí 1836 (McLeod)",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": "ga",
+            "iso_639_3": "gle",
+            "name": "Irish Gaelic",
+            "local_name": "Gaeilge",
+            "text_direction": "ltr",
+            "language_tag": "gle",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 810,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 11,
+          "vrs": null
+        }
+      ],
+      "totals": {
+        "versions": 9,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 908,
+          "abbreviation": "MAFNT",
+          "local_abbreviation": "MAFNT",
+          "title": "Mofa New Testament",
+          "local_title": "Mofa New Testament",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "maf",
+            "name": "Mafa",
+            "local_name": "Mafa",
+            "text_direction": "ltr",
+            "language_tag": "maf",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 79,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 12,
+          "vrs": "eng"
+        },
+        {
+          "id": 4071,
+          "abbreviation": "MOF89",
+          "local_abbreviation": "MOF89",
+          "title": "Bible Mofa 1989",
+          "local_title": "Ma Zhiklè",
+          "audio": false,
+          "audio_count": 0,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "maf",
+            "name": "Mafa",
+            "local_name": "Mafa",
+            "text_direction": "ltr",
+            "language_tag": "maf",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 79,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 1,
+          "vrs": "org"
+        }
+      ],
+      "totals": {
+        "versions": 2,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

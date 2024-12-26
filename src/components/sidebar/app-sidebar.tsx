@@ -1,10 +1,11 @@
 import {
   Sidebar,
   SidebarContent,
+  SidebarFooter,
   SidebarGroup,
   SidebarGroupContent,
   SidebarGroupLabel,
-  SidebarHeader,
+  // SidebarHeader,
   SidebarMenu,
   SidebarMenuButton,
   SidebarMenuItem,
@@ -19,22 +20,22 @@ export function AppSidebar() {
 
   return (
     <Sidebar>
-      <SidebarHeader className="flex flex-row gap-0">
+      {/* <SidebarHeader className="flex flex-row gap-0 border-b">
         <Button
           className="rounded-r-none py-5"
-          variant={testament === "oldTestament" ? "secondary" : "ghost"}
+          variant={testament === "oldTestament" ? "default" : "ghost"}
           onClick={() => setTestament("oldTestament")}
         >
           Old Testament
         </Button>
         <Button
           className="rounded-l-none py-5"
-          variant={testament === "newTestament" ? "secondary" : "ghost"}
+          variant={testament === "newTestament" ? "default" : "ghost"}
           onClick={() => setTestament("newTestament")}
         >
           New Testament
         </Button>
-      </SidebarHeader>
+      </SidebarHeader> */}
       <SidebarContent>
         <SidebarGroup>
           <SidebarGroupLabel>
@@ -53,6 +54,22 @@ export function AppSidebar() {
           </SidebarGroupContent>
         </SidebarGroup>
       </SidebarContent>
+      <SidebarFooter className="flex flex-row gap-0 border-t">
+        <Button
+          className="rounded-r-none"
+          variant={testament === "oldTestament" ? "default" : "ghost"}
+          onClick={() => setTestament("oldTestament")}
+        >
+          Old Testament
+        </Button>
+        <Button
+          className="rounded-l-none py-5"
+          variant={testament === "newTestament" ? "default" : "ghost"}
+          onClick={() => setTestament("newTestament")}
+        >
+          New Testament
+        </Button>
+      </SidebarFooter>
     </Sidebar>
   )
 }

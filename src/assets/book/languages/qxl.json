@@ -1,0 +1,44 @@
+{
+  "response": {
+    "data": {
+      "versions": [
+        {
+          "id": 1770,
+          "abbreviation": "qxlu",
+          "local_abbreviation": "qxlu",
+          "title": "The New Testament in Quechua, Salasaca Highland",
+          "local_title": "Diosbuj Shimi - Mushuj Testamento (Quichua, Salasaca)",
+          "audio": true,
+          "audio_count": 1,
+          "text": true,
+          "language": {
+            "iso_639_1": null,
+            "iso_639_3": "qxl",
+            "name": "Salasaca Highland Quichua",
+            "local_name": "Salasakaguna",
+            "text_direction": "ltr",
+            "language_tag": "qxl",
+            "secondary_language_tags": null
+          },
+          "publisher_id": 3,
+          "platforms": {
+            "android": true,
+            "blackberry": true,
+            "facebook": true,
+            "ios": true,
+            "win8": true,
+            "wp7": true
+          },
+          "metadata_build": 10,
+          "vrs": "eng"
+        }
+      ],
+      "totals": {
+        "versions": 1,
+        "languages": 1
+      }
+    },
+    "buildtime": "",
+    "code": 200
+  }
+}

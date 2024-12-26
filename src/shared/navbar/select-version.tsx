@@ -1,6 +1,5 @@
 "use client"
 
-import * as React from "react"
 import { Check, ChevronsUpDown } from "lucide-react"
 
 import { cn } from "@/lib/utils"
@@ -18,6 +17,8 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "@/components/ui/popover"
+import { getAllSupportedLanguages, getBibleVersionsByLanguage } from "@/assets/book"
+import { useState } from "react"
 
 // TODO - make it dynamic
 const bibleVersions = [

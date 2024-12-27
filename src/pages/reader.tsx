@@ -43,6 +43,8 @@ const Reader = () => {
                 key={index}
                 verse={verse}
                 highlightColor={highlightColor}
+                isVerseFocused={isVerseFocused}
+                setIsVerseFocused={setIsVerseFocused}
                 setHighlightColor={setHighlightColor}
               >
                 <span

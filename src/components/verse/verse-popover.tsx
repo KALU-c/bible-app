@@ -1,4 +1,4 @@
-import { VerseHighlightColor, VerseType } from "@/types/verse-type"
+import { VerseFocusType, VerseHighlightColor, VerseType } from "@/types/verse-type"
 import {
   Popover,
   PopoverTrigger,
@@ -11,7 +11,8 @@ import { Button } from "../ui/button"
 
 type VersePopoverType = {
   verse: VerseType,
-  // isVerseFocused: VerseFocusType[]
+  isVerseFocused: VerseFocusType[],
+  setIsVerseFocused: React.Dispatch<React.SetStateAction<VerseFocusType[]>>
   highlightColor: VerseHighlightColor[]
   setHighlightColor: (highlightColor: VerseHighlightColor[]) => void
   children: React.ReactNode
@@ -21,6 +22,7 @@ const VersePopover = ({
   verse,
   highlightColor,
   setHighlightColor,
+  setIsVerseFocused,
   children
 }: VersePopoverType) => {
 
@@ -28,6 +30,14 @@ const VersePopover = ({
   // todo - make it to highlight all the selected verses
   // const highlightAllSelectedVerses = highlightColor.ma
   // }
+
+  function handleHighlightVerse(verse: VerseType, highlightBackgroundColor: string) {
+    setHighlightColor([
+      ...highlightColor,
+      { verse: verse.verseNumber, backgroundColor: highlightBackgroundColor }])
+    // TODO - remove verse from isVerseFocused after highlight
+    setIsVerseFocused([])
+  };
 
   return (
     <Popover>
@@ -40,25 +50,25 @@ const VersePopover = ({
           <div className="flex flex-row justify-between">
             <span
               className="w-[30px] h-[30px] rounded-full cursor-pointer flex items-center justify-center"
-              onClick={() => setHighlightColor([...highlightColor, { verse: verse.verseNumber, backgroundColor: "green-300" }])}
+            // onClick={() => handleHighlightVerse("")}
             >
               <CircleSlash2 />
             </span>
             <span
               className="w-[30px] h-[30px] bg-green-300 rounded-full cursor-pointer"
-              onClick={() => setHighlightColor([...highlightColor, { verse: verse.verseNumber, backgroundColor: "green-300" }])}
+              onClick={() => handleHighlightVerse(verse, "green-300")}
             ></span>
             <span
               className="w-[30px] h-[30px] bg-blue-300 rounded-full cursor-pointer"
-              onClick={() => setHighlightColor([...highlightColor, { verse: verse.verseNumber, backgroundColor: "blue-300" }])}
+              onClick={() => handleHighlightVerse(verse, "blue-300")}
             ></span>
             <span
               className="w-[30px] h-[30px] bg-red-300 rounded-full cursor-pointer"
-              onClick={() => setHighlightColor([...highlightColor, { verse: verse.verseNumber, backgroundColor: "red-300" }])}
+              onClick={() => handleHighlightVerse(verse, "red-300")}
             ></span>
             <span
               className="w-[30px] h-[30px] bg-yellow-300 rounded-full cursor-pointer"
-              onClick={() => setHighlightColor([...highlightColor, { verse: verse.verseNumber, backgroundColor: "yellow-300" }])}
+              onClick={() => handleHighlightVerse(verse, "yellow-300")}
             ></span>
           </div>
         </div>

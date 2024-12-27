@@ -73,3 +73,6 @@ export async function getBibleVersionsByLanguage(language_tag: string) {
     }
   })
 }
+
+
+// TODO - Rename conn.json to con.json

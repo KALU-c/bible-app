@@ -190,10 +190,10 @@ export function SelectBook() {
     <Popover open={open} onOpenChange={setOpen}>
       <PopoverTrigger asChild>
         <Button
-          variant="outline"
+          variant="ghost"
           role="combobox"
           aria-expanded={open}
-          className="lg:w-[250px] sm:w-[150px] justify-between"
+          className="lg:w-[200px] sm:w-[150px] justify-between border-b border-b-zinc-400 dark:border-b-zinc-700"
         >
           {value
             ? books.find((framework) => framework.value === value)?.label

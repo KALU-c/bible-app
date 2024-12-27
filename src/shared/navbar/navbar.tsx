@@ -3,9 +3,9 @@ import ChangeFont from "./change-font"
 import ParallelToggle from "./parallel-toggle"
 import PlaySound from "./play-sound"
 import { SelectBook } from "./select-book"
-import { SelectVersion } from "./select-version"
 import MoreButton from "./more-button"
 import { SidebarTrigger } from "@/components/ui/sidebar"
+import { BibleVersionSelector } from "./select-language-and-version"
 
 const Navbar = () => {
   return (
@@ -15,7 +15,7 @@ const Navbar = () => {
         {/* select books */}
         <SelectBook />
         {/* select versions */}
-        <SelectVersion />
+        <BibleVersionSelector />
       </div>
       {/* right sidebar tools */}
       <div className="flex gap-1 items-center">

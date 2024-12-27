@@ -51,10 +51,10 @@ export function SelectVersion() {
     <Popover open={open} onOpenChange={setOpen}>
       <PopoverTrigger asChild>
         <Button
-          variant="outline"
+          variant="ghost"
           role="combobox"
           aria-expanded={open}
-          className="justify-between lg:w-[400px] sm:w-[250px]"
+          className="justify-between lg:w-[300px] sm:w-[250px] border-b border-b-zinc-400"
         >
           {value
             ? bibleVersions.find((framework) => framework.value === value)?.label

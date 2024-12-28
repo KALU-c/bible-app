@@ -16,7 +16,7 @@ const Reader = () => {
 
   useEffect(() => {
     getBookByChapter(book, book1Chapter).then(res => setBook1(res));
-  }, [book]);
+  }, [book, book1Chapter]);
 
   // TODO - make it work
   function handleClick(verse: VerseType) {
@@ -40,7 +40,7 @@ const Reader = () => {
       style={isParallel === "single" ? (!isMobile ? { marginLeft: 384 } : {}) : {}}
     >
       <div>
-        <h1 className="text-center text-base mb-8 font-semibold">GENESIS 50</h1>
+        <h1 className="text-center text-lg mb-6 font-semibold text-muted-foreground">{book.toUpperCase()} {book1Chapter}</h1>
         {book1.map((verse, index) => (
           <>
             {(verse.type === "paragraph text" || verse.type === "line text") && (

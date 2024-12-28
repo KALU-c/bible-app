@@ -47,7 +47,6 @@ export function BibleVersionSelector() {
   React.useEffect(() => {
     if (mode === "language") {
       setItems([...languages])
-      console.log(items);
     } else if (selectedLanguage) {
       const filteredVersions = bibleVersions.filter(
         (v) => v.language === selectedLanguage

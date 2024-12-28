@@ -1,17 +1,22 @@
-import { getBookByChapter } from "@/assets/book/old"
+import { BookItemType, getBookByChapter } from "@/assets/book/formatted-json"
+import { useSidebar } from "@/components/ui/sidebar"
 import VersePopover from "@/components/verse/verse-popover"
 import { useBookSetting } from "@/providers/book-provider"
 import { VerseFocusType, VerseHighlightColor, VerseType } from "@/types/verse-type"
-import { useState } from "react"
+import { useEffect, useState } from "react"
 
 
 const Reader = () => {
-  const { isParallel } = useBookSetting();
+  const { isParallel, book: { book1: book, book1Chapter } } = useBookSetting();
+  const { isMobile } = useSidebar();
 
   const [isVerseFocused, setIsVerseFocused] = useState<VerseFocusType[]>([]);
   const [highlightColor, setHighlightColor] = useState<VerseHighlightColor[]>([]);
+  const [book1, setBook1] = useState<BookItemType[]>([]);
 
-  const book1 = getBookByChapter("genesis", 50);
+  useEffect(() => {
+    getBookByChapter(book, book1Chapter).then(res => setBook1(res));
+  }, [book]);
 
   // TODO - make it work
   function handleClick(verse: VerseType) {
@@ -32,7 +37,7 @@ const Reader = () => {
   return (
     <div
       className={isParallel === "single" ? "xl:mx-96 md:mx-16 sm:mx-4 mx-2 py-4" : "sm:grid grid-cols-2 w-full xl:gap-24 sm:gap-14 xl:px-20 px-10"}
-      style={isParallel === "single" ? { marginLeft: 384 } : {}}
+      style={isParallel === "single" ? (!isMobile ? { marginLeft: 384 } : {}) : {}}
     >
       <div>
         <h1 className="text-center text-base mb-8 font-semibold">GENESIS 50</h1>

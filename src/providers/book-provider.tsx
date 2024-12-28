@@ -54,7 +54,10 @@ export const BookProvider = ({
   children,
   ...props
 }: BookProviderProps) => {
-  const localBook = (localStorage.getItem(BOOK_STORAGE_KEY));
+  const localBook = localStorage.getItem(BOOK_STORAGE_KEY);
+  if (localBook === undefined) {
+    localStorage.setItem(BOOK_STORAGE_KEY, JSON.stringify(initialState));
+  }
   const parsedBook = localBook ? JSON.parse(localBook) : initialState;
   const [book, setBook] = useState<LocalStorageBookObject>(
     () => (parsedBook as LocalStorageBookObject) || initialState.book

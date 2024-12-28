@@ -34,6 +34,8 @@ const VersePopover = ({
 
   function handleHighlightVerse(highlightBackgroundColor: string) {
     const newHighlights: VerseHighlightColor[] = isVerseFocused.map(verse => ({
+      book: book.book1.name,
+      chapter: book.book1.chapter,
       verse: verse.verse,
       backgroundColor: highlightBackgroundColor
     }));
@@ -44,6 +46,8 @@ const VersePopover = ({
       ...newHighlights
     ]);
 
+    // TODO - saves the last highlighted verse not the present
+    // TODO - can't change already highlighted color
     setBook({
       ...book,
       book1: {

@@ -1,3 +1,5 @@
+import { BookName } from "./book-type";
+
 export type VerseType = {
   type: string;
   chapterNumber?: number;
@@ -12,7 +14,9 @@ export type VerseFocusType = {
 }
 
 export type VerseHighlightColor = {
-  verse: number | undefined
+  book: BookName
+  chapter: number
+  verse?: number
   backgroundColor?: string
   textColor?: string
 }

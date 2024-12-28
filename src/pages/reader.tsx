@@ -36,7 +36,7 @@ const Reader = () => {
     }
 
     if (isVerseFocusedRn && !isVerseHighlighted) {
-      setHighlightColor([...highlightColor, { verse: verse.verseNumber }]);
+      setHighlightColor([...highlightColor, { book: bookName, chapter: book1Chapter, verse: verse.verseNumber }]);
     }
   }
 
@@ -66,7 +66,7 @@ const Reader = () => {
                   }}
                   className={`
                     mb-1 text-[17px] cursor-pointer p-1 
-                    bg-${highlightColor?.find(item => item.verse === verse.verseNumber)?.backgroundColor || "bg-none"}
+                    bg-${highlightColor?.find(item => (item.verse === verse.verseNumber && item.book === bookName && item.chapter === verse.chapterNumber))?.backgroundColor}
                     ${isVerseFocused.find(item => item.verse === verse.verseNumber)
                       ? `border-b border-dotted border-b-black dark:border-b-white rounded-sm`
                       : "border-none"}

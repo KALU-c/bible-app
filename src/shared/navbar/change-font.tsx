@@ -1,4 +1,4 @@
-import { useState } from "react";
+// import { useState } from "react";
 import { Button } from "@/components/ui/button"
 import {
   DropdownMenu,
@@ -6,13 +6,15 @@ import {
   DropdownMenuLabel,
   DropdownMenuTrigger
 } from "@/components/ui/dropdown-menu"
+import { useBookSetting } from "@/providers/book-provider";
 
 export type FontSizeType = "small" | "medium" | "large";
 export type FontFamilyType = "Inter" | "Source Serif Pro";
 
 const ChangeFont = () => {
-  const [fontSize, setFontSize] = useState<FontSizeType>("medium");
-  const [fontFamily, setFontFamily] = useState<FontFamilyType>("Inter");
+  const { fontSize, setFontSize, fontFamily, setFontFamily } = useBookSetting();
+  // const [fontSizeLocal, setFontSizeLocal] = useState<FontSizeType>(fontSize);
+  // const [fontFamily, setFontFamily] = useState<FontFamilyType>("Inter");
 
   return (
     <DropdownMenu modal={false}>

@@ -7,7 +7,7 @@ import { useEffect, useState } from "react"
 
 
 const Reader = () => {
-  const { isParallel, book, setBook } = useBookSetting();
+  const { isParallel, book, setBook, fontSize } = useBookSetting();
   const { isMobile } = useSidebar();
 
   const { name: bookName, chapter: book1Chapter, highlightedVerses: book1HighlightedVerses } = book.book1;
@@ -62,11 +62,15 @@ const Reader = () => {
               >
                 <span
                   style={highlightColor.find(item => item.verse === verse.verseNumber) && {
-                    color: highlightColor.find(item => item.verse === verse.verseNumber)?.textColor || "black"
+                    color: highlightColor.find(item => item.verse === verse.verseNumber)?.textColor
                   }}
                   className={`
-                    mb-1 text-[17px] cursor-pointer p-1 
+                    mb-1 cursor-pointer p-1 
+                    ${fontSize === "small" ? "text-[16px]" : ""}
+                    ${fontSize === "medium" ? "text-[18px]" : ""}
+                    ${fontSize === "large" ? "text-[20px]" : ""}
                     bg-${highlightColor?.find(item => (item.verse === verse.verseNumber && item.book === bookName && item.chapter === verse.chapterNumber))?.backgroundColor}
+                    ${highlightColor?.find(item => (item.verse === verse.verseNumber && item.book === bookName && item.chapter === verse.chapterNumber)) ? "dark:text-black" : ""}
                     ${isVerseFocused.find(item => item.verse === verse.verseNumber)
                       ? `border-b border-dotted border-b-black dark:border-b-white rounded-sm`
                       : "border-none"}

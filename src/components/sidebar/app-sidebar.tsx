@@ -16,10 +16,10 @@ import { useBookSetting } from "@/providers/book-provider";
 
 export function AppSidebar() {
   const [testament, setTestament] = useState<"newTestament" | "oldTestament">('oldTestament');
-  const { book: currentBook, setBook } = useBookSetting();
+  const { book: currentBook, setBook, fontFamily } = useBookSetting();
 
   return (
-    <Sidebar>
+    <Sidebar className={fontFamily === "Inter" ? "font-inter" : "font-source-serif"}>
       <SidebarContent className="overflow-hidden">
         <SidebarGroup className="p-0">
           <SidebarGroupLabel className="flex flex-row w-full justify-between items-center bg-zinc-100 dark:bg-zinc-800">

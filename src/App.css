@@ -12,6 +12,12 @@ body {
   overflow: auto;
 }
 
+@font-face {
+  font-family: "Source-Serif-Pro-Regular";
+  src: local("SourceSerifPro-Regular"),
+    url("src/assets/fonts/SourceSerifPro-Regular.otf");
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;

@@ -3,14 +3,18 @@ import { VerseHighlightColor } from "./verse-type"
 export type BookTestamentType = "newTestament" | "oldTestament"
 
 export type LocalStorageBookObject = {
-  book1: BookName
-  book1Chapter: number
-  book1Version: string // TODO - create a type for version type
-  book1HighlightedVerses?: VerseHighlightColor[]
-  book2?: BookName
-  book2Chapter?: number
-  book2Version?: string // TODO - create a type for version type
-  book2HighlightedVerses?: VerseHighlightColor[]
+  book1: {
+    name: BookName
+    chapter: number
+    version: string // TODO - create a type for version type
+    highlightedVerses: VerseHighlightColor[]
+  }
+  book2?: {
+    name: BookName | undefined
+    chapter?: number
+    version?: string // TODO - create a type for version type
+    highlightedVerses?: VerseHighlightColor[]
+  }
 }
 
 export type BookName = "genesis" | "exodus" | "leviticus" | "numbers" | "deuteronomy" | "joshua" | "judges" | "ruth" | "1samuel" | "2samuel" | "1king" | "2king" | "1chronicle" | "2chronicle" | "ezra" | "nehemiah" | "esther" | "job" | "psalms" | "proverbs" | "ecclesiastes" | "songofsong" | "isaiah" | "jeremiah" | "lamentations" | "ezekiel" | "daniel" | "hosea" | "joel" | "amos" | "obadiah" | "jonah" | "micah" | "nahum" | "habakkuk" | "zephaniah" | "haggai" | "zechariah" | "malachi" | "matthew" | "mark" | "luke" | "john" | "acts" | "romans" | "1corinthian" | "2corinthian" | "galatians" | "ephesians" | "philippians" | "colossians" | "1thessalonian" | "2thessalonian" | "1timoth" | "2timoth" | "titus" | "philemon" | "hebrews" | "james" | "1pete" | "2pete" | "1joh" | "2joh" | "3joh" | "jude" | "revelation";

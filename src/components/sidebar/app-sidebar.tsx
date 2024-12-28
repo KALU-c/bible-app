@@ -32,8 +32,8 @@ export function AppSidebar() {
                 <SidebarMenuItem key={book.value}>
                   <SidebarMenuButton
                     asChild
-                    className={`rounded-none text-sm font-medium mb-1 hover:bg-zinc-200 dark:hover:bg-zinc-700 ${book.value === currentBook.book1 ? "bg-zinc-300 dark:bg-zinc-700" : ""}`}
-                    onClick={() => setBook({ ...currentBook, book1: book.value, book1Chapter: 1 })}
+                    className={`rounded-none text-sm font-medium mb-1 hover:bg-zinc-200 dark:hover:bg-zinc-700 ${book.value === currentBook.book1.name ? "bg-zinc-300 dark:bg-zinc-700" : ""}`}
+                    onClick={() => setBook({ ...currentBook, book1: { ...currentBook.book1, name: book.value, chapter: 1 } })}
                   >
                     <a href={`#`}>{book.label}</a>
                   </SidebarMenuButton>
@@ -42,14 +42,14 @@ export function AppSidebar() {
             </SidebarMenu>
             {/* TODO - when testament change the chapter list will be empty, it have to be hidden */}
             <SidebarMenu className="w-[50px] border-l max-h-[88vh] sticky top-0 overflow-y-auto scrollbar dark:scrollbar-dark">
-              {Array.from({ length: bibleBooks[testament].find(item => item.value === currentBook.book1)?.chapterNumber || 0 }, (_, index) => (
+              {Array.from({ length: bibleBooks[testament].find(item => item.value === currentBook.book1.name)?.chapterNumber || 0 }, (_, index) => (
                 <SidebarMenuItem
                   key={index + 1}
                 >
                   <SidebarMenuButton
                     asChild
-                    className={`rounded-none text-sm font-medium mb-1 hover:bg-zinc-200 dark:hover:bg-zinc-700 flex items-center justify-center ${currentBook.book1Chapter === (index + 1) ? "bg-zinc-300 dark:bg-zinc-700" : ""}`}
-                    onClick={() => setBook({ ...currentBook, book1Chapter: (index + 1) })}
+                    className={`rounded-none text-sm font-medium mb-1 hover:bg-zinc-200 dark:hover:bg-zinc-700 flex items-center justify-center ${currentBook.book1.chapter === (index + 1) ? "bg-zinc-300 dark:bg-zinc-700" : ""}`}
+                    onClick={() => setBook({ ...currentBook, book1: { ...currentBook.book1, chapter: (index + 1) } })}
                   >
                     <a href={`#`} className="text-center">{index + 1}</a>
                   </SidebarMenuButton>

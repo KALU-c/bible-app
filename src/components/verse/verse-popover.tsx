@@ -8,8 +8,11 @@ import { CircleSlash2, Copy, Forward } from "lucide-react"
 import { Label } from "../ui/label"
 import { Separator } from "../ui/separator"
 import { Button } from "../ui/button"
+import { LocalStorageBookObject } from "@/types/book-type"
 
 type VersePopoverType = {
+  book: LocalStorageBookObject
+  setBook: (book: LocalStorageBookObject) => void
   verse: VerseType,
   isVerseFocused: VerseFocusType[],
   setIsVerseFocused: React.Dispatch<React.SetStateAction<VerseFocusType[]>>
@@ -19,6 +22,8 @@ type VersePopoverType = {
 }
 
 const VersePopover = ({
+  book,
+  setBook,
   verse,
   highlightColor,
   isVerseFocused,
@@ -38,6 +43,14 @@ const VersePopover = ({
       ...highlightColor,
       ...newHighlights
     ]);
+
+    setBook({
+      ...book,
+      book1: {
+        ...book.book1,
+        highlightedVerses: highlightColor
+      }
+    });
 
     // cleans all selected verses after highlighting
     setIsVerseFocused([])

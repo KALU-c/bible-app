@@ -7,16 +7,22 @@ import { useEffect, useState } from "react"
 
 
 const Reader = () => {
-  const { isParallel, book: { book1: book, book1Chapter } } = useBookSetting();
+  const { isParallel, book, setBook } = useBookSetting();
   const { isMobile } = useSidebar();
 
+  const { name: bookName, chapter: book1Chapter, highlightedVerses: book1HighlightedVerses } = book.book1;
+
   const [isVerseFocused, setIsVerseFocused] = useState<VerseFocusType[]>([]);
-  const [highlightColor, setHighlightColor] = useState<VerseHighlightColor[]>([]);
+  const [highlightColor, setHighlightColor] = useState<VerseHighlightColor[]>(book1HighlightedVerses);
   const [book1, setBook1] = useState<BookItemType[]>([]);
 
   useEffect(() => {
-    getBookByChapter(book, book1Chapter).then(res => setBook1(res));
-  }, [book, book1Chapter]);
+    if (!bookName || !book1Chapter) {
+      getBookByChapter("genesis", 1).then(res => setBook1(res));
+    } else {
+      getBookByChapter(bookName, book1Chapter).then(res => setBook1(res));
+    }
+  }, [bookName, book1Chapter]);
 
   // TODO - make it work
   function handleClick(verse: VerseType) {
@@ -40,12 +46,14 @@ const Reader = () => {
       style={isParallel === "single" ? (!isMobile ? { marginLeft: 384 } : {}) : {}}
     >
       <div>
-        <h1 className="text-center text-lg mb-6 font-semibold text-muted-foreground">{book.toUpperCase()} {book1Chapter}</h1>
+        <h1 className="text-center text-lg mb-6 font-semibold text-muted-foreground">{bookName.toUpperCase()} {book1Chapter}</h1>
         {book1.map((verse, index) => (
           <>
             {(verse.type === "paragraph text" || verse.type === "line text") && (
               <VersePopover
-                key={index}
+                key={verse.chapterNumber + verse.verseNumber + index}
+                book={book}
+                setBook={setBook}
                 verse={verse}
                 highlightColor={highlightColor}
                 isVerseFocused={isVerseFocused}
@@ -95,7 +103,7 @@ const Reader = () => {
           </>
         ))}
       </div>
-    </div>
+    </div >
   )
 }
 

@@ -62,7 +62,6 @@ export function BibleVersionSelector() {
       setSelectedLanguage(currentValue)
       setMode("version")
       setValue("")
-      console.log(items);
     } else {
       setValue(currentValue)
       setOpen(false)

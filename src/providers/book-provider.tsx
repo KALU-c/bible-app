@@ -26,14 +26,18 @@ type BookProviderState = {
 
 const initialState: BookProviderState = {
   book: {
-    book1: "genesis",
-    book1Chapter: 1,
-    book1Version: "ASV", // TODO - change this to correct version
-    book1HighlightedVerses: [],
-    book2: undefined,
-    book2Chapter: undefined,
-    book2Version: undefined,
-    book2HighlightedVerses: []
+    book1: {
+      name: "genesis",
+      chapter: 1,
+      version: "ASV", // TODO - change this to correct version
+      highlightedVerses: [],
+    },
+    book2: {
+      name: undefined,
+      chapter: undefined,
+      version: undefined,
+      highlightedVerses: []
+    }
   },
   setBook: () => null,
   isParallel: "single",
@@ -51,7 +55,7 @@ export const BookProvider = ({
   ...props
 }: BookProviderProps) => {
   const localBook = (localStorage.getItem(BOOK_STORAGE_KEY));
-  const parsedBook = localBook ? JSON.parse(localBook) : "";
+  const parsedBook = localBook ? JSON.parse(localBook) : initialState;
   const [book, setBook] = useState<LocalStorageBookObject>(
     () => (parsedBook as LocalStorageBookObject) || initialState.book
   )

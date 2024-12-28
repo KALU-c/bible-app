@@ -17,7 +17,7 @@ export type LocalStorageBookObject = {
   }
 }
 
-export type BookName = "genesis" | "exodus" | "leviticus" | "numbers" | "deuteronomy" | "joshua" | "judges" | "ruth" | "1samuel" | "2samuel" | "1king" | "2king" | "1chronicle" | "2chronicle" | "ezra" | "nehemiah" | "esther" | "job" | "psalms" | "proverbs" | "ecclesiastes" | "songofsong" | "isaiah" | "jeremiah" | "lamentations" | "ezekiel" | "daniel" | "hosea" | "joel" | "amos" | "obadiah" | "jonah" | "micah" | "nahum" | "habakkuk" | "zephaniah" | "haggai" | "zechariah" | "malachi" | "matthew" | "mark" | "luke" | "john" | "acts" | "romans" | "1corinthian" | "2corinthian" | "galatians" | "ephesians" | "philippians" | "colossians" | "1thessalonian" | "2thessalonian" | "1timoth" | "2timoth" | "titus" | "philemon" | "hebrews" | "james" | "1pete" | "2pete" | "1joh" | "2joh" | "3joh" | "jude" | "revelation";
+export type BookName = "genesis" | "exodus" | "leviticus" | "numbers" | "deuteronomy" | "joshua" | "judges" | "ruth" | "1samuel" | "2samuel" | "1kings" | "2kings" | "1chronicles" | "2chronicles" | "ezra" | "nehemiah" | "esther" | "job" | "psalms" | "proverbs" | "ecclesiastes" | "songofsolomon" | "isaiah" | "jeremiah" | "lamentations" | "ezekiel" | "daniel" | "hosea" | "joel" | "amos" | "obadiah" | "jonah" | "micah" | "nahum" | "habakkuk" | "zephaniah" | "haggai" | "zechariah" | "malachi" | "matthew" | "mark" | "luke" | "john" | "acts" | "romans" | "1corinthians" | "2corinthians" | "galatians" | "ephesians" | "philippians" | "colossians" | "1thessalonians" | "2thessalonians" | "1timothy" | "2timothy" | "titus" | "philemon" | "hebrews" | "james" | "1pete" | "2pete" | "1joh" | "2joh" | "3joh" | "jude" | "revelation";
 
 
 export const AllBookType = [
@@ -31,10 +31,10 @@ export const AllBookType = [
   { name: "ruth", totalChapter: 4 },
   { name: "1samuel", totalChapter: 31 },
   { name: "2samuel", totalChapter: 24 },
-  { name: "1king", totalChapter: 22 },
-  { name: "2king", totalChapter: 25 },
-  { name: "1chronicle", totalChapter: 29 },
-  { name: "2chronicle", totalChapter: 36 },
+  { name: "1kings", totalChapter: 22 },
+  { name: "2kings", totalChapter: 25 },
+  { name: "1chronicles", totalChapter: 29 },
+  { name: "2chronicles", totalChapter: 36 },
   { name: "ezra", totalChapter: 10 },
   { name: "nehemiah", totalChapter: 13 },
   { name: "esther", totalChapter: 10 },
@@ -42,7 +42,7 @@ export const AllBookType = [
   { name: "psalms", totalChapter: 150 },
   { name: "proverbs", totalChapter: 31 },
   { name: "ecclesiastes", totalChapter: 12 },
-  { name: "songofsong", totalChapter: 8 },
+  { name: "songofsolomon", totalChapter: 8 },
   { name: "isaiah", totalChapter: 66 },
   { name: "jeremiah", totalChapter: 52 },
   { name: "lamentations", totalChapter: 5 },
@@ -66,16 +66,16 @@ export const AllBookType = [
   { name: "john", totalChapter: 21 },
   { name: "acts", totalChapter: 28 },
   { name: "romans", totalChapter: 16 },
-  { name: "1corinthian", totalChapter: 16 },
-  { name: "2corinthian", totalChapter: 13 },
+  { name: "1corinthians", totalChapter: 16 },
+  { name: "2corinthians", totalChapter: 13 },
   { name: "galatians", totalChapter: 6 },
   { name: "ephesians", totalChapter: 6 },
   { name: "philippians", totalChapter: 4 },
   { name: "colossians", totalChapter: 4 },
-  { name: "1thessalonian", totalChapter: 5 },
-  { name: "2thessalonian", totalChapter: 3 },
-  { name: "1timoth", totalChapter: 6 },
-  { name: "2timoth", totalChapter: 4 },
+  { name: "1thessalonians", totalChapter: 5 },
+  { name: "2thessalonians", totalChapter: 3 },
+  { name: "1timothy", totalChapter: 6 },
+  { name: "2timothy", totalChapter: 4 },
   { name: "titus", totalChapter: 3 },
   { name: "philemon", totalChapter: 1 },
   { name: "hebrews", totalChapter: 13 },

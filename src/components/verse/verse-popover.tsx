@@ -21,21 +21,25 @@ type VersePopoverType = {
 const VersePopover = ({
   verse,
   highlightColor,
+  isVerseFocused,
   setHighlightColor,
   setIsVerseFocused,
   children
 }: VersePopoverType) => {
 
-  // function handleHighlight(bgColor: string) {
-  // todo - make it to highlight all the selected verses
-  // const highlightAllSelectedVerses = highlightColor.ma
-  // }
+  function handleHighlightVerse(highlightBackgroundColor: string) {
+    const newHighlights: VerseHighlightColor[] = isVerseFocused.map(verse => ({
+      verse: verse.verse,
+      backgroundColor: highlightBackgroundColor
+    }));
 
-  function handleHighlightVerse(verse: VerseType, highlightBackgroundColor: string) {
+    // Highlight all selected verse 
     setHighlightColor([
       ...highlightColor,
-      { verse: verse.verseNumber, backgroundColor: highlightBackgroundColor }])
-    // TODO - remove verse from isVerseFocused after highlight
+      ...newHighlights
+    ]);
+
+    // cleans all selected verses after highlighting
     setIsVerseFocused([])
   };
 
@@ -56,19 +60,19 @@ const VersePopover = ({
             </span>
             <span
               className="w-[30px] h-[30px] bg-green-300 rounded-full cursor-pointer"
-              onClick={() => handleHighlightVerse(verse, "green-300")}
+              onClick={() => handleHighlightVerse("green-300")}
             ></span>
             <span
               className="w-[30px] h-[30px] bg-blue-300 rounded-full cursor-pointer"
-              onClick={() => handleHighlightVerse(verse, "blue-300")}
+              onClick={() => handleHighlightVerse("blue-300")}
             ></span>
             <span
               className="w-[30px] h-[30px] bg-red-300 rounded-full cursor-pointer"
-              onClick={() => handleHighlightVerse(verse, "red-300")}
+              onClick={() => handleHighlightVerse("red-300")}
             ></span>
             <span
               className="w-[30px] h-[30px] bg-yellow-300 rounded-full cursor-pointer"
-              onClick={() => handleHighlightVerse(verse, "yellow-300")}
+              onClick={() => handleHighlightVerse("yellow-300")}
             ></span>
           </div>
         </div>

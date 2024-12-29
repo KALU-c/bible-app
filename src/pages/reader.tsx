@@ -4,6 +4,8 @@ import VersePopover from "@/components/verse/verse-popover"
 import { useBookSetting } from "@/providers/book-provider"
 import { VerseFocusType, VerseType } from "@/types/verse-type"
 import { useEffect, useState } from "react"
+import LongText from "./LongText"
+import { ResizableHandle, ResizablePanel, ResizablePanelGroup } from "@/components/ui/resizable"
 
 
 const Reader = () => {
@@ -55,11 +57,13 @@ const Reader = () => {
   }
 
   return (
-    <div
-      className={isParallel === "single" ? "xl:mx-96 md:mx-16 sm:mx-4 mx-2 py-4" : "sm:grid grid-cols-2 w-full xl:gap-24 sm:gap-14 xl:px-20 px-10"}
-      style={isParallel === "single" ? (!isMobile ? { marginLeft: 384 } : {}) : {}}
+    <ResizablePanelGroup
+      direction="horizontal"
+      className={(isParallel === "single") ? "md:mx-16 sm:mx-4 mx-2 py-4 px-96" : "w-full"}
     >
-      <div>
+      <ResizablePanel
+        className={isParallel === "double" ? (isMobile ? "px-6" : "px-24") : ""}
+      >
         <h1 className="text-center text-lg mb-6 font-semibold text-muted-foreground">{bookName.toUpperCase()} {book1Chapter}</h1>
         {book1.map((verse, index) => (
           <>
@@ -119,8 +123,16 @@ const Reader = () => {
             )}
           </>
         ))}
-      </div>
-    </div >
+      </ResizablePanel>
+      {isParallel === "double" && <ResizableHandle withHandle />}
+      <ResizablePanel
+        minSize={isParallel === "double" ? 30 : 0}
+        maxSize={isParallel === "double" ? 60 : 0}
+        className={`h-full w-full ${isParallel === "single" ? "hidden" : "block px-4"}`}
+      >
+        <LongText />
+      </ResizablePanel>
+    </ResizablePanelGroup>
   )
 }
 

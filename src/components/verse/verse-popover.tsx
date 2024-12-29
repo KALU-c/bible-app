@@ -52,7 +52,7 @@ const VersePopover = ({
       }
     });
 
-    console.log(highlightColor);
+    // console.log(highlightColor);
 
     // cleans all selected verses after highlighting
     setIsVerseFocused([])

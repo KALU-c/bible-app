@@ -7,8 +7,8 @@ const PreviousChapterButton = () => {
 
   return (
     <Button
-      className={`rounded-full p-2.5 fixed md:top-[50%] bottom-4 left-10 ${open ? 'left-52' : ''}`}
-      variant="secondary"
+      className={`rounded-full p-2.5 fixed lg:top-[50%] bottom-4 left-10 ${open ? 'left-52' : ''}`}
+      variant="ghost"
     >
       <ChevronLeft />
     </Button>

@@ -2,7 +2,7 @@ import { BookItemType, getBookByChapter } from "@/assets/book/formatted-json"
 import { useSidebar } from "@/components/ui/sidebar"
 import VersePopover from "@/components/verse/verse-popover"
 import { useBookSetting } from "@/providers/book-provider"
-import { VerseFocusType, VerseHighlightColor, VerseType } from "@/types/verse-type"
+import { VerseFocusType, VerseType } from "@/types/verse-type"
 import { useEffect, useState } from "react"
 
 
@@ -10,10 +10,9 @@ const Reader = () => {
   const { isParallel, book, setBook, fontSize } = useBookSetting();
   const { isMobile } = useSidebar();
 
-  const { name: bookName, chapter: book1Chapter, highlightedVerses: book1HighlightedVerses } = book.book1;
+  const { name: bookName, chapter: book1Chapter, highlightedVerses: highlightColor } = book.book1;
 
   const [isVerseFocused, setIsVerseFocused] = useState<VerseFocusType[]>([]);
-  const [highlightColor, setHighlightColor] = useState<VerseHighlightColor[]>(book1HighlightedVerses);
   const [book1, setBook1] = useState<BookItemType[]>([]);
 
   useEffect(() => {
@@ -23,6 +22,19 @@ const Reader = () => {
       getBookByChapter(bookName, book1Chapter).then(res => setBook1(res));
     }
   }, [bookName, book1Chapter]);
+
+  function setHighlightedVerse(verse: VerseType) {
+    setBook({
+      ...book,
+      book1: {
+        ...book.book1,
+        highlightedVerses: [
+          ...highlightColor,
+          { book: bookName, chapter: book1Chapter, verse: verse.verseNumber }
+        ]
+      }
+    })
+  }
 
   // TODO - make it work
   function handleClick(verse: VerseType) {
@@ -36,7 +48,9 @@ const Reader = () => {
     }
 
     if (isVerseFocusedRn && !isVerseHighlighted) {
-      setHighlightColor([...highlightColor, { book: bookName, chapter: book1Chapter, verse: verse.verseNumber }]);
+      // setHighlightColor([]);
+      setHighlightedVerse(verse);
+
     }
   }
 
@@ -58,18 +72,17 @@ const Reader = () => {
                 highlightColor={highlightColor}
                 isVerseFocused={isVerseFocused}
                 setIsVerseFocused={setIsVerseFocused}
-                setHighlightColor={setHighlightColor}
               >
                 <span
                   style={highlightColor.find(item => item.verse === verse.verseNumber) && {
-                    color: highlightColor.find(item => item.verse === verse.verseNumber)?.textColor
+                    color: highlightColor.find(item => item.verse === verse.verseNumber)?.textColor,
+                    backgroundColor: highlightColor?.find(item => (item.verse === verse.verseNumber && item.book === bookName && item.chapter === verse.chapterNumber))?.backgroundColor
                   }}
                   className={`
                     mb-1 cursor-pointer p-1 
                     ${fontSize === "small" ? "text-[16px]" : ""}
                     ${fontSize === "medium" ? "text-[18px]" : ""}
                     ${fontSize === "large" ? "text-[20px]" : ""}
-                    bg-${highlightColor?.find(item => (item.verse === verse.verseNumber && item.book === bookName && item.chapter === verse.chapterNumber))?.backgroundColor}
                     ${highlightColor?.find(item => (item.verse === verse.verseNumber && item.book === bookName && item.chapter === verse.chapterNumber)) ? "dark:text-black" : ""}
                     ${isVerseFocused.find(item => item.verse === verse.verseNumber)
                       ? `border-b border-dotted border-b-black dark:border-b-white rounded-sm`

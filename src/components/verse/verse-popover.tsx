@@ -17,7 +17,6 @@ type VersePopoverType = {
   isVerseFocused: VerseFocusType[],
   setIsVerseFocused: React.Dispatch<React.SetStateAction<VerseFocusType[]>>
   highlightColor: VerseHighlightColor[]
-  setHighlightColor: (highlightColor: VerseHighlightColor[]) => void
   children: React.ReactNode
 }
 
@@ -27,12 +26,12 @@ const VersePopover = ({
   verse,
   highlightColor,
   isVerseFocused,
-  setHighlightColor,
   setIsVerseFocused,
   children
 }: VersePopoverType) => {
 
   function handleHighlightVerse(highlightBackgroundColor: string) {
+    // TODO - overwrite the backgroundColor is the verse already exist
     const newHighlights: VerseHighlightColor[] = isVerseFocused.map(verse => ({
       book: book.book1.name,
       chapter: book.book1.chapter,
@@ -40,21 +39,20 @@ const VersePopover = ({
       backgroundColor: highlightBackgroundColor
     }));
 
-    // Highlight all selected verse 
-    setHighlightColor([
-      ...highlightColor,
-      ...newHighlights
-    ]);
-
     // TODO - saves the last highlighted verse not the present
     // TODO - can't change already highlighted color
     setBook({
       ...book,
       book1: {
         ...book.book1,
-        highlightedVerses: highlightColor
+        highlightedVerses: [
+          ...highlightColor,
+          ...newHighlights
+        ]
       }
     });
+
+    console.log(highlightColor);
 
     // cleans all selected verses after highlighting
     setIsVerseFocused([])
@@ -71,25 +69,25 @@ const VersePopover = ({
           <div className="flex flex-row justify-between">
             <span
               className="w-[30px] h-[30px] rounded-full cursor-pointer flex items-center justify-center"
-            // onClick={() => handleHighlightVerse("")}
+              onClick={() => handleHighlightVerse("none")}
             >
               <CircleSlash2 />
             </span>
             <span
               className="w-[30px] h-[30px] bg-green-300 rounded-full cursor-pointer"
-              onClick={() => handleHighlightVerse("green-300")}
+              onClick={() => handleHighlightVerse("#86efac")}
             ></span>
             <span
               className="w-[30px] h-[30px] bg-blue-300 rounded-full cursor-pointer"
-              onClick={() => handleHighlightVerse("blue-300")}
+              onClick={() => handleHighlightVerse("#93c5fd")}
             ></span>
             <span
               className="w-[30px] h-[30px] bg-red-300 rounded-full cursor-pointer"
-              onClick={() => handleHighlightVerse("red-300")}
+              onClick={() => handleHighlightVerse("#fca5a5")}
             ></span>
             <span
               className="w-[30px] h-[30px] bg-yellow-300 rounded-full cursor-pointer"
-              onClick={() => handleHighlightVerse("yellow-300")}
+              onClick={() => handleHighlightVerse("#fde047")}
             ></span>
           </div>
         </div>

@@ -59,76 +59,78 @@ const Reader = () => {
       direction="horizontal"
       className={(isParallel === "single") ? (open ? "px-64 py-4" : "py-4 xl:px-80 lg:px-52 md:px-16 sm:px-4") : "w-full"}
     >
-      <ResizablePanel
-        className={isParallel === "double" ? (isMobile ? "px-6" : "px-24") : ""}
-      >
-        <h1 className="text-center text-lg mb-6 font-semibold text-muted-foreground">{bookName.toUpperCase()} {book1Chapter}</h1>
-        {book1.map((verse, index) => (
-          <>
-            {(verse.type === "paragraph text" || verse.type === "line text") && (
-              <VersePopover
-                key={verse.chapterNumber + verse.verseNumber + index}
-                book={book}
-                setBook={setBook}
-                verse={verse}
-                highlightColor={highlightColor}
-                isVerseFocused={isVerseFocused}
-                setIsVerseFocused={setIsVerseFocused}
-              >
-                <span
-                  style={highlightColor.find(item => item.verse === verse.verseNumber) && {
-                    color: highlightColor.find(item => item.verse === verse.verseNumber)?.textColor,
-                    backgroundColor: highlightColor?.find(item => (item.verse === verse.verseNumber && item.book === bookName && item.chapter === verse.chapterNumber))?.backgroundColor
-                  }}
-                  className={`
+      <ResizablePanel>
+        <div className={isParallel === "double" ? `overflow-auto max-h-[94vh] scrollbar dark:scrollbar-dark py-4 ${(isMobile ? "px-6" : "px-24")}` : "py-4"}>
+          <h1 className="text-center text-lg mb-6 font-semibold text-muted-foreground">{bookName.toUpperCase()} {book1Chapter}</h1>
+          {book1.map((verse, index) => (
+            <>
+              {(verse.type === "paragraph text" || verse.type === "line text") && (
+                <VersePopover
+                  key={verse.chapterNumber + verse.verseNumber + index}
+                  book={book}
+                  setBook={setBook}
+                  verse={verse}
+                  highlightColor={highlightColor}
+                  isVerseFocused={isVerseFocused}
+                  setIsVerseFocused={setIsVerseFocused}
+                >
+                  <span
+                    style={highlightColor.find(item => item.verse === verse.verseNumber) && {
+                      color: highlightColor.find(item => item.verse === verse.verseNumber)?.textColor,
+                      backgroundColor: highlightColor?.find(item => (item.verse === verse.verseNumber && item.book === bookName && item.chapter === verse.chapterNumber))?.backgroundColor
+                    }}
+                    className={`
                     mb-1 cursor-pointer p-1 
                     ${fontSize === "small" ? "text-[16px]" : ""}
                     ${fontSize === "medium" ? "text-[18px]" : ""}
                     ${fontSize === "large" ? "text-[20px]" : ""}
                     ${highlightColor?.find(item => (item.verse === verse.verseNumber && item.book === bookName && item.chapter === verse.chapterNumber)) ? "dark:text-black" : ""}
                     ${isVerseFocused.find(item => item.verse === verse.verseNumber)
-                      ? `border-b border-dotted border-b-black dark:border-b-white rounded-sm`
-                      : "border-none"}
+                        ? `border-b border-dotted border-b-black dark:border-b-white rounded-sm`
+                        : "border-none"}
                   `}
-                  onClick={() => handleClick(verse)}
-                >
-                  <sup
-                    className={`
+                    onClick={() => handleClick(verse)}
+                  >
+                    <sup
+                      className={`
                   text-xs text-blue-500 mr-1 
                   ${(verse.type === "line text" && verse.value === " ") && "hidden"}
                   ${(verse.sectionNumber !== 1 && "hidden")}
                 `}
-                  >
-                    {verse.verseNumber}
-                  </sup>
-                  {verse.value}
-                </span>
-              </VersePopover>
-            )}
+                    >
+                      {verse.verseNumber}
+                    </sup>
+                    {verse.value}
+                  </span>
+                </VersePopover>
+              )}
 
-            {verse.type === "paragraph end" && (
-              <>
-                <br />
-                <br />
-              </>
-            )}
+              {verse.type === "paragraph end" && (
+                <>
+                  <br />
+                  <br />
+                </>
+              )}
 
-            {verse.type === "stanza end" && (
-              <>
-                <br />
-                <br />
-              </>
-            )}
-          </>
-        ))}
+              {verse.type === "stanza end" && (
+                <>
+                  <br />
+                  <br />
+                </>
+              )}
+            </>
+          ))}
+        </div>
       </ResizablePanel>
       {isParallel === "double" && <ResizableHandle withHandle />}
       <ResizablePanel
         minSize={isParallel === "double" ? 30 : 0}
         maxSize={isParallel === "double" ? 60 : 0}
-        className={`h-full w-full ${isParallel === "single" ? "hidden" : "block px-4"}`}
+        className={`h-full w-full ${isParallel === "single" ? "hidden" : "block px-1"}`}
       >
-        <LongText />
+        <div className="overflow-auto max-h-[93vh] scrollbar dark:scrollbar-dark px-2">
+          <LongText />
+        </div>
       </ResizablePanel>
     </ResizablePanelGroup>
   )

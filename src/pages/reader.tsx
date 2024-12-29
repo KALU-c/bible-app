@@ -10,7 +10,7 @@ import { ResizableHandle, ResizablePanel, ResizablePanelGroup } from "@/componen
 
 const Reader = () => {
   const { isParallel, book, setBook, fontSize } = useBookSetting();
-  const { isMobile } = useSidebar();
+  const { isMobile, open } = useSidebar();
 
   const { name: bookName, chapter: book1Chapter, highlightedVerses: highlightColor } = book.book1;
 
@@ -50,16 +50,14 @@ const Reader = () => {
     }
 
     if (isVerseFocusedRn && !isVerseHighlighted) {
-      // setHighlightColor([]);
       setHighlightedVerse(verse);
-
     }
   }
 
   return (
     <ResizablePanelGroup
       direction="horizontal"
-      className={(isParallel === "single") ? "md:mx-16 sm:mx-4 mx-2 py-4 px-96" : "w-full"}
+      className={(isParallel === "single") ? (open ? "px-64 py-4" : "py-4 xl:px-80 lg:px-52 md:px-16 sm:px-4") : "w-full"}
     >
       <ResizablePanel
         className={isParallel === "double" ? (isMobile ? "px-6" : "px-24") : ""}

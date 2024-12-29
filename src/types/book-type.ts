@@ -9,11 +9,11 @@ export type LocalStorageBookObject = {
     version: string // TODO - create a type for version type
     highlightedVerses: VerseHighlightColor[]
   }
-  book2?: {
+  book2: {
     name: BookName | undefined
-    chapter?: number
-    version?: string // TODO - create a type for version type
-    highlightedVerses?: VerseHighlightColor[]
+    chapter: number
+    version: string // TODO - create a type for version type
+    highlightedVerses: VerseHighlightColor[]
   }
 }
 

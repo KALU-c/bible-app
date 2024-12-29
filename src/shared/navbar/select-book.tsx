@@ -204,7 +204,7 @@ export function SelectBook() {
       <PopoverContent className="w-[200px] p-0">
         <Command>
           <CommandInput placeholder="Search book..." />
-          <CommandList>
+          <CommandList className="scrollbar dark:scrollbar-dark">
             <CommandEmpty>No book found.</CommandEmpty>
             <CommandGroup>
               {books.map((framework) => (

@@ -1,5 +1,5 @@
 import * as React from "react"
-import { ArrowDownUp, Check, ChevronsUpDown } from "lucide-react"
+import { Check, ChevronsUpDown, Globe } from "lucide-react"
 
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
@@ -86,13 +86,13 @@ export function BibleVersionSelector() {
           variant="ghost"
           role="combobox"
           aria-expanded={open}
-          className="justify-between lg:w-[350px] sm:w-[250px] border-b border-b-zinc-400 dark:border-b-zinc-700"
+          className="justify-between lg:w-[250px] sm:w-[250px] border-b border-b-zinc-400 dark:border-b-zinc-700"
         >
           {getCurrentLabel()}
           <ChevronsUpDown className="ml-2 h-4 w-4 shrink-0 opacity-50" />
         </Button>
       </PopoverTrigger>
-      <PopoverContent className="w-[300px] p-0">
+      <PopoverContent className="w-[250px] p-0">
         <Command>
           <CommandList>
             <CommandInput
@@ -101,9 +101,9 @@ export function BibleVersionSelector() {
             <CommandEmpty>No {mode} found.</CommandEmpty>
             <CommandGroup className="p-0">
               {mode === "version" && (
-                <div className="flex justify-between items-center p-2">
-                  <div className="flex flex-col">
-                    <span className="text-muted-foreground text-xs">Bible Language</span>
+                <div className="flex justify-between items-center px-4 py-2">
+                  <div className="flex items-center gap-2">
+                    <span className="text-muted-foreground text-xs">Current Language:</span>
                     <span className="font-medium text-sm">{languages.find(
                       v => v.value === selectedLanguage
                     )?.label}</span>
@@ -117,8 +117,7 @@ export function BibleVersionSelector() {
                       setValue("")
                     }}
                   >
-                    Change language
-                    <ArrowDownUp />
+                    <Globe />
                   </CommandItem>
                 </div>
               )}
@@ -128,10 +127,11 @@ export function BibleVersionSelector() {
                   <CommandItem
                     key={item.value}
                     onSelect={() => handleSelect(item.value)}
+                    className="py-1"
                   >
                     <Check
                       className={cn(
-                        "mr-2 h-4 w-4",
+                        "h-4 w-4",
                         value === item.value ? "opacity-100" : "opacity-0"
                       )}
                     />

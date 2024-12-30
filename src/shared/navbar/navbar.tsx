@@ -1,12 +1,13 @@
 import ModeToggleQuick from "@/global/mode-toggle-two"
 import ChangeFont from "./change-font"
 import ParallelToggle from "./parallel-toggle"
-import PlaySound from "./play-sound"
+// import PlaySound from "./play-sound"
 import { SelectBook } from "./select-book"
 import MoreButton from "./more-button"
 import { SidebarTrigger } from "@/components/ui/sidebar"
 // import { BibleVersionSelector } from "./select-language-and-version"
 import { useBookSetting } from "@/providers/book-provider"
+import ToggleNote from "./toggle-note"
 
 const Navbar = () => {
   const { isParallel } = useBookSetting();
@@ -24,10 +25,11 @@ const Navbar = () => {
           </div>
         )}
         {/* right sidebar tools */}
-        <div className="flex gap-1 items-center">
+        <div className="flex gap-2 items-center">
           <ModeToggleQuick />
-          <PlaySound />
+          {/* <PlaySound /> */}
           <ChangeFont />
+          <ToggleNote />
           <ParallelToggle />
           <MoreButton />
         </div>

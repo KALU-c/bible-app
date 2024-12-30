@@ -33,9 +33,9 @@ const initialState: BookProviderState = {
       highlightedVerses: [],
     },
     book2: {
-      name: undefined,
-      chapter: undefined,
-      version: undefined,
+      name: "genesis",
+      chapter: 1,
+      version: "KJV", // TODO - change this to correct version
       highlightedVerses: []
     }
   },

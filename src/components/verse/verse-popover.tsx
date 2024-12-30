@@ -9,6 +9,7 @@ import { Label } from "../ui/label"
 import { Separator } from "../ui/separator"
 import { Button } from "../ui/button"
 import { LocalStorageBookObject } from "@/types/book-type"
+import { BookItemType } from "@/assets/book/formatted-json"
 
 type VersePopoverType = {
   book: LocalStorageBookObject
@@ -18,10 +19,14 @@ type VersePopoverType = {
   setIsVerseFocused: React.Dispatch<React.SetStateAction<VerseFocusType[]>>
   highlightColor: VerseHighlightColor[]
   children: React.ReactNode
+  book1?: BookItemType[]
+  book2?: BookItemType[]
 }
 
 const VersePopover = ({
   book,
+  // book1,
+  book2,
   setBook,
   verse,
   highlightColor,
@@ -31,31 +36,59 @@ const VersePopover = ({
 }: VersePopoverType) => {
 
   function handleHighlightVerse(highlightBackgroundColor: string) {
-    // TODO - overwrite the backgroundColor is the verse already exist
-    const newHighlights: VerseHighlightColor[] = isVerseFocused.map(verse => ({
-      book: book.book1.name,
-      chapter: book.book1.chapter,
-      verse: verse.verse,
-      backgroundColor: highlightBackgroundColor
-    }));
+    if (book2) {
+      // TODO - overwrite the backgroundColor is the verse already exist
+      const newHighlights: VerseHighlightColor[] = isVerseFocused.map(verse => ({
+        book: book.book2.name,
+        chapter: book.book2.chapter,
+        verse: verse.verse,
+        backgroundColor: highlightBackgroundColor
+      }));
 
-    // TODO - saves the last highlighted verse not the present
-    // TODO - can't change already highlighted color
-    setBook({
-      ...book,
-      book1: {
-        ...book.book1,
-        highlightedVerses: [
-          ...highlightColor,
-          ...newHighlights
-        ]
-      }
-    });
+      // TODO - saves the last highlighted verse not the present
+      // TODO - can't change already highlighted color
+      setBook({
+        ...book,
+        book2: {
+          ...book.book2,
+          highlightedVerses: [
+            ...highlightColor,
+            ...newHighlights
+          ]
+        }
+      });
 
-    console.log(highlightColor);
+      // console.log(highlightColor);
 
-    // cleans all selected verses after highlighting
-    setIsVerseFocused([])
+      // cleans all selected verses after highlighting
+      setIsVerseFocused([])
+    } else {
+      // TODO - overwrite the backgroundColor is the verse already exist
+      const newHighlights: VerseHighlightColor[] = isVerseFocused.map(verse => ({
+        book: book.book1.name,
+        chapter: book.book1.chapter,
+        verse: verse.verse,
+        backgroundColor: highlightBackgroundColor
+      }));
+
+      // TODO - saves the last highlighted verse not the present
+      // TODO - can't change already highlighted color
+      setBook({
+        ...book,
+        book1: {
+          ...book.book1,
+          highlightedVerses: [
+            ...highlightColor,
+            ...newHighlights
+          ]
+        }
+      });
+
+      // console.log(highlightColor);
+
+      // cleans all selected verses after highlighting
+      setIsVerseFocused([])
+    }
   };
 
   return (

@@ -4,7 +4,6 @@ import VersePopover from "@/components/verse/verse-popover"
 import { IsParallelType, useBookSetting } from "@/providers/book-provider"
 import { VerseFocusType, VerseType } from "@/types/verse-type"
 import { useEffect, useState } from "react"
-// import LongText from "./LongText"
 import { ResizableHandle, ResizablePanel, ResizablePanelGroup } from "@/components/ui/resizable"
 import { LocalStorageBookObject } from "@/types/book-type"
 import { FontSizeType } from "@/shared/navbar/change-font"
@@ -13,15 +12,6 @@ import { FontSizeType } from "@/shared/navbar/change-font"
 const Reader = () => {
   const { isParallel, book, setBook, fontSize } = useBookSetting();
   const { isMobile, open } = useSidebar();
-
-  // const { name: bookName, chapter: book1Chapter, highlightedVerses: highlightColor } = book.book1;
-
-
-
-
-
-
-
 
   return (
     <ResizablePanelGroup
@@ -124,7 +114,10 @@ const FirstBook = ({
 
   return (
     <div className={isParallel === "double" ? `overflow-auto max-h-[94vh] scrollbar dark:scrollbar-dark py-4 ${(isMobile ? "px-6" : "px-24")}` : "py-4"}>
-      <h1 className="text-center text-lg mb-6 font-semibold text-muted-foreground">{bookName.toUpperCase()} {book1Chapter}</h1>
+      <div className="mb-8 flex flex-col text-center">
+        <h1 className="text-center text-xl font-semibold text-muted-foreground">{bookName.toUpperCase()}</h1>
+        <span className="text-5xl">{book1Chapter}</span>
+      </div>
       {book1.map((verse, index) => (
         <>
           {(verse.type === "paragraph text" || verse.type === "line text") && (
@@ -247,7 +240,10 @@ const SecondBook = ({
 
   return (
     <div className={isParallel === "double" ? `overflow-auto max-h-[94vh] scrollbar dark:scrollbar-dark py-4 ${(isMobile ? "px-6" : "px-24")}` : "py-4"}>
-      <h1 className="text-center text-lg mb-6 font-semibold text-muted-foreground">{bookName.toUpperCase()} {book2Chapter}</h1>
+      <div className="mb-8 flex flex-col text-center">
+        <h1 className="text-center text-xl font-semibold text-muted-foreground">{bookName.toUpperCase()}</h1>
+        <span className="text-5xl">{book2Chapter}</span>
+      </div>
       {book2.map((verse, index) => (
         <>
           {(verse.type === "paragraph text" || verse.type === "line text") && (

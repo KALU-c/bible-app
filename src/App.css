@@ -21,6 +21,16 @@ body {
   overflow: hidden;
 }
 
+.tiptap p {
+  margin: 0;
+  padding: 0;
+}
+
+.tiptap {
+  padding: 0;
+  margin: 0;
+}
+
 @font-face {
   font-family: "Source-Serif-Pro-Regular";
   src: local("SourceSerifPro-Regular"),

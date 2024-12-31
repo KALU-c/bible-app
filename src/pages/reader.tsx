@@ -7,6 +7,7 @@ import { useEffect, useState } from "react"
 import { ResizableHandle, ResizablePanel, ResizablePanelGroup } from "@/components/ui/resizable"
 import { LocalStorageBookObject } from "@/types/book-type"
 import { FontSizeType } from "@/shared/navbar/change-font"
+import Tiptap from "@/editor/Tiptap"
 
 
 const Reader = () => {
@@ -46,10 +47,11 @@ const Reader = () => {
         maxSize={isParallel === "double" ? 60 : 0}
         className={`h-full w-full ${isParallel === "single" ? "hidden" : "block px-1"}`}
       >
-        <div className="overflow-auto max-h-[93vh] scrollbar dark:scrollbar-dark px-2">
-          <LongText />
+        <div className="overflow-auto max-h-[93vh] scrollbar dark:scrollbar-dark w-full p-4">
+          <Tiptap />
         </div>
       </ResizablePanel> */}
+
     </ResizablePanelGroup>
   )
 }

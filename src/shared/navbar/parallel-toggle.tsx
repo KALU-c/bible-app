@@ -1,25 +1,25 @@
 import { Button } from '@/components/ui/button'
-import { IsParallelType, useBookSetting } from '@/providers/book-provider';
+import { useBookSetting } from '@/providers/book-provider';
 import { SquareSplitHorizontal } from 'lucide-react'
-import { useState } from 'react'
 
 const ParallelToggle = () => {
   const { isParallel, toggleParallel } = useBookSetting();
-  const [isViewParallel, toggleViewParallel] = useState<IsParallelType>(isParallel);
 
   function handleToggleViewParallel() {
-    if (isViewParallel === "single") {
-      toggleViewParallel("double")
+    if (isParallel === "single") {
       toggleParallel("double")
+      document.body.classList.remove('body-show-overflow')
+      document.body.classList.add('body-hide-overflow')
     } else {
-      toggleViewParallel("single")
       toggleParallel("single")
+      document.body.classList.remove('body-hide-overflow')
+      document.body.classList.add('body-show-overflow')
     }
   }
 
   return (
     <Button
-      className='h-8 w-8'
+      className={`w-8 h-8 ${isParallel === "double" ? "bg-zinc-300 dark:bg-zinc-600 hover:bg-zinc-400" : ""}`}
       variant={isParallel === "double" ? "secondary" : "ghost"}
       onClick={handleToggleViewParallel}
     >

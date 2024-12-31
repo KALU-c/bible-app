@@ -1,15 +1,19 @@
 import { Button } from "@/components/ui/button"
 import { useTheme } from "@/providers/theme-provider"
+import { Window } from "@tauri-apps/api/window";
 import { Moon, Sun } from "lucide-react";
 
 const ModeToggleQuick = () => {
   const { theme, setTheme } = useTheme();
+  const appWindow = new Window("main");
 
-  function changeTheme() {
+  async function changeTheme() {
     if (theme === "dark") {
       setTheme("light")
+      await appWindow.setTheme("light");
     } else if (theme === "light") {
       setTheme("dark")
+      await appWindow.setTheme("dark");
     }
   };
 

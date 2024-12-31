@@ -9,7 +9,16 @@ html {
 
 body {
   height: 100%;
-  overflow: auto; /* TODO - fix this */
+}
+
+/* Show scrollbar if the window has single view */
+.body-show-overflow {
+  overflow: auto;
+}
+
+/* Hide scrollbar if the window has parallel view */
+.body-hide-overflow {
+  overflow: hidden;
 }
 
 @font-face {
@@ -117,6 +126,27 @@ body {
 
   .scrollbar::-webkit-scrollbar-thumb:hover {
     background: #c0c0c0;
+  }
+
+  /* For Body */
+  .scrollbar-body::-webkit-scrollbar {
+    width: 5px;
+    height: 20px;
+  }
+
+  .scrollbar-body::-webkit-scrollbar-track {
+    border-radius: 100vh;
+    background: #f0f0f0;
+  }
+
+  .scrollbar-body::-webkit-scrollbar-thumb {
+    background: #9e9e9e;
+    border-radius: 100vh;
+    border: 1px solid #9e9e9e;
+  }
+
+  .scrollbar-body::-webkit-scrollbar-thumb:hover {
+    background: #9e9e9e;
   }
 
   /* for dark theme */

@@ -10,6 +10,7 @@ import { Separator } from "../ui/separator"
 import { Button } from "../ui/button"
 import { LocalStorageBookObject } from "@/types/book-type"
 import { BookItemType } from "@/assets/book/formatted-json"
+import { toast } from "@/hooks/use-toast"
 
 type VersePopoverType = {
   book: LocalStorageBookObject
@@ -25,7 +26,6 @@ type VersePopoverType = {
 
 const VersePopover = ({
   book,
-  // book1,
   book2,
   setBook,
   verse,
@@ -58,9 +58,6 @@ const VersePopover = ({
         }
       });
 
-      // console.log(highlightColor);
-
-      // cleans all selected verses after highlighting
       setIsVerseFocused([])
     } else {
       // TODO - overwrite the backgroundColor is the verse already exist
@@ -83,10 +80,6 @@ const VersePopover = ({
           ]
         }
       });
-
-      // console.log(highlightColor);
-
-      // cleans all selected verses after highlighting
       setIsVerseFocused([])
     }
   };
@@ -133,7 +126,13 @@ const VersePopover = ({
           <Button
             variant="secondary"
             className="text-xs w-full"
-            onClick={() => navigator.clipboard.writeText(`${verse.verseNumber} - ${verse.value}`)}
+            onClick={() => {
+              navigator.clipboard.writeText(`${verse.verseNumber} - ${verse.value}`);
+              toast({
+                title: "Verse copied successfully",
+                description: `${verse.verseNumber} - ${verse.value}`
+              })
+            }}
           >
             <Copy />
             Copy

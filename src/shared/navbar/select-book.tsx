@@ -46,10 +46,10 @@ export function SelectBook() {
     <Popover open={open} onOpenChange={setOpen}>
       <PopoverTrigger asChild>
         <Button
-          variant="ghost"
+          variant="outline"
           role="combobox"
           aria-expanded={open}
-          className="lg:w-[200px] sm:w-[150px] justify-between border-b border-b-zinc-400 dark:border-b-zinc-700"
+          className="lg:w-[170px] sm:w-[150px] justify-between"
         >
           {value
             ? bibleBooks[testament].find((framework) => framework.value === value)?.label

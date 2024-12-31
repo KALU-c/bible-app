@@ -11,12 +11,23 @@ import {
 } from "@/components/ui/sidebar"
 import bibleBooks, { BibleBook } from "@/constants/bible-books"
 import { Button } from "../ui/button"
-import { useState } from "react"
+import { useEffect, useState } from "react"
 import { useBookSetting } from "@/providers/book-provider";
 
 export function AppSidebar() {
   const [testament, setTestament] = useState<"newTestament" | "oldTestament">('oldTestament');
+  const [chapterInBook, setChapterInBook] = useState<number>(0);
   const { book: currentBook, setBook, fontFamily } = useBookSetting();
+
+  useEffect(() => {
+    const chapterLength = bibleBooks[testament].find(item => item.value === currentBook.book1.name)?.chapterNumber;
+
+    if (chapterLength) {
+      setChapterInBook(chapterLength)
+    } else {
+      setChapterInBook(0);
+    }
+  }, [currentBook.book1.name]);
 
   return (
     <Sidebar className={fontFamily === "Inter" ? "font-inter" : "font-source-serif"}>
@@ -40,9 +51,8 @@ export function AppSidebar() {
                 </SidebarMenuItem>
               ))}
             </SidebarMenu>
-            {/* TODO - when testament change the chapter list will be empty, it have to be hidden */}
-            <SidebarMenu className="w-[50px] border-l max-h-[88vh] sticky top-0 overflow-y-auto scrollbar dark:scrollbar-dark">
-              {Array.from({ length: bibleBooks[testament].find(item => item.value === currentBook.book1.name)?.chapterNumber || 0 }, (_, index) => (
+            <SidebarMenu className={`w-[50px] border-l max-h-[88vh] sticky top-0 overflow-y-auto scrollbar dark:scrollbar-dark ${chapterInBook === 0 ? "hidden" : ""}`}>
+              {Array.from({ length: chapterInBook }, (_, index) => (
                 <SidebarMenuItem
                   key={index + 1}
                 >

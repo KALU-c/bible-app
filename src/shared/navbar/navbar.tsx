@@ -13,7 +13,7 @@ const Navbar = () => {
   const { isParallel } = useBookSetting();
 
   return (
-    <nav className="flex justify-between items-center p-2 border-b">
+    <nav className="flex justify-between items-center px-2 py-1 border-b">
       <SidebarTrigger />
       <div className="flex items-center gap-6">
         {isParallel === "double" && (

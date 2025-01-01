@@ -6,18 +6,22 @@ const BOOK_STORAGE_KEY = "current-book"
 const FONT_SIZE_STORAGE_KEY = "current-font-size"
 const FONT_FAMILY_STORAGE_KEY = "current-font-family"
 const IS_PARALLEL_STORAGE_KEY = "is-parallel"
+const IS_NOTE_OPEN_STORAGE_KEY = "is-note"
 
 type BookProviderProps = {
   children: React.ReactNode
 }
 
 export type IsParallelType = "single" | "double"
+export type IsNoteOpenType = "onCurrentWindow" | "onNewWindow" | "off"
 
 type BookProviderState = {
   book: LocalStorageBookObject
   setBook: (book: LocalStorageBookObject) => void
   isParallel: IsParallelType
   toggleParallel: (isParallel: IsParallelType) => void
+  isNoteOpen: IsNoteOpenType
+  setNoteOpen: (isNoteOpen: IsNoteOpenType) => void
   fontSize: FontSizeType
   setFontSize: (fontSize: FontSizeType) => void
   fontFamily: FontFamilyType
@@ -41,6 +45,8 @@ const initialState: BookProviderState = {
   },
   setBook: () => null,
   isParallel: "single",
+  isNoteOpen: "onCurrentWindow",
+  setNoteOpen: () => null,
   toggleParallel: () => null,
   fontSize: "medium",
   setFontSize: () => null,
@@ -71,6 +77,9 @@ export const BookProvider = ({
   const [isParallel, toggleParallel] = useState<IsParallelType>(
     () => (localStorage.getItem(IS_PARALLEL_STORAGE_KEY) as IsParallelType) || "single"
   )
+  const [isNoteOpen, setNoteOpen] = useState<IsNoteOpenType>(
+    () => (localStorage.getItem(IS_NOTE_OPEN_STORAGE_KEY) as IsNoteOpenType) || "onCurrentWindow"
+  )
 
   const value = {
     book,
@@ -92,6 +101,11 @@ export const BookProvider = ({
     toggleParallel: (isParallel: IsParallelType) => {
       localStorage.setItem(IS_PARALLEL_STORAGE_KEY, isParallel)
       toggleParallel(isParallel)
+    },
+    isNoteOpen,
+    setNoteOpen: (isNoteOpen: IsNoteOpenType) => {
+      localStorage.setItem(IS_NOTE_OPEN_STORAGE_KEY, isNoteOpen)
+      setNoteOpen(isNoteOpen)
     }
   }
 

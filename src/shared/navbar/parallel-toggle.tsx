@@ -8,12 +8,8 @@ const ParallelToggle = () => {
   function handleToggleViewParallel() {
     if (isParallel === "single") {
       toggleParallel("double")
-      document.body.classList.remove('body-show-overflow')
-      document.body.classList.add('body-hide-overflow')
     } else {
       toggleParallel("single")
-      document.body.classList.remove('body-hide-overflow')
-      document.body.classList.add('body-show-overflow')
     }
   }
 

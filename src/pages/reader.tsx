@@ -1,55 +1,77 @@
 import { BookItemType, getBookByChapter } from "@/assets/book/formatted-json"
 import { useSidebar } from "@/components/ui/sidebar"
 import VersePopover from "@/components/verse/verse-popover"
-import { IsParallelType, useBookSetting } from "@/providers/book-provider"
+import { IsNoteOpenType, IsParallelType, useBookSetting } from "@/providers/book-provider"
 import { VerseFocusType, VerseType } from "@/types/verse-type"
 import { useEffect, useState } from "react"
 import { ResizableHandle, ResizablePanel, ResizablePanelGroup } from "@/components/ui/resizable"
 import { LocalStorageBookObject } from "@/types/book-type"
 import { FontSizeType } from "@/shared/navbar/change-font"
+import Tiptap from "@/editor/Tiptap"
 
 
 const Reader = () => {
-  const { isParallel, book, setBook, fontSize } = useBookSetting();
+  const { isParallel, isNoteOpen, book, setBook, fontSize } = useBookSetting();
   const { isMobile, open } = useSidebar();
+
+  useEffect(() => {
+    if (isNoteOpen === "onCurrentWindow" || isParallel === "double") {
+      document.body.classList.remove('body-show-overflow')
+      document.body.classList.add('body-hide-overflow')
+    } else {
+      document.body.classList.remove("body-hide-overflow")
+      document.body.classList.add('body-show-overflow')
+    }
+  }, [isParallel, isNoteOpen])
 
   return (
     <ResizablePanelGroup
       direction="horizontal"
-      className={(isParallel === "single") ? (open ? "px-64 py-4" : "py-4 xl:px-80 lg:px-52 md:px-16 sm:px-4") : "w-full"}
+      className={
+        (isParallel === "single" && isNoteOpen !== "onCurrentWindow")
+          ? (open ? "px-64 py-4" : "py-4 xl:px-80 lg:px-52 md:px-16 sm:px-4")
+          : (open ? "px-64 py-4" : "py-4")
+      }
     >
-      <ResizablePanel>
+      <ResizablePanel
+        minSize={30}
+        maxSize={(isNoteOpen === "onCurrentWindow" || isParallel === "double") ? 70 : 100}
+      >
         <FirstBook
           book={book}
           setBook={setBook}
           fontSize={fontSize}
-          isParallel={isParallel}
           isMobile={isMobile}
+          isParallel={isParallel}
+          isNoteOpen={isNoteOpen}
         />
       </ResizablePanel>
       {isParallel === "double" && <ResizableHandle withHandle />}
       <ResizablePanel
         minSize={isParallel === "double" ? 30 : 0}
-        maxSize={isParallel === "double" ? 60 : 0}
-        className={`h-full w-full ${isParallel === "single" ? "hidden" : "block px-1"}`}
+        maxSize={isParallel === "double" ? 70 : 0}
+        className={`h-full w-full ${isParallel === "single" ? "hidden" : "block"}`}
       >
         <SecondBook
           book={book}
           setBook={setBook}
           fontSize={fontSize}
           isMobile={isMobile}
+          isNoteOpen={isNoteOpen}
           isParallel={isParallel}
         />
       </ResizablePanel>
-      {/* <ResizablePanel
-        minSize={isParallel === "double" ? 30 : 0}
-        maxSize={isParallel === "double" ? 60 : 0}
-        className={`h-full w-full ${isParallel === "single" ? "hidden" : "block px-1"}`}
+      {isNoteOpen === "onCurrentWindow" && <ResizableHandle withHandle />}
+      <ResizablePanel
+        minSize={isNoteOpen === "onCurrentWindow" ? 20 : 0}
+        maxSize={isNoteOpen === "onCurrentWindow" ? 70 : 0}
+        className={`h-full w-full ${isNoteOpen === "onCurrentWindow" ? "block px-1" : "hidden"}`}
       >
-        <div className="overflow-auto max-h-[93vh] scrollbar dark:scrollbar-dark px-2">
-          <LongText />
+        <div className="overflow-auto max-h-[93vh] scrollbar dark:scrollbar-dark w-full p-4">
+          <Tiptap />
         </div>
-      </ResizablePanel> */}
+      </ResizablePanel>
+
     </ResizablePanelGroup>
   )
 }
@@ -60,6 +82,7 @@ type FirstBookProps = {
   fontSize: FontSizeType
   isParallel: IsParallelType
   isMobile: boolean
+  isNoteOpen: IsNoteOpenType
 }
 
 const FirstBook = ({
@@ -68,6 +91,7 @@ const FirstBook = ({
   fontSize,
   isParallel,
   isMobile,
+  isNoteOpen
 }: FirstBookProps) => {
   const { name: bookName, chapter: book1Chapter, highlightedVerses: highlightColor } = book.book1;
 
@@ -113,7 +137,7 @@ const FirstBook = ({
   }
 
   return (
-    <div className={isParallel === "double" ? `overflow-auto max-h-[94vh] scrollbar dark:scrollbar-dark py-4 ${(isMobile ? "px-6" : "px-24")}` : "py-4"}>
+    <div className={(isParallel === "double" || isNoteOpen === "onCurrentWindow") ? `overflow-auto max-h-[94vh] scrollbar dark:scrollbar-dark py-4 ${(isMobile ? "px-6" : (isNoteOpen === "onCurrentWindow" ? "px-8" : "px-16"))}` : "py-4"}>
       <div className="mb-8 flex flex-col text-center">
         <h1 className="text-center text-xl font-semibold text-muted-foreground">{bookName.toUpperCase()}</h1>
         <span className="text-5xl">{book1Chapter}</span>
@@ -186,6 +210,7 @@ type SecondBookProps = {
   fontSize: FontSizeType
   isParallel: IsParallelType
   isMobile: boolean
+  isNoteOpen: IsNoteOpenType
 }
 
 const SecondBook = ({
@@ -193,7 +218,8 @@ const SecondBook = ({
   setBook,
   fontSize,
   isMobile,
-  isParallel
+  isParallel,
+  isNoteOpen
 }: SecondBookProps) => {
 
   const { name: bookName, chapter: book2Chapter, highlightedVerses: highlightColor } = book.book2;
@@ -239,7 +265,7 @@ const SecondBook = ({
   }
 
   return (
-    <div className={isParallel === "double" ? `overflow-auto max-h-[94vh] scrollbar dark:scrollbar-dark py-4 ${(isMobile ? "px-6" : "px-24")}` : "py-4"}>
+    <div className={isParallel === "double" ? `overflow-auto max-h-[94vh] scrollbar dark:scrollbar-dark py-4 ${(isMobile ? "px-6" : (isNoteOpen === "onCurrentWindow" ? "px-8" : "px-16"))}` : "py-4"}>
       <div className="mb-8 flex flex-col text-center">
         <h1 className="text-center text-xl font-semibold text-muted-foreground">{bookName.toUpperCase()}</h1>
         <span className="text-5xl">{book2Chapter}</span>

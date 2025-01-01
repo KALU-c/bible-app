@@ -24,7 +24,7 @@ const MoreButton = () => {
     <DropdownMenu modal={false}>
       <DropdownMenuTrigger asChild>
         <Button
-          className="h-8 w-8"
+          className="h-7 w-7"
           variant="ghost"
         >
           <MoreVertical />

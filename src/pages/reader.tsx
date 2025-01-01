@@ -14,6 +14,16 @@ const Reader = () => {
   const { isParallel, isNoteOpen, book, setBook, fontSize } = useBookSetting();
   const { isMobile, open } = useSidebar();
 
+  useEffect(() => {
+    if (isNoteOpen === "onCurrentWindow" || isParallel === "double") {
+      document.body.classList.remove('body-show-overflow')
+      document.body.classList.add('body-hide-overflow')
+    } else {
+      document.body.classList.remove("body-hide-overflow")
+      document.body.classList.add('body-show-overflow')
+    }
+  }, [isParallel, isNoteOpen])
+
   return (
     <ResizablePanelGroup
       direction="horizontal"

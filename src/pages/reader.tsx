@@ -29,8 +29,8 @@ const Reader = () => {
       direction="horizontal"
       className={
         (isParallel === "single" && isNoteOpen !== "onCurrentWindow")
-          ? (open ? "px-64 py-4" : "py-4 xl:px-80 lg:px-52 md:px-16 sm:px-4")
-          : (open ? "px-64 py-4" : "py-4")
+          ? (open ? "px-64 py-4" : "xl:px-80 lg:px-52 md:px-16 sm:px-4")
+          : (open ? "px-64 py-4" : "")
       }
     >
       <ResizablePanel

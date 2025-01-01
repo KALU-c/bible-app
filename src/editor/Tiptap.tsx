@@ -1,7 +1,17 @@
-import { EditorProvider, FloatingMenu, BubbleMenu } from "@tiptap/react"
+import {
+  EditorProvider,
+  FloatingMenu,
+  BubbleMenu
+} from "@tiptap/react"
+
+// extensions
 import StarterKit from "@tiptap/starter-kit"
 import Highlight from "@tiptap/extension-highlight"
+import Image from "@tiptap/extension-image"
+
+// custom components
 import BubbleMenuButtons from "./bubble-menu-buttons"
+import FloatingMenuButtons from "./floating-menu-buttons"
 
 const extensions = [
   StarterKit.configure({
@@ -11,7 +21,8 @@ const extensions = [
   }),
   Highlight.configure({
     multicolor: true
-  })
+  }),
+  Image
 ]
 
 const editorProps = {
@@ -27,7 +38,7 @@ const Tiptap = () => {
       editorProps={editorProps}
     >
       <FloatingMenu editor={null}>
-        This is floating menu
+        <FloatingMenuButtons />
       </FloatingMenu>
       <BubbleMenu editor={null}>
         <BubbleMenuButtons />

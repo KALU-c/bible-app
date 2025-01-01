@@ -26,4 +26,5 @@ const BubbleMenuButtons = () => {
     </div>
   )
 }
+
 export default BubbleMenuButtons

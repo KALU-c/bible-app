@@ -31,6 +31,10 @@ body {
   margin: 0;
 }
 
+.tiptap hr {
+  margin: 10px 0 10px 0;
+}
+
 @font-face {
   font-family: "Source-Serif-Pro-Regular";
   src: local("SourceSerifPro-Regular"),

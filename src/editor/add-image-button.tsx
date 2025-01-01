@@ -50,7 +50,7 @@ const AddImage = ({
         <Button
           variant="ghost"
           onClick={handleClick}
-          className="w-7 h-7 rounded-none"
+          className="w-6 h-6 rounded-none"
         >
           <Image />
         </Button>
@@ -59,7 +59,7 @@ const AddImage = ({
             <DropdownMenuTrigger asChild>
               <Button
                 variant="ghost"
-                className="p-0 h-7 rounded-none"
+                className="p-0 h-6 rounded-none"
               >
                 <ChevronDown size={12} />
               </Button>

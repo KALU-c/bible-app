@@ -9,6 +9,7 @@ import StarterKit from "@tiptap/starter-kit"
 import Highlight from "@tiptap/extension-highlight"
 import Image from "@tiptap/extension-image"
 import ImageResize from "tiptap-extension-resize-image"
+import Placeholder from "@tiptap/extension-placeholder"
 
 // custom components
 import BubbleMenuButtons from "./bubble-menu-buttons"
@@ -27,7 +28,10 @@ const extensions = [
   Image.configure({
     allowBase64: true
   }),
-  ImageResize
+  ImageResize,
+  Placeholder.configure({
+    placeholder: "Write something ..."
+  }),
 ]
 
 const editorProps = {

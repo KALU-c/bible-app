@@ -65,9 +65,9 @@ const Reader = () => {
       <ResizablePanel
         minSize={isNoteOpen === "onCurrentWindow" ? 20 : 0}
         maxSize={isNoteOpen === "onCurrentWindow" ? 70 : 0}
-        className={`h-full w-full ${isNoteOpen === "onCurrentWindow" ? "block px-1" : "hidden"}`}
+        className={`h-full w-full ${isNoteOpen === "onCurrentWindow" ? "block" : "hidden"}`}
       >
-        <div className="overflow-auto max-h-[93vh] scrollbar dark:scrollbar-dark w-full p-4">
+        <div className="overflow-auto max-h-[93vh] scrollbar dark:scrollbar-dark w-full">
           <Tiptap />
         </div>
       </ResizablePanel>

@@ -27,12 +27,17 @@ body {
 }
 
 .tiptap {
-  padding: 0;
+  padding: 10px 10px 10px 10px;
   margin: 0;
 }
 
 .tiptap hr {
   margin: 10px 0 10px 0;
+}
+
+.tiptap blockquote {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 @font-face {

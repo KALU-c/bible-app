@@ -8,10 +8,12 @@ import {
 import StarterKit from "@tiptap/starter-kit"
 import Highlight from "@tiptap/extension-highlight"
 import Image from "@tiptap/extension-image"
+import ImageResize from "tiptap-extension-resize-image"
 
 // custom components
 import BubbleMenuButtons from "./bubble-menu-buttons"
 import FloatingMenuButtons from "./floating-menu-buttons"
+import { FloatingNavbar } from "./floating-navbar"
 
 const extensions = [
   StarterKit.configure({
@@ -22,7 +24,10 @@ const extensions = [
   Highlight.configure({
     multicolor: true
   }),
-  Image
+  Image.configure({
+    allowBase64: true
+  }),
+  ImageResize
 ]
 
 const editorProps = {
@@ -36,6 +41,7 @@ const Tiptap = () => {
     <EditorProvider
       extensions={extensions}
       editorProps={editorProps}
+      slotBefore={<FloatingNavbar className="sticky top-0" />}
     >
       <FloatingMenu editor={null}>
         <FloatingMenuButtons />

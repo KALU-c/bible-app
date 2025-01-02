@@ -46,6 +46,16 @@ body {
     url("src/assets/fonts/SourceSerifPro-Regular.otf");
 }
 
+@font-face {
+  font-family: "jiret";
+  src: local("jiret"), url("src/assets/fonts/jiret.ttf");
+}
+
+@font-face {
+  font-family: "zelan";
+  src: local("zelan"), url("src/assets/fonts/zelan.ttf");
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;

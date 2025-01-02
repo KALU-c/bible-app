@@ -161,10 +161,10 @@ const FirstBook = ({
                 }}
                 className={`
                     mb-1 cursor-pointer p-1 
-                    ${fontSize === "small" ? "text-[16px]" : ""}
-                    ${fontSize === "medium" ? "text-[18px]" : ""}
-                    ${fontSize === "large" ? "text-[20px]" : ""}
-                    ${highlightColor?.find(item => (item.verse === verse.verseNumber && item.book === bookName && item.chapter === verse.chapterNumber)) ? "dark:text-black" : ""}
+                    ${fontSize === "small" ? "text-[18px]" : ""}
+                    ${fontSize === "medium" ? "text-[23px]" : ""}
+                    ${fontSize === "large" ? "text-[28px]" : ""}
+                    ${highlightColor?.find(item => (item.verse === verse.verseNumber && item.book === bookName && item.chapter === verse.chapterNumber)) ? "dark:text-black rounded-md" : ""}
                     ${isVerseFocused.find(item => item.verse === verse.verseNumber)
                     ? `border-b border-dotted border-b-black dark:border-b-white rounded-sm`
                     : "border-none"}

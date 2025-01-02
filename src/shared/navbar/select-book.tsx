@@ -84,7 +84,7 @@ export function SelectBook() {
             <CommandEmpty>No book found.</CommandEmpty>
             <div className="flex">
               <CommandGroup
-                className="flex-1 max-h-[300px] sticky top-0 overflow-y-auto scrollbar dark:scrollbar-dark"
+                className="flex-1 max-h-[300px] sticky top-0 overflow-y-auto scrollbar dark:scrollbar-dark px-0"
               >
                 {bibleBooks[testament].map((framework) => (
                   <CommandItem
@@ -101,17 +101,17 @@ export function SelectBook() {
                       })
                       setSearch("");
                     }}
-                    className={`${value === framework.value ? "bg-zinc-300 dark:bg-zinc-700 hover:data-[selected=true]:bg-zinc-400 dark:hover:data-[selected=true]:bg-zinc-600" : ""}`}
+                    className={`${value === framework.value ? "bg-zinc-300 dark:bg-zinc-700 hover:data-[selected=true]:bg-zinc-400 dark:hover:data-[selected=true]:bg-zinc-600 rounded-none" : ""}`}
                   >
                     {framework.label}
                   </CommandItem>
                 ))}
               </CommandGroup>
-              <CommandGroup className={`w-[50px] border-l max-h-[300px] sticky top-0 overflow-y-auto scrollbar dark:scrollbar-dark ${chapterInBook === 0 ? "hidden" : ""}`}>
+              <CommandGroup className={`w-[50px] border-l max-h-[300px] sticky top-0 overflow-y-auto scrollbar dark:scrollbar-dark px-0 ${chapterInBook === 0 ? "hidden" : ""}`}>
                 {Array.from({ length: chapterInBook }, (_, index) => (
                   <CommandItem
                     key={index + 1}
-                    className={`text-center ${(index + 1) === book.book2.chapter ? "bg-zinc-300 dark:bg-zinc-700 hover:data-[selected=true]:bg-zinc-400 dark:hover:data-[selected=true]:bg-zinc-600" : ""}`}
+                    className={`text-center ${(index + 1) === book.book2.chapter ? "bg-zinc-300 dark:bg-zinc-700 hover:data-[selected=true]:bg-zinc-400 dark:hover:data-[selected=true]:bg-zinc-600 rounded-none" : ""}`}
                     value={(index + 1).toString()}
                     onSelect={(currentValue) => {
                       setBook({

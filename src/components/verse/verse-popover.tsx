@@ -4,13 +4,12 @@ import {
   PopoverTrigger,
   PopoverContent
 } from "../ui/popover"
-import { CircleSlash2, Copy, Forward } from "lucide-react"
+import { CircleSlash2 } from "lucide-react"
 import { Label } from "../ui/label"
 import { Separator } from "../ui/separator"
-import { Button } from "../ui/button"
 import { LocalStorageBookObject } from "@/types/book-type"
 import { BookItemType } from "@/assets/book/formatted-json"
-import { toast } from "@/hooks/use-toast"
+import { CopyToClipBoardButton } from "@/global/copy-to-clipbord-button"
 
 type VersePopoverType = {
   book: LocalStorageBookObject
@@ -119,24 +118,7 @@ const VersePopover = ({
         </div>
         <Separator />
         <div className="flex flex-row justify-between gap-2">
-          <Button variant="secondary" className="text-xs">
-            <Forward />
-            Share
-          </Button>
-          <Button
-            variant="secondary"
-            className="text-xs w-full"
-            onClick={() => {
-              navigator.clipboard.writeText(`${verse.verseNumber} - ${verse.value}`);
-              toast({
-                title: "Verse copied successfully",
-                description: `${verse.verseNumber} - ${verse.value}`
-              })
-            }}
-          >
-            <Copy />
-            Copy
-          </Button>
+          <CopyToClipBoardButton verse={verse} book={book} book2={book2} />
         </div>
       </PopoverContent>
     </Popover>

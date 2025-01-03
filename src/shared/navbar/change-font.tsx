@@ -19,7 +19,7 @@ const ChangeFont = () => {
   return (
     <DropdownMenu modal={false}>
       <DropdownMenuTrigger asChild>
-        <Button className="w-8 h-8" variant="ghost">
+        <Button className="w-7 h-7" variant="ghost">
           aA
         </Button>
       </DropdownMenuTrigger>

@@ -12,6 +12,8 @@ export default {
       fontFamily: {
         inter: ["Inter", "sans-serif"],
         "source-serif": ["Source-Serif-Pro-Regular", "sans-serif"],
+        jiret: ["Jiret", "sans-serif"],
+        zelan: ["Zelan", "sans-serif"],
       },
       colors: {
         background: "hsl(var(--background))",

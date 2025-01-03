@@ -15,7 +15,7 @@ const ParallelToggle = () => {
 
   return (
     <Button
-      className={`w-8 h-8 ${isParallel === "double" ? "bg-zinc-300 dark:bg-zinc-600 hover:bg-zinc-400" : ""}`}
+      className={`w-7 h-7 ${isParallel === "double" ? "bg-zinc-300 dark:bg-zinc-600 hover:bg-zinc-400" : ""}`}
       variant={isParallel === "double" ? "secondary" : "ghost"}
       onClick={handleToggleViewParallel}
     >

@@ -29,8 +29,8 @@ const Reader = () => {
       direction="horizontal"
       className={
         (isParallel === "single" && isNoteOpen !== "onCurrentWindow")
-          ? (open ? "px-64 py-4" : "py-4 xl:px-80 lg:px-52 md:px-16 sm:px-4")
-          : (open ? "px-64 py-4" : "py-4")
+          ? (open ? "px-64 py-4" : "xl:px-80 lg:px-52 md:px-16 sm:px-4")
+          : (open ? "py-4" : "")
       }
     >
       <ResizablePanel
@@ -65,9 +65,9 @@ const Reader = () => {
       <ResizablePanel
         minSize={isNoteOpen === "onCurrentWindow" ? 20 : 0}
         maxSize={isNoteOpen === "onCurrentWindow" ? 70 : 0}
-        className={`h-full w-full ${isNoteOpen === "onCurrentWindow" ? "block px-1" : "hidden"}`}
+        className={`h-full w-full ${isNoteOpen === "onCurrentWindow" ? "block" : "hidden"}`}
       >
-        <div className="overflow-auto max-h-[93vh] scrollbar dark:scrollbar-dark w-full p-4">
+        <div className="overflow-auto max-h-[93vh] scrollbar dark:scrollbar-dark w-full">
           <Tiptap />
         </div>
       </ResizablePanel>
@@ -161,10 +161,10 @@ const FirstBook = ({
                 }}
                 className={`
                     mb-1 cursor-pointer p-1 
-                    ${fontSize === "small" ? "text-[16px]" : ""}
-                    ${fontSize === "medium" ? "text-[18px]" : ""}
-                    ${fontSize === "large" ? "text-[20px]" : ""}
-                    ${highlightColor?.find(item => (item.verse === verse.verseNumber && item.book === bookName && item.chapter === verse.chapterNumber)) ? "dark:text-black" : ""}
+                    ${fontSize === "small" ? "text-[18px]" : ""}
+                    ${fontSize === "medium" ? "text-[23px]" : ""}
+                    ${fontSize === "large" ? "text-[28px]" : ""}
+                    ${highlightColor?.find(item => (item.verse === verse.verseNumber && item.book === bookName && item.chapter === verse.chapterNumber)) ? "dark:text-black rounded-md" : ""}
                     ${isVerseFocused.find(item => item.verse === verse.verseNumber)
                     ? `border-b border-dotted border-b-black dark:border-b-white rounded-sm`
                     : "border-none"}

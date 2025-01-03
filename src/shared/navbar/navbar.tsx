@@ -8,6 +8,7 @@ import { SidebarTrigger } from "@/components/ui/sidebar"
 // import { BibleVersionSelector } from "./select-language-and-version"
 import { useBookSetting } from "@/providers/book-provider"
 import ToggleNote from "./toggle-note"
+import Settings from "@/pages/settings/settings"
 
 const Navbar = () => {
   const { isParallel } = useBookSetting();
@@ -31,6 +32,7 @@ const Navbar = () => {
           <ChangeFont />
           <ToggleNote />
           <ParallelToggle />
+          <Settings />
           <MoreButton />
         </div>
       </div>

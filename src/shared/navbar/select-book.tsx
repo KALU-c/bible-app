@@ -23,10 +23,10 @@ import { BookName } from "@/types/book-type"
 
 
 export function SelectBook() {
-  const { book, setBook } = useBookSetting();
+  const { books, setBook } = useBookSetting();
 
   const [open, setOpen] = React.useState(false)
-  const [value, setValue] = React.useState<BookName>(book.book2.name)
+  const [value, setValue] = React.useState<BookName>(books.book2.name)
   const [testament, setTestament] = React.useState<"oldTestament" | "newTestament">("newTestament");
   const [chapterInBook, setChapterInBook] = React.useState<number>(0);
   const [search, setSearch] = React.useState("");
@@ -40,7 +40,7 @@ export function SelectBook() {
     } else {
       setChapterInBook(0);
     }
-  }, [book.book2.name]);
+  }, [books.book2.name]);
 
   return (
     <Popover open={open} onOpenChange={setOpen}>
@@ -91,11 +91,11 @@ export function SelectBook() {
                     key={framework.value}
                     value={framework.value}
                     onSelect={(currentValue) => {
-                      setValue(currentValue === value ? book.book2.name : currentValue as BookName)
+                      setValue(currentValue === value ? books.book2.name : currentValue as BookName)
                       setBook({
-                        ...book,
+                        ...books,
                         book2: {
-                          ...book.book2,
+                          ...books.book2,
                           name: currentValue as BookName
                         }
                       })
@@ -111,13 +111,13 @@ export function SelectBook() {
                 {Array.from({ length: chapterInBook }, (_, index) => (
                   <CommandItem
                     key={index + 1}
-                    className={`text-center ${(index + 1) === book.book2.chapter ? "bg-zinc-300 dark:bg-zinc-700 hover:data-[selected=true]:bg-zinc-400 dark:hover:data-[selected=true]:bg-zinc-600 rounded-none" : ""}`}
+                    className={`text-center ${(index + 1) === books.book2.chapter ? "bg-zinc-300 dark:bg-zinc-700 hover:data-[selected=true]:bg-zinc-400 dark:hover:data-[selected=true]:bg-zinc-600 rounded-none" : ""}`}
                     value={(index + 1).toString()}
                     onSelect={(currentValue) => {
                       setBook({
-                        ...book,
+                        ...books,
                         book2: {
-                          ...book.book2,
+                          ...books.book2,
                           chapter: parseInt(currentValue)
                         }
                       })

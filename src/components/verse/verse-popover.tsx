@@ -1,4 +1,4 @@
-import { VerseFocusType, VerseHighlightColor, VerseType } from "@/types/verse-type"
+import { VerseFocusType, VerseType } from "@/types/verse-type"
 import {
   Popover,
   PopoverTrigger,
@@ -7,7 +7,7 @@ import {
 import { CircleSlash2 } from "lucide-react"
 import { Label } from "../ui/label"
 import { Separator } from "../ui/separator"
-import { LocalStorageBookObject } from "@/types/book-type"
+import { HighlightedVersesType, LocalStorageBookObject } from "@/types/book-type"
 import { BookItemType } from "@/assets/book/formatted-json"
 import { CopyToClipBoardButton } from "@/global/copy-to-clipbord-button"
 
@@ -17,7 +17,7 @@ type VersePopoverType = {
   verse: VerseType,
   isVerseFocused: VerseFocusType[],
   setIsVerseFocused: React.Dispatch<React.SetStateAction<VerseFocusType[]>>
-  highlightColor: VerseHighlightColor[]
+  highlightColor: HighlightedVersesType[]
   children: React.ReactNode
   book1?: BookItemType[]
   book2?: BookItemType[]
@@ -28,7 +28,6 @@ const VersePopover = ({
   book2,
   setBook,
   verse,
-  highlightColor,
   isVerseFocused,
   setIsVerseFocused,
   children
@@ -37,11 +36,9 @@ const VersePopover = ({
   function handleHighlightVerse(highlightBackgroundColor: string) {
     if (book2) {
       // TODO - overwrite the backgroundColor is the verse already exist
-      const newHighlights: VerseHighlightColor[] = isVerseFocused.map(verse => ({
-        book: book.book2.name,
-        chapter: book.book2.chapter,
-        verse: verse.verse,
-        backgroundColor: highlightBackgroundColor
+      const newHighlights: HighlightedVersesType[] = isVerseFocused.map(verse => ({
+        reference: { book: book.book2.name, chapter: book.book2.chapter, verse: verse.verse! },
+        background_color: highlightBackgroundColor
       }));
 
       // TODO - saves the last highlighted verse not the present
@@ -51,7 +48,7 @@ const VersePopover = ({
         book2: {
           ...book.book2,
           highlightedVerses: [
-            ...highlightColor,
+            ...book.book2.highlightedVerses,
             ...newHighlights
           ]
         }
@@ -60,11 +57,9 @@ const VersePopover = ({
       setIsVerseFocused([])
     } else {
       // TODO - overwrite the backgroundColor is the verse already exist
-      const newHighlights: VerseHighlightColor[] = isVerseFocused.map(verse => ({
-        book: book.book1.name,
-        chapter: book.book1.chapter,
-        verse: verse.verse,
-        backgroundColor: highlightBackgroundColor
+      const newHighlights: HighlightedVersesType[] = isVerseFocused.map(verse => ({
+        reference: { book: book.book1.name, chapter: book.book1.chapter, verse: verse.verse! },
+        background_color: highlightBackgroundColor
       }));
 
       // TODO - saves the last highlighted verse not the present
@@ -74,7 +69,7 @@ const VersePopover = ({
         book1: {
           ...book.book1,
           highlightedVerses: [
-            ...highlightColor,
+            ...book.book2.highlightedVerses,
             ...newHighlights
           ]
         }

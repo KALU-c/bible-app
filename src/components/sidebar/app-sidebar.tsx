@@ -17,7 +17,7 @@ import { useBookSetting } from "@/providers/book-provider";
 export function AppSidebar() {
   const [testament, setTestament] = useState<"newTestament" | "oldTestament">('oldTestament');
   const [chapterInBook, setChapterInBook] = useState<number>(0);
-  const { book: currentBook, setBook, fontFamily } = useBookSetting();
+  const { books: currentBook, setBook, fontFamily } = useBookSetting();
 
   useEffect(() => {
     const chapterLength = bibleBooks[testament].find(item => item.value === currentBook.book1.name)?.chapterNumber;

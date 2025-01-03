@@ -1,21 +1,25 @@
-import { VerseHighlightColor } from "./verse-type"
-
 export type BookTestamentType = "newTestament" | "oldTestament"
+
+export type HighlightedVersesType = {
+  reference: { book: BookName, chapter: number, verse: number },
+  background_color: string
+};
 
 export type LocalStorageBookObject = {
   book1: {
-    name: BookName
-    chapter: number
-    version: string // TODO - create a type for version type
-    highlightedVerses: VerseHighlightColor[]
-  }
+    name: BookName,
+    chapter: number,
+    version: string,
+    highlightedVerses: HighlightedVersesType[]
+  },
   book2: {
-    name: BookName
-    chapter: number
-    version: string // TODO - create a type for version type
-    highlightedVerses: VerseHighlightColor[]
+    name: BookName,
+    chapter: number,
+    version: string,
+    highlightedVerses: HighlightedVersesType[]
   }
 }
+
 
 export type BookName = "genesis" | "exodus" | "leviticus" | "numbers" | "deuteronomy" | "joshua" | "judges" | "ruth" | "1samuel" | "2samuel" | "1kings" | "2kings" | "1chronicles" | "2chronicles" | "ezra" | "nehemiah" | "esther" | "job" | "psalms" | "proverbs" | "ecclesiastes" | "songofsolomon" | "isaiah" | "jeremiah" | "lamentations" | "ezekiel" | "daniel" | "hosea" | "joel" | "amos" | "obadiah" | "jonah" | "micah" | "nahum" | "habakkuk" | "zephaniah" | "haggai" | "zechariah" | "malachi" | "matthew" | "mark" | "luke" | "john" | "acts" | "romans" | "1corinthians" | "2corinthians" | "galatians" | "ephesians" | "philippians" | "colossians" | "1thessalonians" | "2thessalonians" | "1timothy" | "2timothy" | "titus" | "philemon" | "hebrews" | "james" | "1pete" | "2pete" | "1joh" | "2joh" | "3joh" | "jude" | "revelation";
 

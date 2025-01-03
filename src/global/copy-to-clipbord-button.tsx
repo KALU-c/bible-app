@@ -1,5 +1,3 @@
-"use client";
-
 import { BookItemType } from "@/assets/book/formatted-json";
 import { Button } from "@/components/ui/button";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";

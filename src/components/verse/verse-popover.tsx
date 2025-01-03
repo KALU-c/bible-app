@@ -4,7 +4,7 @@ import {
   PopoverTrigger,
   PopoverContent
 } from "../ui/popover"
-import { CircleSlash2 } from "lucide-react"
+import { X } from "lucide-react"
 import { Label } from "../ui/label"
 import { Separator } from "../ui/separator"
 import { HighlightedVersesType, LocalStorageBookObject } from "@/types/book-type"
@@ -34,47 +34,58 @@ const VersePopover = ({
 }: VersePopoverType) => {
 
   function handleHighlightVerse(highlightBackgroundColor: string) {
-    if (book2) {
-      // TODO - overwrite the backgroundColor is the verse already exist
-      const newHighlights: HighlightedVersesType[] = isVerseFocused.map(verse => ({
-        reference: { book: book.book2.name, chapter: book.book2.chapter, verse: verse.verse! },
-        background_color: highlightBackgroundColor
-      }));
+    if (isVerseFocused) {
+      if (book2) {
+        // TODO - overwrite the backgroundColor is the verse already exist
+        const newHighlights: HighlightedVersesType[] = isVerseFocused.map(verse => ({
+          reference: { book: book.book2.name, chapter: book.book2.chapter, verse: verse.verse! },
+          background_color: highlightBackgroundColor
+        }));
 
-      // TODO - saves the last highlighted verse not the present
-      // TODO - can't change already highlighted color
-      setBook({
-        ...book,
-        book2: {
-          ...book.book2,
-          highlightedVerses: [
-            ...book.book2.highlightedVerses,
-            ...newHighlights
-          ]
+        // TODO - saves the last highlighted verse not the present
+        // TODO - can't change already highlighted color
+        setBook({
+          ...book,
+          book2: {
+            ...book.book2,
+            highlightedVerses: [
+              ...book.book2.highlightedVerses,
+              ...newHighlights
+            ]
+          }
+        });
+
+        setIsVerseFocused([])
+      } else {
+        const verseAlreadyHighlighted = book.book1.highlightedVerses.find(item => (item.reference.verse === verse.verseNumber && item.reference.chapter === verse.chapterNumber));
+
+        if (verseAlreadyHighlighted) {
+          verseAlreadyHighlighted.background_color = highlightBackgroundColor;
+        } else {
+          // TODO - overwrite the backgroundColor is the verse already exist
+          const newHighlights: HighlightedVersesType[] = isVerseFocused.map(verse => ({
+            reference: { book: book.book1.name, chapter: book.book1.chapter, verse: verse.verse! },
+            background_color: highlightBackgroundColor
+          }));
+
+          // TODO - saves the last highlighted verse not the present
+          // TODO - can't change already highlighted color
+          setBook({
+            ...book,
+            book1: {
+              ...book.book1,
+              highlightedVerses: [
+                ...book.book1.highlightedVerses,
+                ...newHighlights
+              ]
+            }
+          });
         }
-      });
 
-      setIsVerseFocused([])
-    } else {
-      // TODO - overwrite the backgroundColor is the verse already exist
-      const newHighlights: HighlightedVersesType[] = isVerseFocused.map(verse => ({
-        reference: { book: book.book1.name, chapter: book.book1.chapter, verse: verse.verse! },
-        background_color: highlightBackgroundColor
-      }));
+        console.log(book.book1.highlightedVerses)
 
-      // TODO - saves the last highlighted verse not the present
-      // TODO - can't change already highlighted color
-      setBook({
-        ...book,
-        book1: {
-          ...book.book1,
-          highlightedVerses: [
-            ...book.book2.highlightedVerses,
-            ...newHighlights
-          ]
-        }
-      });
-      setIsVerseFocused([])
+        setIsVerseFocused([])
+      }
     }
   };
 
@@ -88,10 +99,10 @@ const VersePopover = ({
           <Label className="text-muted-foreground text-xs text-center">Highlight</Label>
           <div className="flex flex-row justify-between">
             <span
-              className="w-[30px] h-[30px] rounded-full cursor-pointer flex items-center justify-center"
-              onClick={() => handleHighlightVerse("none")}
+              className="w-[30px] h-[30px] rounded-full cursor-pointer flex items-center justify-center border"
+              onClick={() => handleHighlightVerse("")}
             >
-              <CircleSlash2 />
+              <X />
             </span>
             <span
               className="w-[30px] h-[30px] bg-green-300 rounded-full cursor-pointer"

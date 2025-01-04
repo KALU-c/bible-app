@@ -48,9 +48,10 @@ const Reader = () => {
       </ResizablePanel>
       {isParallel === "double" && <ResizableHandle withHandle />}
       <ResizablePanel
+        defaultSize={isParallel === "double" ? 50 : 0}
         minSize={isParallel === "double" ? 30 : 0}
         maxSize={isParallel === "double" ? 70 : 0}
-        className={`h-full w-full ${isParallel === "single" ? "hidden" : "block"}`}
+        className={`h-full w-full ${isParallel === "single" ? "hidden" : "block px-[2px]"}`}
       >
         <SecondBook
           books={books}
@@ -142,9 +143,9 @@ const FirstBook = ({
                 }}
                 className={`
                     mb-1 cursor-pointer p-1 
-                    ${fontSize === "small" ? "text-[18px]" : ""}
-                    ${fontSize === "medium" ? "text-[23px]" : ""}
-                    ${fontSize === "large" ? "text-[28px]" : ""}
+                    ${fontSize === "small" ? "text-[16px]" : ""}
+                    ${fontSize === "medium" ? "text-[18px]" : ""}
+                    ${fontSize === "large" ? "text-[20px]" : ""}
                     ${highlightColor?.find(item => (item.reference.verse === verse.verseNumber && item.reference.book === bookName && item.reference.chapter === verse.chapterNumber)) ? "dark:text-black rounded-md" : ""}
                     ${isVerseFocused.find(item => item.verse === verse.verseNumber)
                     ? `border-b border-dotted border-b-black dark:border-b-white rounded-sm`

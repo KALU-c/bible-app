@@ -1,7 +1,7 @@
 "use client"
 
 import * as React from "react"
-import { ChevronsUpDown } from "lucide-react"
+import { ChevronsDown } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
 import {
@@ -49,12 +49,12 @@ export function SelectBook() {
           variant="outline"
           role="combobox"
           aria-expanded={open}
-          className="lg:w-[170px] sm:w-[150px] justify-between"
+          className=" justify-between border-none bg-zinc-200 dark:bg-zinc-800 rounded-sm h-7 flex items-center gap-10"
         >
           {value
             ? bibleBooks[testament].find((framework) => framework.value === value)?.label
             : "Select book"}
-          <ChevronsUpDown className="opacity-50" />
+          <ChevronsDown className="opacity-50" />
         </Button>
       </PopoverTrigger>
       <PopoverContent className="w-[200px] p-0">

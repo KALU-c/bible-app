@@ -8,6 +8,7 @@ import { ResizableHandle, ResizablePanel, ResizablePanelGroup } from "@/componen
 import { LocalStorageBookObject } from "@/types/book-type"
 import { FontSizeType } from "@/shared/navbar/change-font"
 import Tiptap from "@/editor/Tiptap"
+import FloatingNoteInput from "@/components/verse/floating-note"
 // import Amharic from "./amharic"
 
 
@@ -126,6 +127,7 @@ const FirstBook = ({
       <div className="mb-8 flex flex-col text-center">
         <h1 className="text-center text-xl font-semibold text-muted-foreground">{bookName.toUpperCase()}</h1>
         <span className="text-5xl">{book1Chapter}</span>
+        <FloatingNoteInput />
       </div>
       {book1.map((verse, index) => (
         <>

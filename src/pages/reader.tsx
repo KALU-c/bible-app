@@ -8,6 +8,7 @@ import { ResizableHandle, ResizablePanel, ResizablePanelGroup } from "@/componen
 import { LocalStorageBookObject } from "@/types/book-type"
 import { FontSizeType } from "@/shared/navbar/change-font"
 import Tiptap from "@/editor/Tiptap"
+// import Amharic from "./amharic"
 
 
 const Reader = () => {
@@ -37,6 +38,7 @@ const Reader = () => {
         minSize={30}
         maxSize={(isNoteOpen === "onCurrentWindow" || isParallel === "double") ? 70 : 100}
       >
+        {/* <Amharic /> */}
         <FirstBook
           books={books}
           setBook={setBook}

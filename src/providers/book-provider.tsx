@@ -1,5 +1,5 @@
 import { FontFamilyType, FontSizeType } from "@/shared/navbar/change-font";
-import { LocalStorageBookObject } from "@/types/book-type"
+import { LocalStorageBookObject } from "@/types/book-type";
 import { createContext, useContext, useState } from "react";
 
 const BOOK_STORAGE_KEY = "current-book"
@@ -16,8 +16,8 @@ export type IsParallelType = "single" | "double"
 export type IsNoteOpenType = "onCurrentWindow" | "onNewWindow" | "off"
 
 type BookProviderState = {
-  book: LocalStorageBookObject
-  setBook: (book: LocalStorageBookObject) => void
+  books: LocalStorageBookObject
+  setBook: (books: LocalStorageBookObject) => void
   isParallel: IsParallelType
   toggleParallel: (isParallel: IsParallelType) => void
   isNoteOpen: IsNoteOpenType
@@ -29,7 +29,7 @@ type BookProviderState = {
 }
 
 const initialState: BookProviderState = {
-  book: {
+  books: {
     book1: {
       name: "genesis",
       chapter: 1,
@@ -62,11 +62,11 @@ export const BookProvider = ({
 }: BookProviderProps) => {
   const localBook = localStorage.getItem(BOOK_STORAGE_KEY);
   if (localBook === undefined) {
-    localStorage.setItem(BOOK_STORAGE_KEY, JSON.stringify(initialState));
+    localStorage.setItem(BOOK_STORAGE_KEY, JSON.stringify(initialState.books));
   }
-  const parsedBook = localBook ? JSON.parse(localBook) : initialState.book;
-  const [book, setBook] = useState<LocalStorageBookObject>(
-    () => (parsedBook as LocalStorageBookObject) || initialState.book
+  const parsedBook = localBook ? JSON.parse(localBook) : initialState.books;
+  const [books, setBook] = useState<LocalStorageBookObject>(
+    () => (parsedBook as LocalStorageBookObject) || initialState.books
   )
   const [fontSize, setFontSize] = useState<FontSizeType>(
     () => (localStorage.getItem(FONT_SIZE_STORAGE_KEY) as FontSizeType) || "medium"
@@ -82,10 +82,10 @@ export const BookProvider = ({
   )
 
   const value = {
-    book,
-    setBook: (book: LocalStorageBookObject) => {
-      localStorage.setItem(BOOK_STORAGE_KEY, JSON.stringify(book))
-      setBook(book)
+    books,
+    setBook: (books: LocalStorageBookObject) => {
+      localStorage.setItem(BOOK_STORAGE_KEY, JSON.stringify(books))
+      setBook(books)
     },
     fontSize,
     setFontSize: (fontSize: FontSizeType) => {

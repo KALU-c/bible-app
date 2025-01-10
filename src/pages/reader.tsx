@@ -123,7 +123,11 @@ const FirstBook = ({
   }
 
   return (
-    <div className={(isParallel === "double" || isNoteOpen === "onCurrentWindow") ? `overflow-auto max-h-[94vh] scrollbar dark:scrollbar-dark py-4 ${(isMobile ? "px-6" : (isNoteOpen === "onCurrentWindow" ? "px-8" : "px-16"))}` : "py-4"}>
+    <div className={(isParallel === "double" || isNoteOpen === "onCurrentWindow") ? `overflow-auto max-h-[94vh] scrollbar dark:scrollbar-dark py-4 ${(isMobile ? "px-6" : (isNoteOpen === "onCurrentWindow" ? "px-8" : "px-16"))}` : "py-4"}
+      onClick={() => {
+        setIsVerseFocused([])
+      }}
+    >
       <div className="mb-8 flex flex-col text-center">
         <h1 className="text-center text-xl font-semibold text-muted-foreground">{bookName.toUpperCase()}</h1>
         <span className="text-5xl">{book1Chapter}</span>
@@ -155,7 +159,11 @@ const FirstBook = ({
                     ? `border-b border-dotted border-b-black dark:border-b-white rounded-sm`
                     : "border-none"}
                   `}
-                onClick={() => handleClick(verse)}
+                onClick={(e) => {
+                  // this ought to keep verse container from getting the click.
+                  e.stopPropagation()
+                  handleClick(verse)
+                }}
               >
                 <sup
                   className={`

@@ -105,7 +105,7 @@ const VersePopover = ({
       <PopoverTrigger asChild>
         {children}
       </PopoverTrigger>
-      <PopoverContent className="w-52 p-1 flex gap-3 items-center shadow-md shadow-zinc-300 dark:shadow-zinc-800">
+      <PopoverContent className="w-52 p-1 flex gap-3 items-center shadow-md shadow-zinc-300 dark:shadow-zinc-800" onClick={(event) => event.stopPropagation()}>
         <div className="flex items-center">
           <Button
             variant="ghost"

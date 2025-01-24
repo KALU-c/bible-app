@@ -6,7 +6,7 @@ import { useTheme } from "@/providers/theme-provider"
 
 const Appearance = () => {
   const { fontFamily } = useBookSetting()
-  const { setTheme } = useTheme()
+  const { setTheme, theme } = useTheme()
 
   return (
     <div className={`${fontFamily === "Source Serif Pro" ? "font-source-serif" : "font-inter"} flex flex-col space-y-4`}>
@@ -27,6 +27,7 @@ const Appearance = () => {
           <p className="text-xs text-muted-foreground">Switch to enable or disable dark mode.</p>
         </div>
         <Switch
+          checked={theme === "dark"}
           onCheckedChange={(checked: boolean) => {
             setTheme(checked ? "dark" : "light")
           }}

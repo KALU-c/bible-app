@@ -36,7 +36,7 @@ const extensions = [
 
 const editorProps = {
   attributes: {
-    class: 'prose prose-sm sm:prose-base lg:prose-base xl:prose-lg m-5 focus:outline-none dark:prose-invert prose-headings:text-indigo-500 prose-slate w-full min-h-screen min-w-full',
+    class: 'prose prose-sm sm:prose-base lg:prose-base xl:prose-lg m-5 focus:outline-none dark:prose-invert prose-headings:text-indigo-500 prose-slate w-full min-h-[90vh] min-w-full',
   }
 }
 

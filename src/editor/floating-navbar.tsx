@@ -1,9 +1,11 @@
 import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
 import { useCurrentEditor } from "@tiptap/react"
-import { Bold, Highlighter, Redo2, Save, Undo2 } from "lucide-react"
+import { Bold, Highlighter, Redo2, Undo2 } from "lucide-react"
 import AddImage from "./add-image-button"
 import { Separator } from "@/components/ui/separator"
+
+import SaveToFile from "./save-to-file"
 
 export const FloatingNavbar = ({
   className
@@ -53,15 +55,7 @@ export const FloatingNavbar = ({
         <AddImage editor={editor} className="w-[50px]" />
 
       </div>
-      <div className="border-b flex flex-row items-center gap-0 px-2 z-10 py-1">
-        <Button
-          variant={"ghost"}
-          className="w-7 h-7 rounded-md"
-          onClick={() => { }}
-        >
-          <Save />
-        </Button>
-      </div>
+      <SaveToFile editor={editor} />
     </div>
   )
 }

@@ -14,6 +14,66 @@
     "core:menu:allow-new",
     "core:webview:allow-create-webview-window",
     "core:webview:allow-create-webview",
-    "core:menu:allow-set-icon"
+    "core:menu:allow-set-icon",
+    "dialog:default",
+    "fs:default",
+    "fs:allow-read-text-file",
+    "fs:allow-read-text-file-lines",
+    "fs:allow-read-text-file-lines-next",
+    "fs:allow-write-text-file",
+    "core:menu:allow-set-text",
+    "fs:write-files",
+    {
+      "identifier": "fs:allow-app-write",
+      "allow": [{ "path": "*" }]
+    },
+    {
+      "identifier": "fs:allow-app-write-recursive",
+      "allow": [{ "path": "*" }]
+    },
+    {
+      "identifier": "fs:allow-desktop-write",
+      "allow": [{ "path": "*" }]
+    },
+    {
+      "identifier": "fs:allow-desktop-write-recursive",
+      "allow": [{ "path": "*" }]
+    },
+    {
+      "identifier": "fs:allow-desktop-read",
+      "allow": [{ "path": "*" }]
+    },
+    {
+      "identifier": "fs:allow-desktop-read-recursive",
+      "allow": [{ "path": "*" }]
+    },
+    {
+      "identifier": "fs:allow-exists",
+      "allow": [{ "path": "*" }]
+    },
+    {
+      "identifier": "fs:allow-mkdir",
+      "allow": [{ "path": "*" }]
+    },
+    {
+      "identifier": "fs:allow-read-dir",
+      "allow": [{ "path": "*" }]
+    },
+    {
+      "identifier": "fs:allow-document-write",
+      "allow": [{ "path": "*" }]
+    },
+    {
+      "identifier": "fs:allow-document-write-recursive",
+      "allow": [{ "path": "*" }]
+    },
+    {
+      "identifier": "fs:allow-document-read",
+      "allow": [{ "path": "*" }]
+    },
+    {
+      "identifier": "fs:allow-document-read-recursive",
+      "allow": [{ "path": "*" }]
+    }
   ]
 }

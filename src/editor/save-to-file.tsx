@@ -1,8 +1,8 @@
-import { save } from "@tauri-apps/plugin-dialog"
-import { writeTextFile, BaseDirectory, mkdir, exists } from "@tauri-apps/plugin-fs"
+import { save, open } from "@tauri-apps/plugin-dialog"
+import { writeTextFile, BaseDirectory, mkdir, exists, readTextFile } from "@tauri-apps/plugin-fs"
 
 import { Button } from '@/components/ui/button'
-import { Save } from 'lucide-react'
+import { FilePlus, FilePlus2, FolderOpen, Save } from 'lucide-react'
 import { toast } from "@/hooks/use-toast"
 import { Editor } from "@tiptap/react"
 
@@ -11,7 +11,64 @@ const NOTE_FOLDER = "notes"
 
 const SaveToFile = ({ editor }: { editor: Editor | null }) => {
 
-  const handleSaveButton = async () => {
+  return (
+    <div className="border-b flex flex-row items-center gap-0 px-2 z-10 py-1">
+      <Button
+        variant={"ghost"}
+        className="w-7 h-7 rounded-md"
+        onClick={handleOpenButton}
+      >
+        <FolderOpen />
+      </Button>
+      <Button
+        variant={"ghost"}
+        className="w-7 h-7 rounded-md"
+        onClick={handleSaveButton}
+      >
+        <Save />
+      </Button>
+      <Button
+        variant={"ghost"}
+        className="w-7 h-7 rounded-md"
+      // onClick={handleSaveButton}
+      >
+        <FilePlus />
+      </Button>
+    </div>
+  );
+
+  async function handleOpenButton() {
+    if (!editor) return;
+
+    try {
+      const file = await open({
+        multiple: false,
+        directory: false,
+        defaultPath: `${BaseDirectory.Document}/${APP_FOLDER}/${NOTE_FOLDER}`
+      })
+
+      if (!file) {
+        console.log("No file selected!")
+        return;
+      }
+
+      const note = await readTextFile(file as string);
+
+      const parsedNote = JSON.parse(note);
+
+      // set the editor content with the parsed note
+      editor.commands.setContent(parsedNote.content);
+
+      toast({
+        description: "File opened and loaded successfully"
+      })
+    } catch (err) {
+      console.log("Error while opening note: ", err)
+    }
+
+  }
+
+  async function handleSaveButton() {
     if (!editor) {
       return;
     }
@@ -58,18 +115,6 @@ const SaveToFile = ({ editor }: { editor: Editor | null }) => {
       })
     }
   }
-
-  return (
-    <div className="border-b flex flex-row items-center gap-0 px-2 z-10 py-1">
-      <Button
-        variant={"ghost"}
-        className="w-7 h-7 rounded-md"
-        onClick={handleSaveButton}
-      >
-        <Save />
-      </Button>
-    </div>
-  )
 }
 
 export default SaveToFile

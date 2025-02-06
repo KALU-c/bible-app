@@ -15,7 +15,7 @@ export const FloatingNavbar = ({
   const { editor } = useCurrentEditor()
 
   return (
-    <div className="flex flex-row justify-between items-center dark:bg-black border-b z-10">
+    <div className="flex flex-row justify-between items-center dark:bg-black border-b z-10 overflow-x-scroll md:overflow-x-hidden scrollbar-horizontal dark:scrollbar-horizontal-dark">
       <div
         className={cn(
           "flex flex-row items-center gap-0 px-2 py-1",

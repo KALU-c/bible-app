@@ -71,7 +71,7 @@ const Reader = () => {
         maxSize={isNoteOpen === "onCurrentWindow" ? 70 : 0}
         className={`h-full w-full ${isNoteOpen === "onCurrentWindow" ? "block" : "hidden"}`}
       >
-        <div className="overflow-auto max-h-[93vh] scrollbar dark:scrollbar-dark w-full">
+        <div className="overflow-auto max-h-[100vh] scrollbar dark:scrollbar-dark w-full">
           <Tiptap />
         </div>
       </ResizablePanel>
@@ -123,7 +123,7 @@ const FirstBook = ({
   }
 
   return (
-    <div className={(isParallel === "double" || isNoteOpen === "onCurrentWindow") ? `overflow-auto max-h-[94vh] scrollbar dark:scrollbar-dark py-4 ${(isMobile ? "px-6" : (isNoteOpen === "onCurrentWindow" ? "px-8" : "px-16"))}` : "py-4"}
+    <div className={(isParallel === "double" || isNoteOpen === "onCurrentWindow") ? `overflow-auto max-h-[100vh] scrollbar dark:scrollbar-dark py-4 ${(isMobile ? "px-6" : (isNoteOpen === "onCurrentWindow" ? "px-8" : "px-16"))}` : "py-4"}
       onClick={() => {
         setIsVerseFocused([])
       }}

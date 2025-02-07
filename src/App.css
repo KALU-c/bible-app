@@ -29,6 +29,7 @@ body {
 .tiptap {
   padding: 10px 10px 10px 10px;
   margin: 0;
+  /* margin-top: 35px; */
 }
 
 .tiptap hr {
@@ -196,6 +197,46 @@ body {
   }
 
   .scrollbar-dark::-webkit-scrollbar-thumb:hover {
+    background: #333333;
+  }
+
+  /* Horizontal scrollbar */
+  .scrollbar-horizontal::-webkit-scrollbar {
+    height: 3px;
+  }
+
+  .scrollbar-horizontal::-webkit-scrollbar-track {
+    border-radius: 100vh;
+    background: #f0f0f0;
+  }
+
+  .scrollbar-horizontal::-webkit-scrollbar-thumb {
+    background: #c0c0c0;
+    border-radius: 100vh;
+    border: 1px solid #c0c0c0;
+  }
+
+  .scrollbar-horizontal::-webkit-scrollbar-thumb:hover {
+    background: #c0c0c0;
+  }
+
+  /* for horizontal scrollbar dark theme */
+  .scrollbar-horizontal-dark::-webkit-scrollbar {
+    height: 3px;
+  }
+
+  .scrollbar-horizontal-dark::-webkit-scrollbar-track {
+    border-radius: 100vh;
+    background: #000000;
+  }
+
+  .scrollbar-horizontal-dark::-webkit-scrollbar-thumb {
+    background: #333333;
+    border-radius: 100vh;
+    border: 1px solid #333333;
+  }
+
+  .scrollbar-horizontal-dark::-webkit-scrollbar-thumb:hover {
     background: #333333;
   }
 }

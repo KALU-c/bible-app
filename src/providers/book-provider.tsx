@@ -7,6 +7,7 @@ const FONT_SIZE_STORAGE_KEY = "current-font-size"
 const FONT_FAMILY_STORAGE_KEY = "current-font-family"
 const IS_PARALLEL_STORAGE_KEY = "is-parallel"
 const IS_NOTE_OPEN_STORAGE_KEY = "is-note"
+const CURRENT_OPENED_NOTE = "current-note"
 
 type BookProviderProps = {
   children: React.ReactNode
@@ -26,6 +27,8 @@ type BookProviderState = {
   setFontSize: (fontSize: FontSizeType) => void
   fontFamily: FontFamilyType
   setFontFamily: (fontFamily: FontFamilyType) => void
+  currentNote: string
+  setCurrentNote: (currentNote: string) => void
 }
 
 const initialState: BookProviderState = {
@@ -51,7 +54,9 @@ const initialState: BookProviderState = {
   fontSize: "medium",
   setFontSize: () => null,
   fontFamily: "Inter",
-  setFontFamily: () => null
+  setFontFamily: () => null,
+  currentNote: "Untitled",
+  setCurrentNote: () => null
 }
 
 const BookProviderContext = createContext<BookProviderState>(initialState)
@@ -80,6 +85,9 @@ export const BookProvider = ({
   const [isNoteOpen, setNoteOpen] = useState<IsNoteOpenType>(
     () => (localStorage.getItem(IS_NOTE_OPEN_STORAGE_KEY) as IsNoteOpenType) || "onCurrentWindow"
   )
+  const [currentNote, setCurrentNote] = useState<string>(
+    () => (localStorage.getItem(CURRENT_OPENED_NOTE) as string) || "Untitled"
+  )
 
   const value = {
     books,
@@ -106,6 +114,11 @@ export const BookProvider = ({
     setNoteOpen: (isNoteOpen: IsNoteOpenType) => {
       localStorage.setItem(IS_NOTE_OPEN_STORAGE_KEY, isNoteOpen)
       setNoteOpen(isNoteOpen)
+    },
+    currentNote,
+    setCurrentNote: (currentNote: string) => {
+      localStorage.setItem(CURRENT_OPENED_NOTE, currentNote)
+      setCurrentNote(currentNote)
     }
   }
 

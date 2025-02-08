@@ -38,67 +38,115 @@ const VersePopover = ({
   const [currentHighlightColor, setHighlightColor] = useState("#fde047")
 
   function handleHighlightVerse(highlightBackgroundColor: string) {
-    setHighlightColor(highlightBackgroundColor)
+    // Set the current highlight color state
+    setHighlightColor(highlightBackgroundColor);
+
+    // Check if there are any focused verses
     if (isVerseFocused.length > 0) {
       if (book2) {
-        const verseAlreadyHighlighted = book.book2.highlightedVerses.find(item => item.reference.verse === verse.verseNumber);
+        // Update highlights for book2
+        const updatedHighlights = book.book2.highlightedVerses.map(item => {
+          // Check if the current item is in the focused verses
+          if (isVerseFocused.some(focusedVerse => focusedVerse.verse === item.reference.verse)) {
+            // Update the background color of the item
+            return { ...item, background_color: highlightBackgroundColor };
+          }
+          return item;
+        });
 
-        if (verseAlreadyHighlighted) {
-          verseAlreadyHighlighted.background_color = highlightBackgroundColor;
-        } else {
-          const newHighlights: HighlightedVersesType[] = isVerseFocused.map(verse => ({
+        // Create new highlights for verses that are focused but not already highlighted
+        const newHighlights: HighlightedVersesType[] = isVerseFocused
+          .filter(focusedVerse => !book.book2.highlightedVerses.some(item => item.reference.verse === focusedVerse.verse))
+          .map(verse => ({
             reference: { book: book.book2.name, chapter: book.book2.chapter, verse: verse.verse! },
             background_color: highlightBackgroundColor
           }));
 
-          // TODO - saves the last highlighted verse not the present
-          // TODO - can't change already highlighted color
-          setBook({
-            ...book,
-            book2: {
-              ...book.book2,
-              highlightedVerses: [
-                ...book.book2.highlightedVerses,
-                ...newHighlights
-              ]
-            }
-          });
-        }
+        // Update the book state with the new and updated highlights
+        setBook({
+          ...book,
+          book2: {
+            ...book.book2,
+            highlightedVerses: [
+              ...updatedHighlights,
+              ...newHighlights
+            ]
+          }
+        });
 
-        setIsVerseFocused([])
+        // Clear the focused verses
+        setIsVerseFocused([]);
       } else {
-        const verseAlreadyHighlighted = book.book1.highlightedVerses.find(item => (item.reference.verse === verse.verseNumber && item.reference.chapter === verse.chapterNumber));
+        // Update highlights for book1
+        const updatedHighlights = book.book1.highlightedVerses.map(item => {
+          // Check if the current item is in the focused verses
+          if (isVerseFocused.some(focusedVerse => focusedVerse.verse === item.reference.verse)) {
+            // Update the background color of the item
+            return { ...item, background_color: highlightBackgroundColor };
+          }
+          return item;
+        });
 
-        if (verseAlreadyHighlighted) {
-          verseAlreadyHighlighted.background_color = highlightBackgroundColor;
-        } else {
-          // TODO - overwrite the backgroundColor is the verse already exist
-          const newHighlights: HighlightedVersesType[] = isVerseFocused.map(verse => ({
+        // Create new highlights for verses that are focused but not already highlighted
+        const newHighlights: HighlightedVersesType[] = isVerseFocused
+          .filter(focusedVerse => !book.book1.highlightedVerses.some(item => item.reference.verse === focusedVerse.verse))
+          .map(verse => ({
             reference: { book: book.book1.name, chapter: book.book1.chapter, verse: verse.verse! },
             background_color: highlightBackgroundColor
           }));
 
-          // TODO - saves the last highlighted verse not the present
-          // TODO - can't change already highlighted color
-          setBook({
-            ...book,
-            book1: {
-              ...book.book1,
-              highlightedVerses: [
-                ...book.book1.highlightedVerses,
-                ...newHighlights
-              ]
-            }
-          });
-        }
+        // Update the book state with the new and updated highlights
+        setBook({
+          ...book,
+          book1: {
+            ...book.book1,
+            highlightedVerses: [
+              ...updatedHighlights,
+              ...newHighlights
+            ]
+          }
+        });
 
-        setIsVerseFocused([])
+        // Clear the focused verses
+        setIsVerseFocused([]);
       }
     }
   };
 
   // TODO - finish this function
-  // function removeHighlight() { }
+  function removeHighlight() {
+    if (isVerseFocused.length > 0) {
+      if (book2) {
+        const updatedHighlights = book.book2.highlightedVerses.filter(item =>
+          !isVerseFocused.some(focusedVerse => focusedVerse.verse === item.reference.verse)
+        );
+
+        setBook({
+          ...book,
+          book2: {
+            ...book.book2,
+            highlightedVerses: updatedHighlights
+          }
+        });
+
+        setIsVerseFocused([]);
+      } else {
+        const updatedHighlights = book.book1.highlightedVerses.filter(item =>
+          !isVerseFocused.some(focusedVerse => focusedVerse.verse === item.reference.verse)
+        );
+
+        setBook({
+          ...book,
+          book1: {
+            ...book.book1,
+            highlightedVerses: updatedHighlights
+          }
+        });
+
+        setIsVerseFocused([]);
+      }
+    }
+  }
 
   return (
     <Popover>
@@ -145,7 +193,7 @@ const VersePopover = ({
               <DropdownMenuContent className="w-[45px] min-w-0 flex flex-col gap-1">
                 <DropdownMenuItem
                   className="p-0 border h-[30px] cursor-pointer focus:bg-zinc-200 dark:focus:bg-zinc-800 flex items-center justify-center"
-                  onClick={() => handleHighlightVerse("")}
+                  onClick={removeHighlight}
                 >
                   <X />
                 </DropdownMenuItem>

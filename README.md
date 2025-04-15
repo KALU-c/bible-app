@@ -1,7 +1,13 @@
-# Tauri + React + Typescript
+# Bible Desktop App
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+### Tech Stack
+- React
+- Tauri
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+<img src="/Screenshot%202025-04-13%20132750.png" alt="App Screenshot" style="width:100%;"/>
+<img src="/Screenshot%202025-04-13%20132823.png" alt="App Screenshot" style="width:100%;"/>
+<img src="/Screenshot%202025-04-13%20132846.png" alt="App Screenshot" style="width:100%;"/>
+<img src="/Screenshot%202025-04-13%20132920.png" alt="App Screenshot" style="width:100%;"/>
+<img src="/Screenshot%202025-04-13%20132941.png" alt="App Screenshot" style="width:100%;"/>
+<img src="/Screenshot%202025-04-13%20132957.png" alt="App Screenshot" style="width:100%;"/>
+<img src="/Screenshot%202025-04-13%20133033.png" alt="App Screenshot" style="width:100%;"/>
